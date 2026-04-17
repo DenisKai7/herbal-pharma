@@ -1,0 +1,1001 @@
+id,herbal_id,ringkasan,resep_rumahan,keamanan_praktis
+1,1,Tanaman asli Indonesia yang dijuluki 'Ginseng Indonesia'. Sangat ampuh untuk menjaga kesehatan hati (liver) dan menambah nafsu makan.,Rebus 3-5 iris rimpang kering dengan 2 gelas air dan gula batu hingga mendidih. Saring dan minum hangat.,Aman dikonsumsi harian. Hindari jika memiliki penyumbatan saluran empedu yang parah.
+2,2,Rimpang berwarna oranye pekat. Bumbu dapur utama yang juga obat maag dan nyeri haid paling populer.,"Parut rimpang kunyit, peras airnya (tanpa ampas), campur madu dan sedikit lada hitam (agar lebih berkhasiat).",Aman. Hati-hati noda kuning sulit hilang. Konsultasi dokter jika sedang hamil muda.
+3,3,Rimpang pedas penghangat tubuh. Andalan saat perjalanan jauh (mabuk) atau mual hamil.,"Geprek 1 ruas jahe yang sudah dibakar sebentar, seduh air panas + gula aren/madu.",Aman untuk ibu hamil dalam dosis wajar (maksimal 1g/hari). Dosis tinggi bisa menyebabkan 'heartburn' (dada panas).
+4,4,"Rimpang kecil dengan aroma khas yang sangat kuat. Bahan utama jamu beras kencur, andalan untuk batuk dan stamina.","Cuci bersih 2 ruas kencur, kunyah mentah dengan sedikit garam lalu telan sarinya (ampuh untuk batuk). Untuk bengkak, parut kencur campur beras tumbuk.",Aman. Konsumsi berlebih bisa menyebabkan rasa panas di lambung (heartburn).
+5,5,Rimpang berserat kasar yang biasa jadi bumbu rendang. Ternyata obat kulit anti-jamur yang sangat ampuh.,"Potong lengkuas segar, memarkan ujungnya sampai berserabut seperti kuas, celupkan ke garam, gosokkan kuat pada area kulit yang berjamur (panu).",Aman dikonsumsi. Penggunaan luar (gosok) bisa menyebabkan iritasi/perih pada kulit sensitif.
+6,6,Si 'Raja Pahit' yang legendaris. Antibiotik alami yang wajib ada di kotak obat untuk flu dan radang.,Rebus 3-5 gram herba kering dengan 2 gelas air hingga sisa 1 gelas. Tambahkan madu saat minum karena rasanya SANGAT pahit.,DILARANG untuk ibu hamil (bisa menggugurkan kandungan). Penderita darah rendah harus hati-hati.
+7,7,Rumput kecil dengan buah bulat di bawah daun. Spesialis penghancur batu ginjal dan peningkat imun tubuh.,Rebus 15-30 gram herba segar (seluruh tanaman) dengan air. Minum airnya. Jangan konsumsi lebih dari 2 minggu berturut-turut.,Dilarang untuk ibu hamil muda. Hati-hati bagi yang mau operasi (bisa mengencerkan darah).
+8,8,Tanaman hias dengan benang sari panjang seperti kumis kucing. Spesialis saluran kencing dan ginjal.,Rebus 1 genggam daun kering seperti menyeduh teh (warna air akan coklat). Minum pagi dan sore.,Hati-hati bagi penderita gagal ginjal (harus kontrol dokter karena kalium tinggi) atau gangguan jantung.
+9,9,Makanan otak dan kulit. Sering disebut 'The Herb of Longevity'. Sangat populer untuk mempercepat penyembuhan luka dan meningkatkan daya ingat.,Lalap mentah 3-5 lembar daun segar setiap hari. Atau jus segenggam daun campur madu untuk masker wajah (luka jerawat).,Aman. Dosis tinggi bisa menyebabkan pusing/kantuk. Hentikan 2 minggu sebelum operasi.
+10,10,Pucuk daunnya adalah resep nenek moyang paling ampuh untuk diare akut dan Demam Berdarah (DBD).,"Untuk diare: Kunyah pucuk daun muda dengan sedikit garam lalu telan airnya. Untuk DBD: Jus 5-7 lembar daun, saring, minum.",Sangat aman. Bisa menyebabkan sembelit (susah BAB) jika dikonsumsi berlebihan saat sehat.
+11,11,"Mengkudu adalah tanaman herbal yang bermanfaat untuk Menurunkan darah tinggi, Meningkatkan imun.","Jus buah matang, saring, campur madu.",Status untuk Ibu Hamil: WASPADA.
+12,12,"Mahkota Dewa adalah tanaman herbal yang bermanfaat untuk Kanker/Tumor, Asam urat.",Rebus irisan daging buah kering (JANGAN BIJINYA).,Status untuk Ibu Hamil: KONTRAINDIKASI.
+13,13,"Sirih Hijau adalah tanaman herbal yang bermanfaat untuk Obat kumur, Mimisan.",Rebus daun untuk kumur/basuh. Gulung untuk sumbat hidung.,Status untuk Ibu Hamil: AMAN (Luar).
+14,14,"Sirih Merah adalah tanaman herbal yang bermanfaat untuk Luka diabetes, Gula darah.","Rebus 3-5 lembar, minum atau cuci luka.",Status untuk Ibu Hamil: WASPADA.
+15,15,"Daun Salam adalah tanaman herbal yang bermanfaat untuk Asam urat, Kolesterol.",Rebus 7 lembar daun tua dengan 2 gelas air.,Status untuk Ibu Hamil: AMAN.
+16,16,"Seledri adalah tanaman herbal yang bermanfaat untuk Darah tinggi, Cuci ginjal (diuretik).",Jus batang seledri atau rebus bijinya.,Status untuk Ibu Hamil: KONTRAINDIKASI (Biji).
+17,17,"Bawang Putih adalah tanaman herbal yang bermanfaat untuk Kolesterol jahat, Darah kental.",Makan mentah 1 siung (geprek dulu) atau Black Garlic.,Status untuk Ibu Hamil: AMAN.
+18,18,"Kayu Manis adalah tanaman herbal yang bermanfaat untuk Gula darah (Diabetes), Menghangatkan tubuh.",Rebus kulit kayu atau campur bubuk ke minuman.,Status untuk Ibu Hamil: WASPADA.
+19,19,"Lidah Buaya adalah tanaman herbal yang bermanfaat untuk Luka bakar, Penyubur rambut.",Oles gel ke luka/rambut. Jus gel (bersih lendir) untuk minum.,Status untuk Ibu Hamil: KONTRAINDIKASI (Oral).
+20,20,"Brotowali adalah tanaman herbal yang bermanfaat untuk Diabetes, Gatal-gatal (mandi).","Rebus batang, minum (sangat pahit).",Status untuk Ibu Hamil: KONTRAINDIKASI.
+21,21,"Pare adalah tanaman herbal yang bermanfaat untuk Diabetes (Insulin alami), Menurunkan berat badan.",Jus pare mentah buang biji.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+22,22,"Rosella adalah tanaman herbal yang bermanfaat untuk Darah tinggi, Antioksidan.",Seduh kelopak bunga kering dengan air panas.,Status untuk Ibu Hamil: WASPADA.
+23,23,"Kelor adalah tanaman herbal yang bermanfaat untuk Pelancar ASI, Gizi buruk/Stunting.",Sayur bening daun kelor (jangan masak terlalu lama).,Status untuk Ibu Hamil: AMAN (Daun).
+24,24,"Tempuyung adalah tanaman herbal yang bermanfaat untuk Batu ginjal, Asam urat.","Rebus 5 lembar daun segar, minum 3x sehari.",Status untuk Ibu Hamil: AMAN.
+25,25,"Keji Beling adalah tanaman herbal yang bermanfaat untuk Batu kandung kemih, Batu ginjal.","Rebus 7 lembar daun (kasar), saring.",Status untuk Ibu Hamil: AMAN.
+26,26,"Daun Ungu adalah tanaman herbal yang bermanfaat untuk Wasir/Ambeien, Sembelit.","Rebus 7 lembar daun ungu, minum rutin.",Status untuk Ibu Hamil: AMAN.
+27,27,"Jintan Hitam adalah tanaman herbal yang bermanfaat untuk Booster imun, Asma/Alergi.",Kunyah biji atau minum minyak habbatussauda.,Status untuk Ibu Hamil: WASPADA.
+28,28,"Pasak Bumi adalah tanaman herbal yang bermanfaat untuk Stamina pria, Disfungsi ereksi.",Rebus potongan akar (rasa pahit awet).,Status untuk Ibu Hamil: KONTRAINDIKASI.
+29,29,"Purwoceng adalah tanaman herbal yang bermanfaat untuk Libido pria, Menghangatkan tubuh.",Seduh bubuk akar dengan kopi/susu.,Status untuk Ibu Hamil: WASPADA.
+30,30,"Kulit Manggis adalah tanaman herbal yang bermanfaat untuk Mencegah kanker, Kesehatan kulit.",Rebus kulit manggis kering (sepat).,Status untuk Ibu Hamil: AMAN.
+31,31,"Daun Sirsak adalah tanaman herbal yang bermanfaat untuk Kanker (Payudara/Paru), Asam urat.",Rebus 10-15 lembar daun tua.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+32,32,"Keladi Tikus adalah tanaman herbal yang bermanfaat untuk Kanker payudara, Detoksifikasi.",Jus umbi/tanaman dengan pengolahan khusus (hilangkan gatal).,Status untuk Ibu Hamil: KONTRAINDIKASI.
+33,33,"Sarang Semut adalah tanaman herbal yang bermanfaat untuk Tumor/Benjolan, Jantung.",Rebus irisan kering sarang semut.,Status untuk Ibu Hamil: WASPADA.
+34,34,"Bawang Dayak adalah tanaman herbal yang bermanfaat untuk Kista/Miom, Kanker payudara.",Rebus atau makan langsung bawang dayak.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+35,35,"Ciplukan adalah tanaman herbal yang bermanfaat untuk Diabetes, Gondongan.",Rebus seluruh tanaman kering. Buah matang boleh dimakan.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+36,36,"Secang adalah tanaman herbal yang bermanfaat untuk Menghangatkan tubuh, Asam urat.",Seduh serutan kayu (air jadi merah).,Status untuk Ibu Hamil: AMAN.
+37,37,"Serai adalah tanaman herbal yang bermanfaat untuk Nyeri haid, Detoksifikasi.",Rebus batang serai memar sebagai teh.,Status untuk Ibu Hamil: AMAN.
+38,38,"Cengkeh adalah tanaman herbal yang bermanfaat untuk Sakit gigi, Bau mulut.",Tumbuk/selipkan cengkeh di gigi sakit.,Status untuk Ibu Hamil: AMAN.
+39,39,"Pala adalah tanaman herbal yang bermanfaat untuk Susah tidur (Insomnia), Masuk angin bayi.",Parut sedikit biji pala ke susu hangat.,Status untuk Ibu Hamil: WASPADA.
+40,40,"Kapulaga adalah tanaman herbal yang bermanfaat untuk Batuk/Gatal tenggorokan, Kembung.",Rebus atau kunyah biji kapulaga.,Status untuk Ibu Hamil: AMAN.
+41,41,"Ketumbar adalah tanaman herbal yang bermanfaat untuk Kolesterol jahat, Jantung.","Rendam biji ketumbar semalaman, minum airnya.",Status untuk Ibu Hamil: AMAN.
+42,42,"Lada Hitam adalah tanaman herbal yang bermanfaat untuk Booster khasiat jamu lain, Menghangatkan.",Campur sedikit lada hitam ke jamu kunyit/makanan.,Status untuk Ibu Hamil: AMAN.
+43,43,"Jeruk Nipis adalah tanaman herbal yang bermanfaat untuk Batuk berdahak, Diet/Lemak.",Peras jeruk nipis campur kecap/madu.,Status untuk Ibu Hamil: AMAN.
+44,44,"Belimbing Wuluh adalah tanaman herbal yang bermanfaat untuk Darah tinggi, Jerawat.",Rebus buahnya. (AWAS GINJAL).,Status untuk Ibu Hamil: AMAN.
+45,45,"Asam Jawa adalah tanaman herbal yang bermanfaat untuk Sembelit, Nyeri haid.","Larutkan asam jawa, buat jamu kunyit asam.",Status untuk Ibu Hamil: AMAN.
+46,46,"Jati Belanda adalah tanaman herbal yang bermanfaat untuk Pelangsing, Perut buncit.",Rebus 7 lembar daun jati belanda.,Status untuk Ibu Hamil: WASPADA.
+47,47,"Kemuning adalah tanaman herbal yang bermanfaat untuk Pelangsing, Haid tidak lancar.",Rebus daun kemuning (sering campur jati belanda).,Status untuk Ibu Hamil: WASPADA.
+48,48,"Bangle adalah tanaman herbal yang bermanfaat untuk Mengecilkan perut (pasca melahirkan), Lemak perut.",Parut untuk bobok perut.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+49,49,"Temu Kunci adalah tanaman herbal yang bermanfaat untuk Keputihan, Rapat wanita.",Sayur bening atau parut peras.,Status untuk Ibu Hamil: AMAN.
+50,50,"Temu Ireng adalah tanaman herbal yang bermanfaat untuk Cacingan, Nafsu makan.",Parut peras rimpang (pahit).,Status untuk Ibu Hamil: WASPADA.
+51,51,"Temu Putih adalah tanaman herbal yang bermanfaat untuk Kanker/Kista, Nyeri haid.",Rebus rimpang kering.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+52,52,"Daun Dewa adalah tanaman herbal yang bermanfaat untuk Sirkulasi darah (Stroke), Memar/Bengkak.",Lalap daun segar atau tumbuk untuk memar.,Status untuk Ibu Hamil: WASPADA.
+53,53,"Sambung Nyawa adalah tanaman herbal yang bermanfaat untuk Kolesterol, Darah tinggi.",Lalap daun segar.,Status untuk Ibu Hamil: AMAN.
+54,54,"Beluntas adalah tanaman herbal yang bermanfaat untuk Bau badan/mulut, Keputihan.",Rebus daun atau kukus untuk lalap.,Status untuk Ibu Hamil: AMAN.
+55,55,"Tapak Liman adalah tanaman herbal yang bermanfaat untuk Demam/Flu, Keputihan.",Rebus seluruh tanaman.,Status untuk Ibu Hamil: WASPADA.
+56,56,"Patikan Kebo adalah tanaman herbal yang bermanfaat untuk Sesak napas (Asma), Diare.",Rebus herba (jangan mentah).,Status untuk Ibu Hamil: WASPADA.
+57,57,"Anting-anting adalah tanaman herbal yang bermanfaat untuk Diare/Disentri, Mimisan.",Rebus akar kering.,Status untuk Ibu Hamil: AMAN.
+58,58,"Songgolangit adalah tanaman herbal yang bermanfaat untuk Asam urat, Rematik.",Rebus tanaman kering.,Status untuk Ibu Hamil: AMAN.
+59,59,"Sidaguri adalah tanaman herbal yang bermanfaat untuk Asam urat, Rematik.",Rebus akar sidaguri.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+60,60,"Rumput Mutiara adalah tanaman herbal yang bermanfaat untuk Kanker/Tumor, Radang panggul.",Rebus herba kering.,Status untuk Ibu Hamil: WASPADA.
+61,61,"Sembung adalah tanaman herbal yang bermanfaat untuk Kembung/Masuk angin, Nyeri haid.",Rebus daun sembung.,Status untuk Ibu Hamil: WASPADA.
+62,62,"Miana adalah tanaman herbal yang bermanfaat untuk Batuk anak, Wasir.",Peras daun dengan air hangat dan madu.,Status untuk Ibu Hamil: AMAN.
+63,63,"Daun Jinten adalah tanaman herbal yang bermanfaat untuk Batuk/Sakit tenggorokan, Sariawan.",Kunyah daun segar.,Status untuk Ibu Hamil: AMAN.
+64,64,"Daun Katuk adalah tanaman herbal yang bermanfaat untuk Pelancar ASI, Osteoporosis.",Sayur bening (harus matang).,Status untuk Ibu Hamil: AMAN (Matang).
+65,65,"Torbangun adalah tanaman herbal yang bermanfaat untuk Pelancar ASI (Kuat), Membersihkan rahim nifas.",Masak sup/gulai bangun-bangun.,Status untuk Ibu Hamil: AMAN.
+66,66,"Saga Rambat adalah tanaman herbal yang bermanfaat untuk Sariawan, Batuk kering.",Kunyah daun (JANGAN BIJI).,Status untuk Ibu Hamil: AMAN (Daun).
+67,67,"Pulosari adalah tanaman herbal yang bermanfaat untuk Demam, Nafsu makan.",Rebus kulit pulosari dengan adas.,Status untuk Ibu Hamil: AMAN.
+68,68,"Kayu Rapet adalah tanaman herbal yang bermanfaat untuk Rapat wanita, Keputihan.",Rebus kulit kayu untuk minum/cebok.,Status untuk Ibu Hamil: WASPADA.
+69,69,"Majakani adalah tanaman herbal yang bermanfaat untuk Rapat wanita, Keputihan.",Rebus untuk basuh/cebok.,Status untuk Ibu Hamil: WASPADA.
+70,70,"Pinang adalah tanaman herbal yang bermanfaat untuk Cacingan, Kuatkan gigi.",Parut biji pinang (sepat/mual).,Status untuk Ibu Hamil: KONTRAINDIKASI.
+71,71,"Gambir adalah tanaman herbal yang bermanfaat untuk Diare mampet, Luka bakar.",Seduh sepotong kecil gambir.,Status untuk Ibu Hamil: AMAN.
+72,72,"Bidara adalah tanaman herbal yang bermanfaat untuk Susah tidur, Luka/Jerawat.",Tumbuk daun untuk mandi/minum.,Status untuk Ibu Hamil: AMAN.
+73,73,"Bidara Upas adalah tanaman herbal yang bermanfaat untuk Radang tenggorokan, Difteri.","Parut umbi, peras airnya.",Status untuk Ibu Hamil: AMAN.
+74,74,"Pulai adalah tanaman herbal yang bermanfaat untuk Malaria, Demam.",Rebus kulit batang (pahit).,Status untuk Ibu Hamil: KONTRAINDIKASI.
+75,75,"Alang-alang adalah tanaman herbal yang bermanfaat untuk Panas dalam, Susah pipis.",Rebus akar alang-alang.,Status untuk Ibu Hamil: AMAN.
+76,76,"Akar Wangi adalah tanaman herbal yang bermanfaat untuk Bau mulut, Penenang.",Rebus akar untuk kumur.,Status untuk Ibu Hamil: AMAN.
+77,77,"Kina adalah tanaman herbal yang bermanfaat untuk Malaria, Kram kaki.",Rebus kulit kina (sangat pahit).,Status untuk Ibu Hamil: WASPADA.
+78,78,"Ginseng Jawa adalah tanaman herbal yang bermanfaat untuk Stamina, Haid tidak lancar.",Rebus akar ginseng jawa.,Status untuk Ibu Hamil: AMAN.
+79,79,"Tabat Barito adalah tanaman herbal yang bermanfaat untuk Rapat wanita, Keputihan.",Rebus daun tabat barito.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+80,80,"Urang Aring adalah tanaman herbal yang bermanfaat untuk Penyubur rambut, Uban.","Tumbuk daun, oles ke kepala.",Status untuk Ibu Hamil: AMAN (Luar).
+81,81,"Bunga Telang adalah tanaman herbal yang bermanfaat untuk Mata jernih, Antioksidan.",Seduh bunga (teh biru).,Status untuk Ibu Hamil: AMAN.
+82,82,"Bunga Sepatu adalah tanaman herbal yang bermanfaat untuk Demam (kompres), Rambut.",Remas daun dengan air sampai berlendir.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+83,83,"Turi adalah tanaman herbal yang bermanfaat untuk Sariawan, Radang tenggorokan.",Rebus kulit batang untuk kumur.,Status untuk Ibu Hamil: AMAN.
+84,84,"Gandarusa adalah tanaman herbal yang bermanfaat untuk KB Pria, Pegal linu.",Rebus daun gandarusa.,Status untuk Ibu Hamil: AMAN.
+85,85,"Klembak adalah tanaman herbal yang bermanfaat untuk Sembelit parah, Detoks usus.",Seduh serbuk klembak (dikit).,Status untuk Ibu Hamil: KONTRAINDIKASI.
+86,86,"Buah Makasar adalah tanaman herbal yang bermanfaat untuk Disentri, Malaria.",Biji digiling masuk kapsul (pahit/racun).,Status untuk Ibu Hamil: KONTRAINDIKASI.
+87,87,"Anyang-anyang adalah tanaman herbal yang bermanfaat untuk Anyang-anyangan, Demam.",Rebus buah/kulit kayu.,Status untuk Ibu Hamil: AMAN.
+88,88,"Sembukan adalah tanaman herbal yang bermanfaat untuk Kembung parah, Maag.",Kukus daun untuk lalap.,Status untuk Ibu Hamil: AMAN.
+89,89,"Jarak Pagar adalah tanaman herbal yang bermanfaat untuk Sakit gigi, Luka.",Teteskan getah (JANGAN BIJI).,Status untuk Ibu Hamil: KONTRAINDIKASI.
+90,90,"Daun Afrika adalah tanaman herbal yang bermanfaat untuk Diabetes, Kolesterol.",Kunyah daun segar atau rebus.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+91,91,"Daun Pepaya adalah tanaman herbal yang bermanfaat untuk Trombosit DBD, Nafsu makan.",Jus daun pepaya saring.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+92,92,"Alpukat adalah tanaman herbal yang bermanfaat untuk Darah tinggi, Sakit pinggang.",Rebus daun alpukat.,Status untuk Ibu Hamil: AMAN.
+93,93,"Kedawung adalah tanaman herbal yang bermanfaat untuk Sakit perut mulas, Diare.","Sangrai biji, makan isinya.",Status untuk Ibu Hamil: AMAN.
+94,94,"Klabet adalah tanaman herbal yang bermanfaat untuk Pelancar ASI, Diabetes.","Rendam biji klabet, minum airnya.",Status untuk Ibu Hamil: KONTRAINDIKASI.
+95,95,"Binahong adalah tanaman herbal yang bermanfaat untuk Luka operasi, Maag.",Rebus daun binahong.,Status untuk Ibu Hamil: AMAN.
+96,96,"Cemara Kipas adalah tanaman herbal yang bermanfaat untuk Kebotakan, Rambut hitam.",Rendam alkohol oles kepala.,Status untuk Ibu Hamil: KONTRAINDIKASI.
+97,97,"Daun Sendok adalah tanaman herbal yang bermanfaat untuk Pelancar pipis, Batu ginjal.",Rebus seluruh tanaman.,Status untuk Ibu Hamil: AMAN.
+98,98,"Landep adalah tanaman herbal yang bermanfaat untuk Sakit gigi, Rematik.",Tumbuk daun tempelkan.,Status untuk Ibu Hamil: AMAN.
+99,99,"Jarak Bali adalah tanaman herbal yang bermanfaat untuk Luka, Bengkak.",Oleskan getah (JANGAN BIJI/DAUN).,Status untuk Ibu Hamil: KONTRAINDIKASI.
+100,100,"Wortel adalah tanaman herbal yang bermanfaat untuk Mata, Kanker.",Jus wortel murni.,Status untuk Ibu Hamil: AMAN.
+101,101,Biasa digunakan untuk bumbu masak dan meringankan kembung perut.,Seduh biji adas dengan air panas.,Aman untuk dikonsumsi dalam jumlah wajar.
+102,102,Tanaman akar yang kuat untuk menurunkan tekanan darah.,Rebus akar dan minum airnya.,"Hati-hati, dosis tinggi menyebabkan toksisitas."
+103,103,"Biji yang mengembang dalam air, bagus untuk pencernaan dan panas dalam.",Rendam dalam air es atau sirup.,Sangat aman dikonsumsi harian.
+104,104,Lalapan segar penyegar mulut dan penurun bau badan.,Makan mentah bersama lauk.,Aman untuk semua umur.
+105,105,"Memberikan sensasi dingin, melegakan pernapasan.",Seduh daun segar bersama teh.,"Aman, awas iritasi lambung jika berlebih."
+106,106,"Bumbu dapur utama, kaya antioksidan dan pereda demam bayi.",Iris dan campur minyak telon untuk pijat bayi.,Aman dikonsumsi harian.
+107,107,Tanaman hias penyerap polusi udara.,Digunakan di luar ruangan atau rebusan daun (terbatas).,Bisa beracun jika tertelan mentah dalam jumlah banyak.
+108,108,Ampuh meredakan demam dan luka memar.,Tumbuk halus dan tempel pada dahi atau luka.,Aman untuk pemakaian luar.
+109,109,Bunga harum untuk relaksasi dan aromaterapi.,Rebus bunga atau gunakan minyak atsirinya.,Aman untuk aromaterapi.
+110,110,Bunga dengan antioksidan tinggi untuk kulit.,Buat air mawar untuk toner wajah.,Aman untuk kulit luar dan teh.
+111,111,Aroma penenang untuk mengatasi stres dan insomnia.,Campurkan pada seduhan teh.,Aman dikonsumsi.
+112,112,Biji dan akar teratai baik untuk mengatasi diare dan disentri.,Rebus akar atau makan bijinya.,Aman dikonsumsi.
+113,113,Bunga untuk mengatasi masalah kulit.,Seduh bunga kering untuk teh relaksasi.,"Getahnya beracun, hindari kontak langsung."
+114,114,Biji bunga matahari kaya vitamin E.,Sangrai biji untuk camilan sehat.,Sangat aman.
+115,115,Membantu menghentikan pendarahan luar.,Tumbuk daun dan tempelkan.,Gunakan hanya untuk pemakaian luar.
+116,116,Mengatasi radang dan nyeri.,Rebus akar atau bunga.,Gunakan secukupnya.
+117,117,"Kaya antioksidan, sering dijadikan teh herbal.",Seduh pucuk daun muda.,Aman dikonsumsi.
+118,118,Menurunkan kadar gula darah dan asam urat.,Rebus daun mangga muda.,Aman dalam dosis sedang.
+119,119,Bagus untuk meredakan panas dalam.,Rebus daun segar.,Aman.
+120,120,Buah kaya air yang melancarkan pencernaan.,Makan buahnya langsung.,Aman.
+121,121,Daun pucuknya baik untuk lalapan pereda radang usus.,Makan pucuk muda segar.,Getah batang beracun.
+122,122,Sangat baik untuk pertumbuhan dan pereda panas dalam.,Rebus menjadi bubur.,Sangat aman.
+123,123,Sumber fitoestrogen yang baik untuk wanita.,Olah menjadi susu atau tempe.,Aman.
+124,124,Kaya kalsium dan baik untuk rambut.,Sangrai dan taburkan di makanan.,Aman.
+125,125,Minyak kemiri penyubur rambut.,"Bakar, tumbuk, oleskan minyak ke rambut.",Hanya untuk pemakaian luar.
+126,126,Air kelapa adalah isotonik alami pencegah dehidrasi.,Minum air kelapa muda.,Aman.
+127,127,Gula aren lebih sehat dan indeks glikemik rendah.,Gunakan sebagai pengganti gula pasir.,Aman.
+128,128,Bagus untuk obat sariawan tradisional.,Ambil nira nipah.,Aman.
+129,129,Pewangi makanan dan penurun darah tinggi.,Rebus daun pandan wangi untuk teh.,Aman.
+130,130,Pewarna hijau alami makanan penambah selera.,Tumbuk dan peras airnya.,Aman.
+131,131,Minyak esensial pereda masuk angin.,Oleskan minyak ke perut.,"Aman untuk luar, jangan ditelan."
+132,132,Membantu atasi diare (kulit batang).,Rebus kulit batang.,Konsumsi secukupnya.
+133,133,"Biji mahoni sangat pahit, ampuh untuk diabetes.","Kunyah sedikit biji, minum air putih.",Konsumsi dibatasi karena efek samping.
+134,134,Daun sengon untuk pakan ternak dan kulit untuk obat luar.,Tumbuk dan oleskan pada kurap.,Pemakaian luar.
+135,135,Daun muda jati untuk pewarna merah alami.,Rebus daun muda.,Aman.
+136,136,Akar beringin untuk asma tradisional.,Rebus akar gantungnya.,Konsultasi dokter.
+137,137,"Biji karet beracun, tapi bisa diolah untuk obat tertentu jika ahli.",Jangan dikonsumsi sembarangan.,Biji mentah beracun (sianida).
+138,138,Kopi hitam murni penambah energi dan antioksidan.,Seduh tanpa gula.,Awas asam lambung.
+139,139,Teh hijau kaya polifenol untuk diet dan jantung.,Seduh teh jangan terlalu pekat.,Aman.
+140,140,Kakao murni sangat baik untuk kesehatan kardiovaskular.,Seduh bubuk kakao murni.,Aman.
+141,141,Pewangi masakan dan penenang saraf.,Campurkan ekstrak vanili pada minuman hangat.,Aman.
+142,142,"Rempah pedas penghangat tubuh, stamina pria.",Tumbuk campur jamu.,Aman dosis wajar.
+143,143,Meringankan asma dan batuk berdahak.,Rebus dan minum airnya.,Aman.
+144,144,Aromaterapi menenangkan dan antiseptik.,Bakar kayu atau gunakan minyaknya.,Pemakaian luar.
+145,145,Kayu mahal untuk relaksasi pernapasan.,Gunakan dupa gaharu.,Pemakaian luar.
+146,146,Kacang kenari menyehatkan jantung.,Makan langsung atau panggang.,Aman.
+147,147,Jus delima sangat ampuh untuk vitalitas dan antioksidan.,Jus buah delima merah.,Aman.
+148,148,Buah tin kaya serat untuk pencernaan.,Makan buah tin segar/kering.,Aman.
+149,149,Minyak zaitun lemak sehat terbaik.,Minum 1 sdm atau untuk salad.,Aman.
+150,150,Kurma mengembalikan energi seketika.,Makan ganjil setiap hari.,"Aman, awas gula tinggi jika berlebih."
+151,151,Biji anggur mengandung antioksidan OPC kuat.,Kunyah biji atau ekstraknya.,Aman.
+152,152,Makan apel cegah penyakit jantung dan pencernaan.,Makan beserta kulitnya (cuci bersih).,Aman.
+153,153,Daun penambah aroma yang melancarkan pencernaan.,Iris tipis pada masakan.,Aman.
+154,154,Kaya vitamin C dan baik untuk diet lambung.,Makan buah segar.,Aman.
+155,155,Jus jeruk manis tingkatkan imun tubuh.,Peras untuk minuman.,Aman.
+156,156,Air lemon pagi hari detoks liver.,Peras di air hangat pagi hari.,"Aman, awas perih lambung jika kosong."
+157,157,Rebusan pecut kuda atasi radang tenggorokan.,Rebus daun dan bunga.,Aman dosis wajar.
+158,158,Getah patah tulang mengobati kutil.,Teteskan pada kutil.,Getah sangat iritatif pada mata!
+159,159,Akar pacing baik untuk obat kencing manis.,Rebus akar pacing.,Aman.
+160,160,Membantu atasi masalah saluran kemih.,Rebus seluruh tanaman.,Aman.
+161,161,"Mirip meniran hijau, tapi lebih kuat untuk radang ginjal.",Rebus dan saring.,Awas tensi turun.
+162,162,Akar bunga pukul empat atasi radang amandel.,Rebus akar.,Dosis harus tepat.
+163,163,Kaya likopen pembasmi sel kanker prostat.,Rebus atau kukus tomat sebentar.,Aman.
+164,164,Terong bantu turunkan kolesterol darah.,Kukus terong.,Aman.
+165,165,Cabai merah lancarkan sirkulasi darah dan pereda nyeri (capsaicin).,Gunakan sebagai bumbu atau koyo capsaicin.,Aman.
+166,166,Vitamin C tinggi dan atasi hidung tersumbat.,Makan bersama makanan.,Awas iritasi lambung parah.
+167,167,"Antioksidan kuat, cegah penuaan sel.",Makan segar di salad.,Aman.
+168,168,Bawang bombay kaya quercetin penekan alergi.,Iris dan makan mentah atau masak.,Aman.
+169,169,Sangat baik untuk sirkulasi darah dan prebiotik.,Masak di sup.,Aman.
+170,170,Meningkatkan imun dan mencegah flu.,Taburkan di masakan hangat.,Aman.
+171,171,Ginseng Peru pendongkrak energi dan stamina.,Seduh bubuk maca.,Aman.
+172,172,Dipercaya tingkatkan testosteron pria secara alami.,Seduh ekstrak tribulus.,Aman dosis wajar.
+173,173,Penenang herbal kuat mengatasi kecemasan berat.,Rebus akar kava.,Awas kerusakan hati jangka panjang.
+174,174,Biji guarana sumber kafein alami sangat tinggi.,Campur bubuk di minuman.,Awas jantung berdebar.
+175,175,Pengganti gula nol kalori untuk diabetes.,Seduh daun stevia.,Aman.
+176,176,Minyak jarak mengatasi sembelit kronis.,Minum 1 sendok teh castor oil.,Jangan kunyah bijinya (Sangat Beracun!).
+177,177,Dipercaya turunkan asam urat di pengobatan tradisional kuno.,Sangat dibatasi karena toksik.,"Sangat beracun, hanya untuk ahli."
+178,178,Daun kemangi hutan pereda batuk berdahak kuat.,Rebus daun.,Aman.
+179,179,Ginseng terkuat untuk adaptogen dan stamina total.,Rebus akar atau makan ekstrak.,Awas hipertensi.
+180,180,Ginseng India penurun hormon stres (kortisol).,Seduh bubuk ashwagandha.,Aman.
+181,181,Bunga untuk mencegah keparahan flu dan pilek.,Minum teh echinacea.,Aman.
+182,182,Teh penenang sebelum tidur.,Seduh teh chamomile.,Aman.
+183,183,Bunga ungu yang wanginya hilangkan cemas.,Hirup uap teh lavender.,Aman.
+184,184,Menghilangkan mual dan pusing.,Teh peppermint panas.,Aman.
+185,185,Rosemary meningkatkan memori otak.,Bumbu daging atau teh.,Aman.
+186,186,Thyme meredakan batuk kering kronis.,Seduh teh thyme.,Aman.
+187,187,Oregano memiliki sifat antibiotik alami.,Taburkan di masakan.,Aman.
+188,188,Sage membantu radang tenggorokan.,Kumur dengan teh sage.,Aman.
+189,189,Basil atasi perut kembung.,Iris ke makanan.,Aman.
+190,190,Parsley mendetoksifikasi ginjal dari logam berat.,Jus parsley.,Aman.
+191,191,Cilantro (daun ketumbar) singkirkan merkuri dari tubuh.,Campur ke salad.,Aman.
+192,192,Dill mengatasi kembung pada bayi.,Teh dill ringan.,Aman.
+193,193,Tarragon perbaiki nafsu makan.,Sebagai bumbu masak.,Aman.
+194,194,Marjoram normalkan tekanan darah.,Teh herbal.,Aman.
+195,195,Valerian obat tidur herbal paling terkenal.,Teh akar valerian 1 jam sebelum tidur.,Aman.
+196,196,Ginkgo lancarkan aliran darah ke otak cegah pikun.,Minum suplemen ekstrak ginkgo.,Awas bagi pasien pengencer darah.
+197,197,Saffron rempah termahal untuk anti-depresan alami.,Rendam 3 helai saffron di air.,Aman.
+198,198,Bunga lawang adalah bahan utama obat Tamiflu (antivirus).,Rebus bersama rempah lain.,Aman.
+199,199,Klabet (fenugreek) sangat ampuh melancarkan ASI.,Rebus biji klabet.,Aman.
+200,200,Biji sawi (mustard) panaskan sendi rematik.,Tumbuk dan tempel di lutut.,Aman pemakaian luar.
+201,201,Sayuran pahit lalapan yang bagus untuk peradangan dan infeksi bakteri.,Rebus sebentar sebagai lalapan.,Jangan makan mentah terlalu banyak (sedikit toksik).
+202,202,Daun perasan kental untuk meredakan panas dalam dan tekanan darah tinggi.,"Peras daun dengan air matang, diamkan hingga mengental.",Aman dikonsumsi harian.
+203,203,"Sering dibuat agar-agar hitam, ampuh meredakan panas dalam dan sariawan.",Rebus herba kering lalu saring airnya.,Aman dikonsumsi.
+204,204,"Tanaman menjalar di pantai, getahnya untuk obat sengatan ubur-ubur.",Tumbuk daun dan tempel di area sengatan.,Aman untuk pemakaian luar.
+205,205,Gulma kaya Omega-3 nabati untuk kesehatan jantung.,Rebus sayur krokot.,Aman.
+206,206,Lalapan wangi yang kaya kalsium dan menjaga kekuatan tulang.,Makan mentah atau rebus sebentar.,Aman.
+207,207,Lalapan segar pegunungan penurun hipertensi ringan.,Makan mentah segar.,Aman.
+208,208,"Mirip kemangi, bumbu masakan Minang, penurun demam.",Rebus daun untuk teh.,Aman.
+209,209,Akar manis untuk obat batuk sirup dan ekspektoran alami.,Rebus akar kering.,Hati-hati konsumsi berlebih picu hipertensi.
+210,210,Rempah premium pelega tenggorokan dan pewangi masakan arab.,Seduh bersama teh atau kopi.,Aman.
+211,211,Biji manis penurun kembung perut dan kolik.,Seduh biji dengan air panas.,Aman.
+212,212,Bumbu masak tajam penurun kolesterol dan antibakteri.,Sangrai dan tumbuk untuk bumbu.,Aman.
+213,213,"Bahan dasar kecap, tinggi fitoestrogen, baik untuk wanita menopause.",Olah menjadi susu atau kecap.,Aman.
+214,214,Rimpang pahit penambah nafsu makan dan obat cacing.,"Parut dan peras, campur madu.",Aman.
+215,215,Temu eksotis untuk obat kram perut.,Rebus rimpang.,Aman.
+216,216,Campuran lulur tradisional penghalus kulit.,Parut untuk lulur badan.,Aman luar.
+217,217,"Rimpang beraroma mangga, bagus untuk maag.",Rebus dan minum hangat.,Aman.
+218,218,Rimpang ungu gelap untuk obat memar dan keseleo.,Parut dan bobok di area memar.,Aman luar.
+219,219,Kulit kayu berbau harum manis untuk relaksasi dan jamu.,Rebus bersama jamu lain.,Aman.
+220,220,"Mirip kayu manis, untuk obat masuk angin dan rematik.",Rebus kulit kayu.,Aman.
+221,221,"Kulit kayu lada-ladaan, pewangi dan penghangat tubuh.",Seduh kulit atau bijinya.,Aman.
+222,222,"Lada yang telah dikupas, lebih lembut di lambung daripada lada hitam.",Gunakan sebagai bumbu kuah.,Aman.
+223,223,"Merica batak yang kebas di lidah, kaya antioksidan peningkat imun.",Tumbuk halus untuk sambal.,Aman.
+224,224,Bunga harum untuk penurun kolesterol dan bau badan.,Iris untuk sambal atau pecel.,Aman.
+225,225,Bunga mistis namun secara medis mengobati infeksi saluran kemih.,Rebus bunga kering.,Aman dosis wajar.
+226,226,"Biji penghasil mentega tengkawang, obat bibir pecah-pecah.",Oleskan mentega tengkawang.,Aman.
+227,227,Daun pakan ulat sutra penurun gula darah.,Seduh teh daun murbei.,Aman.
+228,228,"Bumbu wangi kari, merangsang pertumbuhan rambut.",Rebus daun atau tumbuk untuk rambut.,Aman.
+229,229,Asam peluntur lemak tubuh alami.,Rebus 2 iris asam gelugur.,Aman (awas perih lambung).
+230,230,"Asam pengawet alami, kaya vitamin C.",Campur masakan.,Aman.
+231,231,Jeruk kecil kaya vitamin C pereda batuk.,Peras campur kecap.,Aman.
+232,232,"Jeruk wangi penyedap sambal, penambah selera makan.",Peras airnya.,Aman.
+233,233,Buah Papua penangkal radikal bebas dan kanker kronis.,Minum ekstrak minyak buah merah.,Aman.
+234,234,Buah Papua kaya vitamin E untuk kulit kenyal.,Makan langsung.,Aman.
+235,235,Kulit rambutan ampuh hentikan diare.,Rebus kulit buah.,Aman.
+236,236,"Biji duku sangat pahit, obat malaria tradisional.",Tumbuk biji (sangat pahit).,Aman dosis kecil.
+237,237,Biji nangka rebus tingkatkan energi karbohidrat kompleks.,Rebus biji nangka.,Aman.
+238,238,Daun sukun kuning ampuh cuci ginjal dan turunkan kreatinin.,Rebus daun sukun tua/kuning.,Aman.
+239,239,Pisang pereda diare dan sumber kalium tinggi.,Kukus pisang.,Aman.
+240,240,Daging buah merah peningkat trombosit DBD parah.,Jus daging buah jambu merah.,Aman.
+241,241,Kulit batang jambu bol untuk obat sariawan berat.,Rebus kulit kayu untuk kumur.,Aman.
+242,242,Kulit ari salak cegah sembelit.,Makan buah utuh dengan kulit arinya.,Aman.
+243,243,Buah naga penurun tekanan darah dan lancarkan BAB.,Makan buah segar.,Aman.
+244,244,Daun dan bunga ampuh untuk obat tetes mata rabun/katarak ringan.,"Rendam bunga di air bersih, teteskan ke mata.","Sangat perih, gunakan hati-hati!"
+245,245,Daun berlendir pelancar pencernaan dan baik untuk lambung.,Rebus untuk sayur bening.,Aman.
+246,246,Sayur hijau yang memiliki efek sedatif ringan (bikin ngantuk).,Tumis sayur.,Aman.
+247,247,Sayur kaya zat besi peningkat Hb darah merah.,Sayur bening.,Aman.
+248,248,Sayur pelancar cerna dan kaya vitamin K.,Tumis segar.,Aman.
+249,249,Kaya sulforaphane pelawan sel kanker kuat.,Kukus sebentar (jangan terlalu matang).,Aman.
+250,250,Pengganti nasi rendah karbohidrat untuk diet diabetes.,Parut dan sangrai sebagai nasi.,Aman.
+251,251,Sayuran pencegah cacingan dan anti-diabetes ringan.,Sayur lodeh/tumis.,Aman.
+252,252,Biji labu kuning ampuh usir cacing pita di usus.,Sangrai biji labu.,Aman.
+253,253,Sayur pereda tekanan darah tinggi instan.,Kukus dan lalap.,Aman.
+254,254,Penghidrasi tubuh dan pereda iritasi mata.,Jus atau tempel di mata.,Aman.
+255,255,Sayur penurun kolesterol jahat.,Kukus/tumis.,Aman.
+256,256,Bagus untuk sendi dan otot.,Tumis/sayur.,Aman.
+257,257,Kaya lemak sehat nabati.,Rebus/panggang.,Hati-hati bagi yang alergi kacang!
+258,258,Protein nabati kuat untuk otot.,Rebus matang (bisa beracun jika mentah).,Aman setelah matang.
+259,259,Kedelai muda tinggi asam folat untuk ibu hamil.,Kukus edamame.,Aman.
+260,260,Superfood kaya Omega-3 penurun kolesterol (Flaxseed).,Tumbuk biji sebelum dicampur minuman.,Aman.
+261,261,Biji mengembang superfood pengenyang diet.,Rendam dalam air.,Aman.
+262,262,Gandum super pengganti nasi penuh protein utuh.,Rebus seperti nasi.,Aman.
+263,263,Penyerap kolesterol usus terbaik (beta-glukan).,Seduh oat dengan air panas.,Aman.
+264,264,Sumber energi karbohidrat kompleks.,Olah jadi roti gandum utuh.,Aman (kecuali alergi gluten).
+265,265,Biji-bijian bebas gluten kaya antioksidan.,Rebus seperti nasi.,Aman.
+266,266,Rambut jagung ampuh luruhkan batu ginjal.,Rebus rambut jagung.,Aman.
+267,267,Beras diet dengan serat lapis tinggi.,Masak sebagai nasi.,Aman.
+268,268,Beras antioksidan tertinggi (antosianin).,Masak sebagai nasi.,Aman.
+269,269,Umbi karbohidrat bebas gluten.,Kukus/rebus.,Awas asam sianida jika mentah.
+270,270,Umbi super diet pereda asam lambung.,Kukus ubi.,Aman.
+271,271,Jus kentang mentah untuk obat maag akut.,Jus kentang segar saring airnya.,Aman.
+272,272,Umbi berserat tinggi pelindung usus.,Kukus matang (hilangkan getah gatal).,Aman.
+273,273,Tepung ganyong baik untuk bayi dan maag.,Rebus umbi ganyong.,Aman.
+274,274,Tepung garut obat lambung tradisional terbaik.,Seduh tepung garut jadi bubur.,Aman.
+275,275,Umbi konjak penurun berat badan (shirataki alami).,Olah secara profesional (sangat gatal).,Aman setelah diolah pabrik.
+276,276,Umbi penurun indeks glikemik penderita diabetes.,Rebus/kukus matang.,Aman.
+277,277,Jahe terpedas pelega radang tenggorokan kronis.,Seduh jahe merah geprek.,Aman.
+278,278,"Jahe ukuran besar, rasa lebih ringan untuk masak.",Bumbu kuah.,Aman.
+279,279,Kunyit eksotis langka penyembuh kista rahim.,Rebus rimpang.,Aman.
+280,280,Bawang fermentasi hitam penekan kanker paru.,Makan 2 siung tiap pagi.,Aman.
+281,281,"Bawang putih satu siung (lanang), 3x lebih kuat atasi kolesterol.",Geprek dan telan.,Aman.
+282,282,Ginseng yang berefek mendinginkan tubuh (Yin).,Seduh teh akar.,Aman.
+283,283,Adaptogen kuat peningkat imun tanpa debar jantung.,Kapsul ekstrak.,Aman.
+284,284,Ginseng khusus menyeimbangkan hormon wanita.,Rebus akar.,Aman.
+285,285,Akar pembangun imun dan pelindung DNA (telomer).,Rebus untuk kuah sup.,Aman.
+286,286,"Jamur ulat dari Tibet, super stamina paru-paru.",Rebus/ekstrak jamur.,Aman.
+287,287,Jamur keabadian pelawan sel kanker aktif.,Teh jamur reishi.,Aman.
+288,288,Jamur lezat penurun kolesterol instan.,Masak dalam sup.,Aman.
+289,289,Jamur peningkat sel natural killer (imun pelawan tumor).,Tumis jamur maitake.,Aman.
+290,290,Alga hijau biru protein terlengkap di bumi.,Minum bubuk/kapsul spirulina.,Aman.
+291,291,Alga hijau pendetoks logam berat terdalam tubuh.,Kapsul chlorella.,Aman.
+292,292,Kacang mahal tinggi lemak tak jenuh ganda.,Makan langsung.,Aman.
+293,293,Kacang pelindung saraf otak pencegah pikun.,Panggang dan makan.,Aman.
+294,294,"Kacang bentuk otak, kaya Omega 3 tertinggi.",Makan langsung.,Aman.
+295,295,Kacang pelindung jantung.,Panggang.,Aman.
+296,296,Kacang hijau kecil pelancar peredaran darah.,Panggang.,Aman.
+297,297,"Buah asam merah, obat infeksi saluran kemih paling paten.",Jus cranberry murni tanpa gula.,Aman.
+298,298,Buah biru kaya antioksidan pencegah degenerasi makula mata.,Makan segar.,Aman.
+299,299,Beri hitam pereda radang gusi.,Makan segar.,Aman.
+300,300,Beri merah pereda kram perut haid.,Teh daun raspberry atau makan buahnya.,Aman.
+301,301,Superfood penjaga kesehatan mata dan sumber antioksidan tinggi.,Seduh bersama teh atau makan langsung.,Sangat aman.
+302,302,Beri super dari Amazon untuk detoks dan energi.,Campurkan bubuknya ke dalam smoothies.,Sangat aman.
+303,303,Sirup herbal andalan untuk menangkal flu dan radang tenggorokan.,Rebus buah matang dengan madu (jangan makan mentah).,Aman setelah dimasak. Buah mentah sedikit toksik.
+304,304,Minyak dan buah kaya Omega-7 untuk meregenerasi kulit dan lambung.,Jus buah atau konsumsi minyaknya.,Sangat aman.
+305,305,Salah satu sumber Vitamin C tertinggi di dunia botani.,Campur bubuk ke air minum.,Aman (awas perut perih jika maag).
+306,306,"Pohon kehidupan, buahnya kaya prebiotik usus.",Seduh bubuk baobab.,Sangat aman.
+307,307,Akar kayu Kalimantan penekan sel tumor dan kanker.,Rebus batang kayu hingga air kemerahan.,Aman dosis wajar.
+308,308,Akar kuning kuat untuk pengobatan liver dan penyakit kuning.,Rebus irisan akar kuning.,"Aman, konsultasi dokter jika liver parah."
+309,309,Herbal aromatik perangsang gairah dan penenang saraf.,Seduh teh daun damiana.,Aman.
+310,310,Tanaman sensitif yang direbus untuk meredakan insomnia kronis.,Rebus seluruh tanaman yang sudah dicuci bersih.,Aman.
+311,311,Gulma pengganggu yang umbinya ampuh melancarkan siklus haid.,Rebus umbi teki.,Aman.
+312,312,Tanaman rahasia wanita Melayu untuk pemulihan pasca bersalin.,Rebus daun/akar (biasanya dalam bentuk jamu ekstraksi).,Jangan digunakan saat hamil (memicu kontraksi).
+313,313,Bunga ungu liar untuk peluruh batu ginjal ringan.,Rebus herba jarong.,Aman.
+314,314,Daun hijau mengkilat penyembuh demam dan sariawan usus.,Remas daun di air minum.,Aman.
+315,315,Bunga merah soka untuk obat disentri tradisional.,Rebus bunga dan akar.,Aman.
+316,316,Kelopak bunga kertas penurun gula darah.,Seduh kelopak bunga kering.,Aman.
+317,317,Bunga indah dengan senyawa pembasmi leukemia parah.,Sangat dibatasi karena toksik.,Sangat berbahaya jika diracik sembarangan (racun).
+318,318,Daun pencegah kerontokan rambut terampuh.,Tumbuk dan gosokkan ke kulit kepala.,Aman pemakaian luar.
+319,319,Rumput laut kaya yodium pengatur tiroid.,Campur dalam kaldu sup.,Aman (jangan berlebih bagi penderita hipertiroid).
+320,320,Rumput laut hijau penurun kolesterol dan pembakar lemak perut.,Salad atau sup miso.,Aman.
+321,321,Penyedap rasa umami alami (MSG alami) pembangun tulang.,Rebus untuk kaldu.,Aman.
+322,322,"Bahan pembuat karagenan, pelapis dinding lambung.",Rebus sebagai agar-agar/es campur.,Sangat aman.
+323,323,Jamur pangan pembangun otot dan penurun kolesterol.,Tumis matang.,Aman.
+324,324,Jamur hitam pelancar sirkulasi darah (pengencer darah alami).,Masak di sup.,Aman.
+325,325,Jamur bulat pencegah kanker prostat.,Tumis segar.,Aman.
+326,326,Jamur panjang putih peningkat imun pencernaan.,Rebus matang.,Wajib masak matang (cegah listeria).
+327,327,Jamur tropis sumber tembaga dan kalium.,Tumis/rebus.,Aman.
+328,328,Getah damar wangi untuk antiseptik dan penenang.,Bakar untuk aromaterapi.,Aman untuk inhalasi.
+329,329,Pohon penghasil kamper pengusir serangga dan pereda gatal.,Oleskan ekstrak pada kulit.,Jangan ditelan.
+330,330,Kristal getah wangi untuk pengawetan dan disinfektan tradisional.,Gunakan untuk luar.,Sangat beracun jika tertelan langsung.
+331,331,Getah pohon untuk plester luka tradisional.,Lelehkan getah ke luka.,Aman luar.
+332,332,Getah suci arab pereda radang sendi terkuat (Boswellia).,Konsumsi suplemen atau bakar getahnya.,Aman.
+333,333,Resin antiseptik ampuh pembunuh bakteri mulut.,Gunakan ekstrak untuk obat kumur.,Aman luar/kumur.
+334,334,Antidepresan herbal paling terkenal di Eropa.,Seduh bunga kering (teh).,Hati-hati berinteraksi dengan HAMPIR SEMUA obat dokter.
+335,335,Pelindung dan regenerator sel hati (liver) terbaik dunia.,Konsumsi kapsul ekstrak/biji.,Aman.
+336,336,Obat herbal nomor satu untuk pembengkakan prostat (BPH).,Ekstrak buah standar.,Aman.
+337,337,Akar pelega hot flashes (panas mendadak) saat menopause.,Rebusan akar kering.,Aman dosis wajar.
+338,338,Minyak bunga pereda nyeri payudara PMS.,Kapsul minyak (EPO).,Aman.
+339,339,Daun peluntur lemak (pencahar sangat kuat).,Seduh daun jati cina.,Jangan digunakan lebih dari 1 minggu (merusak usus).
+340,340,Bunga salep penyembuh lebam dan memar otot.,Oleskan salep arnica.,"Hanya untuk pemakaian luar, beracun ditelan."
+341,341,Bunga jingga penenang kulit bayi kemerahan/eksim.,Oleskan salep/minyak calendula.,Sangat aman (kulit).
+342,342,Air ekstrak daun pengempes ambeien dan jerawat.,Kompres area wasir/wajah.,Sangat aman (kulit).
+343,343,Beri merah penguat detak jantung dan pelancar pembuluh koroner.,Teh buah hawthorn.,Aman (konsultasi jika minum obat jantung).
+344,344,Beri penguat pembuluh darah mata dan retina.,Makan langsung/jus.,Sangat aman.
+345,345,Akar emas adaptogen pembasmi kelelahan mental.,Kapsul/teh akar.,Aman.
+346,346,Beri 5 rasa penjaga kesehatan liver dan fokus otak.,Teh buah kering.,Aman.
+347,347,Daun gatal namun sangat ampuh kurangi radang sendi dan alergi.,Rebus daun (gatal akan hilang saat masak).,"Gatal parah jika mentah, sangat aman jika matang."
+348,348,Akar dandelion pembersih liver dan diuretik ginjal alami.,Teh akar/daun jombang.,Aman.
+349,349,Akar burdock (gobou) pembersih darah dari racun.,Rebus akar (sering jadi sayur Jepang).,Aman.
+350,350,Daun bergerigi penutup luka berdarah (hemostatik).,Tumbuk dan tempelkan ke luka.,Aman.
+351,351,Bunga/daun beludru pelega paru-paru dan asma.,Teh daun mullein.,Aman.
+352,352,Akar penyambung tulang retak.,Bobok akar ke area cedera tulang.,Hanya pemakaian luar (ditelan merusak liver).
+353,353,Baru cina pereda nyeri haid dan melancarkan sirkulasi panggul.,Rebus daun segar.,Aman.
+354,354,Apsintus daun super pahit pembunuh parasit lambung.,Seduhan teh ringan.,Hati-hati dosis tinggi (neurotoksik thujone).
+355,355,Daun inggu pengusir kejang dan racun (tradisional).,Rebus sedikit daun.,Dosis tinggi toksik.
+356,356,Daun wangi lemon penenang sistem saraf dan usir cemas.,Teh seduh segar.,Sangat aman.
+357,357,Buah berbulu jaring pereda darah tinggi dan sedatif.,Makan buah matang (kuning).,Buah mentah (hijau) beracun sianida.
+358,358,Akar kuning cina penenang dan anti-radang alergi kuat.,Rebusan akar.,Aman.
+359,359,"Bunga pembuat bir, penenang saraf agar tidur lelap.",Teh bunga hops.,Aman.
+360,360,"Ganja kucing (buat kucing euforia), tapi pada manusia jadi penenang perut.",Teh daun catnip.,Aman.
+361,361,Minyak biji borage untuk meredakan radang sendi (GLA tinggi).,Kapsul minyak.,Aman.
+362,362,Daun krisan kecil pencegah serangan migrain hebat.,Makan 1-2 helai daun segar/teh.,Aman.
+363,363,Kulit dedalu putih adalah sumber asli Aspirin pereda nyeri.,Rebus kulit kayu.,Awas iritasi lambung seperti aspirin.
+364,364,Akar sarsaparilla pembersih penyakit kulit (psoriasis).,Teh rebusan akar.,Aman.
+365,365,Kulit kayu berlendir pelapis tenggorokan serak dan maag.,Seduh serbuk kayu (jadi gel).,Sangat aman.
+366,366,"Akar pembuat marshmallow asli, penyejuk lambung dan radang.",Seduh akar (mucilage tinggi).,Sangat aman.
+367,367,Bunga semanggi merah kaya fitoestrogen untuk wanita menopause.,Teh bunga.,Aman.
+368,368,Herba alfalfa pencuci darah dan kaya mineral kalsium nabati.,Jus atau kecambah (sprouts).,Aman.
+369,369,Lobak putih pembersih panas paru dan pencair dahak.,Rebus kuah bening.,Aman.
+370,370,Bit pembangun sel darah merah pekat dan stamina pembuluh darah (Nitrat).,Jus bit murni.,Aman (urin bisa memerah).
+371,371,Sayur hijau penambah stamina lambung dan penghangat darah.,Campur masakan telur.,Aman.
+372,372,Umbi air pendingin tubuh dan mencerahkan kulit wajah (fitoestrogen).,Makan mentah atau parut masker.,Aman (biji dan daun sangat beracun).
+373,373,Biji wangi pembuat parfum alami pembuka blokir pencernaan.,Bumbu jamu.,Aman.
+374,374,"Bunga wangi malam hari pereda stres, diolah jadi parfum penenang.",Inhalasi/minyak atsiri.,Aman luar.
+375,375,Bunga air penenang debar jantung dan panas dalam.,Rebus kelopak bunga.,Aman.
+376,376,Minyak daun gondopuro murni (Wintergreen) untuk balsem gosok pegal parah.,Minyak gosok.,Sangat toksik jika diminum (1 sendok bisa fatal!).
+377,377,Bunga pacar air peluruh haid dan rematik tradisional.,Rebus akar/daun.,"Aman luar, dosis oral dibatasi."
+378,378,Bunga kuning butir kecil pewangi teh penurun perut kembung.,Campur teh hijau.,Aman.
+379,379,Daun pacar kuku (Henna) anti-jamur kutu air terbaik.,Tumbuk dan balur ke kuku/kulit.,Sangat aman (luar).
+380,380,Kulit pohon soga pewarna coklat batik dan obat disentri.,Rebus kulit kayu.,Aman.
+381,381,Biji lamtoro (petai cina) ampuh basmi cacing usus anak.,Makan mentah secukupnya.,Aman (awas rambut rontok jika makan daunnya bagi hewan).
+382,382,Biji bau tajam pembersih ginjal (diuretik kuat).,Makan matang/mentah.,Bisa memicu gagal ginjal akut (jengkolan/kristal) jika berlebih!
+383,383,Biji bau yang melancarkan kencing dan cuci darah tradisional.,Makan matang (rebus lama).,Awas asam jengkolat pembuat batu ginjal jika dehidrasi!
+384,384,Buah asam kecil kekuningan peluntur lemak dan sembelit.,Manisan/asinan buah.,Aman (awas diare).
+385,385,Buah ceri lokal manis penurun asam urat ampuh (rebusan daunnya).,Rebus daun kersen.,Aman.
+386,386,"Buah ungu sepat manis, rajanya penurun gula darah (biji dan kulit kayu).",Rebus biji/kulit batang.,Aman.
+387,387,Buah masam pewarna ungu pereda mabuk alkohol.,Makan segar.,Aman.
+388,388,Buah asam manis pembuat sambal penyegar panas dalam.,Rujak buah/sambal.,Aman.
+389,389,Buah renyah berserat penguat gigi dan pereda batuk.,Makan segar/rujak.,Aman.
+390,390,Buah bintang penurun darah tinggi kuat.,Jus buah.,DILARANG KERAS bagi penderita gagal ginjal (mengandung neurotoksin caramboxin).
+391,391,Manggis kuning asam pereda sariawan raksasa.,Makan segar.,Aman.
+392,392,Buah merah sepat pereda diare.,Pijat buah hingga memar baru dimakan (hilangkan sepat).,Aman.
+393,393,Buah buni kaya zat besi pelawan anemia.,Makan buah matang gelap.,Aman.
+394,394,Buah kecapi obat cacing gelang dan sariawan.,Makan segar.,"Aman (jangan telan bijinya, bisa merobek usus!)."
+395,395,"Buah keriput asam di batang, obat kencing batu.",Rebus buah/daun.,Aman.
+396,396,"Buah mentega bulu merah, kaya serat dan pelindung lambung.",Makan daging buahnya.,Aman (kupas bersih bulu gatalnya).
+397,397,"Buah mirip nangka wangi tajam, penyembuh malaria (kulit batang).",Makan buah / rebus kulit batang.,Aman.
+398,398,Buah masam bulat pereda radang mata.,Makan segar.,Aman.
+399,399,Varian duku asam pereda disentri parah (bijinya).,Tumbuk bijinya (sangat pahit).,Aman.
+400,400,Buah sayur mirip sukun dengan biji gurih pendongkrak gizi stunting.,Rebus biji/sayur keluwih.,Aman.
+401,401,Buah asam kaya vitamin C untuk rambut dan kulit ala India.,Jus buah amla atau konsumsi manisan.,Aman.
+402,402,"Daun sangat pahit penyembuh gatal, alergi, dan kutu kulit.",Rebus daun untuk mandi atau oleskan minyak neem.,"Aman (pemakaian luar), konsumsi oral dibatasi."
+403,403,Herba air peningkat memori dan fokus otak.,Konsumsi ekstrak atau seduh sebagai teh.,Aman.
+404,404,Buah ajaib detoksifikasi pencernaan ala Ayurweda.,Seduh bubuk buah kering.,Aman.
+405,405,Peluruh lendir dan penyehat sistem pernapasan.,Rebus buah kering.,Aman.
+406,406,Ginseng wanita pembantu kesuburan dan produksi ASI.,Seduh bubuk akar dengan susu hangat.,Aman.
+407,407,Batang pelindung imun dan penurun demam.,Rebus batang dan minum airnya.,Aman.
+408,408,Daun pemusnah rasa manis untuk mengontrol diabetes.,Kunyah daun segar (gula akan terasa hambar).,Aman.
+409,409,Akar kuat penambah stamina pria.,Konsumsi ekstrak standar.,Awas hipertensi.
+410,410,Daun perangsang libido alami (Horny Goat Weed).,Seduh daun kering.,Aman.
+411,411,Kacang kaya L-Dopa untuk penderita parkinson dan mood.,Olah matang atau ekstrak.,Toksik jika mentah (bisa halusinasi).
+412,412,Daun pereda nyeri kuat seperti opioid namun herbal.,Seduh daun kering.,"Sangat adiktif, diatur ketat oleh undang-undang."
+413,413,Ramuan spiritual Amazon peluruh trauma batin (psikoaktif).,Dilarang keras dibuat rumahan.,"Ilegal di banyak negara, psikoaktif kuat."
+414,414,Minuman energi tradisional Amerika Selatan kaya kafein sehat.,Seduh dengan air panas dalam labu (gourd).,Aman.
+415,415,"Teh merah Afrika Selatan tanpa kafein, super antioksidan.",Seduh seperti teh biasa.,Sangat aman.
+416,416,Daun energi tinggi penambah fokus tanpa rasa gelisah.,Seduh daun kering.,Aman.
+417,417,Kulit kayu afrodisiak dan penenang saraf.,Rebus kulit kayu.,Aman.
+418,418,Akar kayu peningkat aliran darah panggul (Potency wood).,Rebus akar/kayu.,Aman.
+419,419,Kulit kayu pembakar lemak dan disfungsi ereksi.,Ekstrak murni.,Berbahaya bagi penderita jantung dan darah tinggi.
+420,420,Kaktus Afrika penekan nafsu makan super kuat untuk diet.,Ekstrak standar.,Aman.
+421,421,Kacang sumber kafein asli pembuat minuman cola.,Kunyah biji atau seduh.,Aman.
+422,422,Akar pembasmi bronkitis dan infeksi saluran napas atas.,Ekstrak cair (Umcka).,Aman.
+423,423,Akar Afrika pereda nyeri punggung bawah kronis.,Rebus akar atau ekstrak.,Awas penderita maag akut.
+424,424,Herba peningkat mood dan anti-stres instan (legal).,Seduh sebagai teh (kanna).,Aman dosis rendah.
+425,425,Getah manis pengganti gula untuk penderita diabetes.,Gunakan sirup agave.,Aman.
+426,426,Buah kaktus pemulih hangover dan penurun kolesterol.,Jus buah.,Aman (awas duri halus).
+427,427,Kacang mentega kaya mangan pelindung saraf otak.,Makan langsung/panggang.,Aman.
+428,428,Kacang manis rendah lemak sumber karbohidrat kompleks.,Rebus atau panggang.,Aman.
+429,429,Biji pinus penurun nafsu makan alami.,Makan langsung (pignoli).,Aman.
+430,430,Satu kacang penuhi kebutuhan selenium harian (cegah kanker).,Makan 1-2 butir per hari.,Toksik selenium jika dimakan berlebih (>5 butir/hari).
+431,431,Ginseng Brazil peningkat oksigenasi selular.,Seduh bubuk akar.,Aman.
+432,432,Akar hitam penyubur rambut dan penghitam uban alami.,Rebus akar (harus akar yang sudah diolah/cured).,Akar mentah (uncured) toksik bagi liver.
+433,433,Kurma merah Cina penenang lambung dan penambah darah.,Makan langsung/rebus kuah.,Aman.
+434,434,Beri hitam paling pahit dengan antioksidan jantung tertinggi.,Jus murni/ekstrak.,Aman.
+435,435,Beri ungu tua penurun mata kering dan anti-aging.,Campur bubuk ke smoothie.,Aman.
+436,436,Ceri mungil dengan vitamin C 50x lipat dari jeruk.,Jus buah.,Aman.
+437,437,Kulit buah mawar kaya vitamin C untuk nyeri sendi lutut.,Teh rosehip.,Aman.
+438,438,Minyak buah pelembab kulit super (anti penuaan dini).,Oleskan minyak ke kulit.,Aman luar.
+439,439,Kacang Inca Omega 3 penurun trigliserida darah.,Panggang dan makan.,Aman.
+440,440,"Buah manis seperti karamel, pemanis aman diabetes.",Gunakan bubuk lucuma.,Aman.
+441,441,Umbi renyah kaya inulin pembangun bakteri baik usus.,Makan segar seperti apel.,Aman.
+442,442,Polong manis bebas gluten untuk tepung diet sehat.,Gunakan tepung mesquite.,Aman.
+443,443,Biji sangat kecil kaya kalsium dan besi pelawan anemia.,Masak sebagai bubur/roti.,Aman.
+444,444,Biji burung bernutrisi alkali penurun asam lambung.,Masak seperti nasi.,Aman.
+445,445,Biji kaya rutin pelancar peredaran darah vena.,Masak seperti mie (soba).,Aman.
+446,446,Gandum purba lebih mudah dicerna lambung sensitif.,Olah jadi roti.,Awas alergi gluten.
+447,447,Gandum antioksidan pelindung sel penunda lapar.,Olah jadi pasta.,Awas alergi gluten.
+448,448,Pengganti coklat bebas kafein aman untuk penderita GERD.,Gunakan bubuk carob.,Aman.
+449,449,Akar pengganti kopi yang membersihkan liver (tanpa kafein).,Seduh bubuk akar sangrai.,Aman.
+450,450,Akar kuning pelancar BAB dan detoks kulit berjerawat.,Teh akar.,Awas kram perut dosis tinggi.
+451,451,Biji peluruh gas perut (karminatif) super ampuh.,Seduh biji caraway.,Aman.
+452,452,Akar seledri liar pembilas ginjal dari asam urat.,Rebus akar.,Aman.
+453,453,Getah bau bawang pengusir kembung dan parasit.,Gunakan sejumput di masakan (hing).,Aman.
+454,454,Getah resin antiseptik dan penenang histeria.,Inhalasi uap.,Aman.
+455,455,Getah karet ajaib pembunuh H. Pylori (bakteri maag).,Kunyah getah (mastic gum).,Aman.
+456,456,Getah penyejuk radang tenggorokan (shiraz gum).,Larutkan di air.,Aman.
+457,457,Resin wangi disinfektan ruang dan penenang spiritual.,Bakar sebagai dupa.,Aman luar.
+458,458,"Getah merah darah naga, penutup luka instan seperti lem.",Teteskan getah ke luka.,Aman luar.
+459,459,Kayu suci aromatik pengusir depresi dan serangga.,Bakar kayu/inhalasi.,Aman.
+460,460,Minyak kayu cedar perangsang sirkulasi kulit kepala botak.,Campur minyak pijat.,Aman luar.
+461,461,Minyak cemara pengecil varises dan ambeien bengkak.,Kompres topikal.,Aman luar.
+462,462,Beri peluruh kencing dan pembersih saluran kemih.,Seduh buah juniper.,Jangan digunakan jika ginjal rusak parah.
+463,463,Minyak fir pereda nyeri sendi dan radang pernapasan.,Inhalasi uap/gosok dada.,Aman luar.
+464,464,Minyak spruce pelega stres kortisol tinggi.,Aromaterapi uap.,Aman luar.
+465,465,Minyak pinus pembersih udara bakteri dan dahak.,Inhalasi difuser.,Aman luar.
+466,466,"Minyak eukaliptus, andalan pereda hidung tersumbat.",Hirup uap panas atau oles.,Jangan ditelan murni (sangat beracun).
+467,467,"Minyak tea tree, pembunuh jerawat dan jamur kulit ampuh.",Oleskan tepat pada jerawat.,Sangat beracun jika tertelan.
+468,468,Minyak niaouli penangkal radang tenggorokan dan flu.,Inhalasi uap.,Aman luar.
+469,469,"Madu dari nektar manuka, pembunuh bakteri super tangguh (MRSA).",Minum 1 sendok teh madu murni.,Sangat aman.
+470,470,"Minyak daun kanuka, pereda lebam otot olahraga.",Pijat area lebam.,Aman luar.
+471,471,"Daun wangi murad, pereda batuk bronkitis ringan.",Teh seduh daun.,Aman.
+472,472,Daun bay (salam eropa) penurun gula darah dan wangi masakan.,Rebus di sup.,Aman.
+473,473,Rempah gabungan rasa cengkeh-kayu manis untuk pencernaan.,Bumbu masakan.,Aman.
+474,474,Biji lada melegueta peningkat metabolisme pembakar lemak.,Campur masakan pedas.,Aman.
+475,475,Lada merah muda wangi floral penurun gas perut.,Tabur di makanan.,Aman.
+476,476,Lada sichuan pedas kebas pembunuh parasit usus.,Bumbu kuah pedas.,Aman.
+477,477,Lada jepang penambah nafsu makan dan penghangat perut.,Taburan masakan.,Aman.
+478,478,Resin guggul andalan Ayurweda penurun kolesterol total.,Kapsul ekstrak.,Aman.
+479,479,Herba bunga biru tonik otak untuk daya ingat.,Teh herbal.,Aman.
+480,480,Akar wangi penenang stres berat tanpa bikin mengantuk lemas.,Teh akar/minyak aromaterapi.,Aman.
+481,481,Akar pahit pembersih hati pelindung sel hepar.,Kapsul ekstrak.,Aman.
+482,482,Herba peluruh cairan menumpuk pembengkakan tubuh.,Rebusan herba.,Aman.
+483,483,Akar merah pencuci sistem limfatik dan darah kotor.,Teh rebus akar.,Aman (urin bisa memerah).
+484,484,Kulit pohon pelindung jantung koroner dan darah tinggi.,Rebus kulit kayu.,Aman.
+485,485,Kulit pohon Ashoka penyeimbang siklus rahim rahasia wanita.,Rebusan kulit pohon.,Aman.
+486,486,Getah resin salai penekan radang lutut parah.,Ekstrak suplemen.,Aman.
+487,487,Akar putih viagra India peningkat vitalitas dan mani.,Rebus akar dengan susu.,Aman.
+488,488,Akar ubi kudzu India pembesar massa otot alami.,Serbuk akar.,Aman.
+489,489,Cabai panjang lada India pelega dahak asma paru.,Tumbuk campur madu.,Aman.
+490,490,Bunga sakral Mesir kuno untuk lucid dreaming dan relaksasi dalam.,Teh kelopak bunga biru.,Aman.
+491,491,Air perasan batang tebu segar penyembuh sakit kuning ringan.,Minum air tebu segar.,Awas lonjakan gula tinggi.
+492,492,"Buah beracun mematikan, digunakan murni untuk racun tikus/hama.",DILARANG MAKAN.,Sangat toksik mematikan kerja jantung.
+493,493,Biji langka Nusantara obat disentri berdarah dan stamina.,Kunyah biji (sangat pahit).,Aman dosis sangat kecil.
+494,494,Gulma lalapan wangi penyembuh radang lambung bengkak.,Sayur/lalapan mentah.,Aman.
+495,495,"Sayuran rawa penyedot logam, pastikan dari air bersih untuk penambah nafsu makan.",Tumis genjer.,Awas toksik jika genjer tumbuh di air tercemar.
+496,496,Jantung pisang pelancar ASI dan penekan kolesterol.,Sayur lodeh jantung pisang.,Aman.
+497,497,Bunga pepaya pahit penambah selera makan dan anti-malaria.,Tumis bunga pepaya.,Aman.
+498,498,"Daun kopi diseduh (Kawa Daun), tinggi antioksidan tanpa debar jantung.",Teh daun kopi.,Aman.
+499,499,Daun duduk pereda nyeri wasir dan peluruh air kencing.,Rebus daun duduk.,Aman.
+500,500,Daun bandotan (bau kambing) obat luar luka berdarah bernanah ampuh.,Tumbuk oles ke luka.,"Pemakaian luar aman, jangan ditelan karena merusak liver."
+501,501,Rimpang wangi tajam yang sering dipakai dalam jamu untuk menenangkan saraf dan kembung.,Rebus sepotong kecil rimpang.,"Aman dosis kecil, awas toksik jika berlebihan."
+502,502,Akar paku-pakuan andalan pria untuk stamina dan antioksidan.,Rebus akar kering.,Aman.
+503,503,Kayu legendaris dari Sulawesi Selatan untuk keperkasaan pria.,Rendam kayu di air panas atau alkohol.,Aman.
+504,504,Akar dan daun yang sangat terkenal untuk gurah (mengeluarkan lendir kotor pernapasan).,Rebus daun atau akar untuk diminum.,"Aman, terapi gurah hidung harus oleh ahlinya."
+505,505,"Gulma merah kecil merayap, ampuh untuk obat disentri dan asma.",Rebus herba segar.,Aman.
+506,506,Daun penghancur batu ginjal alami yang sangat kuat.,Rebus daun gempur batu.,Aman.
+507,507,"Daun mirip payung 4 helai, mencegah keropos tulang bagi wanita.",Rebus dan jadikan pecel/sayur.,Aman.
+508,508,Gulma asam penurun panas demam tinggi.,Rebus atau tumbuk untuk kompres.,Awas penderita batu ginjal karena tinggi oksalat.
+509,509,"Herba bening merayap di pot berbiji kecil, manjur redakan asam urat.",Rebus seluruh tanaman bening ini.,Aman.
+510,510,Sayuran berlendir penambah darah dan penyembuh luka lambung.,Sayur bening.,Aman.
+511,511,Akar bayam liar berduri ini sangat bagus untuk melancarkan kencing dan ASI.,Rebus akar yang sudah dicuci.,Aman.
+512,512,Tanaman pesisir penangkal racun dan penyembuh luka pesisir.,Tumbuk daun untuk obat luar.,Aman.
+513,513,"Daun bergetah putih tebal, getahnya obat sakit gigi berlubang.","Teteskan getah ke kapas, masukkan ke gigi.",Getah sangat beracun jika tertelan dan membuat buta mata!
+514,514,Daun pahit obat malaria dan kencing manis.,Rebus daun muda.,Aman.
+515,515,"Daun peningkat nafsu makan, bijinya merah keras jangan dimakan.",Rebus daun segar.,Biji mentah sangat beracun.
+516,516,"Pohon peneduh raksasa, bijinya (godhite) enak digoreng pencuci darah.",Sangrai biji matang.,Aman.
+517,517,"Buah asam sebesar kelereng hitam, peluntur lemak perut.",Hisap buahnya.,Aman.
+518,518,"Buah kesukaan putri keraton Jawa, membuat keringat dan nafas menjadi wangi.",Makan daging buah matang.,Aman.
+519,519,"Buah rimbang kecil, penjaga kesehatan mata (tinggi vitamin A).",Jadikan lalap atau sambal.,Aman.
+520,520,"Bunga terompet sangat beracun, hanya dipakai luar untuk asma (dihisap/bakar).",Jangan dibuat jamu minum.,SANGAT BERACUN. Membuat halusinasi gila dan kematian.
+521,521,Rebusan daun kapas melancarkan persalinan lambat.,Rebus daun kapas.,Aman.
+522,522,Kulit pohon kapuk randu untuk obat asma dan penurun panas.,Rebus kulit pohon.,Aman.
+523,523,Daun penurun demam panas anak (dikompreskan ke dahi).,"Remas daun dadap serep dengan air, tempel ke dahi.",Aman luar.
+524,524,Kulit pohon obat batuk berdahak dan rematik.,Rebus kulit pohon.,Aman.
+525,525,Daun dan kulit pohonnya obat cacar air (cangkrang).,Rebus untuk mandi cacar air.,Aman.
+526,526,Daun bentuk waru (hati) penyubur rambut dan pereda batuk.,Remas daun muda di air.,Aman.
+527,527,Buah lontar (siwalan) pendingin tubuh dan obat ginjal.,Makan daging buah atau minum air legen.,Aman.
+528,528,Rimpang wangi pencuci darah kotor nifas.,Rebus rimpang wangi.,Aman.
+529,529,"Daun nila pewarna biru, air rebusannya untuk obat epilepsi (tradisional).",Rebus daun tarum.,Aman.
+530,530,"Serai yang daunnya lebar wangi minyak telon, ampuh usir nyamuk.",Rebus untuk mandi atau olesan.,Aman luar.
+531,531,"Buah srikaya obat disentri, bijinya racun kutu rambut.",Tumbuk biji untuk kutu (jangan kena mata).,"Aman (daging buah), Biji beracun."
+532,532,Buah mulwo pengusir cacing usus.,Makan daging buah.,Aman.
+533,533,"Jeruk mini hiasan, buahnya obat batuk parah.",Rebus buah kecilnya.,Aman.
+534,534,"Buah nanas muda pelancar haid, nanas matang obat encok.",Jus nanas matang.,Nanas muda bisa memicu keguguran.
+535,535,Kulit durian yang dibakar abunya mengobati sembelit dan kram perut.,Seduh abu kulit durian (tradisional).,Aman.
+536,536,"Sayur hijau bersayap, kaya vitamin E untuk awet muda.",Rebus sayur kecipir.,Aman.
+537,537,Sayur oyong penurun panas dalam dan pencuci darah.,Sayur bening oyong.,Aman.
+538,538,Sayur blustru pelancar haid dan obat asma.,Rebus daun atau sayur buahnya.,Aman.
+539,539,Umbi hutan pelancar BAB dan pengikat gula darah.,Harus diolah pabrik (Sangat gatal!).,Jangan makan mentah/rebus biasa (oksalat gatal).
+540,540,"Tumbuhan parasit kuning tak berdaun, obat sakit kuning/liver.",Rebus tali putri.,Aman.
+541,541,"Tebu ungu gelap, obat masuk angin dan jantung berdebar.",Rebus tebu hitam dengan jahe.,Aman.
+542,542,Buah pelintir (kayu ules) wajib ada di jamu untuk perut kembung kolik.,Rebus buah ulir.,Aman.
+543,543,Lumut kerak (kayu angin) obat sariawan dan masuk angin di jamu.,Rebus kayu angin.,Aman.
+544,544,Biji polong hitam (seprantu) obat disentri dan jamu pegal.,Rebus biji keras.,Aman.
+545,545,"Daun jungrahab obat pusing, kolik, dan mual di jamu racikan.",Rebus daun jungrahab.,Aman.
+546,546,Lempuyang kecil sangat pahit penambah nafsu makan ekstrim.,Pari dan peras sarinya.,Aman.
+547,547,"Biji melinjo penambah energi, daunnya penurun asam urat.",Sayur daun melinjo (bijinya awas asam urat).,Aman.
+548,548,Minyak biji tamanu (nyamplung) penyembuh bekas jerawat dan keloid ajaib.,Oleskan minyak ke kulit luka.,Hanya untuk pemakaian luar.
+549,549,"Daun ketepeng cina, obat panu dan kurap paling paten.","Tumbuk daun dengan kapur sirih, gosok ke panu.",Aman luar.
+550,550,Rumput daun bambu mini penurun panas demam anak.,Rebus herba rumput bambu.,Aman.
+551,551,"Daun parasit bulat menempel di pohon, obat batuk TBC berdarah.",Rebus daun sisik naga.,Aman.
+552,552,Akar simbar darah pembeku luka berdarah bernanah.,Tumbuk akar untuk luka luar.,Aman.
+553,553,Daun merah hanjuang obat disentri darah dan wasir.,Rebus daun andong.,Aman.
+554,554,Bunga bulat ungu (kenop) pereda batuk sesak dan asma.,Seduh bunga kenop.,Aman.
+555,555,Daun kembang bulan penurun gula darah diabetes tajam.,Rebus daun paitan.,Aman.
+556,556,Bunga kembang merak obat diare dan kejang panas anak.,Rebus bunga dan daun.,Awas jangan konsumsi kulit kayu/biji (toksik).
+557,557,Bunga merah jengger ayam penghentian pendarahan rahim.,Rebus bunga jengger ayam.,Aman.
+558,558,Biji kesumba merah (pewarna makanan) pelindung lambung.,"Rendam biji, gunakan air merahnya.",Aman.
+559,559,Buah lobi-lobi masam penurun darah tinggi.,Makan segar/rujak.,Aman (awas maag).
+560,560,Buah sawo manis pelancar pencernaan dan diare (getahnya).,Makan buah matang.,Aman.
+561,561,"Sawo kecil merah wangi keringat, penurun tensi darah.",Makan daging buah.,Aman.
+562,562,Sawo duren/kenitu pereda radang selaput lendir tenggorokan.,Makan daging buah matang.,Aman.
+563,563,Mangga wangi kuini serat tinggi penurun kolesterol.,Makan buah matang.,Aman.
+564,564,Mangga kemang asam wangi untuk stamina lambung.,Makan segar.,Aman.
+565,565,Mangga bacang bau tajam pencuci perut (getahnya gatal).,Cuci getah sebelum dimakan.,Getah sangat gatal di bibir.
+566,566,Jeruk keprok kaya kalium penurun darah tinggi.,Makan buah segar.,Aman.
+567,567,"Buah air pembersih ginjal, kulit putihnya obat sariawan.",Makan buah dan kulit putihnya.,Aman.
+568,568,Melon pereda panas dalam dan penghidrasi ginjal.,Makan segar.,Aman.
+569,569,Kacang tolo penguat tulang lansia.,Masak sebagai sayur.,Aman.
+570,570,Kacang raksasa obat cacingan.,Harus direbus matang lama membuang racun.,Biji mentah beracun mual muntah.
+571,571,"Buah ungu senggani obat diare, daunnya obat bisul.",Makan buah/rebus daun.,Aman.
+572,572,Buah karamunting penambah Hb darah anemia.,Makan buah segar ungu gelap.,Aman.
+573,573,Umbi gembili prebiotik pelancar pencernaan lambung.,Kukus umbi gembili.,Aman.
+574,574,Umbi udara gembolo penyembuh maag kronis.,Kukus matang.,Aman.
+575,575,Umbi ungu uwi penurun gula darah (glikemik rendah).,Kukus uwi ungu.,Aman.
+576,576,Umbi gadung obat rematik dan kusta.,Hanya boleh diolah oleh ahlinya (racun sianida tinggi).,SANGAT BERACUN SIANIDA jika tidak dicuci dengan abu.
+577,577,Bunga ungu kupu-kupu obat kelenjar tiroid bengkak (gondok).,Rebus akar dan daun.,Aman.
+578,578,"Bunga kuning jam 8 pagi, obat reumatik linu sendi.",Rebus daun/akar.,Aman.
+579,579,"Akar paku berbulu emas, obat nyeri encok pinggang bawah.",Rebus akar paku hata.,Aman.
+580,580,Rumput bambu beruas (ekor kuda) peluruh batu ginjal kuat.,Rebus herba ekor kuda.,Aman.
+581,581,Rebung bambu tali penurun darah tinggi dan kolesterol.,Sayur rebung rebus.,Aman.
+582,582,Daun lalapan tespong penenang saraf dan penurun tensi.,Lalapan mentah.,Aman.
+583,583,Selada air (watercress) pencuci darah perokok (paru-paru).,Jus atau rebus sebentar.,Aman.
+584,584,Sawi putih penurun asam urat sendi.,Sayur bening.,Aman.
+585,585,Kubis penyembuh borok lambung parah (jus kubis mentah).,Jus kubis mentah segar (rutin).,Aman (bisa bikin perut bergas).
+586,586,Kacang bogor bulat protein nabati pereda lelah.,Rebus matang.,Aman.
+587,587,Koro kratok pencegah osteoporosis.,Rebus dua kali buang airnya (cegah racun).,Mentah beracun (sianida ringan).
+588,588,"Biji jali penurun panas dalam, pereda rematik, dan anti kanker rahim.",Rebus bubur jali.,"Aman (dilarang bagi ibu hamil, memicu kontraksi)."
+589,589,"Biji jawawut kuning bubur burung, menyejukkan perut lambung.",Bubur jawawut.,Aman.
+590,590,Ketan hitam antioksidan kuat penyubur rambut dan kulit.,Bubur ketan hitam.,Aman.
+591,591,Jagung pulut ketan lengket pereda asam lambung.,Rebus jagung.,Aman.
+592,592,Kelapa sawit merah kaya beta karoten untuk kesehatan mata.,Minyak kelapa sawit merah murni.,Aman.
+593,593,Kentang hitam umbi kecil penangkal sel kanker.,Kukus kentang hitam.,Aman.
+594,594,Daun singkong karet penambah darah dan anti-anemia.,Rebus matang (buang air pertama).,Sianida tinggi jika mentah.
+595,595,"Buah maja (bael) keras pahit/manis, obat disentri paling ampuh.",Makan daging buah matang.,Aman.
+596,596,Buah kawista (cola jawa) penurun panas dalam dan mual.,Jus buah kawista sirup.,Aman.
+597,597,Buah kelengkeng penenang jantung debar dan susah tidur.,Makan segar/seduh air hangat.,Aman.
+598,598,"Buah lici kaya vitamin C, bijinya obat nyeri buah zakar (hernia).",Rebus biji lici.,Aman.
+599,599,Tepung sagu pelapis lambung anti-maag dan prebiotik.,Bubur sagu papeda.,Aman.
+600,600,"Pohon gebang, akarnya obat diare, sagunya untuk energi usus.",Rebus akar.,Aman.
+601,601,Daun wangi pengusir nyamuk yang kuat.,"Tanam di pot dekat jendela, gosok daun ke kulit.",Aman untuk pemakaian luar.
+602,602,Kayu sangat pahit untuk obat malaria dan penambah darah.,Rebus kayu bidara laut.,"Toksik dosis tinggi, mengandung strychnine ringan."
+603,603,Bunga wangi malam penurun demam malaria tradisional.,Rebus daun/bunga.,Aman.
+604,604,Minyak bijinya menyuburkan rambut dan kulit kayu atasi eksim.,Oleskan minyak kesambi.,Aman luar.
+605,605,Getah pinus endemik Sumatra untuk antiseptik luka.,Oleskan getah/resin ke luka.,Aman luar.
+606,606,Daun dan kulit kayu pereda rematik dan pembengkakan.,Rebus untuk mandi.,Aman.
+607,607,Biji lezat pencegah maag dan diare.,Rebus atau bakar biji gayam.,Aman.
+608,608,"Buah asam untuk batuk, kulit kayu pereda sariawan.",Kunyah buah atau rebus kulit kayu.,Aman.
+609,609,Getah ajaib yang langsung membekukan darah pada luka robek.,Teteskan getah ke luka.,Biji sangat beracun! Getah hanya untuk luar.
+610,610,Daun lebar untuk mengobati stroke ringan dan hipertensi.,Rebus daun tua.,Aman dosis wajar.
+611,611,Daun pereda gatal herpes dan bisul bernanah.,Tumbuk dan tempelkan ke kulit.,Beracun jika tertelan mentah.
+612,612,"Benalu spesifik di pohon teh, pembunuh sel kanker.",Rebus daun benalu teh.,Aman.
+613,613,Gulma sawah renyah untuk penambah darah dan nafsu makan.,Tumis/sayur gonda.,Aman jika air sawah tidak tercemar logam.
+614,614,Daun kangkung liar obat bengkak dan rematik luar.,Tumbuk dan balur ke kaki.,Dilarang keras dimakan (Toksik saraf)!
+615,615,Bayam liar tinggi zat besi untuk wanita hamil.,Sayur bening bayam kakap.,Aman.
+616,616,Gulma merah penurun panas dan pelancar ASI.,Rebus kremak.,Aman.
+617,617,Gulma pereda sakit kepala dan pegal linu.,Rebus herba jelantir.,Aman.
+618,618,Bunga terompet kuning pelancar BAB ekstrim.,Rebus daun/getah (dosis sangat kecil).,Getah beracun mual muntah parah jika berlebih.
+619,619,Daun dua warna obat batuk rejan dan mimisan.,Rebus daun nanas kerang.,Aman.
+620,620,Tanaman kecil di tembok untuk obat ginjal bengkak.,Rebus herba lidah katak.,Aman.
+621,621,Kayu langka bau bawang putih obat darah tinggi.,Rebus kulit kayu.,Aman.
+622,622,Mangga hitam kecil wangi khas penguat imun.,Makan buah segar.,Aman.
+623,623,Mangga asam manis pembuat sambal penyegar lambung.,Makan segar/sambal.,Aman.
+624,624,Rimpang kecil obat pelangsing dan keputihan wanita.,Seduh rimpang kunci pepet.,Aman.
+625,625,Lengkuas wangi penurun panu dan jamur kulit.,Parut dan gosok ke kulit.,Aman luar.
+626,626,Sirih langka penyembuh diabetes dan kanker payudara.,Rebus 3 lembar daun sirih hitam.,Aman.
+627,627,Tanaman hias pembersih racun udara (formaldehida/benzena).,Tanam di dalam ruangan.,Beracun jika dikunyah hewan peliharaan/anak.
+628,628,"Kopi senna (biji) pengganti kopi, daunnya pencahar kuat.",Seduh daun glinggang.,Awas diare parah jika daun berlebihan.
+629,629,Buah asam raksasa pencuci rambut dan obat sariawan.,Peras buah sempur.,Aman.
+630,630,Minyak biji kemiri sunan untuk energi biodisel dan obat kurap.,Oles luar.,SANGAT BERACUN jika ditelan.
+631,631,Kulit kayu suren untuk astringen diare dan disentri.,Rebus kulit kayu suren.,Aman.
+632,632,Daun mindi obat hipertensi dan cacingan.,Rebus daun muda.,Biji mindi sangat beracun.
+633,633,Umbi bunga bangkai untuk makanan diet diabetes (porang/konjak lokal).,Harus proses pabrik.,Sangat gatal beracun jika mentah (oksalat).
+634,634,Cairan kantong semar penyembuh mata merah dan batuk.,Minum cairan kantong yang tertutup.,Aman cairan murninya.
+635,635,Anggrek epifit obat kanker payudara dan jerawat.,Tumbuk herba anggrek.,Aman.
+636,636,Lempuyang liar pembasmi cacing pita dan asma.,Rebus rimpang.,Aman.
+637,637,Bunga asam penghilang bau amis ikan dan bau badan.,Iris untuk sambal/bumbu.,Aman.
+638,638,Daun sirih merambat pembasmi pendarahan luka.,Tumbuk dan tempel daun.,Aman.
+639,639,Bawang hijau kecil pelancar sirkulasi darah dingin.,Iris untuk campuran telur/sup.,Aman.
+640,640,Buah pandan laut pengusir cacing dan penurun tensi.,Rebus buah atau akar.,Aman.
+641,641,Stroberi hutan liar kaya vitamin c untuk sariawan.,Makan buah matang.,Aman.
+642,642,Daun kawah gunung (cantigi) pereda pegal linu dan sayur segar.,Rebus daun pucuk cantigi.,Aman.
+643,643,Kulit buah delima putih sangat ampuh hentikan keputihan berlebih.,Rebus kulit buah.,Aman.
+644,644,Jambu wangi mawar penyembuh jantung berdebar.,Makan buah segar.,Aman.
+645,645,Buah hijau keras pahit penurun darah tinggi tajam.,Rebus daging buah.,Awas toksik jika dimakan mentah banyak.
+646,646,Getah benda penyembuh bisul dan borok parah.,Teteskan getah ke luka.,Aman luar.
+647,647,"Buah mirip rambutan tanpa rambut, obat diabetes ringan.",Makan daging buah.,Aman.
+648,648,Kulit kayu jabon obat demam dan stomatitis (sariawan).,Rebus kulit kayu.,Aman.
+649,649,Kulit kayu jati putih obat pencuci darah.,Rebus kayu/daun.,Aman.
+650,650,Daun teh hutan (puspa) antioksidan dan pewarna alami.,Seduh pucuk daun puspa.,Aman.
+651,651,Kopi hitam kuat peningkat energi kerja jantung.,Seduh kopi murni.,Awas asam lambung.
+652,652,Air akar rotan pereda malaria dan demam berdarah di hutan.,Minum air potongan rotan segar.,Aman.
+653,653,Rebung bambu kuning obat penyakit kuning (liver) legendaris.,Rebus rebung dan daun bambu kuning.,Aman.
+654,654,Air bambu betung penyembuh asma dan batuk rejan.,Tampung air ruas bambu.,Aman.
+655,655,Rebusan daun bambu hitam penurun asam urat cepat.,Rebus daun bambu hitam.,Aman.
+656,656,Biji pakis haji obat kusta tradisional (sangat berbahaya).,Hanya digunakan ahli.,SANGAT BERACUN (Cycasin memicu kanker/koma).
+657,657,Biji melinjo liar energi tinggi karbohidrat.,Rebus biji.,Awas asam urat tinggi.
+658,658,Daun kaktus tanpa duri penyembuh wasir dan panas dalam.,Jus daun kaktus centong.,Aman.
+659,659,Daun miana merah pereda batuk anak dan wasir bengkak.,Rebus daun miana merah.,Aman.
+660,660,"Tanaman hias bergetah iritan, tidak untuk dikonsumsi.",Tanaman hias murni.,Beracun jika dikunyah hewan peliharaan (oksalat).
+661,661,"Getah sri rejeki pemicu gatal alergi parah, pembersih polusi udara.",Tanaman ruangan.,Sangat gatal jika terkena kulit luka/mulut.
+662,662,"Daun tebal Anthurium murni untuk dekorasi, bukan herbal oral.",Tanaman hias.,Mengandung kristal kalsium oksalat pemicu bengkak tenggorokan.
+663,663,Daun suplir pereda demam dan batuk (obat sirup Eropa lama).,Rebus daun suplir.,Aman.
+664,664,Daun paku panjang untuk diuretik pencuci ginjal.,Rebus daun kadaka.,Aman.
+665,665,Daun paku epifit obat demam dan penyubur rambut.,Tumbuk dan kompres.,Aman.
+666,666,Daun merah menyala kastuba pemicu muntah dan peluruh haid.,Penggunaan dibatasi.,Beracun iritan getah putihnya.
+667,667,Bunga kamboja jepang (Adenium) getahnya sangat mematikan jantung.,Jangan disentuh getahnya.,"SANGAT BERACUN, getah untuk racun panah Afrika."
+668,668,Jamur kayu yang bisa dimakan untuk imun tubuh.,Tumis/rebus.,Aman.
+669,669,"Jamur bulat menyerupai kentang di tanah, beracun pemicu diare.",Dilarang dimakan.,Beracun gastrointestinal.
+670,670,"Jamur lezat yang mekar saat bulan purnama, energi protein tinggi.",Tumis matang.,Aman.
+671,671,Serbuk kayu merah pereda radang jerawat dan masker wajah kulit mulus.,Masker serbuk kayu.,Aman luar.
+672,672,"Kayu hitam legendaris, rebusannya untuk anti-diabetes (lokal).",Rebus kulit kayu/daun.,Aman.
+673,673,"Kayu terkeras di dunia (Ulin), abunya untuk menghitamkan rambut.",Gunakan abu/minyak bijinya.,Aman luar.
+674,674,"Kayu tahan rayap, getah/kulit pohonnya pencuci darah kotor.",Rebus kulit kayu merbau.,Aman.
+675,675,Rumput pakan sapi untuk pereda panas dalam hewan dan manusia.,Rebus akar rumput.,Aman.
+676,676,Rumput pakan bernutrisi kalsium tinggi.,Rebus untuk air minum kuda/sapi.,Aman.
+677,677,Daun paku sarang burung obat pelancar persalinan dan rambut lebat.,Tumbuk dan balur ke perut/rambut.,Aman luar.
+678,678,Bunga warna-warni penyembuh radang tenggorokan.,Rebus seluruh tanaman.,Aman.
+679,679,Sambiloto merah penurun demam tipes dan gula darah super pahit.,Rebus daun.,Aman.
+680,680,Paku cakar ayam obat kanker nasofaring dan radang paru.,Rebus herba cakar ayam.,Aman.
+681,681,Kayu merah pereda pendarahan radang usus dalam.,Rebus kayu.,Aman.
+682,682,Daun dengan bulu penyengat pereda nyeri sendi dan pegal (dipukulkan ke badan).,Pukulkan perlahan ke kulit pegal (Papua).,"Sangat perih dan gatal terbakar, namun menyembuhkan pegal instan."
+683,683,Daun lembut pereda luka bakar dan bisul.,Tumbuk dan tempel.,Aman luar.
+684,684,"Jelatang berdaun lebar pemicu gatal panas ekstrem, obat rematik luar.",Sabetkan ke area rematik.,"Gatalnya bisa bertahan berhari-hari, hati-hati."
+685,685,Jelatang liar gatal untuk pereda radang sendi tradisional.,Sabetkan ke kulit.,Iritan kulit berat.
+686,686,Kulit kayu obat sakit gigi dan penguat gusi.,Rebus dan kumur.,Aman.
+687,687,Buah jambu liar asam pereda diare.,Makan buah/rebus daun.,Aman.
+688,688,Buah jambu mini hutan penurun asam urat.,Makan buah.,Aman.
+689,689,Jambu sekecil kancing asam manis pembersih ginjal.,Makan segar.,Aman.
+690,690,Bunga wangi penyembuh malaria dan hipertensi.,Rebus bunga kenanga.,Aman.
+691,691,Bunga merah kantil peluruh haid dan pewangi alami.,Rebus bunga.,Aman.
+692,692,Bunga putih pembersih mata rabun dan tetes mata.,Rendam air bersih untuk cuci mata.,Aman.
+693,693,Bunga mawar liar kaya vitamin c untuk nyeri sendi lutut.,Teh kelopak bunga/buah.,Aman.
+694,694,Teratai warna merah penenang jantung berdebar.,Rebus kelopak merah.,Aman.
+695,695,"Kecubung hitam sangat toksik halusinogen, obat asma luar.",Dilarang minum.,SANGAT BERACUN GILA HALUSINASI MATI.
+696,696,Kecubung gantung gunung beracun anestesi kuat.,Jangan dikonsumsi.,SANGAT BERACUN GILA MATI KOMA.
+697,697,Daun harum pengusir demam dan nyamuk.,Rebus daun.,Aman.
+698,698,Bunga kertas putih pereda keputihan wanita.,Rebus bunga putih.,Aman.
+699,699,Rumput pakan kaya silika penguat tulang retak.,Rebus rumput.,Aman.
+700,700,Akar teki merah peluruh kencing batu ginjal.,Rebus umbi teki merah.,Aman.
+901,701,"Gulma berbunga ungu yang bijinya meletus kena air, penyembuh kencing manis akut.",Rebus akar dan daun segar.,Aman.
+902,702,"Bunga kecil yang jika dikunyah membuat lidah mati rasa, obat sakit gigi instan.",Kunyah bunga kuningnya langsung di area gigi yang sakit.,"Sangat kebas di mulut, jangan telan berlebihan."
+903,703,Daun gulma penutup luka berdarah yang sangat cepat membekukan darah.,Tumbuk dan tempelkan ke luka.,Dilarang keras untuk diminum (toksik bagi liver).
+904,704,Daun rambat penurun demam malaria dan obat luka gores.,Rebus daun muda.,"Aman luar, oral awas mual."
+905,705,Bunga tahi ayam cantik namun daunnya sangat beracun bagi hati (liver).,Hanya untuk obat gosok rematik/keseleo.,SANGAT BERACUN jika diminum. Memicu kerusakan liver fatal (Lantadene).
+906,706,Bunga oranye terang (marigold lokal) pengusir serangga dan penyembuh mata minus.,Seduh kelopak bunga sebagai teh.,Aman.
+907,707,Tanaman hias dengan kelopak putih/pink pelega asma dan bronkitis.,Rebus daun/bunga.,Aman.
+908,708,Bunga wangi cempaka kuning penyembuh demam dan keputihan wanita.,Rebus bunga kering.,Aman.
+909,709,Melati bintang berdaun rimbun untuk penenang debar jantung.,Seduh bunga segar.,Aman.
+910,710,Bunga hias jalan tol yang sangat mematikan jantung (Oleander).,DILARANG DISENTUH GETAHNYA.,SANGAT BERACUN! Satu helai daun bisa membunuh manusia (koma dan henti jantung).
+911,711,Bunga turi merah penurun tekanan darah dan penyembuh sariawan usus.,Jadikan pecel/rebusan sayur.,Aman (jangan makan mentah).
+912,712,Bunga waru darat pereda bengkak kelenjar dan pelancar haid.,Rebus bunga/daun.,Aman.
+913,713,Talas raksasa hiasan yang umbinya harus dimasak sangat lama untuk obat rematik.,Gunakan hanya untuk obat luar (tempel).,SANGAT GATAL. Beracun jika tidak dimasak berminggu-minggu (Oksalat tinggi).
+914,714,"Bunga bangkai raksasa endemik, kuncupnya obat pemulih rahim pasca melahirkan (tradisional ekstrim).","Sangat dilindungi, dilarang digunakan.","Hanya untuk konservasi alam, status dilindungi UU."
+915,715,"Rumput liar berbunga bulat hijau, obat disentri dan penurun panas anak.",Rebus seluruh rumput.,Aman.
+916,716,"Bunga merah menjuntai seperti ekor kucing, pereda pendarahan usus dan wasir.",Rebus bunga merah.,Aman.
+917,717,"Gulma berbiji jarum yang nempel di celana, penurun gula darah sangat ampuh.",Rebus daun ketul.,Aman.
+918,718,Gulma sawah obat gosok rematik dan sakit pinggang parah.,Tumbuk dan gosokkan.,Awas iritasi kulit (vesikan).
+919,719,"Ciplukan hutan berbuah lebih besar, kaya vitamin C untuk imun dan paru-paru.",Makan buah matang.,Awas buah mentah beracun (solanin).
+920,720,"Terong bentuk puting susu, obat luar ambeien dan penurun panas.",Tumbuk untuk kompres luar.,SANGAT BERACUN jika dimakan (Toksik saraf).
+921,721,"Kecubung babi berduri tajam, anestesi lokal dan obat asma hisap.",Dilarang keras untuk dikonsumsi oral.,"SANGAT BERACUN (Halusinasi, kejang, kematian)."
+922,722,Kacang kayu penguat ginjal dan penurun batuk berdarah.,Rebus biji/daun.,Aman (rebus matang).
+923,723,Kacang polong pipih manis penjaga tekanan darah dan kolesterol.,Tumis/sayur.,Aman.
+924,724,Buah kundur pendingin panas dalam dan penyembuh radang tenggorokan akut.,Jadikan manisan atau rebusan kuah.,Aman.
+925,725,Buah merah kecil mirip tomat dengan rasa selai kacang pelindung kardiovaskular.,Makan segar.,Aman.
+926,726,"Buah asam rawa mirip salak, obat batuk parah dan sariawan.",Jadikan manisan/rebus.,Aman.
+927,727,"Batang berduri nibung, akarnya obat kencing batu dan sifilis tradisional.",Rebus akar.,Aman.
+928,728,"Getah merah rotan jernang, lem luka berdarah paling mujarab di hutan.",Teteskan ke luka terbuka.,Aman luar.
+929,729,"Akar tuba untuk racun ikan, membunuh kutu rambut dengan cepat.",Tumbuk dan cuci rambut.,SANGAT BERACUN! Mematikan saraf jika terminum (Rotenon).
+930,730,Rimpang wangi liar obat sakit perut dan penambah selera makan.,Rebus rimpang.,Aman.
+931,731,Buah wresah mirip kapulaga untuk obat batuk dan kembung.,Seduh bijinya.,Aman.
+932,732,Rimpang temu putri penyembuh kram haid dan pencuci darah.,Rebus rimpang.,Aman.
+933,733,Daun lada air pedas hangat peluruh keringat demam dan cacing pita.,Rebus daun.,Aman.
+934,734,Sayur kangkung darat obat susah tidur (insomnia) ringan.,Tumis sayur.,Aman.
+935,735,Daun kolesom (som hutan) sayur penambah stamina pria dan wanita lelah.,Tumis daun/rebus akar.,Aman.
+936,736,"Mangga kalimantan kulit tebal, kaya vitamin A untuk mata katarak.",Makan daging buah.,Aman.
+937,737,Gandarusa batang merah obat memar tulang dan KB pria alami.,Rebus daun merah.,Aman.
+938,738,Buah rambai asam manis penurun panas demam tinggi.,Makan buah matang.,Aman.
+939,739,Buah menteng gajah / kapundung pelancar pencernaan dan obat sariawan.,Makan buah segar.,Aman.
+940,740,"Buah tampoi kulit tebal manis, sumber karbohidrat energi hutan.",Makan daging buah.,Aman.
+941,741,Matoa hutan obat disentri dan daunnya penyembuh luka.,Makan buah/tumbuk daun.,Aman.
+942,742,"Buah markisa ungu pereda cemas, stres, dan penurun tensi darah.",Jus buah.,Aman.
+943,743,Markisa konyal manis pendingin lambung panas dan maag.,Makan buah manis segar.,Aman.
+944,744,Markisa raksasa (erbis) pelancar BAB dan pereda radang usus buntu.,Makan daging buah dan biji.,Aman.
+945,745,Pepaya gunung (carica) tinggi enzim papain pelancar sembelit keras.,Manisan/rebusan.,Awas getah mentah bikin gatal lidah.
+946,746,Buah blewah pendingin ginjal dan pencuci kandung kemih panas.,Jus/es blewah.,Aman.
+947,747,Timun suri renyah pelapis lambung perih saat puasa.,Makan daging buah.,Aman.
+948,748,Timun krai penyegar tenggorokan kering dan hidrasi sel tubuh.,Sayur/lalapan krai.,Aman.
+949,749,Talas beneng raksasa kuning pengganti nasi bebas gluten.,Kukus matang (wajib).,Beracun gatal jika tidak dimasak benar.
+950,750,Umbi kimpul pembersih lendir usus dan sumber energi lambat.,Kukus matang.,Beracun gatal oksalat jika mentah.
+951,751,Buah kesemek berbedak penurun darah tinggi dan pencegah stroke.,Makan buah matang.,Awas sembelit karena tanin tinggi.
+952,752,Sawo mentega (campolay) kuning kaya beta karoten pelindung kornea mata.,Makan daging buah.,Aman.
+953,753,Sawo raksasa mamey sapote merah kaya vitamin C untuk kolagen kulit.,Makan daging buah matang.,Aman.
+954,754,Sawo abiu bergetah putih manis obat batuk bronkitis alami.,Makan daging buah bening.,Aman (bibir bisa lengket kena getah).
+955,755,Kacang/akar beluru raksasa pengganti sampo penghilang ketombe gatal.,Tumbuk dan gosok ke rambut (berbusa).,SANGAT BERACUN jika dimakan (Saponin fatal).
+956,756,"Buah mirip mangga di pantai, racun mematikan untuk hama.",DILARANG DISENTUH / DIMAKAN.,SANGAT BERACUN! (Kematian karena henti jantung seketika).
+957,757,Daun ketepeng kecil obat panu dan kurap mujarab dari luar.,Tumbuk dan oles ke jamur kulit.,Aman luar.
+958,758,Daun cincau perdu (bukan rambat) pereda panas dalam dan sariawan.,Peras daun dan diamkan jadi cincau.,Aman.
+959,759,Jeruk santang mini penurun kolesterol dan sumber vitamin C harian.,Makan buah segar.,Aman.
+960,760,Jeruk dekopon jepang ukuran besar tanpa biji pembersih lemak darah.,Makan buah/jus.,Aman.
+961,761,Kulit kayu klampis obat sakit gigi dan penyembuh luka kulit.,Rebus kulit kayu/kumur.,Aman.
+962,762,Kulit kayu pilang pewarna dan obat disentri berdarah.,Rebus kulit kayu.,Aman.
+963,763,Akar turi rawa (gabus) penyerap racun darah (tradisional).,Rebus akar.,Aman.
+964,764,Bunga kupu-kupu putih pereda demam dan batuk anak.,Rebus bunga.,Aman.
+965,765,Bunga merah dadap belendung penenang saraf cemas.,Rebus bunga (dosis ringan).,Awas biji/kayu beracun alkaloid.
+966,766,Daun jati pasir obat ambeien bengkak dan radang wasir.,Tumbuk dan tempelkan.,Aman luar.
+967,767,Daun waru laut bentuk hati obat demam dan penyubur rambut.,Remas daun di air.,Aman.
+968,768,Manggis hutan asam segar pereda sariawan dan gusi berdarah.,Makan daging buah.,Aman.
+969,769,Manggis bundar merah (mundar) penurun asam urat sendi.,Makan buah.,Aman.
+970,770,Jambu kelampok hutan obat diare mampet.,Makan buah asam/sepat.,Aman.
+971,771,Jambu bol putih langka penyejuk lambung dan obat sariawan.,Makan buah segar.,Aman.
+972,772,Buah rukam asam / krukup obat kencing batu ginjal.,Pijat buah sebelum dimakan.,Aman.
+973,773,Buah namnam hutan pereda diare berdarah.,Rebus buah keriput.,Aman.
+974,774,Daun keri (bayberry jawa) pengusir masuk angin dan sakit perut.,Rebus daun.,Aman.
+975,775,Daun ki ambon pantai obat katarak tetes mata tradisional.,Tetes air perasan (sangat perih!).,Gunakan dengan sangat hati-hati.
+976,776,Bunga karang hiasan peluruh kencing nanah.,Rebus bunga herba.,Aman.
+977,777,Bunga melati air penenang debar jantung.,Rebus bunga putih.,Aman.
+978,778,Daun teratai raksasa amazon obat luar untuk bengkak.,Tempel daun ke kulit.,Aman luar.
+979,779,Umbi bunga bangkai jangkung sumatra (porang raksasa) penurun berat badan.,Harus ekstrak pabrik.,MENTAH SANGAT BERACUN GATAL OKSALAT MATI.
+980,780,Akar paku simpai raksasa obat disentri dan batuk darah.,Rebus rimpang paku.,Aman.
+981,781,Bulu paku tiang penyetop darah mengucur luka robek (lem luka).,Taburkan bulu emas ke luka.,Aman luar.
+982,782,Paku kawat merayap obat encok pinggang dan batu ginjal.,Rebus paku kawat.,Aman dosis rendah.
+983,783,Paku rane spora obat bedak bayi ruam popok dan biang keringat.,Tabur spora rane (Lycopodium powder).,Aman luar.
+984,784,Paku resam obat luka memar dan penyejuk panas demam.,Rebus paku resam.,Aman.
+985,785,Paku suplir merah pereda asma batuk rejan eropa.,Rebus daun suplir.,Aman.
+986,786,Paku pedang penyerap racun formaldehida udara ruangan.,Tanaman indoor.,Aman.
+987,787,Lumut hati penyembuh penyakit liver/hepatitis (simbol tradisional).,Rebus lumut hati.,Aman.
+988,788,Lumut tanduk obat tetes mata merah bengkak.,Peras airnya.,Awas infeksi air tidak steril.
+989,789,Daun mirip putri malu (payung) pereda asma dan diabetes.,Rebus seluruh tanaman.,Aman.
+990,790,Meniran hijau besar obat penghancur batu ginjal kalsium terkuat.,Rebus daun herba.,Aman.
+991,791,Krokot babi berdaun empat pereda panas dalam amandel.,Rebus krokot kecil.,Aman.
+992,792,Krokot merah bulu obat luka bakar dan radang kulit.,Tumbuk dan oles.,Aman luar.
+993,793,Bunga pukul empat putih obat jerawat batu dan bisul.,Tumbuk dan tempel.,Aman luar.
+994,794,Bunga telekan biru wangi obat penutup luka berdarah.,Tumbuk dan balur.,Aman luar (jangan diminum merusak hati).
+995,795,Daun sembukan merah (kentut) obat kembung dan maag kronis.,Sayur/pepes daun.,Aman (bau hilang saat masak).
+996,796,Gulma kudu-kudu pereda sakit gigi berkepanjangan.,Kunyah daun/akar.,Aman.
+997,797,Daun sembung kuwuk penurun demam malaria dan batuk.,Rebus daun berbulu.,Aman.
+998,798,Bunga lobelia biru obat asma perokok parah.,Seduh bunga.,Awas toksikosis nikotin-like dosis tinggi.
+999,799,Bunga soka kuning penurun tensi dan obat kram betis.,Rebus bunga kuning.,Aman.
+1000,800,Daun puding hiasan penyegar napas dan penurun demam.,Rebus daun keriting.,Aman.
+1001,801,"Akar kayu hutan Kalimantan berwarna kuning pekat, mujarab untuk hepatitis dan obat liver.",Rebus batang/akar kuning.,Aman (rebus hingga matang).
+1002,802,"Akar sakti afrodisiak pria dari pedalaman Dayak, pendongkrak gairah.",Rebus akar atau rendam di alkohol.,Awas hipertensi jika berlebihan.
+1003,803,Kayu pedas dari Papua untuk energi otot instan dan vitalitas.,Seduh kulit kayu/akar.,Aman.
+1004,804,"Daun lebar pemusnah gula darah tinggi, disebut daun insulin alam.",Rebus daun kering/segar.,Awas gula darah drop seketika (hipoglikemia).
+1005,805,"Bunga bintik-bintik harimau, daunnya penyembuh asma dan radang amandel.",Rebus rimpang atau daun.,Aman.
+1006,806,"Pohon berdaun sangat pahit, obat malaria hutan dan cacingan.",Rebus daun/kayu (pahit luar biasa).,Aman (dosis rendah).
+1007,807,Daun merah merona pelancar datang bulan dan nifas.,Rebus daun merah.,Berbahaya bagi ibu hamil (memicu keguguran).
+1008,808,Daun wangi penyembuh sariawan dan mulas lambung (Ayapana).,Seduh daun seperti teh.,Aman.
+1009,809,"Daun merah di bawah, hijau di atas. Obat pendarahan rahim.",Rebus daun.,Aman.
+1010,810,"Gulma berbunga mirip ekor tikus, peluruh kencing nanah dan kutil.",Rebus/oles daun.,SANGAT BERACUN jika diminum terus-menerus (merusak liver).
+1011,811,Rumput liar penangkal racun gigitan ular dan penurun panas.,Tumbuk dan balur / rebus.,Aman.
+1012,812,Daun ungu metalik pemecah batu ginjal dan penutup luka berdarah.,Rebus daun atau tumbuk untuk luka.,Aman.
+1013,813,"Pakis renyah yang enak disayur, tinggi protein penambah sel darah.",Sayur lodeh/tumis.,Aman matang (jangan makan mentah).
+1014,814,"Bunga merah/kuning tasbih, rimpangnya obat keputihan dan radang tenggorokan.",Rebus rimpang kembang tasbih.,Aman.
+1015,815,"Bunga merah bulat (desember), umbinya obat luar luka memar parah.",Parut umbi dan tempelkan.,Umbinya SANGAT BERACUN jika tertelan!
+1016,816,"Bunga bakung putih besar, daunnya untuk kompres pembengkakan sendi dan patah tulang.",Lemas daun dan tempel/balut.,SANGAT BERACUN jika umbi dan daunnya dimakan.
+1017,817,Jamur langka penyembuh asma berat dan alergi paru-paru kronis.,Rebus jamur (sclerotium).,Aman.
+1018,818,Daun pohon bungur ungu penurun gula darah kencing manis (Banaba).,Rebus daun tua.,Aman.
+1019,819,Daun dan kulit wangi pulosari peluruh gas perut kembung (teman adas).,Rebus daun/kayu.,Aman.
+1020,820,Kulit kayu pule hutan yang sangat pahit untuk obat malaria.,Rebus kulit kayu.,Awas mual dosis tinggi.
+1021,821,Daun bidara timur tengah untuk memandikan jenazah dan ruqyah (antiseptik).,Rebus daun untuk mandi.,Aman luar/dalam.
+1022,822,"Delima langka kulit dan biji hitam, antioksidan super untuk jantung.",Makan/jus buahnya.,Aman.
+1023,823,"Pohon pinang hias batang merah, bijinya obat cacing hewan.",Biji pinang rebus.,Aman.
+1024,824,"Pacing bermahkota merah, rimpangnya obat sifilis dan kencing manis.",Rebus rimpang.,Aman.
+1025,825,Temu racikan Thailand penyembuh bisa ular dan radang.,Rebus rimpang badur.,Aman.
+1026,826,Lempuyang ukuran besar wangi untuk pencuci perut cacingan.,Parut dan peras airnya.,Aman.
+1027,827,"Bangle bentuk sarang lebah, pewangi dan penghangat badan.",Rebus/tumbuk kompres.,Aman.
+1028,828,"Kayu cendana asal Australia, minyaknya untuk aromaterapi depresi.",Minyak hirup/kayu bakar.,Aman.
+1029,829,Gandarusa berbatang putih kemerahan untuk penurun panas dan linu.,Rebus daun.,Aman.
+1030,830,Kemangi merah suci (Tulsi) dari India penangkal stres adaptogen.,Seduh teh daun.,Aman.
+1031,831,Melati wangi gambir peluruh keringat dan obat mata bengkak.,Teh bunga/kompres.,Aman.
+1032,832,Bunga cempaka putih (kantil) wangi penenang saraf dan bau ketiak.,Seduh bunga.,Aman.
+1033,833,"Kamboja bunga putih murni penurun demam, getahnya obat kutil (keras).",Rebus bunga kering.,GETAH BERACUN JANGAN KENA MATA.
+1034,834,Waru gunung daun besar obat batuk lendir paru.,Remas daun dengan air.,Aman.
+1035,835,Bunga kembang sepatu putih peluruh dahak dan penurun panas.,Rebus/remas bunga putih.,Aman.
+1036,836,"Gulma air penyedot racun sungai, jangan dimakan jika airnya kotor!",Hanya dari kolam bersih untuk lalap babi/ternak.,Menyerap logam berat berbahaya (Bioakumulator).
+1037,837,Gulma apu-apu air penyembuh kencing nanah tradisional.,Rebus herba segar.,Aman.
+1038,838,"Rumput liar jotang kuda, daunnya pereda luka terpotong pisau.",Tumbuk dan tempel daun.,Aman.
+1039,839,Gulma patikan berdaun merah asma bronkitis.,Rebus daun merah.,Aman matang.
+1040,840,Lidah buaya berbintik putih obat luka bakar dan penumbuh rambut.,Oles getah/lendir.,Aman luar.
+1041,841,"Daun jarak berwarna ungu kemerahan, getahnya racun kutil.",Tetes getah.,SANGAT BERACUN BIJINYA (Mual muntah fatal).
+1042,842,"Tapak dara bunga merah pekat, obat leukemia dan hipertensi (obat keras).",Rebus daun (dosis kecil).,Beracun jika berlebihan (vincristine).
+1043,843,Pacar cina bunga wangi merah pereda perut kembung bau mulut.,Seduh kuncup bunga.,Aman.
+1044,844,Buah sengkuang (dao) asam segar obat masuk angin.,Makan segar/rujak.,Aman.
+1045,845,"Durian merah kalimantan (lai) tidak berbau tajam, energi tinggi.",Makan daging buah.,Aman.
+1046,846,Buah nangka mini keledang manis kalimantan sumber karbohidrat.,Makan segar.,Aman.
+1047,847,"Buah bintawa (entawak) merah kulitnya berduri, obat diare kalimantan.",Rebus kulit/makan buah.,Aman.
+1048,848,"Buah pampan (tarap) daging putih manis wangi, penyegar dahaga lelah.",Makan segar.,Aman.
+1049,849,Buah tampang kuning bergetah hutan energi kuli penebang kayu.,Makan dagingnya (buang getah).,Aman.
+1050,850,"Kulit pohon terentang rawa, obat tradisional sariawan.",Rebus kulit kayu.,Aman.
+1051,851,Kulit pohon kelampayan obat malaria pedalaman.,Rebus kulit pahit.,Aman.
+1052,852,"Getah kapur barus alam asli borneo (dryobalanops), pengawet dan penenang.",Oles luar/inhalasi.,Toksik ditelan langsung.
+1053,853,Kayu kempas raksasa obat linu tulang sendi.,Rebus kulit kayu.,Aman.
+1054,854,Kayu ramin putih wangi dupa penenang cemas.,Bakar kayu/dupa.,Aman luar.
+1055,855,Getah jelutung karet hutan pembuat permen karet alami maag.,Kunyah getah olahan.,Aman.
+1056,856,Kayu gaharu buaya putih (palsu) wangi dupa anti nyamuk asma.,Bakar kayu asap.,Aman luar.
+1057,857,Pulai rawa raksasa obat disentri darah dan demam.,Rebus kulit kayu.,Aman.
+1058,858,"Pohon beringin nyawai berbuah di batang, obat gatal kulit.",Getah oles/daun rebus.,Aman luar.
+1059,859,Ara loa buah bergerombol manis pereda diare asma.,Makan buah matang/rebus akar.,Aman.
+1060,860,Ara laut ipik pereda radang gusi dan gigi goyah.,Rebus daun kumur.,Aman.
+1061,861,Beringin gondang peluruh keringat panas demam.,Rebus kulit akar.,Aman.
+1062,862,Beringin preh akarnya penumbuh rambut dan bengkak udem.,Tumbuk akar.,Aman luar.
+1063,863,"Beringin bulu pencekik pohon lain, daunnya pereda luka borok.",Tumbuk daun.,Aman luar.
+1064,864,Banyan india pohon keramat penurun gula darah (akar gantung).,Rebus akar gantung.,Aman.
+1065,865,"Pohon bodhi sakral tempat semadi, daunnya penenang jantung debar.",Rebus daun bentuk jantung.,Aman.
+1066,866,Beringin ancak daunnya penurun demam panas anak.,Rebus daun.,Aman.
+1067,867,Pohon gintungan pewarna merah darah kayu pencuci darah nifas.,Rebus kulit/daun.,Aman.
+1068,868,Kemenyan sumatra wangi vanilla dupa pengusir depresi stres.,Bakar/inhalasi uap.,Aman luar.
+1069,869,Tengkawang majau mentega hijau pelembab bibir pecah garing.,Oles mentega tengkawang.,Aman luar/dalam.
+1070,870,Kulit meranti merah obat disentri usus amuba mampet.,Rebus kulit merah.,Aman.
+1071,871,Kulit meranti putih obat batuk dan sariawan.,Rebus kulit kayu.,Aman.
+1072,872,Getah keruing plester luka bernanah dan borok kaki.,Oles getah (minyak keruing).,Aman luar.
+1073,873,Kulit mersawa obat sakit perut kolik melilit.,Rebus kulit kayu.,Aman.
+1074,874,Bangkirai kayu keras getahnya obat kutil dan kurap.,Getah dioles tipis.,Aman luar.
+1075,875,Kulit resak pewarna merah obat mencret parah.,Rebus kulit.,Aman.
+1076,876,Kulit merbau darat obat cuci ginjal dan batu urin.,Rebus kayu/kulit.,Aman.
+1077,877,Sonokeling kayu hitam ungu wangi pereda diare.,Rebus kulit/daun.,Aman.
+1078,878,Sonokembang (angsana) getah merah darahnya obat bisul bernanah.,Oles getah/rebus daun.,Aman luar dalam.
+1079,879,Kayu manis cina (cassia) tebal pedas penurun gula darah diabetes tajam.,Seduh bubuk kayu manis.,Awas merusak hati jika berlebihan tiap hari (tinggi kumarin).
+1080,880,Kayu manis ceylon tipis manis pelindung lambung (sangat rendah kumarin).,Seduh teh kayu manis murni.,Sangat aman dibanding cassia.
+1081,881,Kayu lawang liar wangi pala cengkeh obat rematik linu.,Rebus kulit/daun.,Aman.
+1082,882,Daun trawas wangi jamu obat kolik dan pusing pening.,Rebus daun.,Aman.
+1083,883,Buah medang (engkala) mirip alpukat kalimantan pelindung jantung.,Makan segar/rebus daun.,Aman.
+1084,884,Alpukat mentega kuning tebal lemak sehat penurun kolesterol jahat.,Makan buah/jus.,Aman.
+1085,885,Kopi liberika bau nangka asam tinggi untuk energi.,Seduh kopi.,Awas asam lambung/maag.
+1086,886,Kopi excelsa asam sepet penahan kantuk malam hari.,Seduh kopi.,Awas jantung debar.
+1087,887,Lada hijau (lada hitam mentah muda) sangat pedas obat angin usus.,Bumbu masakan/kunyah.,Awas maag perih.
+1088,888,Sirih tanah (kaduk/karuk) daun lebar jantung peluruh dahak asma.,Rebus daun lebar.,Aman.
+1089,889,Sirih kaduk (sirih tanah liar) penurun asam urat ampuh di malaysia.,Lalapan/rebus daun.,Aman.
+1090,890,Lengkuas goa rimpang besar bumbu gulai dan panu kurap kadas.,Parut dan gosok ke jamur.,Aman.
+1091,891,Jahe emprit kecil sangat pedas pembakar lemak dan obat batuk paru.,Rebus jahe pedas.,Awas maag ulkus berdarah.
+1092,892,Kecombrang (honje) merah muda bunga wangi pengusir bau badan.,Lalapan/sambal.,Aman.
+1093,893,Bawang raksasa (mekah) obat penurun kolesterol darah tinggi.,Iris makan/rebus.,Aman.
+1094,894,Temu warna ungu/gelap (nuloh) pembersih keputihan rahim bau.,Rebus rimpang.,Aman.
+1095,895,Teratai amerika kuning akar teratainya obat disentri parah.,Rebus rimpang kembang.,Aman.
+1096,896,Pakis kalimantan (kelakai) merah penyembuh anemia darah kurang tajam.,Tumis kelakai merah.,Aman.
+1097,897,Paku kinca perak daun hijau garis putih obat ginjal bengkak.,Rebus daun paku.,Aman.
+1098,898,Rumput teki putih bunga putih peluruh batu kencing urat.,Rebus umbi rumput.,Aman.
+1099,899,Putri malu raksasa berduri panjang obat asma (sedikit beracun).,Rebus sedikit herba.,Awas duri racun (mimosin hewan rontok).
+1100,900,Rumput belang ungu perak menjalar (inchplant) obat batuk darah.,Rebus daun belang.,Aman.
+1101,901,Bumbu rawon pengawet daging.,Rebus peram abu.,MENTAH SANGAT BERACUN.
+1102,902,Pereda demam booster imun.,Rebus daun.,Aman.
+1103,903,Pereda panas dalam tipes.,Sayur bening.,Awas jika rasanya pahit (racun).
+1104,904,Penambah nafsu makan obat cacing.,Sambal/sayur.,Aman.
+1105,905,Obat luar bisul.,Tumbuk luar.,BERACUN JIKA DIMAKAN.
+1106,906,Obat kadas panu luar.,Parut luar.,SANGAT BERACUN ORAL.
+1107,907,Pengatur ph air obat luka.,Rebus daun kering.,Aman.
+1108,908,Obat malaria diare.,Rebus kulit kayu.,Aman.
+1109,909,Pelega asma linu panggul.,Rebus herba.,Aman.
+1110,910,Penurun asam urat diuretik.,Rebus akar.,Aman manusia (kucing euforia).
+1111,911,Penguat lambung sumber energi.,Kukus sayur.,Aman.
+1112,912,Pembersih darah kotor batuk.,Rebus akar.,Aman.
+1113,913,Pelapis lambung luka.,Kukus sayur.,Aman.
+1114,914,Peningkat kesuburan wanita.,Makan segar.,Aman ibu hamil.
+1115,915,Obat diare sariawan.,Rebus daun.,Aman.
+1116,916,Obat rematik cacingan.,Rebus akar.,Aman.
+1117,917,Penyembuh luka bakar luar.,Rebus akar luar.,Aman luar.
+1118,918,Penutup luka berdarah diare.,Rebus kulit kayu.,Aman.
+1119,919,Bumbu asam sariawan.,Makan segar.,Aman.
+1120,920,Obat perut mulas pewarna.,Rebus kulit kayu.,Aman.
+1121,921,Penyembuh kolera disentri.,Rebus kulit kayu.,Aman.
+1122,922,Pencuci luka infeksi luar.,Tumbuk cuci luar.,Aman luar.
+1123,923,Obat sakit perut penurun tensi.,Rebus biji.,Aman.
+1124,924,GETAH MEMATIKAN MATA BUTA.,DILARANG SENTUH.,SANGAT BERACUN.
+1125,925,Pereda pendarahan luka.,Tumbuk luar.,Aman luar.
+1126,926,Pereda asma wasir.,Makan segar.,Aman.
+1127,927,Obat masuk angin rematik.,Rebus batang.,Aman.
+1128,928,Pencegah pendarahan nifas.,Rebus bunga.,Aman.
+1129,929,Penurun demam anak.,Rebus bunga.,Aman.
+1130,930,Pereda asma bronkitis.,Seduh kembang.,DILINDUNGI ALAM.
+1131,931,Penurun gula darah.,Rebus daun.,Aman.
+1132,932,Penenang saraf stres.,Seduh bunga.,Aman.
+1133,933,Obat kencing nanah.,Rebus daun.,Aman.
+1134,934,Penetralisir racun alergi.,Minum airnya.,Aman.
+1135,935,Pendingin lambung panas.,Makan dagingnya.,Aman.
+1136,936,Pereda panas dalam.,Rebus akar.,Aman.
+1137,937,Pembersih batu ginjal.,Rebus bunga.,Aman.
+1138,938,Pengganti sabun sampo.,Gunakan luar.,SANGAT BERACUN DIMINUM.
+1139,939,Penyembuh malaria.,Rebus kulit kayu.,Aman.
+1140,940,Penyejuk lambung.,Rebus kulit kayu.,Aman.
+1141,941,Penyedot bisa ular (luar).,Tempel luar.,BERACUN DITELAN.
+1142,942,Pereda panas dalam maag.,Peras jelly.,Aman.
+1143,943,Obat penurun panas.,Rebus herba.,Aman.
+1144,944,Penghenti darah luka luar.,Tumbuk luar.,DILARANG MINUM LIVER.
+1145,945,Obat bengkak sendi (luar).,Lemas tempel.,SANGAT BERACUN DITELAN.
+1146,946,Penyembuh keseleo parah.,Kompres daun.,SANGAT BERACUN DITELAN.
+1147,947,Obat penurun panas.,Rebus daun.,Aman.
+1148,948,Obat encok pinggang (luar).,Tempel daun.,AWAS KULIT MELEPUH.
+1149,949,Penyambung tulang retak.,Seduh akar.,Aman dosis rendah.
+1150,950,Penghilang bau badan.,Lalapan.,Aman.
+1151,951,Pelapis luka operasi.,Rebus daun.,Aman.
+1152,952,Obat diabetes akut.,Rebus buah.,Aman.
+1153,953,Pereda asma bronkus.,Rebus buah.,Aman.
+1154,954,Penurun darah tinggi instan.,Kukus lalap.,Aman.
+1155,955,Pereda amandel radang.,Rebus buah.,Aman.
+1156,956,Pencuci ginjal batu urat.,Rebus buah.,AWAS DIARE.
+1157,957,Pendingin mata bengkak.,Iris tempel.,Aman luar.
+1158,958,Pembersih paru perokok.,Sayur jus.,AWAS RACUN JIKA PAHIT.
+1159,959,Penurun gula darah lambung.,Tumis sayur.,Aman.
+1160,960,Pereda demam.,Makan segar.,Aman.
+1161,961,Obat malaria dbd.,Rebus buah.,Aman.
+1162,962,Adaptogen anti stres.,Teh daun.,Aman.
+1163,963,Hemostatik darah luka.,Bubuk akar.,Aman.
+1164,964,Tonik energi paru.,Rebus akar.,Aman.
+1165,965,Imunomodulator sel.,Sup akar.,Aman.
+1166,966,Penyeimbang hormon haid.,Rebus akar.,Aman.
+1167,967,Pereda kram usus.,Rebus ubi.,Aman.
+1168,968,Penyejuk maag lambung.,Parut matang.,Aman.
+1169,969,Pembersih darah jerawat.,Rebus akar.,Aman.
+1170,970,Obat rematik sendi.,Rebus rimpang.,Aman.
+1171,971,Pencuci eksim psoriasis.,Rebus rimpang.,Aman.
+1172,972,Pencuci ginjal.,Tumis sayur.,Urin akan bau belerang.
+1173,973,Penurun tensi darah.,Masak iris.,Aman.
+1174,974,Penghangat paru flu.,Campur sup.,Aman.
+1175,975,Obat asma sesak.,Acar masak.,Aman.
+1176,976,Peningkat memori.,Iris salad.,Aman.
+1177,977,Penghancur kista.,Rebus rimpang.,Aman.
+1178,978,Stamina pria disfungsi.,Seduh bubuk.,Awas jantung debar.
+1179,979,Pereda nyeri asma.,Rebus rimpang.,Aman.
+1180,980,Penurun kolesterol visceral.,Bumbu kaldu.,Aman.
+1181,981,Penyegar napas anti kembung.,Kunyah biji.,Aman.
+1182,982,Penenang ekstrim cemas.,Rebus akar.,AWAS LIVER RUSAK LAMA.
+1183,983,Peningkat serapan jamu.,Bumbu masak.,AWAS OVERDOSIS OBAT DOKTER.
+1184,984,Penurun gula darah.,Bumbu gulai.,Aman.
+1185,985,Obat rematik angin.,Rebus kulit.,Aman.
+1186,986,Penurun asam urat.,Rebus daun.,Aman.
+1187,987,Obat diare mampet.,Rebus daun.,Aman.
+1188,988,Obat darah tinggi.,Makan segar.,Aman.
+1189,989,Penambah darah anemia.,Makan matang.,Aman.
+1190,990,Obat disentri bisul.,Rebus daun.,Aman.
+1191,991,Penyembuh luka gores.,Tumbuk daun.,Aman luar.
+1192,992,Obat sariawan berdarah.,Rebus bunga.,Aman.
+1193,993,Obat radang mata (luar).,Cuci mata.,Aman steril.
+1194,994,Pewarna biru obat diare.,Rebus kulit.,Aman.
+1195,995,Obat cacingan anak.,Rebus kulit.,Aman.
+1196,996,Obat demam rawa.,Rebus kulit.,Aman.
+1197,997,Pencuci darah alergi.,Rebus kulit.,Aman.
+1198,998,Obat sakit gigi maag.,Rebus daun.,Aman.
+1199,999,Penurun hipertensi.,Rebus akar.,Aman.
+1200,1000,Obat kembung maag.,Pepes sayur.,Aman dimasak.

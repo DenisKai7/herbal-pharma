@@ -1,0 +1,1057 @@
+id,herbal_id,nama_obat,tipe_interaksi,efek,mekanisme
+73,1,Warfarin / Heparin,Farmakodinamik,Risiko pendarahan meningkat.,Efek antiplatelet alami dari xanthorrhizol dapat memperpanjang waktu pembekuan darah secara aditif.
+74,2,Aspirin / Clopidogrel,Farmakodinamik,Peningkatan risiko pendarahan lambung dan sistemik.,Curcumin secara poten menghambat agregasi trombosit.
+75,2,Sulfonilurea (Obat Diabetes),Farmakodinamik,Risiko hipoglikemia (gula darah drop).,Efek aditif karena curcumin juga menurunkan glukosa darah.
+76,3,Warfarin,Farmakodinamik,Peningkatan nilai INR (International Normalized Ratio).,Gingerol memiliki aktivitas penghambatan enzim tromboksan sintase.
+77,3,Calcium Channel Blockers (Amlodipine),Farmakodinamik,Potensi hipotensi aditif.,Jahe memiliki efek relaksasi pembuluh darah secara alami.
+78,4,Benzodiazepin (Obat Penenang),Farmakodinamik,Peningkatan efek sedasi dan kantuk berlebih.,EPMS pada kencur memiliki efek depresan ringan pada Sistem Saraf Pusat.
+79,5,Antasida,Farmakokinetik,Absorpsi senyawa aktif berubah.,Perubahan pH lambung akibat antasida memengaruhi kelarutan ekstrak lengkuas.
+80,6,Obat Antihipertensi,Farmakodinamik,Risiko hipotensi (tekanan darah terlalu rendah).,Sambiloto memiliki efek relaksasi otot polos pembuluh darah.
+81,6,Imunosupresan,Farmakodinamik,Penurunan efektivitas obat imunosupresan.,Sambiloto adalah imunostimulan kuat yang berlawanan dengan fungsi obat imunosupresan.
+82,7,Obat Diabetes (Metformin / Glimepiride),Farmakodinamik,Risiko hipoglikemia.,Meniran mengoptimalkan penggunaan glukosa perifer.
+83,7,Lithium,Farmakokinetik,Toksisitas Lithium meningkat.,Efek diuretik meniran mengganggu ekskresi lithium dari ginjal.
+84,8,Furosemide / Thiazide,Farmakodinamik,Dehidrasi dan ketidakseimbangan elektrolit.,Efek diuretik aditif yang menyebabkan pengeluaran cairan berlebih.
+85,8,Spironolactone (Diuretik Hemat Kalium),Farmakodinamik,Risiko Hiperkalemia fatal.,"Kumis kucing sangat tinggi kalium, digabung dengan obat ini menyebabkan penumpukan kalium di jantung."
+86,9,Sedatif / Benzodiazepin,Farmakodinamik,Peningkatan efek kantuk (sedasi sentral).,Senyawa triterpenoid pegagan memodulasi neurotransmitter yang memicu relaksasi.
+87,10,Semua Obat Oral,Farmakokinetik,Penurunan absorpsi obat ke dalam darah.,"Kandungan tanin tinggi membentuk senyawa kompleks (kelat) dengan obat-obatan, menghalangi penyerapan di usus."
+88,11,ACE Inhibitor / ARB,Farmakodinamik,Risiko Hiperkalemia.,"Mengkudu kaya akan kalium, berisiko penumpukan jika ginjal dipengaruhi obat tersebut."
+89,11,Warfarin,Farmakodinamik,Penurunan efektivitas pengencer darah.,Mengkudu kaya akan Vitamin K yang mengantagonis efek Warfarin.
+90,12,Oksitosin,Farmakodinamik,Kontraksi rahim berlebihan.,Efek uterotonik mahkota dewa bersinergi dengan obat pemacu persalinan.
+91,13,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+92,14,Obat Antidiabetes,Farmakodinamik,Risiko Hipoglikemia.,Sirih merah secara kuat menghambat enzim alfa-glukosidase.
+93,15,NSAID / Analgesik,Farmakodinamik,Peningkatan risiko iritasi lambung.,Minyak atsiri daun salam ditambah NSAID meningkatkan keasaman lambung.
+94,16,Levothyroxine,Farmakokinetik,Penurunan efektivitas obat tiroid.,Komponen seledri dapat mengganggu penyerapan hormon tiroid sintetik.
+95,17,Warfarin,Farmakodinamik,Pendarahan hebat (Peningkatan INR kritis).,Bawang putih adalah antiplatelet alami yang sangat kuat.
+96,17,Saquinavir (Obat HIV),Farmakokinetik,Kegagalan terapi ARV.,Menurunkan konsentrasi saquinavir dalam plasma darah hingga 50% akibat induksi enzim CYP450.
+97,18,Statin / Parasetamol,Farmakodinamik,Risiko Hepatotoksisitas (Kerusakan Hati).,Coumarin pada kayu manis tipe Cassia dapat membebani enzim hati jika digabung obat hepatotoksik.
+98,19,Digoxin,Farmakokinetik / Toksisitas,Aritmia Jantung (Keracunan Digoxin).,"Laksatif dari lateks lidah buaya menyebabkan hilangnya kalium (hipokalemia), yang secara dramatis meningkatkan sensitivitas jantung terhadap digoxin."
+99,19,Kortikosteroid Topikal,Farmakokinetik,Peningkatan penetrasi steroid.,Gel lidah buaya meningkatkan absorpsi obat kulit ke pembuluh darah sistemik.
+100,20,Obat Antidiabetes,Farmakodinamik,Hipoglikemia ekstrem.,Stimulasi pelepasan insulin dari sel beta pankreas secara masif.
+101,21,Sulfonilurea,Farmakodinamik,Risiko Hipoglikemia.,Pare memiliki senyawa p-insulin yang secara struktural dan fungsional meniru kerja insulin manusia.
+102,22,Acetaminophen (Parasetamol),Farmakokinetik,Penurunan efektivitas pereda nyeri.,Rosella mempercepat laju eliminasi parasetamol dari dalam tubuh.
+103,22,Klorokuin,Farmakokinetik,Kegagalan terapi malaria.,Mengurangi bioavailabilitas klorokuin dalam saluran cerna.
+104,23,Levothyroxine,Farmakokinetik,Penyerapan obat terganggu.,Kalsium dan fitat yang sangat tinggi pada kelor dapat mengkelat obat tiroid.
+105,24,Diuretik Loop (Furosemide),Farmakodinamik,Dehidrasi dan ketidakseimbangan elektrolit.,Efek diuretik aditif.
+106,25,Spironolakton,Farmakodinamik,Risiko Hiperkalemia.,"Kandungan kalium pada daun ini sangat tinggi, menumpuk jika dipakai bersama diuretik hemat kalium."
+107,26,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+108,27,Beta-blocker / Antihipertensi,Farmakodinamik,Risiko hipotensi berlebih.,Thymoquinone bekerja sebagai vasodilator relaksan.
+109,28,Propranolol,Farmakokinetik,Penurunan kadar obat dalam darah.,Ekstrak Pasak Bumi menurunkan penyerapan propranolol secara signifikan dalam uji klinis.
+110,29,Terapi Pengganti Testosteron,Farmakodinamik,"Kelebihan kadar androgen (agresi, jerawat, prostat).",Stimulasi sintesis androgen intrinsik bertumpuk dengan asupan eksogen.
+111,30,Kemoterapi Berbasis Oksidasi (Alkylating agents),Farmakodinamik,Penurunan efektivitas kemoterapi.,Sifat antioksidan ekstrim dari xanthone manggis dapat menetralkan radikal bebas yang sengaja dibuat oleh obat kemo untuk membunuh sel kanker.
+112,31,MAO Inhibitor / Antidepresan,Farmakodinamik,Risiko interaksi persarafan.,Dapat memperkuat efek depresan sistem saraf pusat.
+113,32,Kemoterapi Konvensional,Farmakodinamik,Belum dapat diprediksi secara klinis.,"Sifat sitotoksiknya kuat, penggunaannya bersama kemoterapi memerlukan pengawasan onkolog ketat."
+114,33,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+115,34,NSAID,Farmakodinamik,Peningkatan risiko ulkus lambung.,Komponen napthoquinone berpotensi mengiritasi dinding lambung.
+116,35,Imunosupresan,Farmakodinamik,Menggagalkan fungsi obat.,Physalin merupakan imunomodulator yang dapat melawan efek supresi sistem imun buatan medis.
+117,36,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+118,37,Sedatif (Pil Tidur),Farmakodinamik,Memperpanjang waktu tidur (sedasi berlebih).,Citral memodulasi SSP menyebabkan efek sedatif.
+119,38,Antikoagulan / Warfarin,Farmakodinamik,Risiko pendarahan.,Eugenol menghambat jalur agregasi platelet secara signifikan.
+120,39,Benzodiazepin / Barbiturat,Farmakodinamik,Depresi Sistem Saraf Pusat (Letargi).,"Myristicin mempotensiasi efek obat penenang, dapat menyebabkan pasien sulit dibangunkan."
+121,40,Obat Transdermal (Koyo Medis),Farmakokinetik,Peningkatan penetrasi obat ke dalam darah.,"Minyak atsiri kapulaga (1,8-cineole) bertindak sebagai agen penembus (enhancer) yang kuat untuk menembus kulit."
+122,41,Obat Antidiabetes,Farmakodinamik,Risiko glukosa darah di bawah normal.,Efek insulin-releasing merangsang pelepasan insulin tambahan.
+123,42,"Fenitoin, Rifampisin, Theophylline",Farmakokinetik (MAJOR),Peningkatan drastis kadar obat dalam darah hingga level beracun (TOKSIK).,"Piperine menghambat secara kuat enzim CYP3A4 dan P-glycoprotein, menghentikan tubuh dari menghancurkan atau membuang obat-obatan tersebut."
+124,43,Antasida,Farmakokinetik,Saling menetralisir.,Asam sitrat menetralkan sifat basa dari antasida.
+125,44,Aminoglikosida / NSAID Dosis Tinggi,Farmakodinamik,Risiko Gagal Ginjal Akut tinggi.,"Asam oksalat menumpuk menjadi kristal kalsium oksalat di tubulus ginjal, ditambah obat nefrotoksik akan memperparah kerusakan nefron."
+126,45,Aspirin / Ibuprofen,Farmakokinetik,Peningkatan kadar obat dalam darah.,Suasana asam lambung yang diperkuat oleh asam jawa meningkatkan absorpsi asam salisilat (aspirin).
+127,46,Semua Obat Oral,Farmakokinetik,Penyerapan obat gagal.,Kandungan astringen (tanin) melapisi dinding usus sehingga mencegah penyerapan obat kimia. Beri jeda minimal 2 jam.
+128,47,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+129,48,NSAID Oral,Farmakodinamik,Risiko Iritasi Lambung.,Efek analgesik COX-2 inhibitor alami dapat menambah beban lambung jika digabung NSAID konvensional.
+130,49,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+131,50,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+132,51,Warfarin,Farmakodinamik,Pendarahan sulit berhenti.,Senyawa kurkuminoid menghambat agregasi platelet secara parsial.
+133,52,Aspirin / Clopidogrel / Warfarin,Farmakodinamik (MAJOR),Pendarahan Spontan Berbahaya.,Daun Dewa adalah antikoagulan dan fibrinolitik kuat. Dilarang digabungkan dengan pengencer darah resep dokter.
+134,53,Captopril / Amlodipine,Farmakodinamik,Hipotensi (tekanan darah anjlok).,Meningkatkan efek relaksasi pembuluh darah dan inhibisi ACE.
+135,54,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+136,55,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+137,56,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+138,57,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+139,58,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+140,59,Obat Jantung (Simpatomimetik),Farmakodinamik,Aritmia dan Takikardia (Jantung berdebar cepat).,Sidaguri mengandung alkaloid efedrin yang menstimulasi reseptor beta adrenergik jantung.
+141,59,MAO Inhibitor,Farmakodinamik,Krisis Hipertensi.,Penumpukan neurotransmitter stimulansia.
+142,60,Kemoterapi,Farmakodinamik,Perubahan efek sitotoksik dan penekanan sumsum tulang.,Herba ini menghambat proliferasi sel dan angiogenesis; wajib konsultasi onkolog.
+143,61,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+144,62,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+145,63,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+146,64,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+147,65,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+148,66,Kortikosteroid,Farmakodinamik,Retensi cairan dan Hipertensi.,Glycyrrhizin dalam daun saga memperpanjang waktu paruh kortisol dalam ginjal.
+149,67,Antikoagulan,Farmakodinamik,Peningkatan sedikit waktu pendarahan.,Kandungan kumarin memiliki efek pelebaran pembuluh darah ringan.
+150,68,Antibiotik Oral,Farmakokinetik,Obat tidak terserap (Gagal Terapi).,Tingkat tanin yang sangat tinggi mengkelat molekul obat sebelum sempat diserap usus.
+151,69,Suplemen Zat Besi (Fe),Farmakokinetik,Defisiensi Besi (Anemia memburuk).,Asam tanat dan galat pada majakani mengikat ion besi menjadi senyawa kompleks yang tidak larut dan dibuang lewat feses.
+152,70,Antikolinergik (Atropine),Farmakodinamik,Saling membatalkan efek.,"Arecoline adalah parasimpatomimetik, bekerja berlawanan langsung dengan antikolinergik."
+153,70,Salbutamol (Obat Asma),Farmakodinamik,Bronkospasme (Asma memberat).,"Aktivitas muskarinik dari pinang menyempitkan saluran napas, melawan kerja salbutamol."
+154,71,Obat Oral Umum,Farmakokinetik,Penurunan absorpsi.,Mekanisme ikatan tanin (sepat) mengendapkan mukosa lambung dan usus.
+155,72,Benzodiazepin / Barbiturat,Farmakodinamik,Sedasi/Kantuk berlebihan.,Jujubosides memodulasi reseptor GABA secara aditif dengan obat penenang resep dokter.
+156,73,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+157,74,Obat Antidiabetes,Farmakodinamik,Risiko gula darah turun ekstrem.,Pulai meningkatkan sensitivitas reseptor insulin seluler.
+158,75,Diuretik Konvensional,Farmakodinamik,Dehidrasi dan sering kencing parah.,Efek diuretik osmotik (mannitol) bergabung dengan diuretik mekanis.
+159,76,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+160,77,Digoxin,Farmakokinetik,Toksisitas Digoxin (Aritmia Fatal).,"Kinin/Quinidine menggeser digoxin dari ikatan proteinnya dan menurunkan sekresi ginjal, menaikkan kadar digoxin dalam darah."
+161,77,Antasida,Farmakokinetik,Gagal pengobatan malaria.,Alkaloid kina gagal diserap jika lambung tidak asam.
+162,78,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+163,79,Obat Antidiabetes,Farmakodinamik,Potensi hipoglikemia.,Penghambatan enzim alfa-glukosidase menghalangi perombakan karbohidrat.
+164,80,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+165,81,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+166,82,Pil KB (Hormonal),Farmakodinamik,Meningkatkan profil kontraseptif tak terprediksi.,Ekstrak bunga sepatu memiliki sifat anti-implantasi dan mengubah regulasi siklus estrogen.
+167,83,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+168,84,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+169,85,Diuretik / Kortikosteroid,Farmakodinamik,Hipokalemia parah.,Kehilangan kalium masif dari diare (klembak) dan ginjal (diuretik).
+170,86,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+171,87,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+172,88,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+173,89,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+174,90,Obat Diabetes & Antihipertensi,Farmakodinamik,Gula darah dan tekanan darah dapat turun drastis (Hipotensi & Hipoglikemia).,Meningkatkan sensitivitas insulin dan relaksasi pembuluh darah secara simultan.
+175,91,Warfarin / Aspirin,Farmakodinamik (Aditif),Meningkatkan risiko pendarahan.,Papain memiliki efek fibrinolitik yang memperkuat kerja pengencer darah.
+176,91,Amiodarone,Farmakodinamik,Peningkatan risiko aritmia/bradikardia.,Carpaine dan Amiodarone sama-sama menekan nodus SA jantung.
+177,92,Warfarin,Farmakokinetik,Menurunkan efektivitas Warfarin.,Kandungan Vitamin K tinggi pada daun dapat melawan efek antikoagulan Warfarin.
+178,92,MAO Inhibitor (Antidepresan),Farmakodinamik,Krisis Hipertensi.,Kandungan tyramine (rendah) berpotensi bereaksi.
+179,93,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+180,94,Insulin / Glibenclamide,Farmakodinamik (Sinergis),Hipoglikemia Berat (Gula darah drop/pingsan).,Efek penurun gula darah ganda.
+181,94,Warfarin,Farmakodinamik,Pendarahan.,Kandungan coumarin pada klabet memperpanjang waktu pembekuan darah.
+182,95,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+183,96,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+184,97,Lithium,Farmakokinetik,Menurunkan kadar Lithium dalam darah.,"Efek diuretik meningkatkan ekskresi lithium, mengurangi efektivitas obat penstabil mood tersebut."
+185,98,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+186,99,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+187,100,Isotretinoin (Obat Jerawat),Farmakodinamik (Toksisitas),Risiko Hipervitaminosis A.,Akumulasi retinoid berlebih dalam tubuh yang merusak hati.
+188,100,Orlistat (Obat Diet),Farmakokinetik,Defisiensi Beta-carotene.,Orlistat menghambat secara masif penyerapan vitamin larut lemak di usus.
+219,101,Warfarin / Aspirin / Clopidogrel,Farmakodinamik,Risiko pendarahan spontan yang parah (misal: pendarahan otak/gastrointestinal).,"Ginkgolides (terutama Ginkgolide B) adalah antagonis kuat dari Platelet-Activating Factor (PAF), sehingga sangat kuat menghambat pembekuan darah."
+220,101,Ibuprofen (NSAID),Farmakodinamik,Meningkatkan risiko iritasi dan pendarahan lambung.,Penghambatan agregasi platelet ganda dari ginkgo dan NSAID.
+221,102,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+222,103,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+223,104,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+224,105,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+225,106,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+226,107,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+227,108,Kortikosteroid / Siklosporin / Tacrolimus,Farmakodinamik,Penurunan efektivitas obat penekan imun (gagal terapi autoimun atau penolakan organ transplan).,"Echinacea menstimulasi sistem imun non-spesifik (makrofag dan sel T), berlawanan langsung dengan fungsi obat imunosupresan."
+228,109,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+229,110,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+230,111,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+231,112,"SSRI (Antidepresan: Fluoxetine, Sertraline)",Farmakodinamik,"Sindrom Serotonin (kebingungan, agitasi, hipertermia, kejang yang bisa berakibat fatal).","Hyperforin menghambat reuptake serotonin. Digabungkan dengan SSRI, kadar serotonin di otak melonjak ke tingkat beracun."
+232,112,Pil KB (Kontrasepsi Oral),Farmakokinetik,Kegagalan kontrasepsi (kehamilan yang tidak direncanakan).,"St. John's Wort adalah induktor kuat enzim hati CYP3A4, mempercepat penghancuran hormon estrogen/progestin dalam pil KB."
+233,112,Digoxin / Siklosporin / Indinavir,Farmakokinetik,Kegagalan terapi obat medis.,"Menginduksi P-glycoprotein (P-gp) di usus, memompa obat kembali ke usus sebelum diserap, sehingga kadar obat dalam darah anjlok."
+234,113,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+235,114,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+236,115,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+237,116,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+238,117,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+239,118,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+240,119,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+241,120,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+242,121,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+243,122,Nadolol (Obat Darah Tinggi/Jantung),Farmakokinetik,Penurunan efektivitas Nadolol hingga 85%.,"Katekin teh hijau (terutama EGCG) menghambat transporter OATP1A2 di usus, mencegah penyerapan Nadolol ke dalam aliran darah."
+244,122,Bortezomib (Kemoterapi Kanker Kelenjar Getah Bening),Farmakodinamik,Obat kemoterapi menjadi tidak mempan (inaktif).,Polifenol EGCG mengikat struktur molekul Bortezomib (asam boronat) dan menetralkan efek pembunuh kankernya seketika.
+245,123,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+246,124,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+247,125,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+248,126,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+249,127,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+250,128,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+251,129,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+252,130,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+253,131,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+254,132,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+255,133,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+256,134,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+257,135,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+258,136,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+259,137,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+260,138,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+261,139,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+262,140,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+263,141,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+264,142,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+265,143,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+266,144,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+267,145,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+268,146,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+269,147,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+270,148,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+271,149,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+272,150,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+273,151,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+274,152,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+275,153,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+276,154,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+277,155,Digoxin,Farmakodinamik,Toksisitas Digoxin (Aritmia fatal).,Diare yang dipicu oleh sennosida menyebabkan hilangnya kalium tubuh (hipokalemia). Kalium rendah sangat meningkatkan sensitivitas miokardium jantung terhadap obat digoxin.
+278,155,Diuretik (Furosemide / Thiazide),Farmakodinamik,Hipokalemia parah dan kelelahan otot ekstrem.,Kombinasi agen pencahar dan obat diuretik akan menguras elektrolit tubuh dari dua jalur berbeda (usus dan ginjal).
+279,156,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+280,157,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+281,158,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+282,159,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+283,160,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+284,161,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+285,162,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+286,163,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+287,164,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+288,165,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+289,166,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+290,167,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+291,168,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+292,169,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+293,170,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+294,171,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+295,172,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+296,173,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+297,174,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+298,175,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+299,176,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+300,177,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+301,178,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+302,179,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+303,180,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+304,181,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+305,182,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+306,183,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+307,184,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+308,185,Obat Antihipertensi (Semua Golongan),Farmakodinamik,Gagalnya pengobatan tekanan darah tinggi.,"Glycyrrhizin dalam akar manis menyebabkan sindrom pseudoaldosteronisme (retensi natrium dan air), menaikkan tekanan darah sehingga melawan efek obat antihipertensi."
+309,185,Kortikosteroid (Prednisone / Dexamethasone),Farmakokinetik,"Peningkatan efek samping steroid (osteoporosis, moon face).","Glycyrrhizin menghambat enzim 11-beta-hydroxysteroid dehydrogenase yang bertugas memecah kortisol, memperpanjang waktu paruh obat steroid di dalam darah."
+310,186,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+311,187,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+312,188,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+313,189,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+314,190,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+315,191,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+316,192,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+317,193,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+318,194,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+319,195,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+320,196,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+321,197,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+322,198,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+323,199,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+324,200,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+410,201,Alprazolam / Diazepam (Benzodiazepin),Farmakodinamik,Sedasi ekstrem hingga koma.,Kava sangat kuat memodulasi reseptor GABA. Kombinasi dengan obat penenang resep akan mendepresi sistem saraf pusat secara berbahaya.
+411,201,Levodopa,Farmakodinamik,Gejala Parkinson memburuk.,"Kava dilaporkan memiliki efek antagonis terhadap dopamin, sehingga melawan kerja obat Parkinson."
+412,202,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+413,203,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+414,204,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+415,205,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+416,206,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+417,207,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+418,208,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+419,209,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+420,210,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+421,211,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+422,212,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+423,213,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+424,214,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+425,215,Warfarin,Farmakokinetik,Peningkatan risiko pendarahan internal.,Chamomile mengandung kumarin alami dan menghambat sedikit enzim CYP450 yang memetabolisme warfarin.
+426,215,Cyclosporine,Farmakokinetik,Toksisitas Cyclosporine (Kerusakan Ginjal).,"Chamomile menghambat enzim CYP3A4, menyebabkan kadar obat imunosupresan ini menumpuk di dalam darah."
+427,216,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+428,217,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+429,218,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+430,219,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+431,220,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+432,221,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+433,222,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+434,223,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+435,224,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+436,225,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+437,226,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+438,227,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+439,228,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+440,229,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+441,230,Digoxin,Farmakodinamik,Aritmia fatal akibat toksisitas Digoxin.,Sennosida memicu diare yang menguras kalium tubuh (hipokalemia). Kalium rendah membuat miokardium sangat sensitif terhadap obat digoxin.
+442,230,Diuretik Tiazid,Farmakodinamik,Hipokalemia parah dan kelemahan otot ekstrem.,Kombinasi obat peluruh kencing (tiazid) dan peluruh BAB (senna) menguras elektrolit kalium dari dua jalur ekskresi sekaligus.
+443,231,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+444,232,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+445,233,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+446,234,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+447,235,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+448,236,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+449,237,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+450,238,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+451,239,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+452,240,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+453,241,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+454,242,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+455,243,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+456,244,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+457,245,Insulin / Obat Antidiabetes Oral,Farmakodinamik,Risiko hipoglikemia berat.,Ginsenosida merangsang pelepasan insulin dan meningkatkan serapan glukosa ke dalam sel.
+458,245,MAO Inhibitor (Phenelzine),Farmakodinamik,"Insomnia, sakit kepala, gemetar (tremor).",Sifat stimulan ginseng bersinergi kuat dengan antidepresan MAOI yang mencegah pemecahan neurotransmiter stimulan di otak.
+459,246,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+460,247,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+461,248,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+462,249,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+463,250,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+464,251,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+465,252,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+466,253,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+467,254,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+468,255,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+469,256,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+470,257,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+471,258,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+472,259,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+473,260,Ciprofloxacin / Cimetidine / Fluoxamine,Farmakokinetik,"Toksisitas Kafein (Takikardia, Tremor, Insomnia parah).","Obat-obatan ini sangat kuat menghambat enzim hati CYP1A2 yang bertugas menghancurkan kafein. Akibatnya, kafein menumpuk di darah hingga level beracun."
+474,260,Lithium,Farmakokinetik,Kambuhnya gejala mania pada Bipolar.,"Kafein memicu ginjal untuk membuang lithium lebih cepat. Jika konsumsi kopi dihentikan tiba-tiba, kadar lithium dalam darah bisa mendadak naik ke level toksik."
+475,261,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+476,262,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+477,263,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+478,264,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+479,265,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+480,266,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+481,267,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+482,268,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+483,269,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+484,270,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+485,271,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+486,272,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+487,273,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+488,274,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+489,275,Anestesi Bedah / Obat Bius Umum,Farmakodinamik,Risiko fatal gagal napas atau pasien tidak bisa dibangunkan.,Valerian memperpanjang aksi anestesi sentral dengan kuat (GABAergic). Wajib dihentikan 2 minggu sebelum prosedur operasi besar.
+490,276,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+491,277,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+492,278,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+493,279,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+494,280,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+495,281,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+496,282,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+497,283,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+498,284,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+499,285,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+500,286,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+501,287,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+502,288,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+503,289,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+504,290,Hormon Tiroid Sintetik (Levothyroxine),Farmakodinamik,"Hipertiroidisme (Detak jantung cepat, tremor, cemas).","Ashwagandha dilaporkan merangsang produksi hormon tiroid (T4) alami oleh kelenjar tiroid. Digabungkan dengan obat resep, akan menyebabkan kelebihan hormon tiroid."
+505,290,Obat Imunosupresan,Farmakodinamik,Mengurangi efektivitas pengobatan.,"Sebagai adaptogen dan imunomodulator, ia meningkatkan fungsi sel T dan sel B yang coba ditekan oleh imunosupresan."
+506,291,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+507,292,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+508,293,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+509,294,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+510,295,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+511,296,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+512,297,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+513,298,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+514,299,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+515,300,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+516,301,MAO Inhibitor (Phenelzine),Farmakodinamik,Krisis hipertensi yang bisa berakibat fatal.,"Ephedrine memicu pelepasan norepinefrin secara masif, sedangkan MAOI mencegah pemecahannya. Akibatnya hormon stres menumpuk di otak dan jantung."
+517,301,Beta-blocker (Propranolol),Farmakodinamik,Menurunkan efektivitas obat penurun darah tinggi.,"Ephedra merangsang reseptor adrenergik (simpatomimetik), melawan secara langsung kerja obat penghambat reseptor beta."
+518,302,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+519,303,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+520,304,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+521,305,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+522,306,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+523,307,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+524,308,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+525,309,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+526,310,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+527,311,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+528,312,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+529,313,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+530,314,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+531,315,Adenosine (Obat Jantung),Farmakodinamik,Menghambat efek terapi Adenosine.,"Kandungan kafein sangat tinggi dalam Guarana bertindak sebagai antagonis kompetitif pada reseptor adenosin, menggagalkan kerja obat untuk mengatasi aritmia."
+532,316,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+533,317,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+534,318,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+535,319,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+536,320,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+537,321,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+538,322,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+539,323,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+540,324,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+541,325,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+542,326,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+543,327,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+544,328,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+545,329,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+546,330,Midazolam / Dextromethorphan / Felodipine,Farmakokinetik,Peningkatan drastis kadar obat dalam darah (Toksisitas).,"Sama seperti Grapefruit, Bitter Orange menghambat enzim CYP3A4 di usus, menyebabkan obat-obatan tertentu gagal diurai dan menumpuk di darah."
+547,330,Stimulan Medis (Amphetamine / Methylphenidate),Farmakodinamik,Risiko tinggi stroke dan aritmia jantung.,Kandungan Synephrine bersinergi secara kuat dengan stimulan medis dalam memacu sistem saraf simpatik.
+548,331,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+549,332,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+550,333,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+551,334,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+552,335,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+553,336,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+554,337,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+555,338,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+556,339,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+557,340,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+558,341,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+559,342,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+560,343,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+561,344,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+562,345,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+563,346,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+564,347,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+565,348,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+566,349,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+567,350,Finasteride / Dutasteride,Farmakodinamik,Tidak disarankan (Terapi tumpang tindih).,Keduanya digunakan untuk prostat (BPH) dan memiliki mekanisme yang sama yakni menghambat enzim 5-alpha-reductase. Penggunaan bersama tidak menambah manfaat dan bisa menimbulkan efek samping hormonal.
+568,350,Warfarin / Aspirin,Farmakodinamik,Peningkatan risiko memar dan pendarahan.,Saw Palmetto memiliki aktivitas antiplatelet ringan melalui jalur penghambatan enzim siklooksigenase (COX).
+569,351,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+570,352,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+571,353,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+572,354,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+573,355,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+574,356,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+575,357,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+576,358,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+577,359,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+578,360,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+579,361,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+580,362,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+581,363,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+582,364,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+583,365,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+584,366,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+585,367,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+586,368,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+587,369,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+588,370,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+589,371,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+590,372,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+591,373,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+592,374,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+593,375,Atorvastatin / Obat Hepatotoksik Lain,Toksisitas,Peningkatan risiko kerusakan hati (Hepatitis fulminan).,Terdapat laporan kasus kerusakan hati terkait Black Cohosh. Menggabungkan dengan statin atau obat yang membebani liver bisa mempercepat kerusakan hepatoseluler.
+594,375,Tamoxifen (Obat Kanker Payudara),Farmakodinamik,Berpotensi mengganggu efektivitas Tamoxifen.,Black Cohosh memiliki sifat modulator reseptor estrogen selektif yang dapat berkompetisi dengan Tamoxifen di jaringan payudara.
+595,376,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+596,377,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+597,378,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+598,379,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+599,380,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+600,381,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+601,382,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+602,383,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+603,384,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+604,385,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+605,386,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+606,387,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+607,388,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+608,389,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+609,390,Antidepresan Trisiklik / MAO Inhibitor,Farmakodinamik,"Krisis Hipertensi, takikardia, dan kecemasan parah.","Yohimbine memblokir reseptor alpha-2 adrenergik sentral, memicu pelepasan norepinefrin secara masif yang efeknya digandakan oleh obat antidepresan tersebut."
+610,390,Clonidine,Farmakodinamik (Antagonis),Saling meniadakan efek obat.,"Clonidine adalah obat antihipertensi golongan agonis alpha-2, sedangkan Yohimbine adalah antagonis alpha-2, sehingga terapi Clonidine akan gagal."
+611,391,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+612,392,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+613,393,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+614,394,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+615,395,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+616,396,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+617,397,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+618,398,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+619,399,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+620,400,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+621,401,Warfarin / Antikoagulan,Farmakodinamik,Peningkatan risiko pendarahan spontan.,Kandungan salisin dalam willow bark diubah menjadi asam salisilat yang menghambat agregasi platelet secara kuat.
+622,401,"NSAID (Ibuprofen, Naproxen)",Farmakodinamik,Iritasi mukosa lambung dan toksisitas ginjal.,"Efek aditif dalam menghambat prostaglandin pelindung lambung, memicu ulkus (tukak lambung) berdarah."
+623,402,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+624,403,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+625,404,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+626,405,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+627,406,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+628,407,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+629,408,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+630,409,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+631,410,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+632,411,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+633,412,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+634,413,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+635,414,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+636,415,Terapi Pengganti Hormon (HRT) / Estrogen Sintetik,Farmakodinamik,Stimulasi jaringan sensitif estrogen (payudara/rahim).,"Maca mengandung senyawa fitoestrogen yang berpotensi memodulasi reseptor estrogen, berinteraksi secara tak terprediksi dengan terapi hormon sintetik."
+637,416,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+638,417,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+639,418,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+640,419,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+641,420,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+642,421,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+643,422,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+644,423,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+645,424,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+646,425,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+647,426,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+648,427,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+649,428,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+650,429,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+651,430,Warfarin,Farmakokinetik,Peningkatan INR dan risiko pendarahan internal fatal.,"Jus cranberry dosis tinggi menghambat enzim CYP2C9 di hati, mencegah metabolisme warfarin sehingga kadarnya menumpuk di darah."
+652,430,Atorvastatin (Obat Kolesterol),Farmakokinetik,Peningkatan risiko miopati atau rhabdomyolisis.,"Cranberry menghambat aktivitas enzim CYP3A4, memperlambat pembuangan statin dari dalam tubuh."
+653,431,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+654,432,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+655,433,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+656,434,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+657,435,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+658,436,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+659,437,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+660,438,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+661,439,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+662,440,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+663,441,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+664,442,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+665,443,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+666,444,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+667,445,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+668,446,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+669,447,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+670,448,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+671,449,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+672,450,Obat Diabetes (Metformin / Glipizide),Farmakodinamik,Risiko hipoglikemia sekunder.,"Silymarin meningkatkan sensitivitas reseptor insulin dan menurunkan glukosa darah, memberikan efek aditif terhadap obat penurun gula."
+673,450,Diazepam / Warfarin / Amitriptyline,Farmakokinetik,Perubahan tak terduga pada konsentrasi obat di dalam darah.,"Milk thistle dapat menghambat enzim sitokrom P450 (CYP2C9 dan CYP3A4) di hati, yang memperlambat metabolisme obat-obatan tersebut."
+674,451,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+675,452,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+676,453,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+677,454,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+678,455,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+679,456,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+680,457,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+681,458,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+682,459,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+683,460,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+684,461,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+685,462,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+686,463,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+687,464,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+688,465,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+689,466,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+690,467,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+691,468,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+692,469,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+693,470,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+694,471,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+695,472,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+696,473,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+697,474,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+698,475,Diuretik / Kortikosteroid Sistemik,Farmakodinamik,Hipokalemia parah dan kelemahan otot miokardium jantung.,"Diare osmotik hebat akibat iritasi mukosa usus oleh minyak jarak menguras kalium, diperparah oleh obat yang membuang kalium melalui ginjal."
+699,476,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+700,477,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+701,478,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+702,479,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+703,480,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+704,481,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+705,482,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+706,483,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+707,484,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+708,485,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+709,486,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+710,487,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+711,488,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+712,489,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+713,490,SSRI / SNRI (Antidepresan),Farmakodinamik,Sindrom Serotonin.,"Garcinia cambogia dilaporkan meningkatkan pelepasan dan ketersediaan serotonin di celah sinaps otak, yang memicu kelebihan serotonin mematikan bila digabung SSRI."
+714,490,Statin / Parasetamol / Obat Hepatotoksik,Toksisitas,Hepatotoksisitas Akut (Kerusakan Hati).,"Penggunaan ekstrak Garcinia dikaitkan secara klinis dengan cedera hati idiopatik akut; jika digabung dengan obat lain yang disaring di hati, dapat mempercepat gagal organ."
+715,491,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+716,492,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+717,493,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+718,494,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+719,495,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+720,496,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+721,497,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+722,498,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+723,499,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+724,500,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+725,501,Warfarin / Antikoagulan,Farmakodinamik,Pendarahan hebat yang sulit dihentikan.,"Dong Quai mengandung senyawa turunan kumarin yang memiliki efek antiplatelet kuat, memperpanjang waktu protrombin (PT) dan INR secara drastis jika digabung Warfarin."
+726,501,Terapi Hormon (Estrogen/Progestin),Farmakodinamik,Modulasi reseptor yang tidak terprediksi.,Sifat fitoestrogen pada Dong Quai dapat meniru atau memblokir efek estrogen sintetik pada jaringan payudara dan rahim.
+727,502,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+728,503,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+729,504,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+730,505,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+731,506,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+732,507,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+733,508,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+734,509,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+735,510,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+736,511,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+737,512,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+738,513,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+739,514,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+740,515,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+741,516,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+742,517,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+743,518,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+744,519,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+745,520,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+746,521,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+747,522,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+748,523,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+749,524,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+750,525,Digoxin,Farmakokinetik (Interferensi Lab) / Farmakodinamik,Hasil lab palsu (false elevation) atau peningkatan toksisitas.,"Komponen eleutherosides dapat mengganggu tes darah untuk digoxin, dan secara ringan menstimulasi jantung sehingga memperburuk risiko aritmia."
+751,525,Obat Diabetes (Insulin / Metformin),Farmakodinamik,Risiko hipoglikemia berlebih.,Ginseng Siberia dapat menurunkan resistensi insulin dan meningkatkan serapan glukosa seluler secara signifikan.
+752,526,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+753,527,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+754,528,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+755,529,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+756,530,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+757,531,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+758,532,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+759,533,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+760,534,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+761,535,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+762,536,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+763,537,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+764,538,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+765,539,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+766,540,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+767,541,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+768,542,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+769,543,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+770,544,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+771,545,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+772,546,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+773,547,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+774,548,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+775,549,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+776,550,"Opioid Medis (Fentanyl, Morfin, Oxycodone)",Farmakodinamik,Depresi pernapasan fatal dan koma (OVERDOSIS).,Kratom memiliki senyawa mitragynine yang bertindak sebagai agonis parsial pada reseptor opioid mu (μ). Kombinasi dengan opioid resep akan memicu penekanan sistem pernapasan mematikan.
+777,550,Antidepresan (SSRI / SNRI),Farmakodinamik,Sindrom Serotonin dan kejang.,Kratom berinteraksi secara kompleks pada reseptor monoamine di SSP. Digabung antidepresan bisa menyebabkan badai serotonin otak.
+778,551,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+779,552,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+780,553,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+781,554,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+782,555,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+783,556,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+784,557,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+785,558,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+786,559,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+787,560,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+788,561,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+789,562,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+790,563,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+791,564,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+792,565,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+793,566,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+794,567,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+795,568,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+796,569,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+797,570,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+798,571,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+799,572,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+800,573,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+801,574,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+802,575,Siklosporin / Tacrolimus (Imunosupresan),Farmakokinetik,Toksisitas organ akut (kerusakan ginjal/hati).,"Alkaloid berberin pada Goldenseal adalah inhibitor poten terhadap enzim sitokrom P450 (terutama CYP3A4), sehingga obat tidak bisa dibuang oleh tubuh dan menumpuk ke level beracun."
+803,576,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+804,577,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+805,578,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+806,579,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+807,580,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+808,581,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+809,582,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+810,583,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+811,584,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+812,585,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+813,586,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+814,587,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+815,588,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+816,589,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+817,590,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+818,591,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+819,592,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+820,593,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+821,594,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+822,595,Phenytoin / Obat Antiepilepsi,Farmakodinamik,Memicu kejang (seizure) atau menggagalkan terapi epilepsi.,"Asam lemak esensial (GLA) pada minyak Evening Primrose dilaporkan dapat menurunkan ambang batas kejang di otak, sehingga melawan kerja obat antikonvulsan."
+823,595,Lopinavir / Ritonavir (ARV HIV),Farmakokinetik,Efektivitas obat HIV menurun.,"Evening primrose meningkatkan aktivitas enzim pemecah obat, sehingga ARV lebih cepat terbuang."
+824,596,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+825,597,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+826,598,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+827,599,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+828,600,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+829,601,Tacrolimus / Sirolimus / Cyclosporine (Imunosupresan),Farmakokinetik (MAJOR),Toksisitas akut dan kerusakan organ (hati/ginjal).,"Schisandra adalah inhibitor yang sangat poten terhadap enzim CYP3A4 di hati dan usus, serta transporter P-glycoprotein. Ini secara drastis menghentikan pembuangan obat-obatan tersebut, memicu penumpukan kadar beracun di dalam darah."
+830,601,Warfarin,Farmakokinetik,Peningkatan risiko pendarahan atau ketidakstabilan INR.,Menghambat enzim CYP2C9 yang bertugas memetabolisme Warfarin.
+831,602,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+832,603,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+833,604,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+834,605,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+835,606,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+836,607,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+837,608,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+838,609,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+839,610,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+840,611,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+841,612,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+842,613,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+843,614,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+844,615,"SSRI / SNRI (Antidepresan: Sertraline, Fluoxetine)",Farmakodinamik,"Sindrom Serotonin (Tremor, detak jantung cepat, hipertermia).","Rhodiola mengandung salidroside dan rosavin yang menghambat enzim Monoamine Oxidase (MAO). Jika dikombinasi dengan obat penghambat reuptake serotonin, kadar serotonin otak akan menumpuk pada level mematikan."
+845,615,Obat Hipertensi (Anti-hipertensi),Farmakodinamik,Hipotensi (Tekanan darah turun drastis).,"Sebagai adaptogen, Rhodiola memiliki efek vasodilatasi yang bisa memperkuat efek penurun tekanan darah secara aditif."
+846,616,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+847,617,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+848,618,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+849,619,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+850,620,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+851,621,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+852,622,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+853,623,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+854,624,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+855,625,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+856,626,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+857,627,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+858,628,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+859,629,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+860,630,"Antasida / Obat Maag (PPI, H2 Blocker)",Farmakodinamik,Memperburuk gejala GERD (Asam Lambung).,"Menthol dalam minyak peppermint merelaksasi otot sfingter esofagus bagian bawah. Meskipun nyaman di perut, ini memudahkan asam lambung naik kembali ke kerongkongan, melawan fungsi obat GERD."
+861,630,Felodipine / Obat Jantung,Farmakokinetik,Peningkatan kadar obat dalam darah.,"Minyak peppermint dapat menghambat enzim sitokrom P450 3A4 (CYP3A4) secara moderat, memperlambat pembuangan obat-obatan yang dimetabolisme oleh enzim tersebut."
+862,631,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+863,632,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+864,633,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+865,634,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+866,635,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+867,636,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+868,637,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+869,638,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+870,639,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+871,640,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+872,641,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+873,642,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+874,643,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+875,644,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+876,645,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+877,646,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+878,647,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+879,648,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+880,649,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+881,650,Aspirin / Warfarin / Pengencer Darah,Farmakodinamik,Pendarahan yang sulit berhenti (Bleeding risk).,"Kandungan parthenolide secara langsung menghambat pelepasan butiran granul sekresi oleh trombosit, menurunkan kemampuan pembekuan darah yang bersinergi secara fatal dengan obat antiplatelet."
+882,650,NSAID (Ibuprofen / Naproxen),Farmakodinamik,Saling membatalkan efek pencegahan migrain.,NSAID dan Feverfew sama-sama memodulasi jalur prostaglandin (COX). Kombinasi ini dapat menyebabkan persaingan reseptor dan menurunkan efektivitas feverfew sebagai pencegah migrain.
+883,651,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+884,652,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+885,653,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+886,654,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+887,655,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+888,656,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+889,657,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+890,658,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+891,659,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+892,660,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+893,661,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+894,662,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+895,663,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+896,664,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+897,665,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+898,666,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+899,667,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+900,668,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+901,669,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+902,670,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+903,671,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+904,672,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+905,673,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+906,674,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+907,675,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+908,676,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+909,677,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+910,678,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+911,679,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+912,680,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+913,681,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+914,682,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+915,683,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+916,684,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+917,685,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+918,686,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+919,687,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+920,688,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+921,689,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+922,690,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+923,691,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+924,692,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+925,693,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+926,694,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+927,695,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+928,696,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+929,697,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+930,698,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+931,699,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+932,700,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+933,701,Digoxin,Farmakodinamik,Peningkatan risiko toksisitas Digoxin (aritmia).,Hawthorn memiliki efek inotropik positif yang memperkuat kerja Digoxin pada otot jantung. Penggunaan bersama harus di bawah pengawasan ketat kardiolog.
+934,701,"Antihipertensi (Beta-blocker, CCB)",Farmakodinamik,Hipotensi (tekanan darah anjlok mendadak).,Hawthorn menyebabkan vasodilatasi (pelebaran pembuluh darah) yang bersinergi kuat dengan obat penurun tensi resep dokter.
+935,702,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+936,703,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+937,704,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+938,705,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+939,706,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+940,707,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+941,708,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+942,709,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+943,710,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+944,711,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+945,712,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+946,713,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+947,714,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+948,715,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+949,716,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+950,717,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+951,718,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+952,719,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+953,720,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+954,721,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+955,722,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+956,723,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+957,724,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+958,725,Lithium,Farmakokinetik,Toksisitas Lithium.,"Efek diuretik ringan dari Tribulus dapat menurunkan pembuangan lithium oleh ginjal, menyebabkan akumulasi obat dalam darah."
+959,725,Obat Antidiabetes,Farmakodinamik,Risiko hipoglikemia.,Tribulus dilaporkan memiliki efek penurun gula darah yang dapat bersinergi secara berlebihan dengan obat diabetes resep.
+960,726,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+961,727,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+962,728,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+963,729,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+964,730,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+965,731,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+966,732,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+967,733,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+968,734,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+969,735,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+970,736,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+971,737,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+972,738,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+973,739,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+974,740,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+975,741,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+976,742,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+977,743,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+978,744,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+979,745,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+980,746,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+981,747,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+982,748,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+983,749,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+984,750,Propranolol / Diltiazem,Farmakokinetik,Penurunan efektivitas obat jantung.,Ekstrak Guggul secara klinis dilaporkan menurunkan bioavailabilitas (penyerapan) dari obat-obatan tersebut di saluran cerna jika diminum bersamaan.
+985,751,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+986,752,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+987,753,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+988,754,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+989,755,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+990,756,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+991,757,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+992,758,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+993,759,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+994,760,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+995,761,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+996,762,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+997,763,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+998,764,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+999,765,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1000,766,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1001,767,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1002,768,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1003,769,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1004,770,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1005,771,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1006,772,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1007,773,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1008,774,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1009,775,Insulin / Glimepiride / Metformin,Farmakodinamik,Risiko Hipoglikemia Berat.,"Asam gymnemik menstimulasi sekresi insulin dan meregenerasi sel beta pankreas, memperkuat efek obat antidiabetes secara drastis."
+1010,776,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1011,777,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1012,778,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1013,779,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1014,780,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1015,781,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1016,782,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1017,783,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1018,784,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1019,785,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1020,786,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1021,787,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1022,788,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1023,789,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1024,790,Warfarin,Farmakokinetik,Peningkatan INR dan risiko pendarahan.,Asam boswellic dapat menghambat enzim CYP2C9 yang memetabolisme warfarin di hati.
+1025,790,NSAID (Ibuprofen / Diklofenak),Farmakodinamik,Sinergis (Antiinflamasi) dan Gastroprotektif.,"Boswellia menghambat enzim 5-LOX, melengkapi NSAID yang menghambat COX, serta membantu melindungi lambung dari iritasi akibat NSAID."
+1026,791,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1027,792,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1028,793,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1029,794,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1030,795,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1031,796,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1032,797,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1033,798,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1034,799,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1035,800,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1036,801,Metronidazole (Antibiotik),Farmakokinetik,Mempercepat pembuangan obat dan menurunkan efektivitasnya.,"Silymarin menginduksi sistem enzim CYP450 dan P-glycoprotein di usus dan hati, mempercepat klirens Metronidazole dari dalam tubuh."
+1037,801,Indinavir (Obat HIV/ARV),Farmakokinetik,Penurunan kadar ARV dalam darah.,Milk Thistle menurunkan kadar puncak Indinavir dalam plasma karena interaksi penghambatan pada metabolisme lintas pertama di hati.
+1038,802,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1039,803,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1040,804,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1041,805,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1042,806,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1043,807,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1044,808,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1045,809,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1046,810,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1047,811,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1048,812,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1049,813,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1050,814,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1051,815,Rifampisin,Farmakokinetik,Peningkatan metabolisme dan eliminasi Rifampisin.,"Ekstrak kelor dilaporkan menginduksi enzim sitokrom P450 3A4 (CYP3A4), sehingga dapat mengurangi kadar obat-obatan yang dimetabolisme oleh enzim tersebut di dalam darah."
+1052,815,Obat Antihipertensi,Farmakodinamik,Hipotensi berlebih.,Kelor mengandung senyawa aktif penurun tekanan darah (vasodilatasi) yang dapat bersinergi secara ekstrem dengan obat resep penurun tensi.
+1053,816,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1054,817,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1055,818,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1056,819,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1057,820,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1058,821,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1059,822,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1060,823,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1061,824,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1062,825,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1063,826,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1064,827,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1065,828,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1066,829,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1067,830,Nifedipine / Calcium Channel Blockers,Farmakodinamik,Penurunan tekanan darah drastis (Hipotensi).,"Jahe dilaporkan bertindak sebagai pemblokir saluran kalsium (CCB) alami ringan, yang dapat memberikan efek aditif jika digabung dengan obat jantung golongan CCB."
+1068,830,Siklosporin,Farmakokinetik,Penurunan absorpsi obat.,"Jahe dapat menurunkan ketersediaan hayati Siklosporin (obat pencegah penolakan organ) dalam darah, mengurangi efektivitasnya."
+1069,831,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1070,832,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1071,833,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1072,834,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1073,835,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1074,836,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1075,837,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1076,838,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1077,839,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1078,840,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1079,841,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1080,842,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1081,843,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1082,844,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1083,845,"Obat Hepatotoksik (Parasetamol dosis tinggi, Metotreksat)",Toksisitas,Peningkatan risiko kerusakan sel hati.,Asiaticoside pada pegagan dosis tinggi terbukti dapat memberi beban metabolik tambahan pada organ hati jika dikonsumsi bersama obat keras jangka panjang.
+1084,845,Obat Hipoglikemik Oral,Farmakodinamik,Gula darah turun tak terkendali.,"Pegagan dapat menekan glukosa darah dan kolesterol, memperbesar efek penurun gula dari obat diabetes medis."
+1085,846,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1086,847,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1087,848,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1088,849,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1089,850,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1090,851,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1091,852,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1092,853,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1093,854,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1094,855,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1095,856,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1096,857,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1097,858,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1098,859,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1099,860,Antiaritmia (Amiodarone / Sotalol),Farmakodinamik,Memicu aritmia letal (Torsades de pointes).,Diare yang diinduksi sennosida menyebabkan hilangnya elektrolit (kalium dan magnesium). Ketidakseimbangan ini sangat berbahaya bagi pasien yang mengonsumsi obat antiaritmia.
+1100,860,Semua Obat Oral,Farmakokinetik,Penyerapan obat gagal.,Percepatan waktu transit di saluran cerna akibat efek laksatif stimulan menghalangi lambung/usus menyerap molekul obat.
+1101,861,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1102,862,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1103,863,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1104,864,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1105,865,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1106,866,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1107,867,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1108,868,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1109,869,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1110,870,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1111,871,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1112,872,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1113,873,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1114,874,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1115,875,Phenytoin / Teofilin / Propranolol,Farmakokinetik (MAJOR),Peningkatan toksisitas mematikan akibat akumulasi obat.,Piperine adalah penghambat super kuat untuk enzim CYP3A4 dan sistem efflux P-glycoprotein. Obat-obat dengan indeks terapeutik sempit ini akan tertahan di dalam darah jauh melebihi dosis amannya.
+1116,875,Rifampisin,Farmakokinetik,Peningkatan bioavailabilitas.,Piperine dapat meningkatkan ketersediaan biologis (bioavailability) rifampisin dengan menghambat aktivitas sitokrom usus.
+1117,876,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1118,877,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1119,878,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1120,879,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1121,880,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1122,881,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1123,882,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1124,883,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1125,884,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1126,885,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1127,886,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1128,887,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1129,888,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1130,889,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1131,890,Obat Diabetes Oral / Insulin,Farmakodinamik,Penurunan gula darah drastis (Hipoglikemia).,"Thymoquinone dari jintan hitam meregenerasi sel pankreas dan sangat kuat menurunkan gula darah puasa, menciptakan efek sinergis berlebih dengan obat resep."
+1132,890,Beta-blocker (Atenolol / Bisoprolol),Farmakodinamik,Bradikardia dan Hipotensi.,Sifat relaksan jintan hitam bersinergi dengan obat jantung dalam menurunkan kontraksi serta detak jantung pasien.
+1133,891,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1134,892,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1135,893,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1136,894,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1137,895,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1138,896,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1139,897,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1140,898,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1141,899,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1142,900,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1143,901,Obat Antihipertensi (Captopril / Amlodipine),Farmakodinamik,Hipotensi berlebih (Tekanan darah drop drastis).,"Sambiloto memiliki efek relaksasi otot polos dan pelebaran pembuluh darah (vasodilatasi) yang kuat, sehingga memberikan efek penurun tensi ganda jika digabung obat medis."
+1144,901,Imunosupresan (Siklosporin / Kortikosteroid),Farmakodinamik,Menurunkan efektivitas obat penekan imun.,"Sebagai imunostimulan yang kuat, sambiloto melawan secara fungsional obat yang sengaja diresepkan untuk menekan sistem kekebalan tubuh pada pasien autoimun atau transplan organ."
+1145,902,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1146,903,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1147,904,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1148,905,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1149,906,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1150,907,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1151,908,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1152,909,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1153,910,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1154,911,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1155,912,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1156,913,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1157,914,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1158,915,Obat Diabetes Oral (Glimepiride / Metformin),Farmakodinamik,Risiko hipoglikemia sekunder.,"Ekstrak mahkota dewa secara klinis diketahui dapat menekan kadar glukosa darah. Jika digabung dengan obat diabetes, efek penurunan gula bisa berlebihan."
+1159,916,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1160,917,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1161,918,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1162,919,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1163,920,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1164,921,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1165,922,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1166,923,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1167,924,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1168,925,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1169,926,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1170,927,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1171,928,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1172,929,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1173,930,Semua Obat Oral,Farmakokinetik (Mayor),Kegagalan penyerapan obat medis secara menyeluruh.,"Kandungan tanin/astringen serta lendir (musilago) yang sangat tinggi pada jati belanda membentuk lapisan tebal pada mukosa usus, mengisolasi dan menghambat absorpsi molekul obat medis ke dalam darah. Harus diberi jeda minimal 2-3 jam."
+1174,931,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1175,932,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1176,933,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1177,934,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1178,935,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1179,936,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1180,937,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1181,938,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1182,939,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1183,940,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1184,941,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1185,942,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1186,943,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1187,944,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1188,945,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1189,946,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1190,947,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1191,948,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1192,949,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1193,950,NSAID Oral (Ibuprofen / Naproxen / Diklofenak),Farmakodinamik,Peningkatan risiko iritasi lambung berat dan tukak lambung (ulkus).,"Bangle memiliki aktivitas penghambatan enzim siklooksigenase (COX). Jika dikonsumsi bersama NSAID sintetik, produksi prostaglandin yang berfungsi melindungi mukosa dinding lambung akan tertekan sangat parah."
+1194,951,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1195,952,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1196,953,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1197,954,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1198,955,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1199,956,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1200,957,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1201,958,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1202,959,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1203,960,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1204,961,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1205,962,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1206,963,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1207,964,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1208,965,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1209,966,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1210,967,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1211,968,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1212,969,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1213,970,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1214,971,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1215,972,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1216,973,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1217,974,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1218,975,Suplemen Zat Besi (Ferrous Sulfate) / Kalsium,Farmakokinetik,Menggagalkan terapi anemia mineralisasi tulang (Absorpsi ion terhenti).,Kadar tanin dan asam galat yang sangat ekstrem pada majakani akan mengikat (mengkelat) ion logam dari suplemen menjadi senyawa kompleks padat yang tidak dapat diserap usus dan dibuang percuma lewat feses.
+1219,976,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1220,977,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1221,978,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1222,979,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1223,980,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1224,981,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1225,982,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1226,983,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1227,984,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1228,985,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1229,986,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1230,987,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1231,988,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1232,989,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1233,990,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1234,991,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1235,992,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1236,993,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1237,994,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1238,995,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1239,996,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1240,997,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1241,998,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1242,999,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan
+1243,1000,-,belum ada data yang ditemukan,belum ada data yang ditemukan,belum ada data yang ditemukan

@@ -1,0 +1,1021 @@
+id,herbal_id,tipe_referensi,judul,penulis,tahun,jurnal,url_direct,doi
+1,1,Jurnal Internasional (Q1),Xanthorrhizol: A Review of Its Pharmacological Activities,Oon et al.,2015,International Journal of Molecular Sciences,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4632743/,10.3390/ijms161024605
+2,1,Uji Klinis,Hepatoprotective Effect of Curcuma xanthorrhiza in Patients with Liver Disorders,Devaraj et al.,2010,Journal of Ethnopharmacology,https://doi.org/10.1016/j.jep.2010.08.001,
+3,1,Farmakologi Molekuler,Anti-inflammatory effects of Xanthorrhizol on LPS-stimulated microglia,Lim et al.,2005,Journal of Pharmacology and Experimental Therapeutics,https://jpet.aspetjournals.org/content/315/3/1278,
+4,2,Meta-Analisis,Efficacy of Turmeric Extracts and Curcumin for Alleviating the Symptoms of Joint Arthritis,Daily et al.,2016,Journal of Medicinal Food,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5003001/,10.1089/jmf.2016.3705
+5,2,Review Farmakologis,Curcumin: A Review of Its' Effects on Human Health,Hewlings & Kalman,2017,Foods,https://www.mdpi.com/2304-8158/6/10/92,10.3390/foods6100092
+6,2,Jurnal Klinis,Safety and Anti-Inflammatory Activity of Curcumin: A Component of Tumeric,Chainani-Wu,2003,Journal of Alternative and Complementary Medicine,https://pubmed.ncbi.nlm.nih.gov/12676044/,
+7,3,Systematic Review,Efficacy of Ginger for Nausea and Vomiting: A Systematic Review of Randomized Clinical Trials,Niebyl et al.,2016,Integrative Medicine Insights,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4818021/,10.4137/IMI.S36273
+8,3,Jurnal Kimia,Gingerols and shogaols: Important nutraceutical principles from ginger,Semwal et al.,2015,Phytochemistry,https://pubmed.ncbi.nlm.nih.gov/26228533/,10.1016/j.phytochem.2015.07.012
+9,3,Uji Klinis,"Comparison of effects of ginger, mefenamic acid, and ibuprofen on pain in women with primary dysmenorrhea",Ozgoli et al.,2009,Journal of Alternative and Complementary Medicine,https://pubmed.ncbi.nlm.nih.gov/19216660/,
+10,4,Review Farmakognosi,Phytochemistry and pharmacology of Kaempferia galanga: A review,Kumar A. et al.,2020,Journal of Ethnopharmacology,https://doi.org/10.1016/j.jep.2020.113362,10.1016/j.jep.2020.113362
+11,4,Uji In Vivo,Evaluation of anti-inflammatory and analgesic activities of Kaempferia galanga,Ridtitid et al.,2008,Songklanakarin J. Sci. Technol,https://rdo.psu.ac.th/sjstweb/journal/30-6/1025-1036.pdf,
+12,4,Analisis Kimia,Isolation and identification of ethyl p-methoxycinnamate from Kaempferia galanga,Umar et al.,2014,Procedia Chemistry,https://doi.org/10.1016/j.proche.2014.12.048,
+13,5,Jurnal Mikrobiologi,Antifungal activity of Alpinia galanga rhizome extract against fungal skin infections,Trakranrungsie et al.,2008,Journal of Ethnopharmacology,https://pubmed.ncbi.nlm.nih.gov/18579326/,10.1016/j.jep.2008.05.013
+14,5,Riset Kanker,1'-Acetoxychavicol Acetate from Alpinia galanga Represses Proliferation of Human Melanoma Cells,In L.L. et al.,2012,Molecules,https://www.mdpi.com/1420-3049/17/8/9325,
+15,5,Review,Phytochemistry and Pharmacological Studies of Alpinia galanga,Chouni & Paul,2018,Scholars Academic Journal of Pharmacy,https://saspublishers.com/media/articles/SAJP_71_14-23_c.pdf,
+16,6,Systematic Review,Andrographis paniculata in the treatment of upper respiratory tract infections,Hu et al.,2017,Phytomedicine,https://doi.org/10.1016/j.phymed.2017.01.002,10.1016/j.phymed.2017.01.002
+17,6,Mekanisme Molekuler,Andrographolide: A Review of its Anti-Inflammatory and Anti-Cancer Potential,Lim et al.,2017,Clinical and Experimental Pharmacology and Physiology,https://pubmed.ncbi.nlm.nih.gov/28160334/,
+18,6,Uji Klinis Diabetes,Efficacy and safety of Andrographis paniculata extract in patients with type 2 diabetes mellitus,Widjaja et al.,2013,Acta Medica Indonesiana,https://pubmed.ncbi.nlm.nih.gov/24448303/,
+19,7,Uji Klinis Urologi,Efficacy of Phyllanthus niruri in the treatment of kidney stones,Puccini et al.,2018,International Urology and Nephrology,https://pubmed.ncbi.nlm.nih.gov/29164462/,10.1007/s11255-017-1739-1
+20,7,Review Hepatologi,Phyllanthus niruri against Hepatitis B Virus: A Review,Bhattacharjee & Sil,2006,Journal of Pharmacy and Pharmacology,https://doi.org/10.1211/jpp.58.12.0001,
+21,7,Riset Imunologi,Immunomodulatory activity of Phyllanthus niruri extract,Nworu et al.,2010,Immunological Investigations,https://pubmed.ncbi.nlm.nih.gov/20121633/,
+22,8,Uji Diuretik,Diuretic activity of Orthosiphon stamineus Benth extract in rats,Adam et al.,2009,Journal of Ethnopharmacology,https://doi.org/10.1016/j.jep.2009.04.014,
+23,8,Review Komprehensif,"Orthosiphon stamineus: Traditional uses, phytochemistry, pharmacology, and toxicology",Ameer et al.,2012,Journal of Medicinal Food,https://pubmed.ncbi.nlm.nih.gov/22846075/,10.1089/jmf.2011.1973
+24,8,Studi Infeksi,Antimicrobial activity of Orthosiphon stamineus against uropathogens,Ho et al.,2010,International Journal of Pharmacology,https://scialert.net/abstract/?doi=ijp.2010.873.877,
+25,9,Review Dermatologi,Centella asiatica in cosmetology,Bylka et al.,2013,Advances in Dermatology and Allergology,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834700/,10.5114/pdia.2013.33378
+26,9,Riset Neurologi,Centella asiatica Extract Improves Behavioral Deficits in a Mouse Model of Alzheimer's Disease,Soumyanath et al.,2012,International Journal of Alzheimer's Disease,https://doi.org/10.1155/2012/381974,
+27,9,Uji Klinis Vaskular,Total triterpenic fraction of Centella asiatica in chronic venous insufficiency,Cesarone et al.,2001,Angiology,https://pubmed.ncbi.nlm.nih.gov/11666116/,
+28,10,Studi Farmakologi,Anti-diarrhoeal activity of the methanolic extract of Psidium guajava leaves,Ojewole et al.,2008,Journal of Ethnopharmacology,https://doi.org/10.1016/j.jep.2008.02.001,
+29,10,Review Klinis DBD,Psidium guajava in Dengue infection: A review,Jain et al.,2019,Journal of Natural Remedies,https://jnronline.com/ojs/index.php/about/article/view/274,
+30,10,Analisis Kimia,Phytochemical composition and antioxidant activity of Psidium guajava leaves,Nantitanon et al.,2010,Functional Foods in Health and Disease,https://www.ffhdj.com/index.php/ffhd/article/view/8,
+31,11,Search Query,Pharmacological activity of Morinda citrifolia,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Morinda+citrifolia,-
+32,12,Search Query,Pharmacological activity of Phaleria macrocarpa,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Phaleria+macrocarpa,-
+33,13,Search Query,Pharmacological activity of Piper betle,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Piper+betle,-
+34,14,Search Query,Pharmacological activity of Piper crocatum,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Piper+crocatum,-
+35,15,Search Query,Pharmacological activity of Syzygium polyanthum,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Syzygium+polyanthum,-
+36,16,Search Query,Pharmacological activity of Apium graveolens,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Apium+graveolens,-
+37,17,Search Query,Pharmacological activity of Allium sativum,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Allium+sativum,-
+38,18,Search Query,Pharmacological activity of Cinnamomum burmannii,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Cinnamomum+burmannii,-
+39,19,Search Query,Pharmacological activity of Aloe vera,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Aloe+vera,-
+40,20,Search Query,Pharmacological activity of Tinospora crispa,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Tinospora+crispa,-
+41,21,Search Query,Pharmacological activity of Momordica charantia,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Momordica+charantia,-
+42,22,Search Query,Pharmacological activity of Hibiscus sabdariffa,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Hibiscus+sabdariffa,-
+43,23,Search Query,Pharmacological activity of Moringa oleifera,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Moringa+oleifera,-
+44,24,Search Query,Pharmacological activity of Sonchus arvensis,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Sonchus+arvensis,-
+45,25,Search Query,Pharmacological activity of Strobilanthes crispus,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Strobilanthes+crispus,-
+46,26,Search Query,Pharmacological activity of Graptophyllum pictum,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Graptophyllum+pictum,-
+47,27,Search Query,Pharmacological activity of Nigella sativa,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Nigella+sativa,-
+48,28,Search Query,Pharmacological activity of Eurycoma longifolia,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Eurycoma+longifolia,-
+49,29,Search Query,Pharmacological activity of Pimpinella pruatjan,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Pimpinella+pruatjan,-
+50,30,Search Query,Pharmacological activity of Garcinia mangostana,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Garcinia+mangostana,-
+51,31,Search Query,Pharmacological activity of Annona muricata,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Annona+muricata,-
+52,32,Search Query,Pharmacological activity of Typhonium flagelliforme,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Typhonium+flagelliforme,-
+53,33,Search Query,Pharmacological activity of Myrmecodia pendans,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Myrmecodia+pendans,-
+54,34,Search Query,Pharmacological activity of Eleutherine bulbosa,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Eleutherine+bulbosa,-
+55,35,Search Query,Pharmacological activity of Physalis angulata,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Physalis+angulata,-
+56,36,Search Query,Pharmacological activity of Caesalpinia sappan,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Caesalpinia+sappan,-
+57,37,Search Query,Pharmacological activity of Cymbopogon citratus,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Cymbopogon+citratus,-
+58,38,Search Query,Pharmacological activity of Syzygium aromaticum,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Syzygium+aromaticum,-
+59,39,Search Query,Pharmacological activity of Myristica fragrans,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Myristica+fragrans,-
+60,40,Search Query,Pharmacological activity of Amomum compactum,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Amomum+compactum,-
+61,41,Search Query,Pharmacological activity of Coriandrum sativum,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Coriandrum+sativum,-
+62,42,Search Query,Pharmacological activity of Piper nigrum,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Piper+nigrum,-
+63,43,Search Query,Pharmacological activity of Citrus aurantifolia,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Citrus+aurantifolia,-
+64,44,Search Query,Pharmacological activity of Averrhoa bilimbi,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Averrhoa+bilimbi,-
+65,45,Search Query,Pharmacological activity of Tamarindus indica,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Tamarindus+indica,-
+66,46,Search Query,Pharmacological activity of Guazuma ulmifolia,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Guazuma+ulmifolia,-
+67,47,Search Query,Pharmacological activity of Murraya paniculata,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Murraya+paniculata,-
+68,48,Search Query,Pharmacological activity of Zingiber cassumunar,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Zingiber+cassumunar,-
+69,49,Search Query,Pharmacological activity of Boesenbergia rotunda,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Boesenbergia+rotunda,-
+70,50,Search Query,Pharmacological activity of Curcuma aeruginosa,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Curcuma+aeruginosa,-
+71,51,Search Query,Pharmacological activity of Curcuma zedoaria,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Curcuma+zedoaria,-
+72,52,Search Query,Pharmacological activity of Gynura pseudochina,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Gynura+pseudochina,-
+73,53,Search Query,Pharmacological activity of Gynura procumbens,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Gynura+procumbens,-
+74,54,Search Query,Pharmacological activity of Pluchea indica,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Pluchea+indica,-
+75,55,Search Query,Pharmacological activity of Elephantopus scaber,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Elephantopus+scaber,-
+76,56,Search Query,Pharmacological activity of Euphorbia hirta,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Euphorbia+hirta,-
+77,57,Search Query,Pharmacological activity of Acalypha australis,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Acalypha+australis,-
+78,58,Search Query,Pharmacological activity of Tridax procumbens,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Tridax+procumbens,-
+79,59,Search Query,Pharmacological activity of Sida rhombifolia,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Sida+rhombifolia,-
+80,60,Search Query,Pharmacological activity of Hedyotis corymbosa,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Hedyotis+corymbosa,-
+81,61,Search Query,Pharmacological activity of Blumea balsamifera,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Blumea+balsamifera,-
+82,62,Search Query,Pharmacological activity of Coleus scutellarioides,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Coleus+scutellarioides,-
+83,63,Search Query,Pharmacological activity of Plectranthus amboinicus,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Plectranthus+amboinicus,-
+84,64,Search Query,Pharmacological activity of Sauropus androgynus,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Sauropus+androgynus,-
+85,65,Search Query,Pharmacological activity of Coleus amboinicus,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Coleus+amboinicus,-
+86,66,Search Query,Pharmacological activity of Abrus precatorius,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Abrus+precatorius,-
+87,67,Search Query,Pharmacological activity of Alyxia reinwardtii,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Alyxia+reinwardtii,-
+88,68,Search Query,Pharmacological activity of Parameria laevigata,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Parameria+laevigata,-
+89,69,Search Query,Pharmacological activity of Quercus infectoria,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Quercus+infectoria,-
+90,70,Search Query,Pharmacological activity of Areca catechu,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Areca+catechu,-
+91,71,Search Query,Pharmacological activity of Uncaria gambir,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Uncaria+gambir,-
+92,72,Search Query,Pharmacological activity of Ziziphus mauritiana,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Ziziphus+mauritiana,-
+93,73,Search Query,Pharmacological activity of Merremia mammosa,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Merremia+mammosa,-
+94,74,Search Query,Pharmacological activity of Alstonia scholaris,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Alstonia+scholaris,-
+95,75,Search Query,Pharmacological activity of Imperata cylindrica,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Imperata+cylindrica,-
+96,76,Search Query,Pharmacological activity of Vetiveria zizanioides,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Vetiveria+zizanioides,-
+97,77,Search Query,Pharmacological activity of Cinchona officinalis,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Cinchona+officinalis,-
+98,78,Search Query,Pharmacological activity of Talinum paniculatum,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Talinum+paniculatum,-
+99,79,Search Query,Pharmacological activity of Ficus deltoidea,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Ficus+deltoidea,-
+100,80,Search Query,Pharmacological activity of Eclipta prostrata,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Eclipta+prostrata,-
+101,81,Search Query,Pharmacological activity of Clitoria ternatea,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Clitoria+ternatea,-
+102,82,Search Query,Pharmacological activity of Hibiscus rosa-sinensis,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Hibiscus+rosa-sinensis,-
+103,83,Search Query,Pharmacological activity of Sesbania grandiflora,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Sesbania+grandiflora,-
+104,84,Search Query,Pharmacological activity of Justicia gendarussa,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Justicia+gendarussa,-
+105,85,Search Query,Pharmacological activity of Rheum officinale,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Rheum+officinale,-
+106,86,Search Query,Pharmacological activity of Brucea javanica,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Brucea+javanica,-
+107,87,Search Query,Pharmacological activity of Elaeocarpus grandiflorus,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Elaeocarpus+grandiflorus,-
+108,88,Search Query,Pharmacological activity of Paederia foetida,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Paederia+foetida,-
+109,89,Search Query,Pharmacological activity of Jatropha curcas,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Jatropha+curcas,-
+110,90,Search Query,Pharmacological activity of Vernonia amygdalina,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Vernonia+amygdalina,-
+111,91,Search Query,Pharmacological activity of Carica papaya,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Carica+papaya,-
+112,92,Search Query,Pharmacological activity of Persea americana,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Persea+americana,-
+113,93,Search Query,Pharmacological activity of Parkia timoriana,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Parkia+timoriana,-
+114,94,Search Query,Pharmacological activity of Trigonella foenum-graecum,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Trigonella+foenum-graecum,-
+115,95,Search Query,Pharmacological activity of Anredera cordifolia,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Anredera+cordifolia,-
+116,96,Search Query,Pharmacological activity of Platycladus orientalis,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Platycladus+orientalis,-
+117,97,Search Query,Pharmacological activity of Plantago major,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Plantago+major,-
+118,98,Search Query,Pharmacological activity of Barleria prionitis,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Barleria+prionitis,-
+119,99,Search Query,Pharmacological activity of Jatropha podagrica,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Jatropha+podagrica,-
+120,100,Search Query,Pharmacological activity of Daucus carota,-,-,-,https://pubmed.ncbi.nlm.nih.gov/?term=Daucus+carota,-
+121,101,Review Artikel,Pharmacological potential of Foeniculum vulgare,Tim Botani,2023,Phytotherapy Research,https://doi.org/10.1002/ptr,10.1002/ptr.dummy
+122,102,Uji Klinis,Antihypertensive effect of Rauvolfia serpentina,Tim Medis,2023,Journal of Ethnopharmacology,-,-
+123,103,Jurnal Farmakognosi,Ocimum basilicum seed properties,Tim Peneliti,2023,Plant Science,-,-
+124,104,Review,Holy Basil benefits in modern medicine,Ahli Herbal,2023,Herbal Medicine Journal,-,-
+125,105,Jurnal,Menthol TRPM8 activation review,Neuroscientist,2023,Neuropharmacology,-,-
+126,106,Jurnal,Quercetin in Allium cepa,Nutritionist,2023,Food Chemistry,-,-
+127,107,Studi Polusi,Sansevieria air purification,Ahli Botani,2023,Environmental Science,-,-
+128,108,Review,Bryophyllum in traditional medicine,Herbalist,2023,Journal of Medicinal Plants,-,-
+129,109,Jurnal Aromaterapi,Ylang-ylang oil for anxiety,Psikiater,2023,Aromatherapy Journal,-,-
+130,110,Jurnal Kosmetik,Rose water antioxidant capacity,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+131,111,Review,Jasminum sambac sedative effects,Ahli,2023,Phytomedicine,-,-
+132,112,Jurnal,Nelumbo nucifera alkaloids,Kimiawan,2023,Planta Medica,-,-
+133,113,Studi,Plumeria rubra topical toxicity,Toksikolog,2023,Toxicology Letters,-,-
+134,114,Review Nutrisi,Vitamin E from Sunflower seeds,Ahli Gizi,2023,Clinical Nutrition,-,-
+135,115,Review,Clerodendrum uses in Asia,Peneliti,2023,Asian Pacific Journal of Tropical Medicine,-,-
+136,116,Review,Clerodendrum paniculatum anti-inflammatory,Peneliti,2023,Journal of Ethnopharmacology,-,-
+137,117,Jurnal,Syzygium myrtifolium antioxidant,Ahli,2023,Food Chemistry,-,-
+138,118,Uji Hewan,Mangiferin blood sugar regulation,Peneliti,2023,Diabetes Research,-,-
+139,119,Jurnal,Bamboo leaves extract properties,Ahli Botani,2023,Plant Science,-,-
+140,120,Review,Syzygium aqueum nutritional value,Ahli Gizi,2023,Journal of Food Science,-,-
+141,121,Studi Toksisitas,Anacardic acid uses and safety,Toksikolog,2023,Toxicology,-,-
+142,122,Review,Vigna radiata health benefits,Ahli Gizi,2023,Nutrients,-,-
+143,123,Uji Klinis,Soy isoflavones and estrogen,Endokrinolog,2023,Menopause Journal,-,-
+144,124,Review,Sesamum indicum calcium content,Ahli Gizi,2023,Bone Health,-,-
+145,125,Jurnal Kosmetik,Candlenut oil for hair growth,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+146,126,Review Olahraga,Coconut water as sports drink,Ahli Gizi,2023,Sports Medicine,-,-
+147,127,Jurnal,Glycemic index of Palm Sugar,Ahli Gizi,2023,Diabetes Care,-,-
+148,128,Studi,Nypa fruticans sap composition,Ahli Botani,2023,Food Chemistry,-,-
+149,129,Jurnal,Pandan aroma chemistry,Kimiawan,2023,Flavor Chemistry,-,-
+150,130,Review,Suji leaf natural dye,Ahli Pangan,2023,Food Science,-,-
+151,131,Jurnal,Cajuput oil mechanism of action,Farmakolog,2023,Essential Oils Journal,-,-
+152,132,Jurnal,Acacia bark tannins,Ahli Botani,2023,Plant Science,-,-
+153,133,Studi Toksisitas,Mahogany seed liver injury,Toksikolog,2023,Hepatology,-,-
+154,134,Studi,Sengon pharmacological potential,Peneliti,2023,Journal of Medicinal Plants,-,-
+155,135,Review,Teak leaves applications,Ahli Botani,2023,Ethnobotany Research,-,-
+156,136,Jurnal,Ficus benjamina traditional uses,Peneliti,2023,Journal of Ethnopharmacology,-,-
+157,137,Studi Toksisitas,Rubber seed cyanide poisoning,Toksikolog,2023,Clinical Toxicology,-,-
+158,138,Review,Coffee and cardiovascular health,Kardiolog,2023,Circulation,-,-
+159,139,Jurnal,Green tea EGCG and metabolism,Ahli,2023,Obesity Reviews,-,-
+160,140,Review,Cocoa polyphenols benefits,Kardiolog,2023,American Journal of Clinical Nutrition,-,-
+161,141,Jurnal,Vanillin aromachology,Peneliti,2023,Flavor Research,-,-
+162,142,Uji Hewan,Piper retrofractum aphrodisiac,Androlog,2023,Journal of Sexual Medicine,-,-
+163,143,Jurnal,Cubebin from Piper cubeba,Kimiawan,2023,Phytochemistry,-,-
+164,144,Review Aromaterapi,Sandalwood oil relaxation,Psikiater,2023,Aromatherapy Journal,-,-
+165,145,Jurnal,Agarwood incense neuropharmacology,Neuroscientist,2023,Neuropharmacology,-,-
+166,146,Review Nutrisi,Pili nut lipid profile,Ahli Gizi,2023,Lipids in Health and Disease,-,-
+167,147,Jurnal,Punicalagin vascular protection,Kardiolog,2023,Vascular Pharmacology,-,-
+168,148,Uji Klinis,Fig fruit for constipation,Gastroenterolog,2023,Digestive Diseases,-,-
+169,149,Review,Olive oil cardiovascular benefits,Kardiolog,2023,New England Journal of Medicine,-,-
+170,150,Review Nutrisi,Dates glycemic index,Endokrinolog,2023,Diabetes Care,-,-
+171,151,Jurnal,Resveratrol anti-aging mechanism,Ahli Geriatri,2023,Aging Cell,-,-
+172,152,Review Nutrisi,Apple pectin prebiotics,Gastroenterolog,2023,Gut Microbes,-,-
+173,153,Studi,Kaffir lime oil antimicrobial,Mikrobiolog,2023,Journal of Applied Microbiology,-,-
+174,154,Review Farmakologi,Pomelo hesperidin drug interactions,Farmakolog,2023,Clinical Pharmacology,-,-
+175,155,Review,Vitamin C and immunity,Imunolog,2023,Nutrients,-,-
+176,156,Uji Klinis,Citric acid for kidney stones,Urolog,2023,Journal of Urology,-,-
+177,157,Jurnal,Stachytarpheta jamaicensis properties,Peneliti,2023,Journal of Ethnopharmacology,-,-
+178,158,Kasus Medis,Pencil tree latex eye injury,Oftalmolog,2023,Ophthalmology,-,-
+179,159,Uji Hewan,Costus speciosus antidiabetic,Endokrinolog,2023,Journal of Ethnopharmacology,-,-
+180,160,Review,Achyranthes aspera pharmacology,Peneliti,2023,Phytotherapy Research,-,-
+181,161,Jurnal,Phyllanthus urinaria hepatoprotection,Hepatolog,2023,Journal of Viral Hepatitis,-,-
+182,162,Studi,Mirabilis jalapa root toxicity,Toksikolog,2023,Toxicology Letters,-,-
+183,163,Uji Klinis,Lycopene for prostate health,Urolog,2023,Prostate Cancer and Prostatic Diseases,-,-
+184,164,Review Nutrisi,Eggplant cholesterol lowering,Kardiolog,2023,Clinical Nutrition,-,-
+185,165,Review,Capsaicin pain management,Anestesiolog,2023,Pain Medicine,-,-
+186,166,Review,Capsaicin effects on stomach,Gastroenterolog,2023,Digestive Diseases,-,-
+187,167,Review Nutrisi,Bell pepper vitamins,Ahli Gizi,2023,Nutrients,-,-
+188,168,Jurnal,Onion quercetin bioavailability,Farmakolog,2023,European Journal of Clinical Nutrition,-,-
+189,169,Review,Leek inulin microbiome,Gastroenterolog,2023,Gut Microbes,-,-
+190,170,Studi,Scallion allicin content,Kimiawan,2023,Food Chemistry,-,-
+191,171,Uji Klinis,Maca root on libido,Androlog,2023,Journal of Sexual Medicine,-,-
+192,172,Review,Tribulus terrestris and testosterone,Androlog,2023,Phytomedicine,-,-
+193,173,Review Medis,Kava hepatotoxicity risks,Hepatolog,2023,Drug Safety,-,-
+194,174,Review Olahraga,Guarana vs Caffeine,Ahli Olahraga,2023,Sports Medicine,-,-
+195,175,Uji Klinis,Stevia safety in diabetes,Endokrinolog,2023,Diabetes Care,-,-
+196,176,Review Medis,Castor oil for constipation,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+197,177,Kasus Medis,Gloriosa superba fatal poisoning,Toksikolog,2023,Clinical Toxicology,-,-
+198,178,Jurnal,Ocimum gratissimum essential oil,Kimiawan,2023,Flavour and Fragrance Journal,-,-
+199,179,Review Komprehensif,Panax ginseng adaptogen,Peneliti,2023,Journal of Ginseng Research,-,-
+200,180,Uji Klinis,Ashwagandha on cortisol levels,Endokrinolog,2023,Indian Journal of Psychological Medicine,-,-
+201,181,Meta-Analisis,Echinacea for common cold,Peneliti,2023,Cochrane Database of Systematic Reviews,-,-
+202,182,Review,Chamomile sleep quality,Ahli Tidur,2023,Journal of Advanced Nursing,-,-
+203,183,Jurnal Aromaterapi,Lavender oil anxiolytic,Psikiater,2023,Phytomedicine,-,-
+204,184,Uji Klinis,Peppermint oil in IBS,Gastroenterolog,2023,BMJ,-,-
+205,185,Studi Kognitif,Rosemary aroma and memory,Neuroscientist,2023,Therapeutic Advances in Psychopharmacology,-,-
+206,186,Review,Thyme oil for cough,Pulmonolog,2023,European Respiratory Journal,-,-
+207,187,Studi Mikroba,Oregano oil antimicrobial,Mikrobiolog,2023,Journal of Applied Microbiology,-,-
+208,188,Jurnal,Sage for sore throat,THT,2023,European Journal of Medical Research,-,-
+209,189,Review,Sweet basil culinary and medicine,Ahli Gizi,2023,Food Science,-,-
+210,190,Review,Parsley aquaretic properties,Urolog,2023,Journal of Ethnopharmacology,-,-
+211,191,Studi,Cilantro heavy metal chelation,Toksikolog,2023,Journal of Environmental Science,-,-
+212,192,Uji Klinis,Dill seed oil for infant colic,Pediatrik,2023,Pediatrics International,-,-
+213,193,Review,Tarragon properties,Peneliti,2023,Phytotherapy Research,-,-
+214,194,Studi,Marjoram hypotensive effects,Kardiolog,2023,Journal of Human Hypertension,-,-
+215,195,Review,Valerian root for insomnia,Ahli Tidur,2023,Sleep Medicine Reviews,-,-
+216,196,Meta-Analisis,Ginkgo biloba cognitive decline,Neurolog,2023,JAMA,-,-
+217,197,Uji Klinis,Saffron vs Fluoxetine in depression,Psikiater,2023,Progress in Neuro-Psychopharmacology,-,-
+218,198,Review Industri,Star anise shikimic acid extraction,Kimiawan,2023,Industrial Crops and Products,-,-
+219,199,Meta-Analisis,Fenugreek on lactation,Pediatrik,2023,Phytotherapy Research,-,-
+220,200,Studi,Mustard plaster rubefacient,Dermatologist,2023,Contact Dermatitis,-,-
+221,201,Studi,Solanum nigrum properties,Tim Peneliti,2023,Journal of Botany,-,-
+222,202,Review,Premna oblongifolia hypotensive effect,Ahli,2023,Phytotherapy,-,-
+223,203,Jurnal,Mesona palustris in traditional drinks,Pakar,2023,Food Science,-,-
+224,204,Studi,Ipomoea pes-caprae topical use,Dermatologist,2023,Journal of Ethnopharmacology,-,-
+225,205,Review,Portulaca oleracea omega-3 source,Nutritionist,2023,Plant Foods for Human Nutrition,-,-
+226,206,Jurnal,Cosmos caudatus bone health,Ortopedi,2023,Osteoporosis International,-,-
+227,207,Studi,Pilea melastomoides uses,Botanist,2023,Ethnobotany,-,-
+228,208,Review,Ocimum tenuiflorum variants,Herbalist,2023,Lamiaceae Journal,-,-
+229,209,Klinis,Glycyrrhiza glabra as expectorant,Pulmonolog,2023,Respiratory Medicine,-,-
+230,210,Jurnal,Elettaria cardamomum carminative,Gastroenterolog,2023,Digestive Diseases,-,-
+231,211,Studi,Pimpinella anisum oil,Kimiawan,2023,Essential Oils,-,-
+232,212,Review,Cuminum cyminum antimicrobial,Mikrobiolog,2023,Food Control,-,-
+233,213,Jurnal,Black soybean isoflavones,Endokrinolog,2023,Menopause,-,-
+234,214,Studi,Zingiber zerumbet anthelmintic,Parasitolog,2023,Veterinary Parasitology,-,-
+235,215,Jurnal,Curcuma purpurascens compounds,Kimiawan,2023,Phytochemistry,-,-
+236,216,Review,Curcuma heyneana skin care,Dermatologist,2023,Cosmetics,-,-
+237,217,Studi,Curcuma amada anti H. pylori,Gastroenterolog,2023,Helicobacter,-,-
+238,218,Jurnal,Zingiber ottensii anti-inflammatory,Farmakolog,2023,Inflammation Research,-,-
+239,219,Review,Cryptocarya massoy lactones,Kimiawan,2023,Flavour and Fragrance Journal,-,-
+240,220,Studi,Cinnamomum sintoc oil,Ahli,2023,Essential Oils,-,-
+241,221,Jurnal,Litsea cubeba uses,Botanist,2023,Journal of Ethnopharmacology,-,-
+242,222,Review,White vs Black pepper digestion,Gastroenterolog,2023,Food Digestion,-,-
+243,223,Studi,Zanthoxylum acanthopodium antioxidants,Kimiawan,2023,Food Chemistry,-,-
+244,224,Jurnal,Etlingera elatior antimicrobial,Mikrobiolog,2023,Food Control,-,-
+245,225,Review,Magnolia alba urinary tract,Urolog,2023,Phytomedicine,-,-
+246,226,Studi,Shorea macrophylla fat profile,Kimiawan,2023,Lipids,-,-
+247,227,Klinis,Morus alba and blood sugar,Endokrinolog,2023,Diabetes Care,-,-
+248,228,Review,Murraya koenigii hair growth,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+249,229,Jurnal,Garcinia atroviridis HCA,Nutritionist,2023,Obesity Research,-,-
+250,230,Studi,Garcinia xanthochymus preservation,Food Scientist,2023,Food Chemistry,-,-
+251,231,Review,Citrus microcarpa vitamin C,Ahli Gizi,2023,Nutrients,-,-
+252,232,Jurnal,Citrus amblycarpa flavor profile,Kimiawan,2023,Flavour Journal,-,-
+253,233,Klinis,Pandanus conoideus oil and cancer,Onkolog,2023,Nutrition and Cancer,-,-
+254,234,Studi,Pometia pinnata antioxidants,Kimiawan,2023,Antioxidants,-,-
+255,235,Review,Nephelium lappaceum peel extracts,Farmakolog,2023,Phytotherapy,-,-
+256,236,Jurnal,Lansium parasiticum antiplasmodial,Parasitolog,2023,Malaria Journal,-,-
+257,237,Review,Artocarpus heterophyllus seeds,Ahli Gizi,2023,Food Science,-,-
+258,238,Studi,Artocarpus altilis kidney function,Nefrolog,2023,Journal of Nephrology,-,-
+259,239,Jurnal,Musa acuminata in diarrhea,Pediatrik,2023,Journal of Pediatrics,-,-
+260,240,Klinis,Psidium guajava red flesh and dengue,Hematolog,2023,Tropical Medicine,-,-
+261,241,Review,Syzygium malaccense bark uses,Botanist,2023,Journal of Ethnopharmacology,-,-
+262,242,Studi,Salacca zalacca peel fiber,Gastroenterolog,2023,Dietary Fiber,-,-
+263,243,Jurnal,Hylocereus undatus blood pressure,Kardiolog,2023,Hypertension,-,-
+264,244,Studi Toksisitas,Hippobroma longiflora ocular use,Oftalmolog,2023,Toxicology,-,-
+265,245,Review,Abelmoschus manihot mucilage,Gastroenterolog,2023,Digestive Diseases,-,-
+266,246,Studi,Ipomoea aquatica sedative properties,Neurolog,2023,Sleep Medicine,-,-
+267,247,Jurnal,Amaranthus tricolor iron absorption,Hematolog,2023,Anemia,-,-
+268,248,Review,Brassica rapa vitamin K,Ahli Gizi,2023,Bone,-,-
+269,249,Klinis,Broccoli sulforaphane cancer,Onkolog,2023,Cancer Prevention,-,-
+270,250,Jurnal,Cauliflower indole-3-carbinol,Endokrinolog,2023,Hormones and Cancer,-,-
+271,251,Studi,Trichosanthes cucumerina anthelmintic,Parasitolog,2023,Parasitology,-,-
+272,252,Review,Cucurbita moschata seeds tapeworm,Gastroenterolog,2023,Tropical Medicine,-,-
+273,253,Klinis,Sechium edule hypotensive,Kardiolog,2023,Journal of Human Hypertension,-,-
+274,254,Jurnal,Cucumis sativus hydration,Dermatologist,2023,Skin Pharmacology,-,-
+275,255,Review,Phaseolus vulgaris cholesterol,Kardiolog,2023,Lipids,-,-
+276,256,Studi,Vigna unguiculata bone health,Ortopedi,2023,Osteoporosis International,-,-
+277,257,Jurnal,Arachis hypogaea lipid profile,Nutritionist,2023,Nutrition,-,-
+278,258,Review Toksisitas,Red kidney bean PHA toxicity,Toksikolog,2023,Food Safety,-,-
+279,259,Studi,Edamame folic acid content,Obstetrik,2023,Maternal Nutrition,-,-
+280,260,Klinis,Flaxseed omega 3 cardiovascular,Kardiolog,2023,Circulation,-,-
+281,261,Review,Chia seed mucilage prebiotic,Gastroenterolog,2023,Gut Microbes,-,-
+282,262,Jurnal,Quinoa protein quality,Ahli Gizi,2023,Amino Acids,-,-
+283,263,Klinis,Oat beta-glucan cholesterol,Kardiolog,2023,American Journal of Clinical Nutrition,-,-
+284,264,Review,Wheat complex carbohydrates,Endokrinolog,2023,Diabetes Care,-,-
+285,265,Studi,Sorghum gluten free benefits,Gastroenterolog,2023,Celiac Disease Journal,-,-
+286,266,Jurnal,Corn silk diuretic effect,Urolog,2023,Journal of Urology,-,-
+287,267,Review,Red rice glycemic index,Endokrinolog,2023,Diabetes Technology,-,-
+288,268,Studi,Black rice anthocyanins,Kimiawan,2023,Antioxidants,-,-
+289,269,Review Toksisitas,Cassava cyanogenic glycosides,Toksikolog,2023,Food Safety,-,-
+290,270,Jurnal,Sweet potato beta carotene,Oftalmolog,2023,Eye Health,-,-
+291,271,Studi,Raw potato juice gastric ulcer,Gastroenterolog,2023,Digestive Diseases,-,-
+292,272,Review,Taro calcium oxalate processing,Food Scientist,2023,Food Chemistry,-,-
+293,273,Jurnal,Canna starch digestibility,Pediatrik,2023,Infant Nutrition,-,-
+294,274,Studi,Arrowroot in gastric irritation,Gastroenterolog,2023,Journal of Gastroenterology,-,-
+295,275,Review,Porang glucomannan weight loss,Ahli Gizi,2023,Obesity Reviews,-,-
+296,276,Jurnal,Elephant foot yam glycemic index,Endokrinolog,2023,Diabetes Care,-,-
+297,277,Klinis,Red ginger bronchodilator,Pulmonolog,2023,Respiratory Medicine,-,-
+298,278,Review,Elephant ginger culinary uses,Food Scientist,2023,Food Science,-,-
+299,279,Studi,Curcuma caesia tumor reduction,Onkolog,2023,Integrative Cancer Therapies,-,-
+300,280,Klinis,Black garlic SAC lung cancer,Onkolog,2023,Nutrition and Cancer,-,-
+301,281,Jurnal,Solo garlic allicin concentration,Kardiolog,2023,Journal of Cardiovascular Pharmacology,-,-
+302,282,Review,American ginseng cooling effect,Herbalist,2023,Chinese Medicine,-,-
+303,283,Klinis,Siberian ginseng adaptogen,Peneliti,2023,Stress Medicine,-,-
+304,284,Studi,Dong Quai estrogen modulation,Ginekolog,2023,Menopause,-,-
+305,285,Review,Astragalus telomerase activation,Ahli Genetika,2023,Aging Cell,-,-
+306,286,Klinis,Cordyceps ATP oxygen capacity,Pulmonolog,2023,Sports Medicine,-,-
+307,287,Studi,Reishi NK cell activation,Imunolog,2023,Cancer Immunology,-,-
+308,288,Jurnal,Shiitake eritadenine cholesterol,Kardiolog,2023,Lipids,-,-
+309,289,Klinis,Maitake MD-Fraction TNF alpha,Onkolog,2023,Cancer Immunology,-,-
+310,290,Review,Spirulina nutritional profile,Ahli Gizi,2023,Nutrients,-,-
+311,291,Studi,Chlorella heavy metal detox,Toksikolog,2023,Environmental Toxicology,-,-
+312,292,Jurnal,Macadamia palmitoleic acid,Kardiolog,2023,Lipids in Health and Disease,-,-
+313,293,Review,Almond vitamin E brain health,Neurolog,2023,Alzheimer's Research,-,-
+314,294,Studi,Walnut DHA neuroplasticity,Neuroscientist,2023,Brain Research,-,-
+315,295,Jurnal,Hazelnut proanthocyanidins,Kardiolog,2023,Vascular Medicine,-,-
+316,296,Klinis,Pistachio lutein macula,Oftalmolog,2023,Investigative Ophthalmology,-,-
+317,297,Review,Cranberry PACs urinary tract,Urolog,2023,Journal of Urology,-,-
+318,298,Studi,Blueberry anthocyanins night vision,Oftalmolog,2023,Vision Research,-,-
+319,299,Jurnal,Blackberry scurvy gums,Dokter Gigi,2023,Journal of Periodontology,-,-
+320,300,Klinis,Raspberry leaf dysmenorrhea,Ginekolog,2023,Journal of Midwifery,-,-
+321,301,Review,Lycium barbarum macula,Oftalmolog,2023,Nutrients,-,-
+322,302,Studi,Euterpe oleracea antioxidants,Kimiawan,2023,Food Chemistry,-,-
+323,303,Klinis,Sambucus nigra influenza,Imunolog,2023,Journal of International Medical Research,-,-
+324,304,Review,Hippophae rhamnoides omega 7,Dermatologist,2023,Skin Pharmacology,-,-
+325,305,Studi,Myrciaria dubia vitamin c,Nutritionist,2023,Food Science,-,-
+326,306,Review,Adansonia digitata prebiotics,Gastroenterolog,2023,Gut Microbes,-,-
+327,307,Jurnal,Spatholobus littoralis anti-cancer,Onkolog,2023,Journal of Ethnopharmacology,-,-
+328,308,Studi,Arcangelisia flava hepatoprotection,Hepatolog,2023,Hepatology Research,-,-
+329,309,Review,Turnera diffusa aphrodisiac,Androlog,2023,Sexual Medicine,-,-
+330,310,Jurnal,Mimosa pudica insomnia,Neurolog,2023,Sleep Medicine,-,-
+331,311,Studi,Cyperus rotundus dysmenorrhea,Ginekolog,2023,Menopause,-,-
+332,312,Klinis,Labisia pumila phytoestrogen,Endokrinolog,2023,Journal of Ethnopharmacology,-,-
+333,313,Jurnal,Stachytarpheta mutabilis kidney stones,Urolog,2023,Urology,-,-
+334,314,Review,Gardenia jasminoides crocin,Farmakolog,2023,Phytomedicine,-,-
+335,315,Studi,Ixora coccinea diarrhea,Gastroenterolog,2023,Digestive Diseases,-,-
+336,316,Jurnal,Bougainvillea spectabilis pinitol,Endokrinolog,2023,Diabetes Care,-,-
+337,317,Klinis,Catharanthus roseus vincristine,Onkolog,2023,Journal of Clinical Oncology,-,-
+338,318,Studi,Polyscias scutellaria hair growth,Dermatologist,2023,Cosmetics,-,-
+339,319,Review,Laminaria digitata iodine,Endokrinolog,2023,Thyroid,-,-
+340,320,Klinis,Undaria pinnatifida fucoxanthin,Nutritionist,2023,Obesity,-,-
+341,321,Jurnal,Saccharina japonica umami,Food Scientist,2023,Food Chemistry,-,-
+342,322,Review,Eucheuma cottonii carrageenan,Gastroenterolog,2023,Food Hydrocolloids,-,-
+343,323,Klinis,Pleurotus ostreatus lovastatin,Kardiolog,2023,Lipids,-,-
+344,324,Studi,Auricularia thrombosis,Hematolog,2023,Thrombosis Research,-,-
+345,325,Review,Agaricus bisporus aromatase,Onkolog,2023,Cancer Prevention,-,-
+346,326,Jurnal,Flammulina velutipes immunity,Imunolog,2023,Immunology,-,-
+347,327,Studi,Volvariella volvacea copper,Nutritionist,2023,Trace Elements,-,-
+348,328,Review,Styrax benzoin aromatherapy,Psikiater,2023,Aromatherapy Journal,-,-
+349,329,Toksisitas,Cinnamomum camphora toxicity,Toksikolog,2023,Clinical Toxicology,-,-
+350,330,Studi,Dryobalanops aromatica borneol,Kimiawan,2023,Essential Oils,-,-
+351,331,Jurnal,Agathis dammara plaster,Dermatologist,2023,Wound Repair,-,-
+352,332,Klinis,Boswellia sacra arthritis,Ortopedi,2023,Osteoarthritis,-,-
+353,333,Studi,Commiphora myrrha mouthwash,Dokter Gigi,2023,Journal of Periodontology,-,-
+354,334,Klinis,Hypericum perforatum depression,Psikiater,2023,JAMA Psychiatry,-,-
+355,335,Review,Silybum marianum liver,Hepatolog,2023,Liver International,-,-
+356,336,Klinis,Serenoa repens BPH,Urolog,2023,Urology,-,-
+357,337,Studi,Actaea racemosa hot flashes,Ginekolog,2023,Menopause,-,-
+358,338,Review,Oenothera biennis GLA,Dermatologist,2023,Skin Pharmacology,-,-
+359,339,Jurnal,Senna alexandrina laxative,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+360,340,Toksisitas,Arnica montana topical,Toksikolog,2023,Contact Dermatitis,-,-
+361,341,Studi,Calendula officinalis diaper rash,Pediatrik,2023,Pediatric Dermatology,-,-
+362,342,Review,Hamamelis virginiana hemorrhoids,Gastroenterolog,2023,Colorectal Disease,-,-
+363,343,Klinis,Crataegus monogyna heart failure,Kardiolog,2023,European Journal of Heart Failure,-,-
+364,344,Studi,Vaccinium myrtillus night vision,Oftalmolog,2023,Vision Research,-,-
+365,345,Review,Rhodiola rosea stress,Psikiater,2023,Stress Medicine,-,-
+366,346,Jurnal,Schisandra chinensis liver,Hepatolog,2023,Phytomedicine,-,-
+367,347,Studi,Urtica dioica allergies,Imunolog,2023,Allergy,-,-
+368,348,Review,Taraxacum officinale diuresis,Urolog,2023,Journal of Alternative Medicine,-,-
+369,349,Jurnal,Arctium lappa blood detox,Dermatologist,2023,Phytotherapy Research,-,-
+370,350,Studi,Achillea millefolium hemostatic,Hematolog,2023,Thrombosis Research,-,-
+371,351,Review,Verbascum thapsus asthma,Pulmonolog,2023,Respiratory Medicine,-,-
+372,352,Toksisitas,Symphytum officinale hepatotoxicity,Toksikolog,2023,Liver International,-,-
+373,353,Studi,Artemisia vulgaris dysmenorrhea,Ginekolog,2023,Journal of Ethnopharmacology,-,-
+374,354,Review,Artemisia absinthium parasites,Parasitolog,2023,Parasitology,-,-
+375,355,Jurnal,Ruta graveolens phototoxicity,Dermatologist,2023,Contact Dermatitis,-,-
+376,356,Klinis,Melissa officinalis anxiety,Psikiater,2023,Neuropsychopharmacology,-,-
+377,357,Studi,Passiflora foetida sedation,Neurolog,2023,Sleep Medicine,-,-
+378,358,Review,Scutellaria baicalensis allergies,Imunolog,2023,Immunology,-,-
+379,359,Jurnal,Humulus lupulus sleep,Ahli Tidur,2023,Sleep,-,-
+380,360,Studi,Nepeta cataria colic,Pediatrik,2023,Pediatrics International,-,-
+381,361,Review,Borago officinalis GLA,Reumatolog,2023,Rheumatology,-,-
+382,362,Klinis,Tanacetum parthenium migraines,Neurolog,2023,Cephalalgia,-,-
+383,363,Jurnal,Salix alba aspirin,Farmakolog,2023,Pain Medicine,-,-
+384,364,Studi,Smilax ornata psoriasis,Dermatologist,2023,Journal of Investigative Dermatology,-,-
+385,365,Review,Ulmus rubra gastric ulcer,Gastroenterolog,2023,Digestive Diseases,-,-
+386,366,Jurnal,Althaea officinalis mucilage,THT,2023,Laryngoscope,-,-
+387,367,Klinis,Trifolium pratense menopause,Ginekolog,2023,Menopause,-,-
+388,368,Studi,Medicago sativa calcium,Nutritionist,2023,Bone,-,-
+389,369,Review,Raphanus sativus expectorant,Pulmonolog,2023,Respiratory Medicine,-,-
+390,370,Jurnal,Beta vulgaris nitrate athletic,Ahli Olahraga,2023,Sports Medicine,-,-
+391,371,Studi,Allium tuberosum blood circulation,Kardiolog,2023,Circulation,-,-
+392,372,Toksisitas,Pachyrhizus erosus seed toxicity,Toksikolog,2023,Clinical Toxicology,-,-
+393,373,Review,Abelmoschus moschatus antispasmodic,Gastroenterolog,2023,Phytotherapy,-,-
+394,374,Jurnal,Polianthes tuberosa anxiety,Psikiater,2023,Aromatherapy Journal,-,-
+395,375,Studi,Nymphaea alba sedation,Kardiolog,2023,Journal of Ethnopharmacology,-,-
+396,376,Toksisitas,Gaultheria procumbens fatal poisoning,Toksikolog,2023,Pediatrics,-,-
+397,377,Review,Impatiens balsamina amenorrhea,Ginekolog,2023,Menopause,-,-
+398,378,Jurnal,Aglaia odorata relaxant,Neurolog,2023,Phytomedicine,-,-
+399,379,Studi,Lawsonia inermis antifungal,Dermatologist,2023,Mycoses,-,-
+400,380,Review,Peltophorum pterocarpum dysentery,Gastroenterolog,2023,Journal of Ethnopharmacology,-,-
+401,381,Studi,Leucaena leucocephala anthelmintic,Parasitolog,2023,Veterinary Parasitology,-,-
+402,382,Kasus Klinis,Archidendron pauciflorum acute kidney injury,Nefrolog,2023,Kidney International,-,-
+403,383,Kasus Klinis,Parkia speciosa djenkolism,Nefrolog,2023,Journal of Urology,-,-
+404,384,Review,Phyllanthus acidus laxative,Gastroenterolog,2023,Digestive Diseases,-,-
+405,385,Studi,Muntingia calabura uric acid,Reumatolog,2023,Arthritis & Rheumatology,-,-
+406,386,Klinis,Syzygium cumini diabetes,Endokrinolog,2023,Diabetes Care,-,-
+407,387,Jurnal,Syzygium polycephalum hangover,Hepatolog,2023,Alcoholism,-,-
+408,388,Studi,Bouea macrophylla vitamin C,Nutritionist,2023,Food Science,-,-
+409,389,Review,Spondias dulcis dental health,Dokter Gigi,2023,Journal of Dentistry,-,-
+410,390,Kasus Kematian,Averrhoa carambola neurotoxicity in CKD,Nefrolog,2023,Nephrology Dialysis Transplantation,-,-
+411,391,Studi,Garcinia dulcis stomatitis,Dokter Gigi,2023,Oral Surgery,-,-
+412,392,Jurnal,Flacourtia rukam diarrhea,Gastroenterolog,2023,Phytotherapy Research,-,-
+413,393,Review,Antidesma bunius anemia,Hematolog,2023,Anemia,-,-
+414,394,Bedah Darurat,Sandoricum koetjape seed bowel perforation,Dokter Bedah,2023,Journal of Gastrointestinal Surgery,-,-
+415,395,Studi,Cynometra cauliflora kidney stones,Urolog,2023,Urology,-,-
+416,396,Jurnal,Diospyros blancoi gastric ulcer,Gastroenterolog,2023,Digestive Diseases,-,-
+417,397,Studi,Artocarpus integer malaria,Parasitolog,2023,Malaria Journal,-,-
+418,398,Review,Baccaurea racemosa eye health,Oftalmolog,2023,Eye,-,-
+419,399,Jurnal,Lansium domesticum dysentery,Gastroenterolog,2023,Journal of Ethnopharmacology,-,-
+420,400,Studi,Artocarpus camansi stunting,Pediatrik,2023,Public Health Nutrition,-,-
+421,401,Review,Phyllanthus emblica properties,Tim Peneliti,2023,Journal of Ethnopharmacology,-,-
+422,402,Toksisitas,Azadirachtin safety profile,Ahli,2023,Toxicology,-,-
+423,403,Studi,Bacopa monnieri memory enhancement,Neurolog,2023,Phytomedicine,-,-
+424,404,Review,Terminalia chebula digestion,Gastroenterolog,2023,Digestive Diseases,-,-
+425,405,Studi,Terminalia bellirica expectorant,Pulmonolog,2023,Respiratory Medicine,-,-
+426,406,Klinis,Asparagus racemosus lactation,Pediatrik,2023,Journal of Midwifery,-,-
+427,407,Review,Tinospora cordifolia immunity,Imunolog,2023,Immunology,-,-
+428,408,Studi,Gymnema sylvestre diabetes,Endokrinolog,2023,Diabetes Care,-,-
+429,409,Klinis,Butea superba erectile dysfunction,Androlog,2023,Sexual Medicine,-,-
+430,410,Review,Epimedium icariin PDE5,Farmakolog,2023,Journal of Sexual Medicine,-,-
+431,411,Klinis,Mucuna pruriens Parkinson,Neurolog,2023,Movement Disorders,-,-
+432,412,Toksisitas,Mitragyna speciosa opioid receptors,Neurotoksikolog,2023,Addiction Biology,-,-
+433,413,Studi,Banisteriopsis caapi MAOI,Psikiater,2023,Psychopharmacology,-,-
+434,414,Review,Ilex paraguariensis metabolism,Ahli Gizi,2023,Nutrients,-,-
+435,415,Studi,Aspalathus linearis antioxidants,Kardiolog,2023,Phytomedicine,-,-
+436,416,Jurnal,Ilex guayusa caffeine theanine,Neuroscientist,2023,Food Chemistry,-,-
+437,417,Review,Trichilia catigua fatigue,Farmakolog,2023,Journal of Ethnopharmacology,-,-
+438,418,Studi,Ptychopetalum olacoides sexual function,Androlog,2023,Sexual Medicine,-,-
+439,419,Toksisitas,Pausinystalia yohimbe cardiovascular,Kardiolog,2023,Cardiovascular Toxicology,-,-
+440,420,Klinis,Hoodia gordonii appetite suppression,Endokrinolog,2023,Obesity,-,-
+441,421,Review,Cola acuminata stimulant,Peneliti,2023,Food Science,-,-
+442,422,Klinis,Pelargonium sidoides bronchitis,Pulmonolog,2023,European Respiratory Journal,-,-
+443,423,Studi,Harpagophytum procumbens arthritis,Ortopedi,2023,Osteoarthritis,-,-
+444,424,Review,Sceletium tortuosum anxiolytic,Psikiater,2023,Journal of Ethnopharmacology,-,-
+445,425,Jurnal,Agave tequilana fructans,Gastroenterolog,2023,Gut Microbes,-,-
+446,426,Studi,Opuntia ficus-indica hangover,Hepatolog,2023,Alcoholism,-,-
+447,427,Review,Carya illinoinensis neurology,Neurolog,2023,Brain Research,-,-
+448,428,Studi,Castanea sativa complex carbs,Ahli Gizi,2023,Nutrients,-,-
+449,429,Jurnal,Pinus pinea pinolenic acid,Endokrinolog,2023,Lipids,-,-
+450,430,Toksisitas,Bertholletia excelsa selenium,Toksikolog,2023,Clinical Toxicology,-,-
+451,431,Review,Pfaffia paniculata adaptogen,Ahli Olahraga,2023,Sports Medicine,-,-
+452,432,Toksisitas,Fallopia multiflora hepatotoxicity,Hepatolog,2023,Liver International,-,-
+453,433,Studi,Ziziphus jujuba insomnia,Ahli Tidur,2023,Sleep Medicine,-,-
+454,434,Klinis,Aronia melanocarpa blood pressure,Kardiolog,2023,Hypertension,-,-
+455,435,Review,Aristotelia chilensis dry eye,Oftalmolog,2023,Vision Research,-,-
+456,436,Studi,Malpighia emarginata vitamin C,Dermatologist,2023,Skin Pharmacology,-,-
+457,437,Klinis,Rosa canina osteoarthritis,Reumatolog,2023,Arthritis,-,-
+458,438,Review,Sclerocarya birrea skin barrier,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+459,439,Jurnal,Plukenetia volubilis omega 3,Kardiolog,2023,Lipids in Health and Disease,-,-
+460,440,Studi,Pouteria lucuma glycemic index,Endokrinolog,2023,Diabetes Care,-,-
+461,441,Review,Smallanthus sonchifolius FOS,Gastroenterolog,2023,Gut Microbes,-,-
+462,442,Jurnal,Prosopis pallida gluten free,Ahli Gizi,2023,Food Chemistry,-,-
+463,443,Studi,Eragrostis tef anemia,Hematolog,2023,Anemia,-,-
+464,444,Review,Panicum miliaceum alkaline diet,Nefrolog,2023,Journal of Nephrology,-,-
+465,445,Jurnal,Fagopyrum esculentum rutin,Kardiolog,2023,Vascular Medicine,-,-
+466,446,Studi,Triticum spelta digestion,Gastroenterolog,2023,Digestive Diseases,-,-
+467,447,Review,Triticum turgidum antioxidants,Ahli Gizi,2023,Nutrients,-,-
+468,448,Jurnal,Ceratonia siliqua GERD,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+469,449,Studi,Cichorium intybus liver detox,Hepatolog,2023,Hepatology,-,-
+470,450,Toksisitas,Rumex crispus oxalates,Nefrolog,2023,Kidney International,-,-
+471,451,Klinis,Carum carvi dyspepsia,Gastroenterolog,2023,Digestive Diseases,-,-
+472,452,Studi,Levisticum officinale diuresis,Urolog,2023,Journal of Urology,-,-
+473,453,Review,Ferula assa-foetida asthma,Pulmonolog,2023,Respiratory Medicine,-,-
+474,454,Jurnal,Ferula gummosa antispasmodic,Psikiater,2023,Aromatherapy Journal,-,-
+475,455,Klinis,Pistacia lentiscus H pylori,Gastroenterolog,2023,Helicobacter,-,-
+476,456,Review,Astragalus gummifer mucilage,Farmakolog,2023,International Journal of Pharmaceutics,-,-
+477,457,Studi,Protium copal incense,Neuroscientist,2023,Neuropharmacology,-,-
+478,458,Jurnal,Croton lechleri wound healing,Dermatologist,2023,Wound Repair and Regeneration,-,-
+479,459,Review,Bursera graveolens anxiety,Psikiater,2023,Phytomedicine,-,-
+480,460,Studi,Cedrus atlantica alopecia,Dermatologist,2023,Journal of Dermatological Treatment,-,-
+481,461,Jurnal,Cupressus sempervirens hemorrhoids,Bedah Vaskular,2023,Phlebology,-,-
+482,462,Toksisitas,Juniperus communis nephrotoxicity,Nefrolog,2023,Toxicology Letters,-,-
+483,463,Review,Abies alba respiratory,Pulmonolog,2023,European Respiratory Journal,-,-
+484,464,Studi,Picea mariana cortisol,Endokrinolog,2023,Stress Medicine,-,-
+485,465,Jurnal,Pinus sylvestris bronchitis,Pulmonolog,2023,Respiratory Medicine,-,-
+486,466,Toksisitas,Eucalyptus globulus fatal poisoning,Toksikolog,2023,Clinical Toxicology,-,-
+487,467,Studi,Melaleuca alternifolia MRSA,Mikrobiolog,2023,Journal of Antimicrobial Chemotherapy,-,-
+488,468,Review,Melaleuca quinquenervia radiation protect,Onkolog,2023,Radiotherapy and Oncology,-,-
+489,469,Klinis,Leptospermum scoparium wound care,Dermatologist,2023,International Wound Journal,-,-
+490,470,Jurnal,Kunzea ericoides sports injury,Kedokteran Olahraga,2023,Sports Medicine,-,-
+491,471,Studi,Myrtus communis pediatric cough,Pediatrik,2023,Pediatrics International,-,-
+492,472,Review,Laurus nobilis insulin sensitivity,Endokrinolog,2023,Diabetes Care,-,-
+493,473,Jurnal,Pimenta dioica dental anesthesia,Dokter Gigi,2023,Journal of Dentistry,-,-
+494,474,Klinis,Aframomum melegueta BAT thermogenesis,Ahli Gizi,2023,Obesity,-,-
+495,475,Review,Schinus molle anaphylaxis risk,Imunolog,2023,Allergy,-,-
+496,476,Studi,Zanthoxylum simulans TRP channels,Neuroscientist,2023,Neuroscience,-,-
+497,477,Jurnal,Zanthoxylum piperitum digestion,Gastroenterolog,2023,Appetite,-,-
+498,478,Klinis,Commiphora wightii LDL cholesterol,Kardiolog,2023,Lipids,-,-
+499,479,Studi,Convolvulus prostratus memory,Neurolog,2023,Journal of Ethnopharmacology,-,-
+500,480,Review,Nardostachys jatamansi sleep,Psikiater,2023,Sleep Medicine,-,-
+501,481,Klinis,Picrorhiza kurroa cirrhosis,Hepatolog,2023,Journal of Hepatology,-,-
+502,482,Studi,Boerhavia diffusa diuresis,Nefrolog,2023,Kidney International,-,-
+503,483,Jurnal,Rubia cordifolia lymphatic drainage,Dermatologist,2023,Phytotherapy Research,-,-
+504,484,Klinis,Terminalia arjuna heart failure,Kardiolog,2023,Journal of the American College of Cardiology,-,-
+505,485,Review,Saraca asoca menorrhagia,Ginekolog,2023,Journal of Obstetrics and Gynaecology,-,-
+506,486,Klinis,Boswellia serrata osteoarthritis,Ortopedi,2023,Osteoarthritis and Cartilage,-,-
+507,487,Studi,Chlorophytum borivilianum spermatogenesis,Androlog,2023,Fertility and Sterility,-,-
+508,488,Review,Pueraria tuberosa muscle mass,Ahli Olahraga,2023,Journal of the International Society of Sports Nutrition,-,-
+509,489,Interaksi Obat,Piper longum CYP3A4 inhibition,Farmakolog,2023,Clinical Pharmacology,-,-
+510,490,Studi,Nymphaea caerulea psychoactive,Psikiater,2023,Journal of Psychoactive Drugs,-,-
+511,491,Jurnal,Saccharum officinarum jaundice,Hepatolog,2023,Hepatology,-,-
+512,492,Toksisitas,Cerbera manghas fatal cardiac arrest,Kardiolog,2023,Forensic Science International,-,-
+513,493,Studi,Euchresta horsfieldii dysentery,Gastroenterolog,2023,Journal of Ethnopharmacology,-,-
+514,494,Toksisitas,Crassocephalum crepidioides pyrrolizidine,Hepatolog,2023,Toxicon,-,-
+515,495,Polusi,Limnocharis flava heavy metal hyperaccumulator,Toksikolog,2023,Environmental Pollution,-,-
+516,496,Studi,Musa acuminata flower lactation,Pediatrik,2023,Journal of Human Lactation,-,-
+517,497,Review,Carica papaya male flower malaria,Parasitolog,2023,Malaria Journal,-,-
+518,498,Jurnal,Coffea arabica leaf antioxidants,Ahli Gizi,2023,Food Chemistry,-,-
+519,499,Studi,Desmodium triquetrum hemorrhoids,Gastroenterolog,2023,Colorectal Disease,-,-
+520,500,Toksisitas,Ageratum conyzoides PA hepatotoxicity,Hepatolog,2023,Hepatology Research,-,-
+521,501,Review Toksisitas,Acorus calamus alpha-asarone toxicity,Toksikolog,2023,Toxicology Letters,-,-
+522,502,Studi,Helminthostachys zeylanica antioxidant,Kimiawan,2023,Phytochemistry,-,-
+523,503,Uji Farmakologi,Lunasia amara aphrodisiac effects,Androlog,2023,Journal of Ethnopharmacology,-,-
+524,504,Review Klinis,Clerodendrum serratum in asthma,Pulmonolog,2023,Respiratory Medicine,-,-
+525,505,Studi,Euphorbia thymifolia dysentery,Gastroenterolog,2023,Journal of Traditional Medicine,-,-
+526,506,Uji Klinis,Ruellia napifera kidney stones,Urolog,2023,Urology,-,-
+527,507,Review,Marsilea crenata phytoestrogens,Ginekolog,2023,Menopause,-,-
+528,508,Studi Toksisitas,Oxalis corniculata oxalate stones,Nefrolog,2023,Kidney International,-,-
+529,509,Jurnal,Peperomia pellucida gout,Reumatolog,2023,Arthritis & Rheumatology,-,-
+530,510,Studi,Basella alba gastric ulcer,Gastroenterolog,2023,Digestive Diseases,-,-
+531,511,Review,Amaranthus spinosus diuresis,Nefrolog,2023,Journal of Ethnopharmacology,-,-
+532,512,Studi,Sesuvium portulacastrum wound healing,Dermatologist,2023,Wound Repair,-,-
+533,513,Kasus Klinis,Calotropis gigantea ocular toxicity,Oftalmolog,2023,Ophthalmology,-,-
+534,514,Review Toksisitas,Senna siamea hepatotoxicity,Hepatolog,2023,Liver International,-,-
+535,515,Studi Toksisitas,Adenanthera pavonina seed toxicity,Toksikolog,2023,Clinical Toxicology,-,-
+536,516,Jurnal,Samanea saman blood purification,Kardiolog,2023,Phytotherapy Research,-,-
+537,517,Review,Dialium indum laxative,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+538,518,Studi,Stelechocarpus burahol body odor,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+539,519,Jurnal,Solanum torvum visual acuity,Oftalmolog,2023,Vision Research,-,-
+540,520,Toksisitas Fatal,Datura metel hallucination poisoning,Psikiater,2023,Emergency Medicine Journal,-,-
+541,521,Review,Gossypium herbaceum oxytocic,Obstetrik,2023,Journal of Midwifery,-,-
+542,522,Studi,Ceiba pentandra antipyretic,Pediatrik,2023,Pediatrics International,-,-
+543,523,Jurnal,Erythrina subumbrans fever,Farmakolog,2023,Phytomedicine,-,-
+544,524,Studi,Erythrina variegata rheumatism,Reumatolog,2023,Arthritis Care & Research,-,-
+545,525,Review,Erythrina fusca varicella,Dermatologist,2023,Antiviral Research,-,-
+546,526,Jurnal,Hibiscus tiliaceus hair growth,Dermatologist,2023,Journal of Dermatological Treatment,-,-
+547,527,Studi,Borassus flabellifer hydration,Ahli Gizi,2023,Nutrients,-,-
+548,528,Review,Zingiber aromaticum postpartum,Ginekolog,2023,Journal of Ethnopharmacology,-,-
+549,529,Toksisitas,Indigofera tinctoria epilepsy toxicity,Neurolog,2023,Epilepsia,-,-
+550,530,Jurnal,Cymbopogon nardus mosquito repellent,Entomolog,2023,Malaria Journal,-,-
+551,531,Studi Toksisitas,Annona squamosa seed lice,Dermatologist,2023,Parasitology,-,-
+552,532,Review,Annona reticulata anthelmintic,Parasitolog,2023,Veterinary Parasitology,-,-
+553,533,Jurnal,Triphasia trifolia expectorant,Pulmonolog,2023,Respiratory Medicine,-,-
+554,534,Uji Klinis,Ananas comosus bromelain,Ortopedi,2023,Osteoarthritis,-,-
+555,535,Studi,Durio zibethinus peel ash,Gastroenterolog,2023,Digestive Diseases,-,-
+556,536,Review,Psophocarpus tetragonolobus vitamin E,Ahli Gizi,2023,Food Chemistry,-,-
+557,537,Jurnal,Luffa acutangula diuresis,Urolog,2023,Urology,-,-
+558,538,Studi,Luffa aegyptiaca asthma,Pulmonolog,2023,Allergy and Asthma Proceedings,-,-
+559,539,Review Toksisitas,Amorphophallus variabilis oxalate,Toksikolog,2023,Food Safety,-,-
+560,540,Jurnal,Cassytha filiformis hepatoprotection,Hepatolog,2023,Journal of Hepatology,-,-
+561,541,Studi,Saccharum rubrum tachycardia,Kardiolog,2023,American Journal of Cardiology,-,-
+562,542,Review,Helicteres isora colic,Pediatrik,2023,Journal of Pediatrics,-,-
+563,543,Jurnal,Usnea misaminensis antimicrobial,Mikrobiolog,2023,Journal of Antimicrobial Chemotherapy,-,-
+564,544,Studi,Sindora bruggemanii dysentery,Gastroenterolog,2023,Gut Pathogens,-,-
+565,545,Review,Baeckea frutescens analgesic,Farmakolog,2023,Pain Medicine,-,-
+566,546,Studi,Zingiber amaricans appetite,Gastroenterolog,2023,Appetite,-,-
+567,547,Jurnal,Gnetum gnemon leaf uric acid,Reumatolog,2023,Arthritis & Rheumatology,-,-
+568,548,Review,Calophyllum inophyllum wound healing,Bedah Plastik,2023,Wound Repair and Regeneration,-,-
+569,549,Uji Klinis,Senna alata tinea versicolor,Dermatologist,2023,Mycoses,-,-
+570,550,Studi,Lophatherum gracile antipyretic,Pediatrik,2023,Pediatrics International,-,-
+571,551,Review,Drymoglossum piloselloides TB,Pulmonolog,2023,Tuberculosis,-,-
+572,552,Jurnal,Drynaria quercifolia hemostatic,Hematolog,2023,Thrombosis Research,-,-
+573,553,Studi,Cordyline fruticosa hemorrhoids,Bedah Vaskular,2023,Colorectal Disease,-,-
+574,554,Review,Gomphrena globosa asthma,Pulmonolog,2023,Respiratory Medicine,-,-
+575,555,Klinis,Tithonia diversifolia hypoglycemia,Endokrinolog,2023,Diabetes Care,-,-
+576,556,Studi Toksisitas,Caesalpinia pulcherrima seed toxicity,Toksikolog,2023,Clinical Toxicology,-,-
+577,557,Jurnal,Celosia cristata menorrhagia,Ginekolog,2023,Journal of Obstetrics and Gynaecology,-,-
+578,558,Review,Bixa orellana gastric shield,Gastroenterolog,2023,Digestive Diseases,-,-
+579,559,Studi,Flacourtia inermis hypertension,Kardiolog,2023,Hypertension,-,-
+580,560,Jurnal,Manilkara zapota diarrhea,Gastroenterolog,2023,Journal of Gastroenterology,-,-
+581,561,Review,Manilkara kauki body odor,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+582,562,Studi,Chrysophyllum cainito pharyngitis,THT,2023,Laryngoscope,-,-
+583,563,Jurnal,Mangifera odorata cholesterol,Kardiolog,2023,Lipids,-,-
+584,564,Review,Mangifera kemanga digestion,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+585,565,Toksisitas,Mangifera foetida sap allergy,Dermatologist,2023,Contact Dermatitis,-,-
+586,566,Klinis,Citrus reticulata blood pressure,Kardiolog,2023,Journal of Human Hypertension,-,-
+587,567,Studi,Citrullus lanatus citrulline,Urolog,2023,BJU International,-,-
+588,568,Review,Cucumis melo hydration,Nefrolog,2023,Kidney International,-,-
+589,569,Jurnal,Vigna unguiculata osteoporosis,Ortopedi,2023,Bone,-,-
+590,570,Studi Toksisitas,Canavalia gladiata concanavalin A,Toksikolog,2023,Food and Chemical Toxicology,-,-
+591,571,Review,Melastoma malabathricum dysentery,Gastroenterolog,2023,Gut Pathogens,-,-
+592,572,Studi,Rhodomyrtus tomentosa anemia,Hematolog,2023,Blood,-,-
+593,573,Jurnal,Dioscorea esculenta prebiotics,Gastroenterolog,2023,Gut Microbes,-,-
+594,574,Review Toksisitas,Dioscorea bulbifera hepatotoxicity,Hepatolog,2023,Liver International,-,-
+595,575,Studi,Dioscorea alata diabetes,Endokrinolog,2023,Diabetes Technology,-,-
+596,576,Toksisitas Fatal,Dioscorea hispida cyanide poisoning,Forensik,2023,Forensic Science International,-,-
+597,577,Jurnal,Bauhinia purpurea goiter,Endokrinolog,2023,Thyroid,-,-
+598,578,Review,Turnera ulmifolia rheumatism,Reumatolog,2023,Arthritis Care,-,-
+599,579,Studi,Cibotium barometz hemostatic,Bedah Ortopedi,2023,Journal of Orthopaedic Research,-,-
+600,580,Klinis,Equisetum debile kidney stones,Urolog,2023,Urology,-,-
+601,581,Jurnal,Gigantochloa apus hypertension,Kardiolog,2023,American Journal of Hypertension,-,-
+602,582,Studi,Oenanthe javanica sedation,Neurolog,2023,Sleep Medicine,-,-
+603,583,Review,Nasturtium officinale lung detox,Pulmonolog,2023,Chest,-,-
+604,584,Jurnal,Brassica rapa pekinensis gout,Reumatolog,2023,Journal of Rheumatology,-,-
+605,585,Klinis,Brassica oleracea gastric ulcer,Gastroenterolog,2023,American Journal of Gastroenterology,-,-
+606,586,Studi,Vigna subterranea energy,Ahli Olahraga,2023,Sports Medicine,-,-
+607,587,Review Toksisitas,Phaseolus lunatus linamarin,Toksikolog,2023,Food Safety,-,-
+608,588,Jurnal,Coix lacryma-jobi abortion risk,Obstetrik,2023,Journal of Obstetrics and Gynaecology,-,-
+609,589,Studi,Setaria italica GERD,Gastroenterolog,2023,Digestive Diseases,-,-
+610,590,Review,Oryza glutinosa nigra antioxidants,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+611,591,Jurnal,Zea mays ceratina glycemic index,Endokrinolog,2023,Diabetes Care,-,-
+612,592,Studi,Elaeis guineensis macular degeneration,Oftalmolog,2023,Investigative Ophthalmology,-,-
+613,593,Review,Solenostemon rotundifolius cancer,Onkolog,2023,Nutrition and Cancer,-,-
+614,594,Toksisitas,Manihot glaziovii cyanide,Toksikolog,2023,Clinical Toxicology,-,-
+615,595,Uji Klinis,Aegle marmelos dysentery,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+616,596,Studi,Limonia acidissima morning sickness,Obstetrik,2023,Journal of Midwifery,-,-
+617,597,Jurnal,Dimocarpus longan insomnia,Psikiater,2023,Sleep,-,-
+618,598,Toksisitas Fatal,Litchi chinensis hypoglycin encephalopathy,Pediatrik,2023,Lancet Global Health,-,-
+619,599,Review,Metroxylon sagu prebiotics,Gastroenterolog,2023,Food Hydrocolloids,-,-
+620,600,Studi,Corypha utan dysentery,Gastroenterolog,2023,Gut Pathogens,-,-
+621,601,Studi,Evodia suaveolens mosquito repellent,Entomolog,2023,Journal of Vector Ecology,-,-
+622,602,Toksisitas Fatal,Strychnos lucida strychnine poisoning,Toksikolog,2023,Clinical Toxicology,-,-
+623,603,Jurnal,Nyctanthes arbor-tristis anti-inflammatory,Reumatolog,2023,Journal of Ethnopharmacology,-,-
+624,604,Review,Schleichera oleosa hair growth,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+625,605,Studi,Pinus merkusii resin wound healing,Farmakolog,2023,Wound Repair and Regeneration,-,-
+626,606,Jurnal,Calophyllum soulattri anti-HIV in vitro,Virolog,2023,Antiviral Research,-,-
+627,607,Review Nutrisi,Inocarpus fagifer resistant starch,Ahli Gizi,2023,Carbohydrate Polymers,-,-
+628,608,Studi,Spondias pinnata vitamin C,Dokter Gigi,2023,Journal of Dentistry,-,-
+629,609,Toksisitas Biji,Jatropha multifida seed fatal poisoning,Toksikolog,2023,Forensic Science International,-,-
+630,610,Jurnal,Ficus elastica latex properties,Kardiolog,2023,Cardiovascular Pharmacology,-,-
+631,611,Studi,Ficus septica tylophorine,Dermatologist,2023,Skin Pharmacology,-,-
+632,612,Review,Dendrophthoe pentandra anticancer,Onkolog,2023,Cancer Letters,-,-
+633,613,Studi Logam,Sphenoclea zeylanica heavy metal accumulator,Toksikolog,2023,Environmental Pollution,-,-
+634,614,Toksisitas Saraf,Ipomoea carnea swainsonine neurotoxicity,Neurolog,2023,Toxicology,-,-
+635,615,Jurnal,Amaranthus hybridus folic acid,Obstetrik,2023,Maternal Nutrition,-,-
+636,616,Studi,Alternanthera sessilis lactation,Pediatrik,2023,Journal of Human Lactation,-,-
+637,617,Review,Erigeron sumatrensis analgesic,Farmakolog,2023,Pain Medicine,-,-
+638,618,Toksisitas,Allamanda cathartica extreme cathartic,Gastroenterolog,2023,Digestive Diseases,-,-
+639,619,Jurnal,Tradescantia spathacea antitussive,Pulmonolog,2023,Respiratory Medicine,-,-
+640,620,Studi,Pilea microphylla diuresis,Urolog,2023,Urology,-,-
+641,621,Review,Scorodocarpus borneensis hypertension,Kardiolog,2023,Journal of Human Hypertension,-,-
+642,622,Jurnal,Mangifera casturi immunomodulator,Imunolog,2023,Immunology,-,-
+643,623,Studi,Mangifera caesia gastric enzymes,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+644,624,Review,Kaempferia rotunda weight loss,Ahli Gizi,2023,Obesity Reviews,-,-
+645,625,Jurnal,Alpinia purpurata antifungal,Dermatologist,2023,Mycoses,-,-
+646,626,Studi,Piper betle nigra diabetes,Endokrinolog,2023,Diabetes Care,-,-
+647,627,Toksisitas Hiasan,Epipremnum aureum calcium oxalate pets,Veteriner,2023,Veterinary Toxicology,-,-
+648,628,Jurnal,Senna occidentalis emodin laxative,Gastroenterolog,2023,Journal of Gastroenterology,-,-
+649,629,Review,Dillenia indica scalp health,Dermatologist,2023,Journal of Dermatological Treatment,-,-
+650,630,Toksisitas,Reutealis trisperma seed toxicity,Hepatolog,2023,Clinical Toxicology,-,-
+651,631,Studi,Toona sureni dysentery,Gastroenterolog,2023,Gut Pathogens,-,-
+652,632,Toksisitas,Melia azedarach toosendanin fatality,Toksikolog,2023,Toxicology Letters,-,-
+653,633,Review,Amorphophallus titanum glucomannan,Ahli Gizi,2023,Food Hydrocolloids,-,-
+654,634,Studi,Nepenthes mirabilis enzyme digestion,Biologi,2023,Plant Physiology,-,-
+655,635,Jurnal,Dendrobium crumenatum breast cancer,Onkolog,2023,Breast Cancer Research,-,-
+656,636,Review,Zingiber puberulum anthelmintic,Parasitolog,2023,Veterinary Parasitology,-,-
+657,637,Studi,Etlingera hemisphaerica deodorant,Dermatologist,2023,Journal of Cosmetic Science,-,-
+658,638,Jurnal,Piper aduncum hemostatic,Bedah,2023,Wound Repair,-,-
+659,639,Review,Allium schoenoprasum circulation,Kardiolog,2023,Circulation,-,-
+660,640,Studi,Pandanus tectorius hypertension,Kardiolog,2023,American Journal of Hypertension,-,-
+661,641,Jurnal,Rubus rosaefolius scurvy,Dokter Gigi,2023,Journal of Periodontology,-,-
+662,642,Review,Vaccinium varingiaefolium fatigue,Ahli Olahraga,2023,Sports Medicine,-,-
+663,643,Klinis,Punica granatum alba leucorrhea,Ginekolog,2023,Journal of Obstetrics and Gynaecology,-,-
+664,644,Studi,Syzygium jambos tachycardia,Kardiolog,2023,International Journal of Cardiology,-,-
+665,645,Toksisitas,Crescentia cujete raw toxicity,Toksikolog,2023,Food Safety,-,-
+666,646,Jurnal,Artocarpus elasticus latex wound,Dermatologist,2023,Wound Healing,-,-
+667,647,Review,Nephelium mutabile diabetes,Endokrinolog,2023,Diabetes Technology,-,-
+668,648,Studi,Neolamarckia cadamba fever,Pediatrik,2023,Pediatrics International,-,-
+669,649,Jurnal,Gmelina arborea blood detox,Nefrolog,2023,Journal of Nephrology,-,-
+670,650,Review,Schima wallichii diarrhea,Gastroenterolog,2023,Digestive Diseases,-,-
+671,651,Klinis,Coffea canephora caffeine energy,Kardiolog,2023,Circulation,-,-
+672,652,Studi,Calamus rotang malaria,Parasitolog,2023,Malaria Journal,-,-
+673,653,Jurnal,Bambusa vulgaris striata jaundice,Hepatolog,2023,Hepatology,-,-
+674,654,Review,Dendrocalamus asper whooping cough,Pulmonolog,2023,Respiratory Medicine,-,-
+675,655,Studi,Gigantochloa atroviolacea gout,Reumatolog,2023,Arthritis & Rheumatology,-,-
+676,656,Toksisitas Fatal,Cycas revoluta cycasin liver failure,Hepatolog,2023,Liver International,-,-
+677,657,Jurnal,Gnetum macrostachyum purine,Reumatolog,2023,Journal of Rheumatology,-,-
+678,658,Review,Opuntia cochenillifera hemorrhoids,Gastroenterolog,2023,Colorectal Disease,-,-
+679,659,Studi,Coleus blumei pediatric cough,Pediatrik,2023,Pediatric Pulmonology,-,-
+680,660,Toksisitas Hiasan,Monstera adansonii airway swelling,Toksikolog,2023,Emergency Medicine,-,-
+681,661,Toksisitas Hiasan,Aglaonema commutatum oral irritation,Dokter Gigi,2023,Oral Surgery,-,-
+682,662,Toksisitas Hiasan,Anthurium plowmanii dysphagia,THT,2023,Laryngoscope,-,-
+683,663,Jurnal,Adiantum capillus-veneris pertussis,Pulmonolog,2023,European Respiratory Journal,-,-
+684,664,Review,Asplenium scolopendrium diuresis,Urolog,2023,Urology,-,-
+685,665,Studi,Platycerium bifurcatum alopecia,Dermatologist,2023,Journal of Dermatological Treatment,-,-
+686,666,Toksisitas Getah,Euphorbia pulcherrima latex emetic,Gastroenterolog,2023,Clinical Toxicology,-,-
+687,667,Toksisitas Fatal,Adenium obesum cardiac arrest,Kardiolog,2023,Forensic Science International,-,-
+688,668,Jurnal,Schizophyllum commune immunity,Imunolog,2023,Immunology,-,-
+689,669,Toksisitas Jamur,Scleroderma citrinum gastrointestinal,Gastroenterolog,2023,Digestive Diseases,-,-
+690,670,Studi,Gymnopus sp ergosterol,Ahli Gizi,2023,Bone,-,-
+691,671,Review,Pterocarpus santalinus acne,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+692,672,Jurnal,Diospyros celebica diabetes,Endokrinolog,2023,Diabetes Care,-,-
+693,673,Studi,Eusideroxylon zwageri hair pigmentation,Dermatologist,2023,Pigment Cell & Melanoma Research,-,-
+694,674,Review,Intsia bijuga dysentery,Gastroenterolog,2023,Gut Pathogens,-,-
+695,675,Jurnal,Pennisetum purpureum diuresis,Nefrolog,2023,Kidney International,-,-
+696,676,Studi,Pennisetum purpureum Mott calcium,Ortopedi,2023,Osteoporosis International,-,-
+697,677,Review,Asplenium nidus labor induction,Obstetrik,2023,Journal of Midwifery,-,-
+698,678,Jurnal,Portulaca grandiflora tonsillitis,THT,2023,Laryngoscope,-,-
+699,679,Klinis,Andrographis echioides typhoid,Penyakit Dalam,2023,Journal of Infection,-,-
+700,680,Jurnal,Selaginella doederleinii nasopharyngeal cancer,Onkolog,2023,Cancer Letters,-,-
+701,681,Studi,Mezoneuron kauaiense internal bleeding,Gastroenterolog,2023,Journal of Gastroenterology,-,-
+702,682,Review,Laportea decumana pain gate theory,Neurolog,2023,Pain Medicine,-,-
+703,683,Jurnal,Pipturus argenteus burn wounds,Bedah Plastik,2023,Burns,-,-
+704,684,Toksisitas Daun,Laportea stimulans severe urticaria,Dermatologist,2023,Contact Dermatitis,-,-
+705,685,Studi,Fleurya interrupta lumbago,Reumatolog,2023,Arthritis Care,-,-
+706,686,Review,Lannea coromandelica dental caries,Dokter Gigi,2023,Journal of Dentistry,-,-
+707,687,Jurnal,Syzygium densiflorum amoebiasis,Gastroenterolog,2023,Tropical Medicine,-,-
+708,688,Studi,Syzygium lineatum gout,Reumatolog,2023,Journal of Rheumatology,-,-
+709,689,Review,Syzygium cauliflorum UTI,Urolog,2023,Urology,-,-
+710,690,Jurnal,Cananga odorata macrophylla sedation,Psikiater,2023,Sleep Medicine,-,-
+711,691,Studi,Magnolia liliiflora dysmenorrhea,Ginekolog,2023,Menopause,-,-
+712,692,Review,Clitoria ternatea alba cataracts,Oftalmolog,2023,Vision Research,-,-
+713,693,Jurnal,Rosa rugosa osteoarthritis,Ortopedi,2023,Osteoarthritis and Cartilage,-,-
+714,694,Studi,Nymphaea rubra tachycardia,Kardiolog,2023,American Journal of Cardiology,-,-
+715,695,Toksisitas Fatal,Datura fastuosa scopolamine poisoning,Psikiater,2023,Emergency Medicine Journal,-,-
+716,696,Toksisitas Fatal,Brugmansia suaveolens coma,Neurolog,2023,Toxicology,-,-
+717,697,Review,Clerodendrum inerme mosquito repellent,Entomolog,2023,Malaria Journal,-,-
+718,698,Jurnal,Bougainvillea glabra leucorrhea,Ginekolog,2023,Journal of Obstetrics and Gynaecology,-,-
+719,699,Studi,Digitaria ciliaris bone healing,Bedah Ortopedi,2023,Journal of Orthopaedic Research,-,-
+720,700,Review,Cyperus rotundus rubra dysmenorrhea,Ginekolog,2023,Journal of Ethnopharmacology,-,-
+921,701,Jurnal,Ruellia tuberosa antidiabetic properties,Endokrinolog,2023,Journal of Ethnopharmacology,-,-
+922,702,Studi,Acmella oleracea spilanthol toothache,Dokter Gigi,2023,Phytomedicine,-,-
+923,703,Toksisitas,Chromolaena odorata hepatotoxicity PA,Toksikolog,2023,Toxicology,-,-
+924,704,Review,Mikania micrantha wound healing,Dermatologist,2023,Wound Repair,-,-
+925,705,Toksisitas Fatal,Lantana camara lantadene liver failure,Hepatolog,2023,Veterinary Toxicology,-,-
+926,706,Studi,Tagetes erecta lutein macula,Oftalmolog,2023,Vision Research,-,-
+927,707,Jurnal,Mussaenda pubescens asthma,Pulmonolog,2023,Respiratory Medicine,-,-
+928,708,Review,Magnolia champaca antimicrobial,Mikrobiolog,2023,Journal of Antimicrobial Chemotherapy,-,-
+929,709,Klinis,Jasminum multiflorum sedation,Psikiater,2023,Sleep Medicine,-,-
+930,710,Toksisitas Fatal,Nerium oleander cardiac arrest,Kardiolog,2023,Forensic Science International,-,-
+931,711,Studi,Sesbania grandiflora rubra hypertension,Kardiolog,2023,American Journal of Hypertension,-,-
+932,712,Jurnal,Hibiscus mutabilis inflammation,Reumatolog,2023,Arthritis Care,-,-
+933,713,Toksisitas Hiasan,Alocasia macrorrhizos oxalate airway,THT,2023,Emergency Medicine,-,-
+934,714,Konservasi,Rafflesia arnoldii ethnobotany,Botanist,2023,Economic Botany,-,-
+935,715,Studi,Kyllinga brevifolia antipyretic,Pediatrik,2023,Pediatrics International,-,-
+936,716,Jurnal,Acalypha hispida hemostatic,Bedah,2023,Thrombosis Research,-,-
+937,717,Klinis,Bidens pilosa diabetes type 2,Endokrinolog,2023,Diabetes Care,-,-
+938,718,Studi,Cleome gynandra rubefacient,Neurolog,2023,Pain Medicine,-,-
+939,719,Review,Physalis peruviana immunity,Imunolog,2023,Immunology,-,-
+940,720,Toksisitas,Solanum mammosum solanine poisoning,Toksikolog,2023,Clinical Toxicology,-,-
+941,721,Toksisitas Fatal,Datura stramonium scopolamine hallucinations,Psikiater,2023,Emergency Medicine Journal,-,-
+942,722,Studi,Cajanus cajan diuresis,Urolog,2023,Urology,-,-
+943,723,Review,Pisum sativum cholesterol,Kardiolog,2023,Lipids,-,-
+944,724,Jurnal,Benincasa hispida gastritis,Gastroenterolog,2023,Digestive Diseases,-,-
+945,725,Studi,Bunchosia glandulifera lycopene,Kardiolog,2023,Vascular Pharmacology,-,-
+946,726,Review,Eleiodoxa conferta vitamin c,Ahli Gizi,2023,Nutrients,-,-
+947,727,Jurnal,Oncosperma tigillarium kidney stones,Urolog,2023,Journal of Urology,-,-
+948,728,Studi,Calamus draco wound healing,Dermatologist,2023,Wound Repair and Regeneration,-,-
+949,729,Toksisitas Fatal,Derris elliptica rotenone neurotoxicity,Neurolog,2023,Toxicology Letters,-,-
+950,730,Review,Etlingera punicea antispasmodic,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+951,731,Jurnal,Amomum dealbatum expectorant,Pulmonolog,2023,Respiratory Medicine,-,-
+952,732,Studi,Curcuma petiolata dysmenorrhea,Ginekolog,2023,Menopause,-,-
+953,733,Review,Polygonum hydropiper anthelmintic,Parasitolog,2023,Parasitology,-,-
+954,734,Jurnal,Ipomoea reptans sedation,Ahli Tidur,2023,Sleep,-,-
+955,735,Studi,Talinum triangulare adaptogen,Kedokteran Olahraga,2023,Sports Medicine,-,-
+956,736,Review,Mangifera pajang beta carotene,Oftalmolog,2023,Vision Research,-,-
+957,737,Klinis,Justicia gendarussa male contraception,Androlog,2023,Contraception,-,-
+958,738,Studi,Baccaurea motleyana antipyretic,Pediatrik,2023,Journal of Tropical Pediatrics,-,-
+959,739,Jurnal,Baccaurea macrophylla digestion,Gastroenterolog,2023,Digestive Diseases,-,-
+960,740,Review,Baccaurea macrocarpa energy,Ahli Gizi,2023,Nutrients,-,-
+961,741,Studi,Pometia pinnata var dysentery,Gastroenterolog,2023,Gut Pathogens,-,-
+962,742,Klinis,Passiflora edulis anxiety,Psikiater,2023,Journal of Clinical Psychiatry,-,-
+963,743,Jurnal,Passiflora ligularis GERD,Gastroenterolog,2023,American Journal of Gastroenterology,-,-
+964,744,Review,Passiflora quadrangularis laxative,Gastroenterolog,2023,Colorectal Disease,-,-
+965,745,Studi,Vasconcellea pubescens papain,Gastroenterolog,2023,Digestive Diseases,-,-
+966,746,Jurnal,Cucumis melo cantalupensis diuresis,Urolog,2023,Urology,-,-
+967,747,Review,Cucumis melo reticulatus gastric ulcer,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+968,748,Studi,Cucumis melo acidulus hydration,Ahli Gizi,2023,Nutrients,-,-
+969,749,Toksisitas Umbi,Xanthosoma undipes oxalate poisoning,Toksikolog,2023,Food Safety,-,-
+970,750,Toksisitas Umbi,Colocasia esculenta antiquorum oxalate,Toksikolog,2023,Clinical Toxicology,-,-
+971,751,Jurnal,Diospyros kaki hypertension,Kardiolog,2023,Hypertension,-,-
+972,752,Studi,Pouteria campechiana vision,Oftalmolog,2023,Eye,-,-
+973,753,Review,Pouteria sapota vitamin C,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+974,754,Jurnal,Pouteria caimito bronchitis,Pulmonolog,2023,Respiratory Medicine,-,-
+975,755,Toksisitas Fatal,Entada phaseoloides saponin hemolysis,Hematolog,2023,Blood,-,-
+976,756,Toksisitas Fatal,Cerbera odollam cardiac arrest,Kardiolog,2023,Forensic Science International,-,-
+977,757,Studi,Senna tora antifungal,Dermatologist,2023,Mycoses,-,-
+978,758,Review,Premna serratifolia mucilage,THT,2023,Laryngoscope,-,-
+979,759,Jurnal,Citrus reticulata santang cholesterol,Kardiolog,2023,Lipids,-,-
+980,760,Studi,Citrus shiranui atherosclerosis,Kardiolog,2023,Atherosclerosis,-,-
+981,761,Review,Acacia tomentosa dental caries,Dokter Gigi,2023,Journal of Dentistry,-,-
+982,762,Jurnal,Acacia leucophloea dysentery,Gastroenterolog,2023,Gut Pathogens,-,-
+983,763,Studi,Aeschynomene aspera lymphatic detox,Dermatologist,2023,Journal of Dermatological Treatment,-,-
+984,764,Review,Bauhinia acuminata antipyretic,Pediatrik,2023,Pediatrics International,-,-
+985,765,Jurnal,Erythrina crista-galli sedation,Psikiater,2023,Sleep Medicine,-,-
+986,766,Studi,Guettarda speciosa hemorrhoids,Gastroenterolog,2023,Colorectal Disease,-,-
+987,767,Review,Thespesia populnea hair growth,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+988,768,Jurnal,Garcinia hombroniana scurvy,Dokter Gigi,2023,Journal of Periodontology,-,-
+989,769,Studi,Garcinia forbesii gout,Reumatolog,2023,Arthritis & Rheumatology,-,-
+990,770,Review,Syzygium pycnanthum diarrhea,Gastroenterolog,2023,Digestive Diseases,-,-
+991,771,Jurnal,Syzygium malaccense alba GERD,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+992,772,Studi,Flacourtia indica kidney stones,Urolog,2023,Journal of Urology,-,-
+993,773,Review,Cynometra ramiflora dysentery,Gastroenterolog,2023,Journal of Ethnopharmacology,-,-
+994,774,Jurnal,Myrica javanica antispasmodic,Gastroenterolog,2023,Digestive Diseases,-,-
+995,775,Toksisitas Mata,Scaevola taccada ocular irritation,Oftalmolog,2023,Ophthalmology,-,-
+996,776,Studi,Scaevola aemula gonorrhea,Urolog,2023,Infectious Diseases,-,-
+997,777,Review,Echinodorus palifolius tachycardia,Kardiolog,2023,American Journal of Cardiology,-,-
+998,778,Jurnal,Victoria amazonica edema,Ortopedi,2023,Journal of Orthopaedic Research,-,-
+999,779,Toksisitas Umbi,Amorphophallus gigas oxalate poisoning,Toksikolog,2023,Food Safety,-,-
+1000,780,Studi,Angiopteris evecta tuberculosis,Pulmonolog,2023,Tuberculosis,-,-
+1001,781,Jurnal,Cyathea contaminans hemostatic,Bedah,2023,Wound Repair,-,-
+1002,782,Review,Lycopodium cernuum kidney stones,Urolog,2023,Urology,-,-
+1003,783,Studi,Lycopodium clavatum diaper rash,Pediatrik,2023,Pediatric Dermatology,-,-
+1004,784,Jurnal,Selaginella plana antipyretic,Pediatrik,2023,Pediatrics International,-,-
+1005,785,Review,Adiantum tenerum pertussis,Pulmonolog,2023,Respiratory Medicine,-,-
+1006,786,Studi,Nephrolepis exaltata air purification,Toksikolog,2023,Environmental Pollution,-,-
+1007,787,Jurnal,Marchantia polymorpha hepatoprotection,Hepatolog,2023,Journal of Hepatology,-,-
+1008,788,Review,Anthoceros laevis conjunctivitis,Oftalmolog,2023,Eye,-,-
+1009,789,Studi,Biophytum sensitivum diabetes,Endokrinolog,2023,Diabetes Care,-,-
+1010,790,Klinis,Phyllanthus amarus kidney stones,Urolog,2023,BJU International,-,-
+1011,791,Jurnal,Portulaca quadrifida tonsillitis,THT,2023,Laryngoscope,-,-
+1012,792,Review,Portulaca pilosa burn wounds,Bedah Plastik,2023,Burns,-,-
+1013,793,Studi,Mirabilis jalapa alba acne,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+1014,794,Toksisitas,Ageratum houstonianum hepatotoxicity PA,Hepatolog,2023,Toxicology Letters,-,-
+1015,795,Jurnal,Paederia scandens flatulence,Gastroenterolog,2023,Digestive Diseases,-,-
+1016,796,Studi,Borreria alata toothache,Dokter Gigi,2023,Journal of Dentistry,-,-
+1017,797,Review,Blumea lacera malaria,Parasitolog,2023,Malaria Journal,-,-
+1018,798,Toksisitas Saraf,Lobelia erinus lobeline toxicity,Neurolog,2023,Clinical Toxicology,-,-
+1019,799,Jurnal,Ixora javanica hypertension,Kardiolog,2023,Hypertension,-,-
+1020,800,Studi,Polyscias fruticosa halitosis,Dokter Gigi,2023,Oral Surgery,-,-
+1021,801,Jurnal,Fibraurea tinctoria hepatoprotection,Hepatolog,2023,Journal of Ethnopharmacology,-,-
+1022,802,Studi,Luvunga sarmentosa aphrodisiac,Androlog,2023,Sexual Medicine,-,-
+1023,803,Review,Drimys piperita polygodial,Ahli Olahraga,2023,Phytochemistry,-,-
+1024,804,Klinis,Costus igneus diabetes,Endokrinolog,2023,Diabetes Care,-,-
+1025,805,Studi,Belamcanda chinensis asthma,Pulmonolog,2023,Respiratory Medicine,-,-
+1026,806,Jurnal,Picrasma javanica antimalarial,Parasitolog,2023,Malaria Journal,-,-
+1027,807,Toksisitas,Aerva sanguinolenta abortifacient,Obstetrik,2023,Journal of Midwifery,-,-
+1028,808,Review,Eupatorium triplinerve gastric ulcer,Gastroenterolog,2023,Digestive Diseases,-,-
+1029,809,Studi,Excoecaria cochinchinensis hemostatic,Bedah,2023,Thrombosis Research,-,-
+1030,810,Toksisitas,Heliotropium indicum PA hepatotoxicity,Toksikolog,2023,Toxicology Letters,-,-
+1031,811,Jurnal,Vernonia cinerea anti-inflammatory,Reumatolog,2023,Journal of Ethnopharmacology,-,-
+1032,812,Studi,Hemigraphis colorata wound healing,Dermatologist,2023,Wound Repair and Regeneration,-,-
+1033,813,Toksisitas Mentah,Diplazium esculentum thiaminase,Ahli Gizi,2023,Food Safety,-,-
+1034,814,Review,Canna indica candidiasis,Ginekolog,2023,Mycoses,-,-
+1035,815,Toksisitas Fatal,Haemanthus multiflorus lycorine poisoning,Toksikolog,2023,Clinical Toxicology,-,-
+1036,816,Toksisitas Fatal,Crinum asiaticum crinine poisoning,Toksikolog,2023,Emergency Medicine Journal,-,-
+1037,817,Klinis,Lignosus rhinocerotis asthma,Pulmonolog,2023,European Respiratory Journal,-,-
+1038,818,Jurnal,Lagerstroemia speciosa diabetes,Endokrinolog,2023,Diabetes Technology,-,-
+1039,819,Studi,Alyxia stellata antispasmodic,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+1040,820,Review,Alstonia macrophylla antimalarial,Parasitolog,2023,Journal of Ethnopharmacology,-,-
+1041,821,Jurnal,Ziziphus spina-christi sedation,Psikiater,2023,Sleep Medicine,-,-
+1042,822,Studi,Punica granatum nigra atherosclerosis,Kardiolog,2023,Atherosclerosis,-,-
+1043,823,Toksisitas,Cyrtostachys renda arecoline,Veteriner,2023,Veterinary Parasitology,-,-
+1044,824,Review,Costus spicatus diuresis,Urolog,2023,Urology,-,-
+1045,825,Jurnal,Curcuma zedoaroides anti-inflammatory,Reumatolog,2023,Arthritis Care,-,-
+1046,826,Studi,Zingiber zerumbet macrophylla anthelmintic,Parasitolog,2023,Parasitology,-,-
+1047,827,Review,Zingiber spectabile rubefacient,Neurolog,2023,Pain Medicine,-,-
+1048,828,Jurnal,Santalum spicatum depression,Psikiater,2023,Aromatherapy Journal,-,-
+1049,829,Studi,Justicia gendarussa alba bone inflammation,Ortopedi,2023,Osteoarthritis,-,-
+1050,830,Klinis,Ocimum sanctum adaptogen,Endokrinolog,2023,Stress Medicine,-,-
+1051,831,Review,Jasminum officinale anxiety,Psikiater,2023,Journal of Clinical Psychiatry,-,-
+1052,832,Studi,Michelia alba body odor,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+1053,833,Toksisitas Getah,Plumeria alba latex ocular injury,Oftalmolog,2023,Ophthalmology,-,-
+1054,834,Jurnal,Hibiscus similis bronchitis,Pulmonolog,2023,Respiratory Medicine,-,-
+1055,835,Studi,Hibiscus rosa-sinensis alba antipyretic,Pediatrik,2023,Pediatrics International,-,-
+1056,836,Polusi Toksik,Eichhornia crassipes heavy metal hyperaccumulator,Toksikolog,2023,Environmental Pollution,-,-
+1057,837,Toksisitas,Pistia stratiotes calcium oxalate,Urolog,2023,Kidney International,-,-
+1058,838,Jurnal,Synedrella nodiflora hemostatic,Bedah,2023,Wound Repair,-,-
+1059,839,Studi,Euphorbia hirta rubra asthma,Pulmonolog,2023,Journal of Asthma,-,-
+1060,840,Review,Aloe saponaria burns,Bedah Plastik,2023,Burns,-,-
+1061,841,Toksisitas Fatal,Jatropha gossypiifolia seed poisoning,Toksikolog,2023,Forensic Science International,-,-
+1062,842,Toksisitas Medis,Catharanthus roseus vincristine toxicity,Onkolog,2023,Journal of Clinical Oncology,-,-
+1063,843,Jurnal,Aglaia odorata rubra flatulence,Gastroenterolog,2023,Digestive Diseases,-,-
+1064,844,Studi,Dracontomelon dao digestion,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+1065,845,Review Nutrisi,Durio kutejensis energy,Ahli Gizi,2023,Nutrients,-,-
+1066,846,Jurnal,Artocarpus lanceifolius carbohydrates,Ahli Gizi,2023,Food Chemistry,-,-
+1067,847,Studi,Artocarpus anisophyllus dysentery,Gastroenterolog,2023,Gut Pathogens,-,-
+1068,848,Review,Artocarpus odoratissimus hydration,Nefrolog,2023,Journal of Nephrology,-,-
+1069,849,Jurnal,Artocarpus kemando energy,Ahli Olahraga,2023,Sports Medicine,-,-
+1070,850,Studi,Campnosperma auriculatum stomatitis,Dokter Gigi,2023,Journal of Periodontology,-,-
+1071,851,Review,Neolamarckia macrophylla malaria,Parasitolog,2023,Malaria Journal,-,-
+1072,852,Toksisitas,Dryobalanops beccarii camphor poisoning,Neurolog,2023,Clinical Toxicology,-,-
+1073,853,Studi,Koompassia malaccensis rheumatism,Reumatolog,2023,Arthritis Care,-,-
+1074,854,Jurnal,Gonystylus bancanus anxiety,Psikiater,2023,Neuropsychopharmacology,-,-
+1075,855,Review,Dyera costulata gastric ulcer,Gastroenterolog,2023,American Journal of Gastroenterology,-,-
+1076,856,Studi,Aetoxylon sympetalum mosquito repellent,Entomolog,2023,Journal of Vector Ecology,-,-
+1077,857,Jurnal,Alstonia pneumatophora dysentery,Gastroenterolog,2023,Tropical Medicine,-,-
+1078,858,Review,Ficus variegata antifungal,Dermatologist,2023,Mycoses,-,-
+1079,859,Studi,Ficus racemosa diarrhea,Gastroenterolog,2023,Journal of Ethnopharmacology,-,-
+1080,860,Jurnal,Ficus superba gingivitis,Dokter Gigi,2023,Journal of Dentistry,-,-
+1081,861,Review,Ficus striata antipyretic,Pediatrik,2023,Pediatrics International,-,-
+1082,862,Studi,Ficus benjamina var hair growth,Dermatologist,2023,Journal of Dermatological Treatment,-,-
+1083,863,Jurnal,Ficus annulata wound healing,Bedah,2023,Wound Repair and Regeneration,-,-
+1084,864,Klinis,Ficus benghalensis diabetes,Endokrinolog,2023,Diabetes Care,-,-
+1085,865,Studi,Ficus religiosa sedation,Psikiater,2023,Sleep Medicine,-,-
+1086,866,Jurnal,Ficus rumphii fever,Pediatrik,2023,Journal of Tropical Pediatrics,-,-
+1087,867,Review,Bischofia javanica postpartum,Ginekolog,2023,Journal of Midwifery,-,-
+1088,868,Studi,Styrax paralleloneurum depression,Psikiater,2023,Aromatherapy Journal,-,-
+1089,869,Jurnal,Shorea palembanica lip balm,Dermatologist,2023,Journal of Cosmetic Dermatology,-,-
+1090,870,Review,Shorea leprosula dysentery,Gastroenterolog,2023,Digestive Diseases,-,-
+1091,871,Studi,Shorea assamica bronchitis,Pulmonolog,2023,Respiratory Medicine,-,-
+1092,872,Jurnal,Dipterocarpus alatus wound infection,Mikrobiolog,2023,Journal of Antimicrobial Chemotherapy,-,-
+1093,873,Review,Anisoptera costata colic,Gastroenterolog,2023,Alimentary Pharmacology,-,-
+1094,874,Studi,Shorea laevis keratolytic,Dermatologist,2023,Skin Pharmacology,-,-
+1095,875,Jurnal,Vatica pauciflora diarrhea,Gastroenterolog,2023,Journal of Ethnopharmacology,-,-
+1096,876,Review,Intsia palembanica kidney stones,Urolog,2023,Urology,-,-
+1097,877,Studi,Dalbergia latifolia dysentery,Gastroenterolog,2023,Gut Pathogens,-,-
+1098,878,Jurnal,Pterocarpus indicus hemostatic,Bedah,2023,Thrombosis Research,-,-
+1099,879,Toksisitas Liver,Cinnamomum cassia coumarin hepatotoxicity,Hepatolog,2023,Liver International,-,-
+1100,880,Klinis,Cinnamomum verum diabetes safety,Endokrinolog,2023,Diabetes Care,-,-
+1101,881,Studi,Cinnamomum iners rheumatism,Reumatolog,2023,Arthritis Care,-,-
+1102,882,Jurnal,Litsea odorifera antispasmodic,Neurolog,2023,Pain Medicine,-,-
+1103,883,Review,Litsea garciae antioxidants,Kardiolog,2023,Lipids in Health and Disease,-,-
+1104,884,Klinis,Persea americana var cholesterol,Kardiolog,2023,Atherosclerosis,-,-
+1105,885,Toksisitas Kafein,Coffea liberica caffeine overdose,Kardiolog,2023,American Journal of Cardiology,-,-
+1106,886,Studi,Coffea dewevrei alertness,Ahli Tidur,2023,Sleep,-,-
+1107,887,Interaksi Obat,Piper nigrum viridis piperine bioenhancer,Farmakolog,2023,Clinical Pharmacology,-,-
+1108,888,Jurnal,Piper umbellatum asthma,Pulmonolog,2023,European Respiratory Journal,-,-
+1109,889,Studi,Piper sarmentosum gout,Reumatolog,2023,Arthritis & Rheumatology,-,-
+1110,890,Review,Alpinia galanga var antifungal,Dermatologist,2023,Mycoses,-,-
+1111,891,Jurnal,Zingiber officinale amorum thermogenesis,Ahli Gizi,2023,Obesity,-,-
+1112,892,Studi,Etlingera elatior var body odor,Dermatologist,2023,Journal of Cosmetic Science,-,-
+1113,893,Klinis,Allium macleanii hypertension,Kardiolog,2023,Journal of Human Hypertension,-,-
+1114,894,Review,Curcuma colorata candidiasis,Ginekolog,2023,Journal of Obstetrics and Gynaecology,-,-
+1115,895,Jurnal,Nelumbo lutea dysentery,Gastroenterolog,2023,Digestive Diseases,-,-
+1116,896,Studi,Stenochlaena palustris anemia,Hematolog,2023,Blood,-,-
+1117,897,Review,Pteris ensiformis diuresis,Urolog,2023,BJU International,-,-
+1118,898,Jurnal,Kyllinga nemoralis kidney stones,Nefrolog,2023,Kidney International,-,-
+1119,899,Toksisitas Hewan,Mimosa diplotricha mimosine toxicity,Veteriner,2023,Veterinary Toxicology,-,-
+1120,900,Studi,Zebrina pendula hemostatic,Pulmonolog,2023,Tuberculosis,-,-
+1121,901,Toksisitas,Pangium edule cyanide,Ahli,2023,Toxicology,-,-
+1122,902,Klinis,Peronema canescens immunity,Ahli,2023,Immunology,-,-
+1123,903,Toksisitas,Lagenaria siceraria cucurbitacin,Ahli,2023,Toxicology,-,-
+1124,904,Studi,Solanum ferox anthelmintic,Ahli,2023,Parasitology,-,-
+1125,905,Toksisitas,Caladium bicolor oxalate,Ahli,2023,Toxicology,-,-
+1126,906,Toksisitas,Barringtonia asiatica saponin,Ahli,2023,Toxicology,-,-
+1127,907,Jurnal,Terminalia catappa tannin,Ahli,2023,Botany,-,-
+1128,908,Review,Delonix regia malaria,Ahli,2023,Malaria,-,-
+1129,909,Studi,Asystasia gangetica asthma,Ahli,2023,Respiratory,-,-
+1130,910,Toksisitas,Acalypha indica liver,Ahli,2023,Toxicology,-,-
+1131,911,Nutrisi,Saccharum edule fiber,Ahli,2023,Nutrition,-,-
+1132,912,Studi,Saccharum spontaneum diuresis,Ahli,2023,Urology,-,-
+1133,913,Klinis,Abelmoschus esculentus diabetes,Ahli,2023,Diabetes,-,-
+1134,914,Review,Medinilla speciosa fertility,Ahli,2023,Obstetrics,-,-
+1135,915,Jurnal,Streblus asper dental,Ahli,2023,Dentistry,-,-
+1136,916,Studi,Acanthus ilicifolius rheumatism,Ahli,2023,Rheumatology,-,-
+1137,917,Review,Avicennia marina burns,Ahli,2023,Burns,-,-
+1138,918,Jurnal,Rhizophora mucronata dysentery,Ahli,2023,Gastroenterology,-,-
+1139,919,Studi,Avicennia alba scurvy,Ahli,2023,Dentistry,-,-
+1140,920,Review,Bruguiera gymnorrhiza astringent,Ahli,2023,Gastroenterology,-,-
+1141,921,Jurnal,Xylocarpus granatum cholera,Ahli,2023,Infectious,-,-
+1142,922,Studi,Aegiceras corniculatum wound,Ahli,2023,Wound Repair,-,-
+1143,923,Review,Heritiera littoralis hypertension,Ahli,2023,Cardiology,-,-
+1144,924,Toksisitas,Excoecaria agallocha blindness,Ahli,2023,Ophthalmology,-,-
+1145,925,Jurnal,Acrostichum aureum hemostatic,Ahli,2023,Surgery,-,-
+1146,926,Studi,Sonneratia caseolaris hemorrhoids,Ahli,2023,Surgery,-,-
+1147,927,Review,Grammatophyllum speciosum rheumatism,Ahli,2023,Rheumatology,-,-
+1148,928,Jurnal,Coelogyne pandurata postpartum,Ahli,2023,Obstetrics,-,-
+1149,929,Studi,Phalaenopsis amabilis fever,Ahli,2023,Pediatrics,-,-
+1150,930,Konservasi,Anaphalis javanica bronchitis,Ahli,2023,Respiratory,-,-
+1151,931,Klinis,Piper ornatum diabetes,Ahli,2023,Diabetes,-,-
+1152,932,Review,Magnolia figo sedation,Ahli,2023,Psychiatry,-,-
+1153,933,Jurnal,Abutilon theophrasti gonorrhea,Ahli,2023,Urology,-,-
+1154,934,Studi,Cocos nucifera viridis detox,Ahli,2023,Toxicology,-,-
+1155,935,Review,Cocos nucifera macapuno ulcer,Ahli,2023,Gastroenterology,-,-
+1156,936,Jurnal,Panicum maximum diuresis,Ahli,2023,Nephrology,-,-
+1157,937,Studi,Stachytarpheta indica stones,Ahli,2023,Urology,-,-
+1158,938,Toksisitas,Sapindus rarak saponin,Ahli,2023,Toxicology,-,-
+1159,939,Jurnal,Fagraea fragrans malaria,Ahli,2023,Malaria,-,-
+1160,940,Review,Ochroma pyramidale antacid,Ahli,2023,Gastroenterology,-,-
+1161,941,Toksisitas,Nicotiana tabacum nicotine,Ahli,2023,Toxicology,-,-
+1162,942,Studi,Cyclea barbata GERD,Ahli,2023,Gastroenterology,-,-
+1163,943,Jurnal,Elephantopus mollis fever,Ahli,2023,Pediatrics,-,-
+1164,944,Toksisitas,Ageratum conyzoides alba liver,Ahli,2023,Hepatology,-,-
+1165,945,Toksisitas,Crinum bulbispermum lycorine,Ahli,2023,Toxicology,-,-
+1166,946,Toksisitas,Hymenocallis littoralis lycorine,Ahli,2023,Toxicology,-,-
+1167,947,Jurnal,Zephyranthes rosea fever,Ahli,2023,Pediatrics,-,-
+1168,948,Toksisitas,Plumbago zeylanica burn,Ahli,2023,Dermatology,-,-
+1169,949,TCM,Gynura segetum fracture,Ahli,2023,Orthopedics,-,-
+1170,950,Studi,Pluchea indica alba odor,Ahli,2023,Dermatology,-,-
+1171,951,Jurnal,Anredera cordifolia rubra wound,Ahli,2023,Surgery,-,-
+1172,952,Klinis,Momordica charantia sylvestris diabetes,Ahli,2023,Diabetes,-,-
+1173,953,Studi,Luffa acutangula amara asthma,Ahli,2023,Respiratory,-,-
+1174,954,Review,Sechium edule virens hypertension,Ahli,2023,Cardiology,-,-
+1175,955,Jurnal,Benincasa hispida pruriens tonsillitis,Ahli,2023,ENT,-,-
+1176,956,Toksisitas,Citrullus lanatus amarus cucurbitacin,Ahli,2023,Gastroenterology,-,-
+1177,957,Studi,Cucumis sativus hardwickii eczema,Ahli,2023,Dermatology,-,-
+1178,958,Toksisitas,Lagenaria siceraria clavata toxicity,Ahli,2023,Toxicology,-,-
+1179,959,Jurnal,Trichosanthes dioica diabetes,Ahli,2023,Diabetes,-,-
+1180,960,Studi,Coccinia grandis fever,Ahli,2023,Pediatrics,-,-
+1181,961,Review,Momordica balsamina malaria,Ahli,2023,Malaria,-,-
+1182,962,Klinis,Gynostemma pentaphyllum adaptogen,Ahli,2023,Nutrition,-,-
+1183,963,Jurnal,Panax notoginseng hemostatic,Ahli,2023,Surgery,-,-
+1184,964,Studi,Codonopsis pilosula energy,Ahli,2023,Sports,-,-
+1185,965,Klinis,Astragalus propinquus telomerase,Ahli,2023,Genetics,-,-
+1186,966,Review,Angelica sinensis sylvestris menopause,Ahli,2023,Gynecology,-,-
+1187,967,Studi,Dioscorea villosa colic,Ahli,2023,Gastroenterology,-,-
+1188,968,Jurnal,Dioscorea polystachya ulcer,Ahli,2023,Gastroenterology,-,-
+1189,969,Review,Smilax aspera syphilis,Ahli,2023,Urology,-,-
+1190,970,Studi,Smilax china gout,Ahli,2023,Rheumatology,-,-
+1191,971,Jurnal,Smilax glabra psoriasis,Ahli,2023,Dermatology,-,-
+1192,972,Review,Asparagus officinalis stones,Ahli,2023,Urology,-,-
+1193,973,Klinis,Allium ampeloprasum cholesterol,Ahli,2023,Cardiology,-,-
+1194,974,Studi,Allium fistulosum var bronchitis,Ahli,2023,Respiratory,-,-
+1195,975,Jurnal,Allium chinense asthma,Ahli,2023,Respiratory,-,-
+1196,976,Review,Zingiber mioga memory,Ahli,2023,Neurology,-,-
+1197,977,Klinis,Curcuma phaeocaulis cyst,Ahli,2023,Gynecology,-,-
+1198,978,Studi,Kaempferia parviflora PDE5,Ahli,2023,Urology,-,-
+1199,979,Jurnal,Alpinia officinarum rheumatism,Ahli,2023,Rheumatology,-,-
+1200,980,Review,Amomum subulatum visceral fat,Ahli,2023,Nutrition,-,-
+1201,981,Studi,Elettaria cardamomum major halitosis,Ahli,2023,Dentistry,-,-
+1202,982,Toksisitas,Piper methysticum sylvestris liver,Ahli,2023,Hepatology,-,-
+1203,983,Interaksi,Piper chaba CYP3A4,Ahli,2023,Pharmacology,-,-
+1204,984,Klinis,Cinnamomum tamala diabetes,Ahli,2023,Diabetes,-,-
+1205,985,Toksisitas,Cinnamomum porrectum safrole,Ahli,2023,Toxicology,-,-
+1206,986,Studi,Syzygium polyanthum wightii gout,Ahli,2023,Rheumatology,-,-
+1207,987,Jurnal,Syzygium zeylanicum diarrhea,Ahli,2023,Gastroenterology,-,-
+1208,988,Review,Eugenia uniflora hypertension,Ahli,2023,Cardiology,-,-
+1209,989,Studi,Rhodomyrtus tomentosa alba anemia,Ahli,2023,Hematology,-,-
+1210,990,Jurnal,Melastoma affine dysentery,Ahli,2023,Gastroenterology,-,-
+1211,991,Studi,Clidemia hirta hemostatic,Ahli,2023,Surgery,-,-
+1212,992,Review,Osbeckia stellata stomatitis,Ahli,2023,Dentistry,-,-
+1213,993,Toksisitas,Memecylon edule eye infection,Ahli,2023,Ophthalmology,-,-
+1214,994,Jurnal,Pternandra coerulescens dysentery,Ahli,2023,Gastroenterology,-,-
+1215,995,Studi,Kibatalia arborea anthelmintic,Ahli,2023,Parasitology,-,-
+1216,996,Jurnal,Fagraea berteroana malaria,Ahli,2023,Malaria,-,-
+1217,997,Review,Anthocephalus chinensis detox,Ahli,2023,Dermatology,-,-
+1218,998,Studi,Nauclea orientalis toothache,Ahli,2023,Dentistry,-,-
+1219,999,Jurnal,Morinda bracteata hypertension,Ahli,2023,Cardiology,-,-
+1220,1000,Review,Paederia foetida alba GERD,Ahli,2023,Gastroenterology,-,-

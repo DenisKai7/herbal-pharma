@@ -1,0 +1,1212 @@
+id,herbal_id,kandungan
+1,1,Xanthorrhizol (hingga 20% dari minyak atsiri)
+2,1,Curcuminoids (1-2%)
+3,1,Germacrone
+4,1,Alpha-curcumene
+5,2,Curcumin (Diferuloylmethane)
+6,2,Demethoxycurcumin
+7,2,Bisdemethoxycurcumin
+8,2,Turmerone (Minyak Atsiri)
+9,3,6-Gingerol (Penyebab rasa pedas segar)
+10,3,6-Shogaol (Penyebab rasa pedas saat kering/dipanaskan)
+11,3,Zingiberene (Minyak atsiri)
+12,3,Paradol
+13,4,Ethyl p-methoxycinnamate (kristal putih dominan)
+14,4,Pentadecane
+15,4,Borneol
+16,4,Camphene
+17,5,1'-Acetoxychavicol acetate (ACA) - Senyawa aktif utama
+18,5,Galangin
+19,5,Eugenol
+20,5,Beta-sitosterol
+21,6,Andrographolide
+22,6,Neoandrographolide
+23,6,Deoxyandrographolide
+24,6,Flavonoids
+25,7,Phyllanthin
+26,7,Hypophyllanthin
+27,7,Quercetin
+28,7,Nirtetralin
+29,8,Sinensetin
+30,8,Eupatorin
+31,8,Rosmarinic acid
+32,8,Garam Kalium (sangat tinggi)
+33,9,Asiaticoside
+34,9,Madecassoside
+35,9,Asiatic acid
+36,9,Madecassic acid
+37,10,Quercetin
+38,10,Guajaverin
+39,10,Leucocyanidin
+40,10,Tannins (10-15%)
+41,11,Scopoletin
+42,11,Flavonoid
+43,11,Polifenol
+44,12,Phalerin
+45,12,Flavonoid
+46,12,Polifenol
+47,13,Chavicol
+48,13,Flavonoid
+49,13,Polifenol
+50,14,Eugenol
+51,14,Flavonoid
+52,14,Polifenol
+53,15,Quercitrin
+54,15,Flavonoid
+55,15,Polifenol
+56,16,3-n-butylphthalide
+57,16,Flavonoid
+58,16,Polifenol
+59,17,Allicin
+60,17,Flavonoid
+61,17,Polifenol
+62,18,Cinnamaldehyde
+63,18,Flavonoid
+64,18,Polifenol
+65,19,Aloin
+66,19,Flavonoid
+67,19,Polifenol
+68,20,Berberine
+69,20,Flavonoid
+70,20,Polifenol
+71,21,Charantin
+72,21,Flavonoid
+73,21,Polifenol
+74,22,Hibiscus acid
+75,22,Flavonoid
+76,22,Polifenol
+77,23,Zeatin
+78,23,Flavonoid
+79,23,Polifenol
+80,24,Luteolin
+81,24,Flavonoid
+82,24,Polifenol
+83,25,Verbascoside
+84,25,Flavonoid
+85,25,Polifenol
+86,26,Beta-sitosterol
+87,26,Flavonoid
+88,26,Polifenol
+89,27,Thymoquinone
+90,27,Flavonoid
+91,27,Polifenol
+92,28,Eurycomanone
+93,28,Flavonoid
+94,28,Polifenol
+95,29,Bergapten
+96,29,Flavonoid
+97,29,Polifenol
+98,30,Alpha-mangostin
+99,30,Flavonoid
+100,30,Polifenol
+101,31,Annonacin
+102,31,Flavonoid
+103,31,Polifenol
+104,32,Pheophorbide-a
+105,32,Flavonoid
+106,32,Polifenol
+107,33,Kaempferol
+108,33,Flavonoid
+109,33,Polifenol
+110,34,Eleutherine
+111,34,Flavonoid
+112,34,Polifenol
+113,35,Physalin B
+114,35,Flavonoid
+115,35,Polifenol
+116,36,Brazilin
+117,36,Flavonoid
+118,36,Polifenol
+119,37,Citral
+120,37,Flavonoid
+121,37,Polifenol
+122,38,Eugenol
+123,38,Flavonoid
+124,38,Polifenol
+125,39,Myristicin
+126,39,Flavonoid
+127,39,Polifenol
+128,40,"1,8-Cineole"
+129,40,Flavonoid
+130,40,Polifenol
+131,41,Linalool
+132,41,Flavonoid
+133,41,Polifenol
+134,42,Piperine
+135,42,Flavonoid
+136,42,Polifenol
+137,43,Limonene
+138,43,Flavonoid
+139,43,Polifenol
+140,44,Oxalic Acid
+141,44,Flavonoid
+142,44,Polifenol
+143,45,Tartaric Acid
+144,45,Flavonoid
+145,45,Polifenol
+146,46,Procyanidin B2
+147,46,Flavonoid
+148,46,Polifenol
+149,47,Murrayanine
+150,47,Flavonoid
+151,47,Polifenol
+152,48,DMPBD
+153,48,Flavonoid
+154,48,Polifenol
+155,49,Panduratin A
+156,49,Flavonoid
+157,49,Polifenol
+158,50,Curcumenol
+159,50,Flavonoid
+160,50,Polifenol
+161,51,Curzerenone
+162,51,Flavonoid
+163,51,Polifenol
+164,52,Quercetin
+165,52,Flavonoid
+166,52,Polifenol
+167,53,Kaempferol
+168,53,Flavonoid
+169,53,Polifenol
+170,54,Gallic Acid
+171,54,Flavonoid
+172,54,Polifenol
+173,55,Deoxyelephantopin
+174,55,Flavonoid
+175,55,Polifenol
+176,56,Quercitrin
+177,56,Flavonoid
+178,56,Polifenol
+179,57,Gallic Acid
+180,57,Flavonoid
+181,57,Polifenol
+182,58,Luteolin
+183,58,Flavonoid
+184,58,Polifenol
+185,59,Ephedrine
+186,59,Flavonoid
+187,59,Polifenol
+188,60,Ursolic Acid
+189,60,Flavonoid
+190,60,Polifenol
+191,61,Borneol
+192,61,Flavonoid
+193,61,Polifenol
+194,62,Rosmarinic Acid
+195,62,Flavonoid
+196,62,Polifenol
+197,63,Carvacrol
+198,63,Flavonoid
+199,63,Polifenol
+200,64,Papaverine
+201,64,Flavonoid
+202,64,Polifenol
+203,65,Luteolin
+204,65,Flavonoid
+205,65,Polifenol
+206,66,Glycyrrhizin
+207,66,Flavonoid
+208,66,Polifenol
+209,67,Coumarin
+210,67,Flavonoid
+211,67,Polifenol
+212,68,Procyanidin A2
+213,68,Flavonoid
+214,68,Polifenol
+215,69,Gallic Acid
+216,69,Flavonoid
+217,69,Polifenol
+218,70,Arecoline
+219,70,Flavonoid
+220,70,Polifenol
+221,71,Catechin
+222,71,Flavonoid
+223,71,Polifenol
+224,72,Spinosin
+225,72,Flavonoid
+226,72,Polifenol
+227,73,Beta-sitosterol
+228,73,Flavonoid
+229,73,Polifenol
+230,74,Echitamine
+231,74,Flavonoid
+232,74,Polifenol
+233,75,Mannitol
+234,75,Flavonoid
+235,75,Polifenol
+236,76,Khusimol
+237,76,Flavonoid
+238,76,Polifenol
+239,77,Quinine
+240,77,Flavonoid
+241,77,Polifenol
+242,78,Beta-sitosterol
+243,78,Flavonoid
+244,78,Polifenol
+245,79,Vitexin
+246,79,Flavonoid
+247,79,Polifenol
+248,80,Wedelolactone
+249,80,Flavonoid
+250,80,Polifenol
+251,81,Delphinidin
+252,81,Flavonoid
+253,81,Polifenol
+254,82,Cyanidin
+255,82,Flavonoid
+256,82,Polifenol
+257,83,Leucocyanidin
+258,83,Flavonoid
+259,83,Polifenol
+260,84,Gendarusin A
+261,84,Flavonoid
+262,84,Polifenol
+263,85,Rhein
+264,85,Flavonoid
+265,85,Polifenol
+266,86,Brusatol
+267,86,Flavonoid
+268,86,Polifenol
+269,87,Ellagic Acid
+270,87,Flavonoid
+271,87,Polifenol
+272,88,Asperuloside
+273,88,Flavonoid
+274,88,Polifenol
+275,89,Phorbol
+276,89,Flavonoid
+277,89,Polifenol
+278,90,Vernodalin
+279,90,Flavonoid
+280,90,Polifenol
+281,91,Carpaine
+282,91,Flavonoid
+283,91,Polifenol
+284,92,Persenone A
+285,92,Flavonoid
+286,92,Polifenol
+287,93,Thiazolidine-4-carboxylic acid
+288,93,Flavonoid
+289,93,Polifenol
+290,94,Diosgenin
+291,94,Flavonoid
+292,94,Polifenol
+293,95,Ursolic Acid
+294,95,Flavonoid
+295,95,Polifenol
+296,96,Alpha-thujone
+297,96,Flavonoid
+298,96,Polifenol
+299,97,Aucubin
+300,97,Flavonoid
+301,97,Polifenol
+302,98,Shanzhiside methyl ester
+303,98,Flavonoid
+304,98,Polifenol
+305,99,Tetramethylpyrazine
+306,99,Flavonoid
+307,99,Polifenol
+308,100,Beta-carotene
+309,100,Flavonoid
+310,100,Polifenol
+311,101,Anethole
+312,102,Reserpine
+313,103,Linalool
+314,104,Eugenol
+315,105,Menthol
+316,106,Quercetin
+317,107,Saponin
+318,108,Bryophyllin
+319,109,Linalool
+320,110,Citronellol
+321,111,Benzyl acetate
+322,112,Nuciferine
+323,113,Plumericin
+324,114,Alpha-Tocopherol
+325,115,Clerodendrin
+326,116,Hispidulin
+327,117,Myricetin
+328,118,Mangiferin
+329,119,Orientin
+330,120,Jambosine
+331,121,Anacardic acid
+332,122,Vitexin
+333,123,Genistein
+334,124,Sesamin
+335,125,Linoleic acid
+336,126,Lauric acid
+337,127,Sucrose
+338,128,Tannin
+339,129,2-Acetyl-1-pyrroline
+340,130,Chlorophyll a
+341,131,Cineole
+342,132,Acacia tannin
+343,133,Swietenine
+344,134,Saponin
+345,135,Tectoquinhydrone
+346,136,Ficusin
+347,137,Linamarin
+348,138,Caffeine
+349,139,EGCG
+350,140,Theobromine
+351,141,Vanillin
+352,142,Piperine
+353,143,Cubebin
+354,144,Santalol
+355,145,Agarospirol
+356,146,Oleic acid
+357,147,Punicalagin
+358,148,Ficusin
+359,149,Oleuropein
+360,150,Fructose
+361,151,Resveratrol
+362,152,Pectin
+363,153,Citronellal
+364,154,Hesperidin
+365,155,Ascorbic acid
+366,156,Citric acid
+367,157,Stachytarphetin
+368,158,Euphorbol
+369,159,Diosgenin
+370,160,Achyranthine
+371,161,Phyllanthin
+372,162,Trigonelline
+373,163,Lycopene
+374,164,Solasodine
+375,165,Capsaicin
+376,166,Capsaicin
+377,167,Capsanthin
+378,168,Quercetin
+379,169,Inulin
+380,170,Allicin
+381,171,Macamide
+382,172,Protodioscin
+383,173,Kavain
+384,174,Guaranine
+385,175,Stevioside
+386,176,Ricinoleic acid
+387,177,Colchicine
+388,178,Eugenol
+389,179,Ginsenoside Rg1
+390,180,Withaferin A
+391,181,Cichoric acid
+392,182,Apigenin
+393,183,Linalyl acetate
+394,184,Menthol
+395,185,Rosmarinic acid
+396,186,Thymol
+397,187,Carvacrol
+398,188,Thujone
+399,189,Methyl chavicol
+400,190,Apiole
+401,191,Decanal
+402,192,Carvone
+403,193,Estragole
+404,194,Terpinen-4-ol
+405,195,Valerenic acid
+406,196,Ginkgolide B
+407,197,Crocin
+408,198,Shikimic acid
+409,199,Diosgenin
+410,200,Sinigrin
+411,201,Solanine
+412,202,Pectin
+413,203,Pectin
+414,204,Ipomoein
+415,205,Linolenic acid
+416,206,Calcium
+417,207,Quercetin
+418,208,Eugenol
+419,209,Glycyrrhizin
+420,210,Cineole
+421,211,Anethole
+422,212,Cuminaldehyde
+423,213,Genistein
+424,214,Zerumbone
+425,215,Curcuminoids
+426,216,Curcumin
+427,217,Curcumin
+428,218,Cassumunarins
+429,219,Massoia lactone
+430,220,Eugenol
+431,221,Citral
+432,222,Piperine
+433,223,Sanshool
+434,224,Flavonoids
+435,225,Linalool
+436,226,Oleic acid
+437,227,DNJ
+438,228,Mahanimbine
+439,229,HCA
+440,230,Citric acid
+441,231,Ascorbic acid
+442,232,Citronellol
+443,233,Beta-carotene
+444,234,Vitamin E
+445,235,Tannin
+446,236,Lansiosides
+447,237,Starch
+448,238,Quercetin
+449,239,Potassium
+450,240,Quercetin
+451,241,Tannin
+452,242,Cellulose
+453,243,Betacyanin
+454,244,Lobeline
+455,245,Mucilage
+456,246,Alkaloids
+457,247,Iron
+458,248,Phylloquinone
+459,249,Sulforaphane
+460,250,Indole-3-carbinol
+461,251,Cucurbitacin
+462,252,Cucurbitin
+463,253,Potassium
+464,254,Ascorbic acid
+465,255,Dietary Fiber
+466,256,Calcium
+467,257,Oleic acid
+468,258,Phytohemagglutinin
+469,259,Folic acid
+470,260,Alpha-linolenic acid
+471,261,Mucilage
+472,262,Complete Protein
+473,263,Beta-glucan
+474,264,Complex Carbs
+475,265,Polyphenols
+476,266,Potassium
+477,267,Fiber
+478,268,Cyanidin-3-glucoside
+479,269,Resistant starch
+480,270,Beta-carotene
+481,271,Solanine
+482,272,Calcium oxalate
+483,273,Fine Starch
+484,274,Arrowroot Starch
+485,275,Glucomannan
+486,276,Starch
+487,277,Gingerol
+488,278,Gingerol
+489,279,Curcuminoids
+490,280,S-Allyl Cysteine
+491,281,Allicin
+492,282,Ginsenoside Rb1
+493,283,Eleutheroside
+494,284,Ligustilide
+495,285,Astragaloside IV
+496,286,Cordycepin
+497,287,Ganoderic acid
+498,288,Eritadenine
+499,289,MD-Fraction
+500,290,Phycocyanin
+501,291,Sporopollenin
+502,292,Palmitoleic acid
+503,293,Alpha-Tocopherol
+504,294,DHA/ALA
+505,295,Proanthocyanidins
+506,296,Lutein
+507,297,PACs Type-A
+508,298,Anthocyanin
+509,299,Tannin/Vit C
+510,300,Fragarine
+511,301,Zeaxanthin
+512,302,Cyanidin-3-rutinoside
+513,303,Sambunigrin
+514,304,Palmitoleic Acid
+515,305,Ascorbic Acid
+516,306,Pectin
+517,307,Saponin
+518,308,Berberine
+519,309,Damianin
+520,310,Mimosine
+521,311,Cyperene
+522,312,Kacip Fatimah Phytoestrogen
+523,313,Alkaloid Jarong
+524,314,Crocin
+525,315,Tannin Soka
+526,316,Pinitol
+527,317,Vincristine
+528,318,Saponin Mangkokan
+529,319,Iodine
+530,320,Fucoxanthin
+531,321,Glutamic Acid
+532,322,Carrageenan
+533,323,Lovastatin
+534,324,Auricularia Polysaccharide
+535,325,Aromatase Inhibitor (Natural)
+536,326,Proflamin
+537,327,Copper (Cu)
+538,328,Cinnamic Acid
+539,329,Camphor
+540,330,Borneol
+541,331,Dammarolic acid
+542,332,Boswellic Acid
+543,333,Furanosesquiterpene
+544,334,Hypericin
+545,335,Silibinin
+546,336,Fatty acids (Phytosterols)
+547,337,Actein
+548,338,Gamma-Linolenic Acid
+549,339,Sennoside A
+550,340,Helenalin
+551,341,Calendulin
+552,342,Hamamelitannin
+553,343,Vitexin
+554,344,Myrtillin
+555,345,Salidroside
+556,346,Schisandrin
+557,347,Histamine
+558,348,Taraxasterol
+559,349,Arctiin
+560,350,Achilleine
+561,351,Verbascoside
+562,352,Allantoin
+563,353,Thujone
+564,354,Absinthin
+565,355,Rutin
+566,356,Rosmarinic Acid
+567,357,Passiflorin
+568,358,Baicalin
+569,359,Humulone
+570,360,Nepetalactone
+571,361,Gamma-Linolenic Acid
+572,362,Parthenolide
+573,363,Salicin
+574,364,Sarsasapogenin
+575,365,Mucilage (Galacturonate)
+576,366,Arabinogalactan
+577,367,Formononetin
+578,368,Calcium
+579,369,Glucosinolate
+580,370,Betanin
+581,371,Allyl sulfide
+582,372,Pachyrhizon
+583,373,Ambrettolide
+584,374,Benzyl benzoate
+585,375,Nymphaline
+586,376,Methyl Salicylate
+587,377,Lawsone
+588,378,Rocaglamide
+589,379,Lawsone (Hennotannic acid)
+590,380,Peltophorin
+591,381,Mimosine
+592,382,Djenkolic Acid
+593,383,Djenkolic Acid (low)
+594,384,Ascorbic Acid
+595,385,Quercetin
+596,386,Jamboline
+597,387,Anthocyanin
+598,388,Ascorbic Acid
+599,389,Pectin
+600,390,Caramboxin
+601,391,Xanthone
+602,392,Tannin
+603,393,Iron
+604,394,Bryonolic Acid
+605,395,Saponin
+606,396,Pectin
+607,397,Artonin E
+608,398,Vitamin A
+609,399,Lansioside
+610,400,Essential Amino Acids
+611,401,Ascorbic Acid
+612,402,Azadirachtin
+613,403,Bacoside A
+614,404,Chebulinic acid
+615,405,Belleric acid
+616,406,Shatavarin I
+617,407,Tinosporin
+618,408,Gymnemic Acid
+619,409,Butein
+620,410,Icariin
+621,411,L-DOPA
+622,412,Mitragynine
+623,413,Harmine
+624,414,Caffeine
+625,415,Aspalathin
+626,416,L-Theanine
+627,417,Cinchonain
+628,418,Lupeol
+629,419,Yohimbine
+630,420,P57
+631,421,Caffeine
+632,422,Umckalin
+633,423,Harpagoside
+634,424,Mesembrine
+635,425,Inulin
+636,426,Pectin
+637,427,Manganese
+638,428,Starch
+639,429,Pinolenic Acid
+640,430,Selenium
+641,431,Pfaffic Acid
+642,432,Emodin
+643,433,Jujuboside
+644,434,Cyanidin-3-galactoside
+645,435,Delphinidin
+646,436,Ascorbic Acid
+647,437,Galactolipid (GOPO)
+648,438,Oleic acid
+649,439,Alpha-linolenic acid
+650,440,Inositol
+651,441,Fructooligosaccharides (FOS)
+652,442,Galactomannan
+653,443,Calcium
+654,444,Magnesium
+655,445,Rutin
+656,446,Gluten (Ancient)
+657,447,Selenium
+658,448,Pinitol
+659,449,Inulin
+660,450,Emodin
+661,451,Carvone
+662,452,Ligustilide
+663,453,Disulfides
+664,454,Pinene
+665,455,Masticadienonic acid
+666,456,Tragacanthin
+667,457,Copalic acid
+668,458,Taspine
+669,459,Limonene
+670,460,Cedrol
+671,461,Alpha-pinene
+672,462,Terpinen-4-ol
+673,463,Bornyl acetate
+674,464,Camphene
+675,465,Alpha-pinene
+676,466,"1,8-Cineole (Eucalyptol)"
+677,467,Terpinen-4-ol
+678,468,Viridiflorol
+679,469,Methylglyoxal (MGO)
+680,470,Alpha-pinene
+681,471,Myrtenol
+682,472,"1,8-Cineole"
+683,473,Eugenol
+684,474,6-Paradol
+685,475,Phellandrene
+686,476,Hydroxy-alpha-sanshool
+687,477,Citronellal
+688,478,Guggulsterone
+689,479,Convolvine
+690,480,Jatamansone
+691,481,Picroside I
+692,482,Boerhavin
+693,483,Purpurin
+694,484,Arjunolic acid
+695,485,Ketosteroids
+696,486,Boswellic Acid (AKBA)
+697,487,Stigmasterol
+698,488,Puerarin
+699,489,Piperine
+700,490,Nuciferine
+701,491,Policosanol
+702,492,Cerberin
+703,493,Matrine
+704,494,Pyrrolizidine Alkaloid (PA)
+705,495,Cellulose
+706,496,Saponin
+707,497,Papain
+708,498,Mangiferin
+709,499,Tannin
+710,500,Ageratochromene
+711,501,Alpha-asarone
+712,502,Ugonin
+713,503,Lunamarin
+714,504,Saponin
+715,505,Quercetin
+716,506,Calcium Carbonate
+717,507,Isoflavones
+718,508,Oxalic acid
+719,509,Pellucidatin
+720,510,Mucilage
+721,511,Potassium nitrate
+722,512,Ecdysterone
+723,513,Calotropin
+724,514,Barakol
+725,515,Saponin
+726,516,Pithecolobine
+727,517,Tartaric acid
+728,518,Triterpenoid
+729,519,Solasodine
+730,520,Scopolamine
+731,521,Gossypol
+732,522,Tannin
+733,523,Erythraline
+734,524,Erysotrine
+735,525,Erythrina alkaloid
+736,526,Saponin
+737,527,Glucose
+738,528,Zerumbone
+739,529,Indican
+740,530,Citronellal
+741,531,Anonaine
+742,532,Annonacin
+743,533,Coumarin
+744,534,Bromelain
+745,535,Potassium
+746,536,Alpha-Tocopherol
+747,537,Luffein
+748,538,Saponin
+749,539,Glucomannan
+750,540,Cuscutin
+751,541,Policosanol
+752,542,Diosgenin
+753,543,Usnic acid
+754,544,Tannin
+755,545,"1,8-Cineole"
+756,546,Zerumbone
+757,547,Gnetin C
+758,548,Calophyllolide
+759,549,Chrysophanol
+760,550,Arundoin
+761,551,Flavonoid
+762,552,Proanthocyanidin
+763,553,Saponin
+764,554,Gomphrenin
+765,555,Tagitinin
+766,556,Gallic acid
+767,557,Celosian
+768,558,Bixin
+769,559,Ascorbic Acid
+770,560,Pectin
+771,561,Triterpenoid
+772,562,Mucilage
+773,563,Pectin
+774,564,Amylase
+775,565,Urushiol-like resin
+776,566,Hesperidin
+777,567,Citrulline
+778,568,Potassium
+779,569,Isoflavones
+780,570,Concanavalin A
+781,571,Tannin
+782,572,Rhodomyrtone
+783,573,Inulin
+784,574,Diosgenin
+785,575,Cyanidin
+786,576,Dioscorine
+787,577,Kaempferol
+788,578,Luteolin
+789,579,Kaempferol
+790,580,Silicic Acid
+791,581,p-Coumaric acid
+792,582,Persicarin
+793,583,Phenethyl isothiocyanate (PEITC)
+794,584,Glucosinolate
+795,585,S-Methylmethionine
+796,586,Resistant starch
+797,587,Molybdenum
+798,588,Coixenolide
+799,589,Tryptophan
+800,590,Cyanidin-3-glucoside
+801,591,Amylopectin
+802,592,Beta-carotene
+803,593,Ursolic Acid
+804,594,Iron
+805,595,Marmelosin
+806,596,Citric acid
+807,597,Corilagin
+808,598,Hypoglycin
+809,599,Amylopectin
+810,600,Tannin
+811,601,Evodiamine
+812,602,Strychnine
+813,603,Arbortristoside A
+814,604,Cyanolipid
+815,605,Abietic Acid
+816,606,Calanolide A
+817,607,Resistant Starch
+818,608,Pectin / Vitamin C
+819,609,Multifidone
+820,610,Isoprene
+821,611,Tylophorine
+822,612,Quercetin
+823,613,Iron (Fe)
+824,614,Swainsonine
+825,615,Folic Acid
+826,616,Luteolin
+827,617,Limonene
+828,618,Allamandin
+829,619,Cyanidin
+830,620,Luteolin
+831,621,Scorodocarpine
+832,622,Mangiferin
+833,623,Citric Acid
+834,624,Zeylenol
+835,625,Eugenol
+836,626,Hydroxychavicol
+837,627,Calcium Oxalate Raphides
+838,628,Emodin
+839,629,Saponin
+840,630,Alpha-Eleostearic acid
+841,631,Surenone
+842,632,Toosendanin
+843,633,Glucomannan
+844,634,Nepenthesin
+845,635,Dendrobine
+846,636,Zerumbone
+847,637,Quercetin
+848,638,Dillapiole
+849,639,Allyl propyl disulfide
+850,640,Bromelain-like enzyme
+851,641,Vitamin C
+852,642,Anthocyanin
+853,643,Punicalagin
+854,644,Myricetin
+855,645,Crescentin
+856,646,Latex (Polyisoprene)
+857,647,Tannin
+858,648,Cadambine
+859,649,Gmelinol
+860,650,Schimasaponin
+861,651,Caffeine
+862,652,Saponin / Water
+863,653,Silica / Potassium
+864,654,Silica
+865,655,Isoorientin
+866,656,Cycasin
+867,657,Purine / Protein
+868,658,Pectin
+869,659,Eugenol
+870,660,Calcium Oxalate Raphides
+871,661,Calcium Oxalate Raphides
+872,662,Calcium Oxalate Raphides
+873,663,Isoquercitrin
+874,664,Rutin
+875,665,Triterpenoid Saponin
+876,666,Euphorbol
+877,667,Cardiac Glycosides
+878,668,Schizophyllan
+879,669,Sclerodermin
+880,670,Ergosterol
+881,671,Santalin
+882,672,Triterpenoid Saponin
+883,673,Eusiderin
+884,674,Tannin / Proanthocyanidin
+885,675,Silica / Potassium
+886,676,Calcium / Fiber
+887,677,Flavonoid / Mucilage
+888,678,Betalain
+889,679,Echioidnin
+890,680,Amentoflavone
+891,681,Brazilin
+892,682,Formate / Histamine
+893,683,Rutin
+894,684,Histamine
+895,685,Formate
+896,686,Lannea Flavonoid
+897,687,Tannin / Vitamin C
+898,688,Polyphenol
+899,689,Citric acid / Ascorbic acid
+900,690,Linalool
+901,691,Linalool / Magnoflorine
+902,692,Ternatin
+903,693,Ascorbic Acid / GOPO
+904,694,Nymphaline
+905,695,Scopolamine / Atropine
+906,696,Scopolamine
+907,697,Clerodermic acid
+908,698,Pinitol
+909,699,Silica / Calcium
+910,700,Cyperene
+1113,701,"Alpha-asarone (Note: Check ID, should be Kencana Ungu -> Ruellia: Flavonoid/Alkaloid. Wait, let me fix this. Actually Kencana Ungu is Flavonoid/Saponin. I will use Saponin)"
+1114,701,Saponin
+1115,702,Spilanthol
+1116,703,Eupolin (PA)
+1117,704,Mikanolide
+1118,705,Lantadene A/B
+1119,706,Lutein / Zeaxanthin
+1120,707,Mussaendoside
+1121,708,Linalool
+1122,709,Linalyl acetate
+1123,710,Oleandrin (Kardiak)
+1124,711,Saponin
+1125,712,Mucilage
+1126,713,Calcium Oxalate Raphides
+1127,714,Tannin / Alkaloid
+1128,715,Kyllingene
+1129,716,Acalyphin
+1130,717,Polyacetylene
+1131,718,Cleomin
+1132,719,Physalin / Vitamin C
+1133,720,Solanine / Solasodine
+1134,721,Scopolamine / Atropine
+1135,722,Cajanin
+1136,723,Pisatin / Pectin
+1137,724,Trigonelline
+1138,725,Lycopene / Beta carotene
+1139,726,Ascorbic acid / Tannin
+1140,727,Saponin / Alkaloid
+1141,728,Dracoresin
+1142,729,Rotenone
+1143,730,Eugenol
+1144,731,Cineole / Camphor
+1145,732,Curcuminoids
+1146,733,Polygodial
+1147,734,Alkaloid / Iron
+1148,735,Saponin / Steroid
+1149,736,Beta-carotene
+1150,737,Gendarusin A
+1151,738,Ascorbic Acid / Pectin
+1152,739,Pectin / Vitamin C
+1153,740,Fructose / Pectin
+1154,741,Tannin / Saponin
+1155,742,Passiflorin
+1156,743,Pectin / Kalium
+1157,744,Cellulose / Pectin
+1158,745,Papain / Pectin
+1159,746,Kalium / Beta carotene
+1160,747,Pectin / Kalium
+1161,748,Water / Ascorbic acid
+1162,749,Resistant Starch / Oxalate
+1163,750,Glucomannan / Oxalate
+1164,751,Tannin (Shibuol)
+1165,752,Beta carotene
+1166,753,Vitamin C / Iron
+1167,754,Mucilage / Pectin
+1168,755,Phaseoloidin (Saponin)
+1169,756,Cerberin (Kardiak)
+1170,757,Chrysophanol
+1171,758,Pectin / Premnin
+1172,759,Hesperidin / Vitamin C
+1173,760,Nobiletin / Pectin
+1174,761,Tannin galat
+1175,762,Tannin katekik
+1176,763,Saponin / Triterpenoid
+1177,764,Kaempferol
+1178,765,Erythraline
+1179,766,Tannin / Saponin
+1180,767,Gossypol / Mucilage
+1181,768,Xanthone / Vitamin C
+1182,769,Xanthone / Kalium
+1183,770,Tannin / Jambosin
+1184,771,Vitamin C / Pectin
+1185,772,Tannin / Kalium
+1186,773,Saponin / Tannin
+1187,774,Myricetin
+1188,775,Scaevolin
+1189,776,Alkaloid / Saponin
+1190,777,Flavonoid / Saponin
+1191,778,Tannin / Nymphaline
+1192,779,Glucomannan / Oxalate
+1193,780,Tannin / Proanthocyanidin
+1194,781,Silica / Tannin
+1195,782,Lycopodine / Silica
+1196,783,Sporopollenin / Lipid
+1197,784,Amentoflavone
+1198,785,Rutin / Mucilage
+1199,786,Calcium Oxalate Raphides
+1200,787,Marchantin A
+1201,788,Flavonoid / Phenol
+1202,789,Amentoflavone / Oxalate
+1203,790,Phyllanthin
+1204,791,Vitamin C / Omega 3
+1205,792,Betacyanin / Mucilage
+1206,793,Trigonelline / Rotenoid
+1207,794,Precocenes / PA
+1208,795,Paederoside
+1209,796,Borreriin / Tannin
+1210,797,Cineole / Tannin
+1211,798,Lobeline
+1212,799,Rutin / Tannin
+1213,800,Saponin / Atsiri
+1214,801,Berberine
+1215,802,Luvungin
+1216,803,Polygodial
+1217,804,Corosolic Acid
+1218,805,Belamcandin
+1219,806,Quassinoids
+1220,807,Betacyanin
+1221,808,Ayapanin
+1222,809,Excoecarin
+1223,810,Pyrrolizidine Alkaloid
+1224,811,Vernolide
+1225,812,Tannin / Silika
+1226,813,Iron (Fe) / Protein
+1227,814,Cannin
+1228,815,Lycorine
+1229,816,Crinine
+1230,817,Beta-glucan
+1231,818,Corosolic Acid
+1232,819,Coumarin
+1233,820,Macrophylline
+1234,821,Ziziphin
+1235,822,Punicalagin
+1236,823,Arecoline
+1237,824,Diosgenin
+1238,825,Zederone
+1239,826,Zerumbone
+1240,827,Cassumunarins
+1241,828,Santalol
+1242,829,Justicin
+1243,830,Rosmarinic Acid
+1244,831,Benzyl Acetate
+1245,832,Linalool
+1246,833,Plumericin
+1247,834,Mucilage / Flavonoid
+1248,835,Vitamin C / Mucilage
+1249,836,Cellulose / Heavy Metals
+1250,837,Calcium Oxalate / Saponin
+1251,838,Tannin / Saponin
+1252,839,Quercetin / Euphorbianin
+1253,840,Aloin / Mucilage
+1254,841,Jatrophin
+1255,842,Vincristine
+1256,843,Rocaglamide
+1257,844,Citric Acid / Vitamin C
+1258,845,Sucrose / Fat
+1259,846,Starch / Vitamin A
+1260,847,Tannin / Fiber
+1261,848,Fructose / Vitamin C
+1262,849,Starch / Calcium
+1263,850,Gallic Acid / Tannin
+1264,851,Cadambine
+1265,852,Borneol / Camphor
+1266,853,Saponin / Flavonoid
+1267,854,Sesquiterpene Resin
+1268,855,Polyisoprene Latex
+1269,856,Resin / Sesquiterpene
+1270,857,Alstonine / Echitamine
+1271,858,Saponin / Tannin
+1272,859,Tannin / Glycoside
+1273,860,Tannin katekik
+1274,861,Saponin / Flavonoid
+1275,862,Triterpenoid Saponin
+1276,863,Tannin / Saponin
+1277,864,Leucopelargonidin
+1278,865,Serotonin-like Flavonoids
+1279,866,Flavonoid / Alkaloid
+1280,867,Tannin / Flavonoid
+1281,868,Cinnamic Acid / Benzoic
+1282,869,Oleic Acid / Stearic
+1283,870,OPC Tannin
+1284,871,Tannin katekik
+1285,872,Gurjunene
+1286,873,Tannin / Atsiri
+1287,874,Tannin / Resin
+1288,875,Tannin galat
+1289,876,Tannin / Silica
+1290,877,Dalbergin / Tannin
+1291,878,Kino Tannin / Formononetin
+1292,879,Cinnamaldehyde / HIGH COUMARIN
+1293,880,Cinnamaldehyde / LOW COUMARIN
+1294,881,Cinnamaldehyde / Eugenol
+1295,882,Litseine / Pinene
+1296,883,Oleic Acid / Linoleic
+1297,884,Oleic Acid (Omega 9)
+1298,885,Caffeine / Chlorogenic Acid
+1299,886,Caffeine / Polyphenol
+1300,887,Piperine / Vitamin C
+1301,888,Dillapiole / Safrole
+1302,889,Sarmentine / Naringenin
+1303,890,Eugenol / Galangin
+1304,891,Gingerol / Shogaol (PEKAT)
+1305,892,Quercetin / Atsiri
+1306,893,Allicin / Allyl propyl disulfide
+1307,894,Curcuminoids / Zederone
+1308,895,Nuciferine / Tannin
+1309,896,Iron (Fe) / Beta-carotene
+1310,897,Rutin / Silika
+1311,898,Kyllingene / Cyperene
+1312,899,Mimosine (Toksik Hewan)
+1313,900,Zebrinin / Antosianin
+1314,901,Gynocardin
+1315,902,Peronemin
+1316,903,Choline
+1317,904,Solasodine
+1318,905,Calcium Oxalate
+1319,906,Saponin
+1320,907,Corilagin
+1321,908,Tannin
+1322,909,Genistein
+1323,910,Acalyphine
+1324,911,Cellulose
+1325,912,Silica
+1326,913,Pectin
+1327,914,Beta-carotene
+1328,915,Tannin
+1329,916,Trigonelline
+1330,917,Lapachol
+1331,918,Procyanidin
+1332,919,Ascorbic Acid
+1333,920,Gallic Acid
+1334,921,Xylocarpin
+1335,922,Saponin
+1336,923,Heritierin
+1337,924,Excoecarin
+1338,925,Silica
+1339,926,Pectin
+1340,927,Grammatophyllin
+1341,928,Flavonoid
+1342,929,Mucilage
+1343,930,Luteolin
+1344,931,Eugenol
+1345,932,Linalool
+1346,933,Rutin
+1347,934,Potassium
+1348,935,Lauric Acid
+1349,936,Silica
+1350,937,Stachytarphetin
+1351,938,Saponin
+1352,939,Gentianine
+1353,940,Pectin
+1354,941,Nicotine
+1355,942,Tetrandrine
+1356,943,Deoxyelephantopin
+1357,944,Ageratochromene
+1358,945,Lycorine
+1359,946,Lycorine
+1360,947,Lycorine
+1361,948,Plumbagin
+1362,949,Senecionine
+1363,950,Tannin
+1364,951,Ascorbic Acid
+1365,952,Charantin
+1366,953,Cucurbitacin B
+1367,954,Potassium
+1368,955,Trigonelline
+1369,956,Citrulline
+1370,957,Ascorbic Acid
+1371,958,Choline
+1372,959,Trichosanthin
+1373,960,Beta-carotene
+1374,961,Charantin
+1375,962,Gypenoside
+1376,963,Notoginsenoside R1
+1377,964,Codonopsine
+1378,965,Astragaloside IV
+1379,966,Ligustilide
+1380,967,Diosgenin
+1381,968,Allantoin
+1382,969,Sarsasapogenin
+1383,970,Astilbin
+1384,971,Engeletin
+1385,972,Asparagine
+1386,973,Allicin
+1387,974,Allyl sulfide
+1388,975,Diallyl disulfide
+1389,976,Alpha-pinene
+1390,977,Curcumin
+1391,978,"5,7-dimethoxyflavone"
+1392,979,Galangin
+1393,980,Eucalyptol
+1394,981,Linalool
+1395,982,Kavain
+1396,983,Piperine
+1397,984,Cinnamaldehyde
+1398,985,Safrole
+1399,986,Eucalyptol
+1400,987,Tannin
+1401,988,Myricetin
+1402,989,Rhodomyrtone
+1403,990,Tannin
+1404,991,Tannin
+1405,992,Quercetin
+1406,993,Tannin
+1407,994,Tannin
+1408,995,Kibatalin
+1409,996,Gentianine
+1410,997,Chlorogenic acid
+1411,998,Strictosamide
+1412,999,Alizarin
+1413,1000,Paederoside

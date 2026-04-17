@@ -1,0 +1,2195 @@
+id,herbal_id,manfaat
+1,1,Menambah nafsu makan pada anak
+2,1,Memperbaiki fungsi hati (liver)
+3,1,Mengurangi jerawat dari dalam
+4,1,Meredakan gangguan lambung ringan
+5,2,Meredakan nyeri haid (kram perut)
+6,2,Mengobati sakit maag dan GERD
+7,2,Meredakan nyeri sendi (rematik)
+8,2,Pewarna alami makanan
+9,3,Meredakan mual & muntah (mabuk perjalanan/hamil)
+10,3,Menghangatkan tubuh saat demam/flu
+11,3,Meredakan batuk
+12,3,Mengurangi nyeri otot pasca olahraga
+13,4,Meredakan batuk berdahak
+14,4,Melegakan tenggorokan (untuk penyanyi/guru)
+15,4,Menambah nafsu makan anak
+16,4,Mengobati kaki bengkak/keseleo (sebagai bobok)
+17,5,"Mengobati panu, kadas, kurap (jamur kulit)"
+18,5,Meredakan mabuk laut/perjalanan
+19,5,Antioksidan tinggi pencegah kanker
+20,5,Meredakan nyeri sendi
+21,6,"Meredakan flu, pilek, dan radang tenggorokan"
+22,6,Menurunkan gula darah (Diabetes)
+23,6,Meningkatkan kekebalan tubuh
+24,6,Obat diare
+25,7,Membantu meluruhkan batu ginjal (kencing batu)
+26,7,Meningkatkan daya tahan tubuh (imun)
+27,7,Terapi pendamping Hepatitis B
+28,7,Meredakan asam urat
+29,8,Melancarkan buang air kecil (beser)
+30,8,Mengobati infeksi saluran kencing ringan
+31,8,Menurunkan darah tinggi
+32,8,Membantu masalah ginjal ringan
+33,9,Mempercepat penyembuhan luka & mencegah keloid
+34,9,Meningkatkan daya ingat & konsentrasi (Nootropic)
+35,9,Melancarkan aliran darah (varises/wasir)
+36,9,Menghilangkan stretch marks
+37,10,Menghentikan diare dengan cepat (mampet)
+38,10,Menaikkan trombosit (Sakit DBD)
+39,10,Antiseptik untuk luka lecet/infeksi
+40,10,Meredakan sakit gigi (dikunyah)
+41,11,Menurunkan darah tinggi
+42,11,Meningkatkan imun
+43,11,Melancarkan pencernaan
+44,11,Analgesik
+45,12,Kanker/Tumor
+46,12,Asam urat
+47,12,Diabetes
+48,12,Eksim
+49,13,Obat kumur
+50,13,Mimisan
+51,13,Keputihan
+52,13,Bau badan
+53,14,Luka diabetes
+54,14,Gula darah
+55,14,Keputihan parah
+56,14,Batuk
+57,15,Asam urat
+58,15,Kolesterol
+59,15,Darah tinggi
+60,15,Diare ringan
+61,16,Darah tinggi
+62,16,Cuci ginjal (diuretik)
+63,16,Rematik
+64,16,Kolesterol
+65,17,Kolesterol jahat
+66,17,Darah kental
+67,17,Flu/infeksi
+68,17,Jantung
+69,18,Gula darah (Diabetes)
+70,18,Menghangatkan tubuh
+71,18,Kolesterol
+72,18,Nyeri sendi
+73,19,Luka bakar
+74,19,Penyubur rambut
+75,19,Sembelit (pencahar)
+76,19,Pelembab kulit
+77,20,Diabetes
+78,20,Gatal-gatal (mandi)
+79,20,Nafsu makan
+80,20,Malaria
+81,21,Diabetes (Insulin alami)
+82,21,Menurunkan berat badan
+83,21,Pencernaan
+84,22,Darah tinggi
+85,22,Antioksidan
+86,22,Diet
+87,22,Infeksi saluran kemih
+88,23,Pelancar ASI
+89,23,Gizi buruk/Stunting
+90,23,Imun tubuh
+91,23,Gula darah
+92,24,Batu ginjal
+93,24,Asam urat
+94,24,Pelancar kencing
+95,24,Radang usus buntu
+96,25,Batu kandung kemih
+97,25,Batu ginjal
+98,25,Kencing tersendat
+99,25,Diabetes
+100,26,Wasir/Ambeien
+101,26,Sembelit
+102,26,Melancarkan haid
+103,26,Pegal linu
+104,27,Booster imun
+105,27,Asma/Alergi
+106,27,Pelancar ASI
+107,27,Anti-kanker
+108,28,Stamina pria
+109,28,Disfungsi ereksi
+110,28,Energi olahraga
+111,28,Kesuburan
+112,29,Libido pria
+113,29,Menghangatkan tubuh
+114,29,Stamina
+115,29,Peredaran darah
+116,30,Mencegah kanker
+117,30,Kesehatan kulit
+118,30,Imun tubuh
+119,30,Diare
+120,31,Kanker (Payudara/Paru)
+121,31,Asam urat
+122,31,Darah tinggi
+123,31,Kutu rambut
+124,32,Kanker payudara
+125,32,Detoksifikasi
+126,32,Bengkak/Bisul
+127,32,Radang
+128,33,Tumor/Benjolan
+129,33,Jantung
+130,33,Ambeien
+131,33,Stroke ringan
+132,34,Kista/Miom
+133,34,Kanker payudara
+134,34,Haid tidak lancar
+135,34,Darah tinggi
+136,35,Diabetes
+137,35,Gondongan
+138,35,Batuk
+139,35,Epilepsi
+140,36,Menghangatkan tubuh
+141,36,Asam urat
+142,36,Diare
+143,36,Antioksidan
+144,37,Nyeri haid
+145,37,Detoksifikasi
+146,37,Pengusir nyamuk
+147,37,Kolesterol
+148,38,Sakit gigi
+149,38,Bau mulut
+150,38,Kembung
+151,39,Susah tidur (Insomnia)
+152,39,Masuk angin bayi
+153,39,Menghangatkan
+154,40,Batuk/Gatal tenggorokan
+155,40,Kembung
+156,40,Bau mulut
+157,40,Nafsu makan
+158,41,Kolesterol jahat
+159,41,Jantung
+160,41,Pencernaan
+161,41,Gula darah
+162,42,Booster khasiat jamu lain
+163,42,Menghangatkan
+164,42,Kembung
+165,42,Metabolisme
+166,43,Batuk berdahak
+167,43,Diet/Lemak
+168,43,Demam
+169,43,Sariawan
+170,44,Darah tinggi
+171,44,Jerawat
+172,44,Batuk
+173,44,Sariawan
+174,45,Sembelit
+175,45,Nyeri haid
+176,45,Demam
+177,45,Masker wajah
+178,46,Pelangsing
+179,46,Perut buncit
+180,46,Kolesterol
+181,47,Pelangsing
+182,47,Haid tidak lancar
+183,47,Keputihan
+184,47,Infeksi saluran kencing
+185,48,Mengecilkan perut (pasca melahirkan)
+186,48,Lemak perut
+187,48,Cacingan
+188,48,Sakit kepala
+189,49,Keputihan
+190,49,Rapat wanita
+191,49,Masuk angin
+192,49,Kesehatan payudara
+193,50,Cacingan
+194,50,Nafsu makan
+195,50,Darah kotor
+196,50,Nifas
+197,51,Kanker/Kista
+198,51,Nyeri haid
+199,51,Maag kronis
+200,51,Alergi
+201,52,Sirkulasi darah (Stroke)
+202,52,Memar/Bengkak
+203,52,Darah tinggi
+204,52,Pendarahan
+205,53,Kolesterol
+206,53,Darah tinggi
+207,53,Kanker
+208,53,Radang tenggorokan
+209,54,Bau badan/mulut
+210,54,Keputihan
+211,54,Pegal linu
+212,54,Demam
+213,55,Demam/Flu
+214,55,Keputihan
+215,55,Diare
+216,55,Kurang darah
+217,56,Sesak napas (Asma)
+218,56,Diare
+219,56,Trombosit DBD
+220,56,Luka
+221,57,Diare/Disentri
+222,57,Mimisan
+223,57,Eksim
+224,57,Pencernaan
+225,58,Asam urat
+226,58,Rematik
+227,58,Pegal linu
+228,58,Darah tinggi
+229,59,Asam urat
+230,59,Rematik
+231,59,Sakit gigi
+232,59,Demam
+233,60,Kanker/Tumor
+234,60,Radang panggul
+235,60,Gondongan
+236,60,Usus buntu ringan
+237,61,Kembung/Masuk angin
+238,61,Nyeri haid
+239,61,Batuk
+240,61,Memar
+241,62,Batuk anak
+242,62,Wasir
+243,62,Demam
+244,62,Cacingan
+245,63,Batuk/Sakit tenggorokan
+246,63,Sariawan
+247,63,Asma
+248,63,Pelancar ASI
+249,64,Pelancar ASI
+250,64,Osteoporosis
+251,64,Menambah darah
+252,64,Vitamin A
+253,65,Pelancar ASI (Kuat)
+254,65,Membersihkan rahim nifas
+255,65,Stamina ibu
+256,66,Sariawan
+257,66,Batuk kering
+258,66,Radang tenggorokan
+259,66,Suara serak
+260,67,Demam
+261,67,Nafsu makan
+262,67,Keputihan
+263,67,Pewangi jamu
+264,68,Rapat wanita
+265,68,Keputihan
+266,68,Diare
+267,68,Luka koreng
+268,69,Rapat wanita
+269,69,Keputihan
+270,69,Cairan berlebih
+271,69,Kista
+272,70,Cacingan
+273,70,Kuatkan gigi
+274,70,Stamina
+275,70,Luka
+276,71,Diare mampet
+277,71,Luka bakar
+278,71,Suara serak
+279,71,Sakit gigi
+280,72,Susah tidur
+281,72,Luka/Jerawat
+282,72,Cemas
+283,72,Antiseptik
+284,73,Radang tenggorokan
+285,73,Difteri
+286,73,Batuk darah
+287,73,Gigitan ular
+288,74,Malaria
+289,74,Demam
+290,74,Diare
+291,74,Diabetes
+292,75,Panas dalam
+293,75,Susah pipis
+294,75,Mimisan
+295,75,Ginjal
+296,76,Bau mulut
+297,76,Penenang
+298,76,Usir serangga
+299,76,Rematik
+300,77,Malaria
+301,77,Kram kaki
+302,77,Demam
+303,77,Jantung
+304,78,Stamina
+305,78,Haid tidak lancar
+306,78,ASI
+307,78,Nafsu makan
+308,79,Rapat wanita
+309,79,Keputihan
+310,79,Peredaran darah
+311,79,Nifas
+312,80,Penyubur rambut
+313,80,Uban
+314,80,Liver
+315,80,Luka
+316,81,Mata jernih
+317,81,Antioksidan
+318,81,Penenang
+319,81,Pewarna
+320,82,Demam (kompres)
+321,82,Rambut
+322,82,Haid
+323,82,Batuk
+324,83,Sariawan
+325,83,Radang tenggorokan
+326,83,Keputihan
+327,83,ASI
+328,84,KB Pria
+329,84,Pegal linu
+330,84,Demam
+331,84,Sirkulasi darah
+332,85,Sembelit parah
+333,85,Detoks usus
+334,85,Ginjal
+335,85,Sakit kuning
+336,86,Disentri
+337,86,Malaria
+338,86,Wasir
+339,86,Kanker
+340,87,Anyang-anyangan
+341,87,Demam
+342,87,Cacing
+343,87,Radang kandung kemih
+344,88,Kembung parah
+345,88,Maag
+346,88,Herpes
+347,88,Nafsu makan
+348,89,Sakit gigi
+349,89,Luka
+350,89,Sariawan
+351,89,Kembung bayi (daun)
+352,90,Diabetes
+353,90,Kolesterol
+354,90,Darah tinggi
+355,90,Detoks
+356,91,Trombosit DBD
+357,91,Nafsu makan
+358,91,Malaria
+359,91,Pencernaan
+360,92,Darah tinggi
+361,92,Sakit pinggang
+362,92,Pelancar pipis
+363,92,Sakit kepala
+364,93,Sakit perut mulas
+365,93,Diare
+366,93,Kembung
+367,93,Antibakteri
+368,94,Pelancar ASI
+369,94,Diabetes
+370,94,Nyeri haid
+371,94,Stamina
+372,95,Luka operasi
+373,95,Maag
+374,95,Wasir
+375,95,Jerawat
+376,96,Kebotakan
+377,96,Rambut hitam
+378,96,Pendarahan
+379,96,Luka bakar
+380,97,Pelancar pipis
+381,97,Batu ginjal
+382,97,Batuk
+383,97,Bisul
+384,98,Sakit gigi
+385,98,Rematik
+386,98,Panu
+387,98,Batuk
+388,99,Luka
+389,99,Bengkak
+390,99,Yodium alami
+391,100,Mata
+392,100,Kanker
+393,100,Cacing
+394,100,Kulit
+395,101,Meredakan perut kembung
+396,101,Melancarkan pencernaan
+397,102,Menurunkan tekanan darah tinggi
+398,102,Penenang saraf
+399,103,Meredakan panas dalam
+400,103,Menghaluskan kulit
+401,104,Menghilangkan bau badan
+402,104,Menambah selera makan
+403,105,Melegakan pernapasan
+404,105,Mengatasi mual muntah
+405,106,Menurunkan demam anak
+406,106,Mengatasi perut kembung bayi
+407,107,Membersihkan udara (polusi)
+408,107,Mengatasi radang saluran pernapasan
+409,108,Mengobati luka memar
+410,108,Meredakan demam
+411,109,Aromaterapi relaksasi
+412,109,Perawatan kulit kepala
+413,110,Toner kecantikan kulit wajah
+414,110,Antioksidan tinggi
+415,111,Meredakan stres
+416,111,Mengatasi susah tidur
+417,112,Mengobati disentri
+418,112,Menenangkan pikiran
+419,113,Mengobati radang bengkak
+420,113,Aromaterapi
+421,114,Mencegah penuaan dini
+422,114,Menjaga kesehatan jantung
+423,115,Menghentikan pendarahan
+424,115,Obat wasir luar
+425,116,Meredakan bengkak
+426,116,Obat insomnia tradisional
+427,117,Menurunkan kadar gula darah
+428,117,Kaya antioksidan
+429,118,Menurunkan asam urat
+430,118,Pereda batuk
+431,119,Mengatasi panas dalam
+432,119,Pembersih ginjal
+433,120,Melancarkan pencernaan
+434,120,Mencegah dehidrasi
+435,121,Mengatasi radang lambung
+436,121,Obat kumur sakit gigi
+437,122,Menurunkan panas demam
+438,122,Sumber protein nabati
+439,123,Menjaga keseimbangan hormon wanita
+440,123,Kesehatan tulang
+441,124,Meningkatkan kepadatan tulang
+442,124,Kesehatan rambut
+443,125,Menyuburkan rambut
+444,125,Obat pencahar ringan
+445,126,Minuman isotonik alami
+446,126,Mencegah dehidrasi
+447,127,Pemanis sehat untuk diabetes
+448,127,Menambah energi
+449,128,Obat sariawan
+450,128,Menghentikan diare
+451,129,Penurun tekanan darah tinggi
+452,129,Pewangi makanan alami
+453,130,Pewarna hijau alami
+454,130,Obat nyeri haid
+455,131,Meredakan masuk angin
+456,131,Menghangatkan tubuh
+457,132,Meredakan diare
+458,132,Obat luka ringan
+459,133,Menurunkan gula darah ekstrim
+460,133,Obat malaria tradisional
+461,134,Mengobati kurap
+462,134,Sakit gigi
+463,135,Pewarna merah alami
+464,135,Diare
+465,136,Asma tradisional
+466,136,Bronkitis
+467,137,Minyak pelumas tradisional
+468,137,Pengobatan luka (ahli)
+469,138,Meningkatkan energi
+470,138,Antioksidan saraf
+471,139,Diet penurun berat badan
+472,139,Kesehatan jantung
+473,140,Mencegah penyakit kardiovaskular
+474,140,Mood booster
+475,141,Penenang saraf
+476,141,Aroma masakan
+477,142,Stamina pria dewasa
+478,142,Penghangat tubuh
+479,143,Obat asma
+480,143,Ekspektoran (batuk berdahak)
+481,144,Relaksasi pikiran
+482,144,Antiseptik kulit
+483,145,Menenangkan saraf pusat
+484,145,Aromaterapi mewah
+485,146,Kesehatan jantung (omega 3)
+486,146,Sumber energi sehat
+487,147,Vitalitas pria
+488,147,Kesehatan kulit (antiaging)
+489,148,Sembelit kronis
+490,148,Nutrisi ibu hamil
+491,149,Menurunkan kolesterol jahat
+492,149,Kesehatan pembuluh darah
+493,150,Meningkatkan energi instan
+494,150,Pencernaan
+495,151,Antioksidan perlindungan sel
+496,151,Kesehatan mata
+497,152,Kesehatan pencernaan
+498,152,Mencegah pikun
+499,153,Menghilangkan bau amis masakan
+500,153,Relaksasi
+501,154,Diet lambung sehat
+502,154,Vitamin C tinggi
+503,155,Meningkatkan kekebalan tubuh
+504,155,Penyembuhan flu
+505,156,Detoksifikasi hati (liver)
+506,156,Menurunkan berat badan
+507,157,Radang tenggorokan
+508,157,Sakit pinggang
+509,158,Menghilangkan kutil kulit
+510,158,Penyakit kulit khusus
+511,159,Obat kencing manis
+512,159,Rematik
+513,160,Infeksi saluran kencing
+514,160,Pelancar kemih
+515,161,Radang ginjal
+516,161,Asam urat
+517,162,Radang amandel
+518,162,Radang prostat
+519,163,Kesehatan prostat pria
+520,163,Mata sehat
+521,164,Menurunkan kolesterol
+522,164,Kesehatan jantung
+523,165,Sirkulasi darah
+524,165,Pereda nyeri sendi
+525,166,Meredakan hidung tersumbat
+526,166,Metabolisme lemak
+527,167,Mencegah penuaan sel
+528,167,Vitamin C sangat tinggi
+529,168,Menekan alergi (quercetin)
+530,168,Pengencer darah alami
+531,169,Sirkulasi darah
+532,169,Kesehatan usus (prebiotik)
+533,170,Mencegah flu
+534,170,Menghangatkan lambung
+535,171,Stamina dan ketahanan
+536,171,Keseimbangan hormon
+537,172,Peningkat testosteron alami
+538,172,Vitalitas olahraga
+539,173,Penenang kecemasan (anxiety)
+540,173,Relaksan otot
+541,174,Fokus mental (kafein tinggi)
+542,174,Pembakar lemak
+543,175,Pengganti gula diabetes
+544,175,Nol kalori diet
+545,176,Pencahar sembelit parah
+546,176,Penumbuh alis/rambut (luar)
+547,177,Sakit persendian kronis
+548,177,Asam urat parah (tradisional)
+549,178,Batuk berdahak
+550,178,Demam ringan
+551,179,Stamina total tubuh
+552,179,Adaptogen anti-stres
+553,180,Menurunkan kortisol (stres)
+554,180,Meningkatkan kualitas tidur
+555,181,Mencegah flu & pilek
+556,181,Booster imun cepat
+557,182,Insomnia ringan
+558,182,Sakit perut ringan
+559,183,Aromaterapi antistres
+560,183,Nyeri kepala ringan
+561,184,Mual perjalanan
+562,184,Migrain (oles)
+563,185,Meningkatkan memori kognitif
+564,185,Penyubur rambut
+565,186,Batuk kering kronis
+566,186,Bronkitis
+567,187,Antibiotik alami
+568,187,Infeksi pencernaan
+569,188,Radang tenggorokan
+570,188,Kesehatan otak dewasa
+571,189,Perut kembung
+572,189,Aroma penyegar
+573,190,Detoks logam berat ginjal
+574,190,Bau mulut
+575,191,Mengeluarkan merkuri tubuh
+576,191,Penurun gula darah
+577,192,Kolik pada bayi
+578,192,Lancar pencernaan
+579,193,Penambah nafsu makan
+580,193,Kesehatan pencernaan
+581,194,Normalkan tekanan darah
+582,194,Penenang sistem saraf
+583,195,Insomnia berat
+584,195,Kecemasan malam hari
+585,196,Melancarkan darah ke otak
+586,196,Mencegah pikun/demensia
+587,197,Anti-depresan herbal premium
+588,197,Kesehatan reproduksi wanita
+589,198,Bahan baku antivirus (Tamiflu)
+590,198,Bumbu masakan sehat
+591,199,Melancarkan ASI (Galaktagog)
+592,199,Menurunkan gula darah diabetes
+593,200,Rematik (kompres hangat luar)
+594,200,Kram otot
+595,201,Meredakan radang infeksi
+596,201,Menurunkan demam
+597,202,Meredakan panas dalam
+598,202,Menurunkan tekanan darah
+599,203,Sariawan
+600,203,Panas dalam
+601,204,Luka sengatan ubur-ubur laut
+602,204,Pegal linu (luar)
+603,205,Kesehatan jantung (Omega 3)
+604,205,Sistem kekebalan tubuh
+605,206,Mencegah osteoporosis
+606,206,Menambah nafsu makan
+607,207,Menurunkan darah tinggi ringan
+608,207,Penyegar mulut
+609,208,Menurunkan demam
+610,208,Penyedap masakan
+611,209,Obat batuk berdahak
+612,209,Maag
+613,210,Pelega tenggorokan
+614,210,Penghilang bau mulut instan
+615,211,Kembung perut
+616,211,Kolik pada bayi
+617,212,Menurunkan kolesterol
+618,212,Membunuh bakteri pencernaan
+619,213,Menjaga hormon menopause
+620,213,Nutrisi nabati tinggi
+621,214,Menambah nafsu makan anak
+622,214,Obat cacingan
+623,215,Meredakan kram perut
+624,215,Nyeri haid
+625,216,Menghaluskan kulit (lulur)
+626,216,Menghilangkan bau badan
+627,217,Obat maag tradisional
+628,217,Nafsu makan
+629,218,Obat memar memar
+630,218,Keseleo
+631,219,Aromaterapi relaksasi
+632,219,Penghangat tubuh
+633,220,Obat masuk angin
+634,220,Rematik
+635,221,Pewangi herbal
+636,221,Pereda nyeri perut
+637,222,Menghangatkan tubuh
+638,222,Ramah untuk lambung
+639,223,Peningkat imun
+640,223,Antioksidan tinggi
+641,224,Menurunkan kolesterol
+642,224,Penghilang bau amis
+643,225,Infeksi saluran kemih
+644,225,Bau badan
+645,226,Pelembab bibir alami
+646,226,Perawatan kulit kering
+647,227,Menurunkan gula darah diabetes
+648,227,Kolesterol
+649,228,Menumbuhkan rambut botak
+650,228,Mencegah uban
+651,229,Melunturkan lemak tubuh
+652,229,Menurunkan kolesterol
+653,230,Pengawet alami makanan
+654,230,Vitamin C tinggi
+655,231,Obat batuk
+656,231,Melarutkan lemak tenggorokan
+657,232,Penyedap makanan
+658,232,Menghilangkan mual
+659,233,Obat kanker paru/payudara
+660,233,Penangkal radikal bebas
+661,234,Kesehatan kulit
+662,234,Antioksidan
+663,235,Obat diare mampet
+664,235,Disentri
+665,236,Obat malaria tradisional
+666,236,Penurun panas
+667,237,Sumber karbohidrat kompleks
+668,237,Energi tahan lama
+669,238,Mencuci ginjal kotor
+670,238,Menurunkan kreatinin tinggi
+671,239,Obat diare anak
+672,239,Mencegah kram otot (kalium)
+673,240,Menaikkan trombosit (DBD)
+674,240,Sumber vitamin C
+675,241,Obat sariawan parah
+676,241,Radang tenggorokan
+677,242,Mencegah sembelit (kulit ari)
+678,242,Kesehatan mata
+679,243,Melancarkan BAB
+680,243,Menurunkan tekanan darah
+681,244,Obat tetes mata katarak ringan
+682,244,Iritasi mata
+683,245,Melancarkan pencernaan
+684,245,Mendinginkan lambung panas
+685,246,Sedatif alami (membuat tidur nyenyak)
+686,246,Sumber zat besi
+687,247,Meningkatkan Hb darah (anemia)
+688,247,Antioksidan
+689,248,Kesehatan tulang (Vit K)
+690,248,Pencernaan
+691,249,Melawan sel kanker payudara
+692,249,Kesehatan jantung
+693,250,Diet rendah karbohidrat
+694,250,Kesehatan otak
+695,251,Anti cacing pita
+696,251,Menurunkan gula darah ringan
+697,252,Obat cacing usus (biji)
+698,252,Kesehatan mata
+699,253,Penurun tensi darah instan
+700,253,Pendingin perut
+701,254,Menghidrasi kulit
+702,254,Pereda mata bengkak
+703,255,Menurunkan kolesterol jahat
+704,255,Kesehatan jantung
+705,256,Kesehatan tulang persendian
+706,256,Pencernaan
+707,257,Sumber lemak sehat (HDL)
+708,257,Energi tubuh
+709,258,Membangun massa otot
+710,258,Kesehatan sel tubuh
+711,259,Nutrisi ibu hamil (Asam folat)
+712,259,Perkembangan janin
+713,260,Penurun kolesterol (Omega 3)
+714,260,Melancarkan peredaran darah
+715,261,Pengenyang diet
+716,261,Detoks usus besar
+717,262,Sumber protein lengkap nabati
+718,262,Pengganti nasi sehat
+719,263,Menyerap kolesterol usus
+720,263,Kesehatan jantung koroner
+721,264,Karbohidrat kompleks
+722,264,Serat pencernaan
+723,265,Bebas gluten (Aman celiac)
+724,265,Antioksidan tinggi
+725,266,Meluruhkan batu ginjal (rambut jagung)
+726,266,Sumber energi
+727,267,Diet diabetes
+728,267,Serat lapis pencernaan
+729,268,Antioksidan super tinggi
+730,268,Pencegah penuaan dini
+731,269,Karbohidrat bebas gluten
+732,269,Energi harian
+733,270,Meredakan asam lambung
+734,270,Diet rendah indeks glikemik
+735,271,Obat maag akut (jus mentah)
+736,271,Kesehatan kulit
+737,272,Pelindung dinding usus
+738,272,Serat tinggi
+739,273,Makanan penyembuh maag
+740,273,Nutrisi MPASI bayi
+741,274,Obat lambung luka
+742,274,Makanan bebas alergi
+743,275,Bahan mie shirataki diet
+744,275,Penurun berat badan
+745,276,Penurun gula darah lambat
+746,276,Karbohidrat diet
+747,277,Pelega radang tenggorokan kronis
+748,277,Penghangat tubuh super
+749,278,Bumbu masak ringan
+750,278,Pereda mual ringan
+751,279,Menyembuhkan kista rahim tradisional
+752,279,Antioksidan langka
+753,280,Menekan sel kanker paru
+754,280,Menurunkan darah tinggi
+755,281,Menurunkan kolesterol 3x lipat
+756,281,Mencegah stroke
+757,282,Mendinginkan panas dalam tubuh (Yin)
+758,282,Stamina stabil
+759,283,Peningkat imun tanpa debar jantung
+760,283,Ketahanan stres
+761,284,Menyeimbangkan hormon wanita
+762,284,Pereda nyeri haid
+763,285,Melindungi DNA (Telomer)
+764,285,Membangun imun jangka panjang
+765,286,Stamina paru-paru dan pernapasan
+766,286,Vitalitas ginjal
+767,287,Pelawan kanker aktif
+768,287,Penenang spiritual
+769,288,Penurun kolesterol instan
+770,288,Meningkatkan sel darah putih
+771,289,Meningkatkan sel Natural Killer (NK)
+772,289,Anti tumor
+773,290,Protein nabati paling lengkap
+774,290,Kesehatan menyeluruh
+775,291,Mendetoksifikasi logam berat tubuh
+776,291,Pembersih darah
+777,292,Sumber lemak tak jenuh tertinggi
+778,292,Kesehatan pembuluh darah
+779,293,Melindungi saraf otak
+780,293,Mencegah demensia/pikun
+781,294,Kesehatan otak (Omega 3 DHA)
+782,294,Nutrisi perkembangan anak
+783,295,Kesehatan jantung koroner
+784,295,Menjaga elastisitas kulit
+785,296,Melancarkan peredaran darah vena
+786,296,Kesehatan mata
+787,297,Obat infeksi saluran kemih (ISK)
+788,297,Mencegah bakteri menempel di kandung kemih
+789,298,Kesehatan makula mata
+790,298,Antioksidan antosianin kuat
+791,299,Pereda radang gusi
+792,299,Kesehatan jaringan ikat
+793,300,Pereda kram perut haid
+794,300,Persiapan persalinan (daun)
+795,301,Menjaga kesehatan retina mata
+796,301,Meningkatkan vitalitas umur panjang
+797,302,Antioksidan ekstrim anti penuaan
+798,302,Kesehatan pembuluh darah
+799,303,Booster imun penangkal flu
+800,303,Meredakan radang tenggorokan
+801,304,Regenerasi sel lambung luka
+802,304,Melembabkan kulit kering
+803,305,Sumber instan Vitamin C
+804,305,Mencerahkan kulit
+805,306,Prebiotik usus sehat
+806,306,Kaya mineral elektrolit
+807,307,Menekan sel tumor/kanker (tradisional)
+808,307,Meningkatkan daya tahan tubuh
+809,308,Obat penyakit kuning (Hepatitis)
+810,308,Kesehatan liver
+811,309,Afrodisiak (peningkat gairah)
+812,309,Penenang kecemasan ringan
+813,310,Mengatasi insomnia kronis
+814,310,Meredakan radang pernapasan
+815,311,Melancarkan haid terlambat
+816,311,Meredakan memar/bengkak
+817,312,Pemulihan rahim pasca melahirkan
+818,312,Menyeimbangkan hormon wanita
+819,313,Peluruh batu ginjal ringan
+820,313,Demam
+821,314,Meredakan sariawan usus/mulut
+822,314,Demam berdarah
+823,315,Obat disentri tradisional
+824,315,Kram betis
+825,316,Menurunkan gula darah
+826,316,Menyehatkan kulit
+827,317,Pengobatan kanker/leukemia (Medis ekstraksi)
+828,317,Menurunkan tensi (berbahaya jika sembarangan)
+829,318,Penyubur rambut botak
+830,318,Penutup luka
+831,319,Menstabilkan tiroid (yodium)
+832,319,Menurunkan berat badan
+833,320,Membakar lemak visceral (fucoxanthin)
+834,320,Menurunkan kolesterol
+835,321,Penyedap makanan alami bebas MSG
+836,321,Kesehatan tulang
+837,322,Pelapis lambung luka
+838,322,Sumber serat kenyal
+839,323,Menurunkan kolesterol jahat
+840,323,Protein pembangun sel
+841,324,Pengencer darah alami (anti stroke)
+842,324,Pembersih paru-paru tradisional
+843,325,Mencegah kanker prostat
+844,325,Kesehatan jantung
+845,326,Meningkatkan fungsi usus
+846,326,Booster imun harian
+847,327,Sumber tembaga cegah anemia
+848,327,Menurunkan darah tinggi
+849,328,Aromaterapi relaksasi spiritual
+850,328,Antiseptik luka tradisional
+851,329,Mengusir serangga/nyamuk
+852,329,Pereda gatal gigitan serangga
+853,330,Disinfektan peti mati (tradisional)
+854,330,Pengawet kuat
+855,331,Plester luka alam
+856,331,Pereda nyeri sendi (topikal)
+857,332,Pereda radang sendi osteoarthritis (terkuat)
+858,332,Meredakan asma
+859,333,Obat kumur pembunuh kuman mulut
+860,333,Antiseptik usus
+861,334,Anti-depresan herbal tingkat medis
+862,334,Meredakan kecemasan berat
+863,335,Detoksifikasi racun liver parah
+864,335,Regenerasi sel hati
+865,336,Mengecilkan prostat bengkak (BPH)
+866,336,Mencegah kebotakan DHT
+867,337,Meredakan hot flashes menopause
+868,337,Keseimbangan hormon lansia
+869,338,Meredakan nyeri payudara PMS
+870,338,Mencerahkan eksim kulit
+871,339,Pencahar sembelit sangat kuat
+872,339,Peluntur lemak cepat
+873,340,Salep memar dan lebam biru
+874,340,Nyeri otot terkilir
+875,341,Penyembuh luka ruam popok bayi
+876,341,Eksim kulit meradang
+877,342,Mengempeskan ambeien luar
+878,342,Toner pengecil pori wajah
+879,343,Memperkuat pompa otot jantung
+880,343,Melancarkan darah koroner
+881,344,Mempertajam penglihatan malam
+882,344,Mencegah glaukoma/katarak
+883,345,Menghilangkan kelelahan mental kerja
+884,345,Meningkatkan ketahanan stres
+885,346,Melindungi liver
+886,346,Fokus pikiran
+887,347,Meredakan radang sendi kronis
+888,347,Mencegah rinitis alergi debu
+889,348,Diuretik pencuci ginjal
+890,348,Pembersih toksin liver
+891,349,Pembersih darah kotor
+892,349,Kesehatan kulit (jerawat parah)
+893,350,Menghentikan pendarahan luka instan
+894,350,Meredakan demam
+895,351,Ekspektoran pembersih dahak asma
+896,351,Radang paru-paru (tradisional)
+897,352,Menyatukan tulang retak (luar)
+898,352,Penyembuh luka dalam (luar)
+899,353,Meredakan nyeri kram haid
+900,353,Melancarkan darah panggul
+901,354,Membunuh parasit usus lambung
+902,354,Stimulasi empedu
+903,355,Pereda kejang (tradisional)
+904,355,Penangkal racun (tradisional)
+905,356,Penenang cemas dan panik
+906,356,Anti-virus herpes ringan
+907,357,Menurunkan darah tinggi
+908,357,Obat penenang ringan
+909,358,Anti-radang alergi sistemik
+910,358,Penenang saraf hiperaktif
+911,359,Obat tidur insomnia natural
+912,359,Relaksan otot perut
+913,360,Pereda kolik dan kembung lambung
+914,360,Penenang ringan manusia
+915,361,Meredakan rematik rheumatoid
+916,361,Sumber asam lemak GLA
+917,362,Pencegah serangan migrain kambuhan
+918,362,Pereda sakit kepala
+919,363,Pereda nyeri tulang punggung (Aspirin alami)
+920,363,Demam tinggi
+921,364,Pengobatan psoriasis kulit
+922,364,Detoks darah
+923,365,Pelapis borok lambung (ulcer)
+924,365,Pelega tenggorokan serak
+925,366,Menyejukkan radang usus/lambung
+926,366,Batuk kering perih
+927,367,Sumber fitoestrogen wanita
+928,367,Mencegah osteoporosis lansia
+929,368,Pencuci darah asidosis
+930,368,Kalsium nabati kuat
+931,369,Mencairkan dahak kental
+932,369,Pembersih panas paru
+933,370,Meningkatkan stamina atlet (Nitrat)
+934,370,Pembangun sel darah merah
+935,371,Penghangat sirkulasi darah
+936,371,Stamina lambung ginjal
+937,372,Masker pencerah wajah (pemutih alami)
+938,372,Pendingin panas dalam
+939,373,Pewangi relaksasi
+940,373,Pembuka blokir gas pencernaan
+941,374,Aromaterapi anti-depresi
+942,374,Penenang saraf tegang
+943,375,Meredakan debar jantung
+944,375,Insomnia panas dalam
+945,376,Balsem pereda nyeri sendi parah (luar)
+946,376,Keseleo otot leher (luar)
+947,377,Peluruh haid buntu (tradisional)
+948,377,Obat luar rematik
+949,378,Pewangi teh herbal
+950,378,Pereda kembung
+951,379,Anti-jamur kutu air kuku
+952,379,Pewarna rambut alami
+953,380,Pewarna batik alam coklat
+954,380,Obat disentri kulit kayu
+955,381,Membasmi cacing kremi usus
+956,381,Sumber protein pangan lokal
+957,382,Diuretik pencuci ginjal (risiko kristal)
+958,382,Menurunkan gula darah (sementara)
+959,383,Cuci darah tradisional (risiko asam jengkolat)
+960,383,Kesehatan pembuluh vena
+961,384,Peluntur lemak tubuh
+962,384,Pencahar sembelit
+963,385,Penurun asam urat ampuh (daun)
+964,385,Anti-diabetes ringan
+965,386,Menurunkan gula darah diabetes (biji)
+966,386,Diare parah
+967,387,Mabuk alkohol
+968,387,Pewarna ungu alami
+969,388,Penyegar panas dalam lambung
+970,388,Sariawan
+971,389,Penguat gigi (kalsium serat)
+972,389,Batuk berdahak
+973,390,Penurun tekanan darah tinggi instan
+974,390,Sangat bahaya untuk ginjal rusak
+975,391,Sariawan raksasa
+976,391,Penyegar bau mulut
+977,392,Diare mampet
+978,392,Pembersih usus
+979,393,Melawan anemia zat besi
+980,393,Tekanan darah tinggi
+981,394,Obat cacing gelang
+982,394,Sariawan usus
+983,395,Kencing batu luruh
+984,395,Darah tinggi
+985,396,Pelindung lambung iritasi (serat)
+986,396,Jantung sehat
+987,397,Obat malaria tradisional (kulit kayu)
+988,397,Energi karbohidrat
+989,398,Radang mata ringan
+990,398,Diare
+991,399,Disentri berdarah parah (biji)
+992,399,Malaria (kulit batang)
+993,400,Gizi peningkat stunting (biji)
+994,400,Sumber karbohidrat lokal
+995,401,Perawatan rambut rontok
+996,401,Kesehatan mata (makula)
+997,402,Penyembuh gatal alergi/eksim
+998,402,Pembasmi kutu rambut
+999,403,Fokus belajar dan memori otak
+1000,403,Meredakan kecemasan ringan
+1001,404,Detoksifikasi pencernaan besar
+1002,404,Obat wasir tradisional
+1003,405,Mencairkan dahak pernapasan
+1004,405,Kesehatan paru-paru
+1005,406,Meningkatkan kesuburan wanita
+1006,406,Pelancar ASI
+1007,407,Penurun demam malaria
+1008,407,Booster sistem imun
+1009,408,Menekan keinginan makan manis
+1010,408,Menurunkan gula darah diabetes
+1011,409,Meningkatkan vitalitas pria
+1012,409,Pelebar pembuluh darah (vasodilator)
+1013,410,Meningkatkan libido (Gairah seks)
+1014,410,Pereda nyeri sendi usia lanjut
+1015,411,Obat herbal parkinson (L-dopa)
+1016,411,Meningkatkan hormon dopamin bahagia
+1017,412,Pereda nyeri kronis punggung
+1018,412,Pengganti kopi energi (dosis rendah)
+1019,413,Pembersihan trauma psikologis (ahli)
+1020,413,Detoks batin (spiritual)
+1021,414,Energi fisik tahan lama tanpa debar
+1022,414,Antioksidan metabolisme
+1023,415,Meredakan kram perut kolik
+1024,415,Minuman antioksidan bebas kafein
+1025,416,Fokus mental tajam (L-Theanine)
+1026,416,Penambah stamina kerja
+1027,417,Mengatasi disfungsi ereksi psikologis
+1028,417,Penenang stres saraf
+1029,418,Gairah seksual pria dan wanita
+1030,418,Menghilangkan kelelahan kronis
+1031,419,Pembakar lemak (Fat burner) kuat
+1032,419,Obat kuat pria (medis)
+1033,420,Menekan nafsu makan drastis (diet)
+1034,420,Penunda lapar
+1035,421,Stimulan peredaran darah
+1036,421,Penghilang pusing ringan
+1037,422,Mengobati bronkitis akut
+1038,422,Meringankan batuk pilek
+1039,423,Obat radang sendi (osteoarthritis)
+1040,423,Meredakan nyeri pinggang bawah
+1041,424,Obat depresi ringan (Mood lifter)
+1042,424,Menurunkan kecemasan (Anxiolytic)
+1043,425,Pemanis aman indeks glikemik rendah
+1044,425,Prebiotik usus
+1045,426,Obat mabuk alkohol (Hangover)
+1046,426,Kesehatan pencernaan usus
+1047,427,Pelindung sistem saraf pusat
+1048,427,Camilan sehat jantung
+1049,428,Karbohidrat kompleks bebas gluten
+1050,428,Kesehatan pembuluh vena
+1051,429,Sumber protein penahan lapar
+1052,429,Mencerahkan kulit dari dalam
+1053,430,Sumber selenium raksasa (anti kanker)
+1054,430,Hormon tiroid seimbang
+1055,431,Adaptogen ketahanan lelah fisik
+1056,431,Oksigenasi sel tubuh tinggi
+1057,432,Menghitamkan rambut uban alami
+1058,432,Menyuburkan rambut
+1059,433,Obat lambung maag radang
+1060,433,Penambah sel darah merah
+1061,434,Menurunkan tekanan darah arteri
+1062,434,Antioksidan kardiovaskular tertinggi
+1063,435,Mengatasi sindrom mata kering
+1064,435,Pencegah penuaan sel
+1065,436,Sumber Vitamin C super instan
+1066,436,Booster imun radang
+1067,437,Meredakan nyeri sendi lutut (osteoporosis)
+1068,437,Kesehatan kolagen kulit
+1069,438,Minyak anti-aging luar biasa wajah
+1070,438,Melembabkan kulit sangat kering
+1071,439,Menurunkan trigliserida jahat
+1072,439,Otak dan memori anak (Omega 3)
+1073,440,Pemanis alami rasa karamel
+1074,440,Pengganti gula diabetes
+1075,441,Prebiotik pencernaan bakteri baik
+1076,441,Melancarkan BAB sembelit keras
+1077,442,Tepung diet bebas gluten
+1078,442,Penyeimbang gula darah glikemik lambat
+1079,443,Sumber kalsium tanpa susu sapi
+1080,443,Zat besi anti anemia
+1081,444,Pangan basa penetral asam lambung
+1082,444,Sangat mudah dicerna usus sensitif
+1083,445,Mencegah pembuluh darah pecah (Rutin)
+1084,445,Kesehatan jantung vena
+1085,446,Pencernaan sehat (gandum kuno)
+1086,446,Sumber energi tubuh ringan
+1087,447,Karbohidrat tahan lama atlet
+1088,447,Protein gandum tinggi
+1089,448,Pengganti coklat bebas kafein aman maag
+1090,448,Penenang lambung
+1091,449,Pengganti kopi bebas kafein pencuci liver
+1092,449,Kesehatan cairan empedu
+1093,450,Detoksifikasi jerawat parah (darah kotor)
+1094,450,Pelancar buang air besar
+1095,451,Menghilangkan gas perut kembung
+1096,451,Meredakan kram usus
+1097,452,Pembilas ginjal dari batu urat
+1098,452,Aromatik sup penyegar
+1099,453,Mengusir kembung dan angin perut
+1100,453,Membunuh cacing parasit usus
+1101,454,Aromaterapi pelega histeria/panik
+1102,454,Plester luka (getah)
+1103,455,Obat maag H.Pylori spesifik
+1104,455,Antiseptik mulut gigi
+1105,456,Pereda radang tenggorokan (sirup getah)
+1106,456,Penyembuh usus radang
+1107,457,Dupa spiritual penenang pikiran
+1108,457,Disinfektan udara ruangan
+1109,458,Menutup luka robek kilat (seperti lem)
+1110,458,Meredakan perih luka kulit
+1111,459,Minyak oles pengusir depresi/stres
+1112,459,Aromaterapi relaksasi
+1113,460,Merangsang pertumbuhan rambut botak (oles)
+1114,460,Menenangkan kecemasan (inhalasi)
+1115,461,Mengecilkan varises vena kaki
+1116,461,Meredakan ambeien bengkak
+1117,462,Peluruh kencing (Diuretik antiseptik)
+1118,462,Pembersih infeksi saluran kemih
+1119,463,Balsem sendi pegal linu tulang
+1120,463,Pelega napas dada sesak
+1121,464,Penenang stres kortisol tinggi
+1122,464,Aromaterapi pembumian (grounding)
+1123,465,Pembersih udara dari bakteri virus
+1124,465,Pengencer dahak kental (inhalasi)
+1125,466,Meredakan hidung tersumbat flu berat
+1126,466,Balsem pelega tenggorokan
+1127,467,Membasmi jerawat batu bernanah
+1128,467,Membunuh jamur kuku/kulit panu
+1129,468,Pereda radang infeksi tenggorokan
+1130,468,Penyembuh flu cepat
+1131,469,Madu pembunuh bakteri kebal antibiotik (MRSA)
+1132,469,Perawatan luka bakar
+1133,470,Minyak pijat pereda lebam otot memar
+1134,470,Relaksasi otot kaku
+1135,471,Obat batuk bronkitis ringan (teh)
+1136,471,Antiseptik saluran kemih
+1137,472,Menurunkan gula darah
+1138,472,Penyedap antibakteri masakan
+1139,473,Pereda kembung pencernaan
+1140,473,Penghangat sistem pencernaan
+1141,474,Membakar lemak visceral tubuh (termogenesis)
+1142,474,Peningkat energi metabolisme
+1143,475,Peluruh gas perut
+1144,475,Antioksidan rempah aromatik
+1145,476,Pereda nyeri kebas
+1146,476,Pembunuh parasit usus
+1147,477,Penghangat perut lambung
+1148,477,Nafsu makan
+1149,478,Menurunkan kolesterol total dan LDL
+1150,478,Pembersih pembuluh darah jantung
+1151,479,Tonik memori saraf otak
+1152,479,Fokus kognitif anak/dewasa
+1153,480,Penenang stres tanpa bikin lemas
+1154,480,Menumbuhkan akar rambut (minyak)
+1155,481,Pembersih liver (hati) hepatoprotektor
+1156,481,Regenerasi sel liver rusak
+1157,482,Peluruh cairan bengkak (edema)
+1158,482,Pembersih batu ginjal kencing
+1159,483,Pencuci sistem limfatik bengkak
+1160,483,Pembersih darah kotor jerawat
+1161,484,Pelindung jantung koroner
+1162,484,Menormalkan tekanan darah tinggi
+1163,485,Penyeimbang siklus haid wanita
+1164,485,Pereda nyeri rahim panggul
+1165,486,Menekan radang sendi lutut parah
+1166,486,Obat asma radang jalan napas
+1167,487,Meningkatkan vitalitas kekuatan mani pria
+1168,487,Stamina olahraga otot
+1169,488,Pembesar massa otot alami (tonik)
+1170,488,Menyehatkan saluran cerna
+1171,489,Pelega dahak asma bronkitis
+1172,489,Peningkat penyerapan obat lain di usus
+1173,490,Teh relaksasi dalam (Lucid dreaming)
+1174,490,Obat cemas (anxiolytic herbal)
+1175,491,Penyembuh penyakit kuning (hepatitis ringan)
+1176,491,Penghilang haus dehidrasi elektrolit
+1177,492,SANGAT BERACUN (Pembasmi hama tikus)
+1178,492,Lilin penerangan tradisional
+1179,493,Obat disentri berdarah langka
+1180,493,Stamina vitalitas Nusantara
+1181,494,Sayur penyembuh radang lambung bengkak
+1182,494,Anti-inflamasi pencernaan
+1183,495,Sayur penambah nafsu makan
+1184,495,Kaya zat besi penambah darah
+1185,496,Pelancar keluarnya ASI ibu menyusui
+1186,496,Pengikat kolesterol usus kasar
+1187,497,Penambah selera makan pahit
+1188,497,Anti malaria tradisional
+1189,498,Kopi daun antioksidan tinggi
+1190,498,Tidak membuat jantung berdebar kencang
+1191,499,Pereda nyeri ambeien/wasir duduk
+1192,499,Peluruh kencing anyang-anyangan
+1193,500,Obat luar penyumbat darah luka robek
+1194,500,Penyembuh luka bernanah luar
+1195,501,Menenangkan kecemasan saraf
+1196,501,Meredakan perut kembung
+1197,502,Meningkatkan stamina pria
+1198,502,Antioksidan saraf
+1199,503,Mengatasi lemah syahwat
+1200,503,Melancarkan peredaran darah panggul
+1201,504,Mencairkan lendir pernapasan (gurah)
+1202,504,Meredakan asma
+1203,505,Menghentikan disentri amuba
+1204,505,Meredakan asma sesak napas
+1205,506,Menghancurkan batu ginjal kristal
+1206,506,Meluruhkan batu empedu
+1207,507,Mencegah pengeroposan tulang (Osteoporosis)
+1208,507,Penyeimbang hormon wanita
+1209,508,Menurunkan panas demam tinggi
+1210,508,Meredakan infeksi tenggorokan
+1211,509,Menurunkan asam urat parah
+1212,509,Pereda nyeri sendi ginjal
+1213,510,Menambah sel darah merah (Anemia)
+1214,510,Penyembuh borok lambung
+1215,511,Pelancar buang air kecil
+1216,511,Pelancar air susu ibu (ASI)
+1217,512,Penangkal racun ubur-ubur laut
+1218,512,Penyembuh luka luar
+1219,513,Obat sakit gigi berlubang membandel
+1220,513,Penghilang kutil (luar)
+1221,514,Menurunkan gula darah diabetes
+1222,514,Obat malaria tradisional
+1223,515,Meningkatkan selera nafsu makan
+1224,515,Meredakan batuk
+1225,516,Pencuci darah kotor
+1226,516,Meredakan sakit kepala
+1227,517,Peluntur lemak perut (Diet)
+1228,517,Meredakan sariawan
+1229,518,Menghilangkan bau badan dan keringat
+1230,518,Menyegarkan bau mulut
+1231,519,Menjernihkan penglihatan mata (Minus)
+1232,519,Kesehatan retina
+1233,520,Pereda asma berat (Dihisap)
+1234,520,Obat bius tradisional (Berbahaya)
+1235,521,Melancarkan kontraksi persalinan
+1236,521,Pereda demam anak
+1237,522,Obat asma bronkial
+1238,522,Penurun panas demam
+1239,523,Kompres penurun panas balita
+1240,523,Pereda bengkak peradangan
+1241,524,Mengencerkan batuk berdahak
+1242,524,Meredakan rematik sendi
+1243,525,Obat mandi cacar air
+1244,525,Menyembuhkan gatal kulit
+1245,526,Penyubur akar rambut rontok
+1246,526,Pereda batuk berdarah
+1247,527,Pendingin panas dalam
+1248,527,Pembersih fungsi ginjal
+1249,528,Pencuci darah nifas ibu melahirkan
+1250,528,Pereda nyeri sendi rahim
+1251,529,Obat epilepsi (tradisional)
+1252,529,Pewarna kain biru alami
+1253,530,Mengusir nyamuk serangga (Aromaterapi)
+1254,530,Menghangatkan tubuh bayi
+1255,531,Membasmi kutu rambut (Biji)
+1256,531,Obat disentri (Buah)
+1257,532,Membunuh cacing parasit usus
+1258,532,Pereda diare berdarah
+1259,533,Menyembuhkan batuk parah
+1260,533,Melarutkan dahak kental
+1261,534,Melancarkan siklus haid buntu
+1262,534,Meredakan encok asam urat
+1263,535,Obat sembelit akut (Abu kulit)
+1264,535,Pereda kram perut
+1265,536,Sumber Vitamin E awet muda
+1266,536,Kesehatan kulit wajah
+1267,537,Pencuci darah dari racun
+1268,537,Menurunkan panas dalam lambung
+1269,538,Melancarkan haid tidak teratur
+1270,538,Melegakan napas asma
+1271,539,Pengikat gula darah glikemik
+1272,539,Diet pengenyang perut (Shirataki)
+1273,540,Pengobatan sakit kuning (Hepatitis)
+1274,540,Pembersih liver
+1275,541,Pereda masuk angin kembung
+1276,541,Menenangkan jantung berdebar
+1277,542,Pereda perut kembung kolik anak
+1278,542,Obat usus kram
+1279,543,Meredakan sariawan usus
+1280,543,Obat masuk angin jamu
+1281,544,Obat disentri berlendir
+1282,544,Jamu pegal linu tulang
+1283,545,Pereda pusing sakit kepala
+1284,545,Mengatasi mual muntah
+1285,546,Penambah nafsu makan ekstrim
+1286,546,Pencernaan lambung kuat
+1287,547,Energi fisik (Biji)
+1288,547,Menurunkan asam urat (Daun)
+1289,548,Menghilangkan bekas jerawat bopeng
+1290,548,Menyamarkan keloid luka
+1291,549,Membasmi panu kadas kurap
+1292,549,Membunuh jamur kulit
+1293,550,Menurunkan panas demam anak
+1294,550,Peluruh kencing ringan
+1295,551,Obat batuk TBC berdarah
+1296,551,Membersihkan paru-paru infeksi
+1297,552,Pembeku luka berdarah bernanah
+1298,552,Penyembuh borok luar
+1299,553,Menghentikan pendarahan wasir
+1300,553,Obat disentri darah
+1301,554,Melegakan batuk sesak asma
+1302,554,Membersihkan dahak bronkus
+1303,555,Menurunkan gula darah tajam
+1304,555,Obat gatal kudis luar
+1305,556,Obat kejang panas anak
+1306,556,Pereda diare (Bunga)
+1307,557,Menghentikan pendarahan rahim berlebih
+1308,557,Meredakan wasir berdarah
+1309,558,Pewarna makanan aman merah
+1310,558,Pelindung dinding lambung
+1311,559,Menurunkan tekanan darah tinggi
+1312,559,Sumber vitamin C
+1313,560,Pencahar pencernaan lancar
+1314,560,Energi karbohidrat manis
+1315,561,Menurunkan tensi darah
+1316,561,Pengharum keringat alami
+1317,562,Pereda radang tenggorokan
+1318,562,Kesehatan selaput lendir mulut
+1319,563,Menurunkan kolesterol jahat
+1320,563,Melancarkan pencernaan usus
+1321,564,Penyegar lambung stamina
+1322,564,Sumber vitamin C
+1323,565,Pencuci perut pencahar
+1324,565,Sumber energi serat
+1325,566,Penurun darah tinggi (Kalium)
+1326,566,Kesehatan jantung
+1327,567,Pembersih ginjal hidrasi
+1328,567,Sariawan (Kulit putih buah)
+1329,568,Penghidrasi ginjal cairan
+1330,568,Pereda panas dalam tenggorokan
+1331,569,Penguat tulang lansia
+1332,569,Kesehatan sendi lutut
+1333,570,Membasmi cacingan parah
+1334,570,Protein nabati kuat
+1335,571,Obat diare mampet (Buah)
+1336,571,Obat bisul nanah (Daun)
+1337,572,Penambah darah Hb Anemia
+1338,572,Peningkat energi tubuh
+1339,573,Prebiotik pelancar lambung usus
+1340,573,Diet rendah kalori
+1341,574,Penyembuh maag kronis lambung
+1342,574,Karbohidrat bebas alergi
+1343,575,Penurun gula darah lambat
+1344,575,Pewarna ungu alami sehat
+1345,576,Obat rematik (Ahli)
+1346,576,Obat kusta (Ahli - Sangat Beracun)
+1347,577,Mengobati kelenjar tiroid gondok bengkak
+1348,577,Obat anti radang
+1349,578,Pereda linu sendi rematik
+1350,578,Pereda pegal otot
+1351,579,Obat nyeri encok pinggang bawah
+1352,579,Penyambung tulang retak
+1353,580,Peluruh kencing batu kristal
+1354,580,Pembersih infeksi kemih
+1355,581,Menurunkan tensi darah tinggi
+1356,581,Kolesterol usus luruh
+1357,582,Penenang saraf rileks
+1358,582,Penurun tensi darah cepat
+1359,583,Pencuci paru paru perokok
+1360,583,Kesehatan darah sirkulasi
+1361,584,Menurunkan asam urat sendi
+1362,584,Kesehatan ginjal
+1363,585,Penyembuh borok maag tukak lambung
+1364,585,Kesehatan sel pencernaan
+1365,586,Protein nabati anti lelah
+1366,586,Kesehatan otot rangka
+1367,587,Mencegah osteoporosis tulang
+1368,587,Menjaga kesehatan jantung
+1369,588,Penurun panas dalam tubuh
+1370,588,Mencegah kanker serviks (Tradisional)
+1371,589,Menyejukkan perut lambung panas
+1372,589,Bubur sehat bayi lambung lambat
+1373,590,Penyubur rambut kulit awet muda
+1374,590,Antioksidan vaskular jantung
+1375,591,Pereda nyeri asam lambung gerd
+1376,591,Kesehatan pencernaan usus
+1377,592,Sumber vitamin A mata tinggi
+1378,592,Minyak sehat beta karoten
+1379,593,Penangkal sel kanker tumor
+1380,593,Antioksidan tubuh
+1381,594,Penambah darah anti anemia (Rebus)
+1382,594,Protein daun sayur
+1383,595,Obat disentri berdarah paling ampuh
+1384,595,Pembersih usus besar
+1385,596,Penurun panas dalam sirup mual
+1386,596,Kesehatan lambung asam
+1387,597,Penenang jantung berdebar takikardi
+1388,597,Mengatasi susah tidur malam
+1389,598,Meredakan nyeri buah zakar hernia (Biji)
+1390,598,Kesehatan kulit vitamin c
+1391,599,Pelapis lambung gaster anti maag
+1392,599,Prebiotik usus kenyang
+1393,600,Obat diare cair (Akar)
+1394,600,Energi usus karbohidrat sagu
+1395,601,Mengusir nyamuk demam berdarah (Aromaterapi)
+1396,601,Meredakan gatal gigitan serangga (Oles)
+1397,602,Penyembuh demam malaria parah
+1398,602,Pembersih darah kotor alergi
+1399,603,Menurunkan panas demam tinggi
+1400,603,Meredakan radang sendi linu
+1401,604,Menyuburkan akar rambut botak
+1402,604,Penyembuh eksim kulit basah
+1403,605,Plester luka bernanah alami
+1404,605,Pereda nyeri otot keseleo
+1405,606,Pereda rematik tulang bengkak
+1406,606,Penyembuh borok usus
+1407,607,Mengobati maag kronis lambung
+1408,607,Diare usus kram
+1409,608,Meredakan batuk berdahak tenggorokan
+1410,608,Menyembuhkan sariawan gusi
+1411,609,Membekukan luka robek berdarah (Getah luar)
+1412,609,Menyembuhkan luka sayat (Getah luar)
+1413,610,Pereda hipertensi darah tinggi
+1414,610,Obat stroke ringan tradisional
+1415,611,Mengempeskan bisul bernanah luar
+1416,611,Meredakan gatal herpes kulit
+1417,612,Menekan sel kanker ganas
+1418,612,Pereda batuk paru asma
+1419,613,Menambah zat besi anemia darah
+1420,613,Penambah nafsu makan pencernaan
+1421,614,Obat radang sendi bengkak (Luar)
+1422,614,Pereda nyeri rematik (Luar)
+1423,615,Meningkatkan sel darah merah ibu hamil
+1424,615,Kesehatan mata retina
+1425,616,Penurun panas demam anak bayi
+1426,616,Pelancar air susu ibu (ASI)
+1427,617,Pereda sakit kepala sebelah migrain
+1428,617,Menyembuhkan pegal linu badan
+1429,618,Pencuci perut sembelit ekstrim
+1430,618,Peluruh dahak paru (Luar/Getah)
+1431,619,Menyembuhkan batuk rejan berdarah
+1432,619,Menghentikan mimisan hidung
+1433,620,Menyembuhkan ginjal bengkak air
+1434,620,Pereda infeksi kandung kemih
+1435,621,Menurunkan darah tinggi hipertensi
+1436,621,Antioksidan jantung koroner
+1437,622,Meningkatkan daya tahan tubuh imun
+1438,622,Kesehatan pencernaan usus
+1439,623,Penyegar panas dalam lambung
+1440,623,Sumber energi vitamin C
+1441,624,Pelangsing perut buncit (Diet)
+1442,624,Menyembuhkan keputihan gatal wanita
+1443,625,Membasmi jamur panu kadas (Luar)
+1444,625,Pereda memar otot bengkak
+1445,626,Menurunkan gula darah diabetes parah
+1446,626,Obat kanker payudara tradisional
+1447,627,Menyerap racun udara formaldehida
+1448,627,Pembersih polusi debu ruangan
+1449,628,Pencahar sembelit parah usus (Daun)
+1450,628,Pengganti kopi lambung (Biji)
+1451,629,Pencuci rambut rontok ketombe
+1452,629,Obat sariawan mulut radang
+1453,630,Mengobati kurap gatal (Minyak luar)
+1454,630,Obat pencahar hewan (Sangat Toksik)
+1455,631,Menghentikan diare cair usus
+1456,631,Penyembuh disentri amuba lendir
+1457,632,Menurunkan tensi darah tinggi
+1458,632,Membunuh cacing usus anak
+1459,633,Makanan diet diabetes serat tinggi (Tepung)
+1460,633,Pengikat kolesterol usus (Tepung)
+1461,634,Tetes mata merah iritasi debu
+1462,634,Obat batuk kering tenggorokan
+1463,635,Menekan tumor payudara jinak
+1464,635,Membersihkan jerawat wajah darah
+1465,636,Membasmi cacing pita parasit usus
+1466,636,Pelega napas asma bronkus
+1467,637,Menghilangkan bau amis ikan daging
+1468,637,Penyegar bau badan keringat
+1469,638,Penghenti darah luka luar potong
+1470,638,Antiseptik borok kulit infeksi
+1471,639,Penghangat tubuh sirkulasi dingin
+1472,639,Pelancar aliran darah kaki kebas
+1473,640,Membunuh parasit usus cacing
+1474,640,Penurun tekanan darah tensi
+1475,641,Penyembuh sariawan gusi berdarah
+1476,641,Kesehatan mata vitamin c
+1477,642,Pereda pegal linu tulang sendi
+1478,642,Penyegar sayur asam lambung
+1479,643,Menghentikan keputihan berlebih rahim
+1480,643,Obat disentri berdarah mampet
+1481,644,Penenang jantung debar takikardi
+1482,644,Meredakan panas dalam demam
+1483,645,Penurun tensi darah tinggi drastis
+1484,645,Obat asma pernapasan paru
+1485,646,Penyembuh bisul nanah abses (Getah luar)
+1486,646,Penutup luka borok kulit (Getah luar)
+1487,647,Menurunkan gula darah kencing manis
+1488,647,Kesehatan energi pencernaan
+1489,648,Penurun panas demam tinggi anak
+1490,648,Menyembuhkan sariawan usus mulut
+1491,649,Pencuci darah kotor jerawat
+1492,649,Pereda sakit kepala pusing
+1493,650,Pewarna alami teh antioksidan
+1494,650,Meningkatkan sel darah putih imun
+1495,651,Peningkat denyut jantung sirkulasi atp
+1496,651,Stamina melek malam anti kantuk
+1497,652,Penyembuh malaria pedalaman hutan
+1498,652,Penurun panas demam berdarah dbd
+1499,653,Obat liver penyakit kuning hepatitis
+1500,653,Peluruh batu empedu ginjal
+1501,654,Penyembuh batuk rejan pertusis asma
+1502,654,Pembersih paru paru kotor
+1503,655,Penurun asam urat sendi bengkak instan
+1504,655,Pencuci ginjal fungsi ureum
+1505,656,Obat kusta lepra saraf (Sangat Toksik)
+1506,656,Anti tumor luar (Ahli Saja)
+1507,657,Energi karbohidrat fisik tinggi
+1508,657,Pembangun otot gizi balita
+1509,658,Meredakan wasir ambeien darah
+1510,658,Pendingin panas dalam tenggorokan
+1511,659,Obat batuk dahak anak bayi
+1512,659,Mengempeskan wasir bengkak
+1513,660,Pembersih udara ruangan toksin
+1514,660,Tanaman dekorasi hias racun
+1515,661,Menyerap polusi karbon monoksida udara
+1516,661,AWAS GETAH GATAL ALERGI MULUT
+1517,662,Penghias ruangan oksigenasi
+1518,662,AWAS KRISTAL OKSALAT BENGKAK
+1519,663,Obat sirup batuk eropa tradisional
+1520,663,Penurun panas demam flu
+1521,664,Pencuci ginjal batu kristal kencing
+1522,664,Peluruh air udem bengkak kaki
+1523,665,Penurun demam kompres kepala
+1524,665,Penyubur rambut akar folikel
+1525,666,Peluruh haid buntu rahim (Dosis Ketat)
+1526,666,Emetik pemicu muntah racun lambung
+1527,667,Racun panah mematikan hewan (Getah)
+1528,667,SANGAT BERACUN MATI JANTUNG GAGAL
+1529,668,Peningkat sistem imun makrofag sel
+1530,668,Sumber protein gizi otot
+1531,669,BERACUN MUAL MUNTAH DIARE USUS
+1532,669,DILARANG MAKAN BERBAHAYA
+1533,670,Energi protein karbohidrat selular
+1534,670,Peningkat stamina otot
+1535,671,Masker wajah anti jerawat radang
+1536,671,Pencerah kulit wajah kusam
+1537,672,Menurunkan gula darah diabetes (Kulit kayu)
+1538,672,Kesehatan pembuluh darah vena
+1539,673,Menghitamkan rambut uban akar (Abu/Minyak)
+1540,673,Penyubur rambut rontok parah
+1541,674,Pencuci darah kotor limfatik
+1542,674,Obat alergi kulit gatal eksim
+1543,675,Pereda panas dalam suhu tubuh
+1544,675,Pakan hewan bernutrisi susu
+1545,676,Kalsium tulang keropos lansia
+1546,676,Sumber energi serat pencernaan
+1547,677,Pelancar proses persalinan rahim ibu
+1548,677,Penyubur rambut lebat bayi
+1549,678,Penyembuh radang tenggorokan sakit nelan
+1550,678,Obat sariawan mulut panas dalam
+1551,679,Penurun panas tipes usus salmonella
+1552,679,Menurunkan gula darah super pahit
+1553,680,Obat kanker nasofaring paru paru tumor
+1554,680,Meredakan radang paru asma sesak
+1555,681,Menghentikan pendarahan usus dalam
+1556,681,Obat radang usus buntu kolitis
+1557,682,Pereda nyeri sendi pegal linu instan (Sabet Kulit)
+1558,682,Melancarkan peredaran darah kaku otot
+1559,683,Penyembuh luka bakar kulit panas
+1560,683,Mengempeskan bisul nanah darah
+1561,684,Pereda rematik sendi lutut kaku (Sabetan luar)
+1562,684,Penghangat tubuh sirkulasi stasis
+1563,685,Obat encok nyeri pinggang bawah (Sabet luar)
+1564,685,Pengusir pegal otot pundak leher
+1565,686,Obat sakit gigi berlubang gusi
+1566,686,Penguat gusi goyah berdarah
+1567,687,Meredakan diare mencret air usus
+1568,687,Obat disentri mampet
+1569,688,Menurunkan asam urat kristal sendi linu
+1570,688,Kesehatan empedu liver
+1571,689,Pembersih ginjal hidrasi saluran kencing
+1572,689,Sumber vitamin c panas dalam
+1573,690,Penyembuh malaria demam menggigil
+1574,690,Menurunkan darah tinggi hipertensi
+1575,691,Peluruh haid rahim lancar bersih
+1576,691,Pewangi tubuh keringat alami
+1577,692,Pembersih mata rabun kotor debu
+1578,692,Tetes mata merah iritasi radang
+1579,693,Meredakan nyeri sendi lutut osteoarthritis
+1580,693,Sumber vitamin C kolagen kulit
+1581,694,Penenang jantung debar takikardi panik
+1582,694,Mengatasi insomnia cemas tidur
+1583,695,SANGAT BERACUN GILA HALUSINASI FATAL
+1584,695,Obat asma rokok hisap luar bronkus
+1585,696,SANGAT BERACUN MATI KOMA ANESTESI
+1586,696,Bius tradisional dilarang keras
+1587,697,Pengusir demam panas tinggi anak
+1588,697,Penangkal nyamuk serangga uap
+1589,698,Pereda keputihan wanita rahim bersih
+1590,698,Kesehatan reproduksi siklus haid
+1591,699,Penguat tulang retak patah silika
+1592,699,Peluruh kencing batu ginjal kristal
+1593,700,Peluruh kencing batu ginjal ureter parah
+1594,700,Pelancar haid nyeri kram panggul
+1995,701,Menurunkan gula darah akut instan
+1996,701,Penyembuh borok kencing manis
+1997,702,Obat bius sakit gigi berlubang
+1998,702,Pereda nyeri saraf mulut
+1999,703,Pembeku luka darah robek parah (Luar)
+2000,703,Penyembuh bisul infeksi (Luar)
+2001,704,Penurun panas demam malaria
+2002,704,Meredakan luka memar luar
+2003,705,Obat gosok rematik sendi linu (Luar)
+2004,705,SANGAT BERACUN JIKA DIMINUM (LIVER MATI)
+2005,706,Menjernihkan mata minus rabun
+2006,706,Pengusir nyamuk malaria serangga
+2007,707,Pelega asma sesak napas berat
+2008,707,Mencairkan lendir batuk bronkitis
+2009,708,Menurunkan demam tinggi tubuh
+2010,708,Membersihkan keputihan wanita rahim
+2011,709,Menenangkan detak jantung berdebar
+2012,709,Mengatasi insomnia cemas panik
+2013,710,RACUN JANTUNG MEMATIKAN (SANGAT FATAL)
+2014,710,DILARANG KERAS MEDIS (KOMA MATI)
+2015,711,Menurunkan tekanan darah tinggi
+2016,711,Meredakan sariawan usus panas dalam
+2017,712,Melancarkan siklus haid buntu
+2018,712,Mengempeskan bengkak kelenjar udem
+2019,713,Obat luar rematik sendi lutut
+2020,713,AWAS GETAH SANGAT GATAL OKSALAT
+2021,714,Pemulihan rahim pasca melahirkan (Adat)
+2022,714,Penyusut rahim nifas (Dilarang Medis Ekstrim)
+2023,715,Meredakan diare disentri anak
+2024,715,Penurun panas demam bayi
+2025,716,Menghentikan pendarahan wasir rektum
+2026,716,Menutup luka usus berdarah
+2027,717,Menurunkan gula darah diabetes ampuh
+2028,717,Pembersih darah kotor alergi
+2029,718,Obat gosok rematik linu parah (Luar)
+2030,718,Pereda sakit pinggang (Luar)
+2031,719,Booster imun sel darah putih
+2032,719,Kesehatan paru-paru perokok
+2033,720,Kompres ambeien wasir bengkak luar
+2034,720,SANGAT BERACUN JIKA DIMAKAN MATI
+2035,721,Obat asma rokok hisap (Luar)
+2036,721,SANGAT BERACUN GILA HALUSINASI FATAL
+2037,722,Penguat fungsi ginjal peluruh
+2038,722,Meredakan batuk TBC berdarah
+2039,723,Menjaga tekanan darah stabil
+2040,723,Menurunkan kolesterol jahat (LDL)
+2041,724,Pendingin panas dalam tenggorokan akut
+2042,724,Penyembuh radang pita suara
+2043,725,Pelindung jantung pembuluh darah
+2044,725,Kesehatan kulit awet muda
+2045,726,Obat batuk dahak parah kental
+2046,726,Sariawan gusi berdarah
+2047,727,Obat kencing batu kalsium luruh
+2048,727,Penyembuh sifilis raja singa tradisional
+2049,728,Lem luka berdarah potong rimba
+2050,728,Penyembuh borok luar infeksi
+2051,729,Racun kutu rambut kepala instan (Luar)
+2052,729,SANGAT BERACUN SARAF JIKA DIMINUM
+2053,730,Penambah nafsu makan pencernaan
+2054,730,Pereda sakit perut melilit kram
+2055,731,Obat batuk berdahak asma
+2056,731,Pereda kembung masuk angin
+2057,732,Meredakan kram nyeri haid rahim
+2058,732,Pencuci darah kotor limfatik
+2059,733,Peluruh keringat demam panas
+2060,733,Pembunuh cacing pita usus
+2061,734,Obat tidur insomnia ringan natural
+2062,734,Penenang saraf cemas ringan
+2063,735,Penambah stamina fisik pria wanita
+2064,735,Pereda kelelahan otot letih lesu
+2065,736,Kesehatan mata katarak retina
+2066,736,Sumber energi karbohidrat gula
+2067,737,Kontrasepsi KB Pria (Sperma non-aktif)
+2068,737,Pereda memar tulang bengkak (Luar)
+2069,738,Penurun panas demam tinggi
+2070,738,Pendingin panas dalam lambung
+2071,739,Pelancar buang air besar (Sembelit)
+2072,739,Meredakan sariawan usus
+2073,740,Sumber energi karbohidrat survival
+2074,740,Kesehatan usus kolon
+2075,741,Menghentikan diare amuba disentri
+2076,741,Penyembuh luka luar robek
+2077,742,Penurun tensi darah tinggi hipertensi
+2078,742,Obat penenang cemas stres ptsd
+2079,743,Pendingin lambung panas gerd
+2080,743,Penyembuh maag perih ulu hati
+2081,744,Meredakan radang usus buntu kolitis
+2082,744,Pelancar sembelit keras laksatif
+2083,745,Pencahar sembelit parah enzim papain
+2084,745,Pencerna daging protein usus lambung
+2085,746,Pencuci kandung kemih ginjal hidrasi
+2086,746,Pendingin asidosis panas dalam
+2087,747,Pelapis lambung perih borok maag
+2088,747,Penyejuk tenggorokan kering puasa
+2089,748,Hidrasi sel tubuh dehidrasi
+2090,748,Penyegar tenggorokan serak
+2091,749,Pengganti nasi bebas gluten celiac
+2092,749,Energi karbohidrat diet lambat (Matang)
+2093,750,Pembersih lendir kotor usus besar
+2094,750,Energi karbohidrat tahan lapar (Matang)
+2095,751,Menurunkan tekanan darah tinggi arteri
+2096,751,Mencegah stroke pecah pembuluh darah otak
+2097,752,Pelindung makula retina mata katarak
+2098,752,Sumber provitamin A awet muda
+2099,753,Sumber vitamin C kolagen kulit kencang
+2100,753,Kesehatan jaringan ikat persendian
+2101,754,Obat batuk bronkitis alami paru
+2102,754,Pereda asma sesak napas dada
+2103,755,Pengganti sampo anti ketombe jamur (Luar)
+2104,755,SANGAT BERACUN JIKA DIMAKAN MATI
+2105,756,SANGAT BERACUN FATAL KEMATIAN KOMA
+2106,756,RACUN HAMA TIKUS JANTUNG HENTI
+2107,757,Penyembuh panu kurap kadas (Luar)
+2108,757,Pembersih jamur kulit kutu air (Luar)
+2109,758,Pereda panas dalam suhu tinggi
+2110,758,Menyembuhkan sariawan gusi amandel
+2111,759,Menurunkan kolesterol jahat ldl darah
+2112,759,Booster imun vitamin c instan
+2113,760,Pembersih lemak darah pembuluh nadi
+2114,760,Kesehatan jantung koroner arteri
+2115,761,Obat sakit gigi karies gusi bengkak
+2116,761,Penyembuh luka borok luar
+2117,762,Pewarna alami kain batik
+2118,762,Obat disentri berdarah lendir
+2119,763,Penyerap racun darah kotor limfatik
+2120,763,Pembersih ginjal ginjal filter
+2121,764,Pereda demam panas tinggi anak
+2122,764,Obat batuk dahak bronkus
+2123,765,Penenang saraf cemas panik ringan
+2124,765,AWAS BIJI KAYU BERACUN TOKSIK
+2125,766,Meredakan ambeien wasir bengkak luar
+2126,766,Mengempeskan radang anus rektum
+2127,767,Pereda panas demam kompres
+2128,767,Penyubur rambut botak akar folikel
+2129,768,Menyembuhkan sariawan gusi berdarah parah
+2130,768,Menyegarkan panas dalam lambung
+2131,769,Menurunkan asam urat sendi bengkak
+2132,769,Pereda nyeri linu asam urat lutut
+2133,770,Menghentikan diare mencret mampet usus
+2134,770,Astringen pencernaan kram lilit
+2135,771,Penyejuk lambung maag gaster borok
+2136,771,Obat sariawan stomatitis aftosa
+2137,772,Meluruhkan kencing batu ginjal kristal
+2138,772,Pembersih saluran kemih infeksi
+2139,773,Pereda diare berdarah disentri amuba
+2140,773,Penghenti darah usus kolon
+2141,774,Pengusir masuk angin kembung mual
+2142,774,Pereda sakit perut kolik lambung
+2143,775,Tetes mata katarak rabun tradisional (Sangat Perih)
+2144,775,Pembersih iritasi mata merah debu
+2145,776,Peluruh kencing nanah gonore tradisional
+2146,776,Pembersih infeksi kemih uretra
+2147,777,Penenang jantung debar takikardi cemas
+2148,777,Menurunkan tekanan darah tinggi rileks
+2149,778,Kompres udem kaki bengkak air (Luar)
+2150,778,Pereda radang sendi panas (Luar)
+2151,779,Pelangsing perut buncit obesitas (Diet Pabrik)
+2152,779,MENTAH SANGAT BERACUN GATAL MATI (Oksalat)
+2153,780,Menghentikan disentri amuba darah mampet
+2154,780,Meredakan batuk darah tbc paru
+2155,781,Penyetop darah mengucur luka robek (Bulu luar)
+2156,781,Lem luka potong instan beku (Bulu luar)
+2157,782,Pereda encok pinggang bawah lumbago
+2158,782,Peluruh batu ginjal urat kencing kotor
+2159,783,Bedak bayi ruam popok kulit merah (Spora luar)
+2160,783,Obat biang keringat anak gatal (Spora luar)
+2161,784,Pereda luka memar lebam darah biru
+2162,784,Penyejuk panas demam dahi anak
+2163,785,Pereda asma batuk rejan pertusis paru
+2164,785,Mukolitik pengencer dahak kental
+2165,786,Penyerap racun polusi formaldehida udara ruangan
+2166,786,Pembersih asap rokok paru sehat
+2167,787,Obat penyakit kuning liver hepatitis (Tradisional)
+2168,787,Regenerasi sel hepatosit hepar
+2169,788,Obat tetes mata merah bengkak iritasi
+2170,788,Awas infeksi mata jika air perasan kotor
+2171,789,Pelega asma sesak napas jalan bronkus
+2172,789,Menurunkan gula darah diabetes kencing manis
+2173,790,Penghancur batu ginjal kalsium terkuat
+2174,790,Peluruh urat asam urat sendi asam
+2175,791,Pereda panas dalam radang amandel tonsil
+2176,791,Obat sariawan gusi berdarah
+2177,792,Penyembuh luka bakar melepuh air panas (Luar)
+2178,792,Meredakan radang kulit eksim (Luar)
+2179,793,Mengempeskan jerawat batu bernanah (Luar)
+2180,793,Obat bisul matang tarik kotoran (Luar)
+2181,794,Penutup luka berdarah robek instan (Luar)
+2182,794,DILARANG DIMINUM MERUSAK LIVER GAGAL HATI
+2183,795,Pereda perut kembung gas kolik usus
+2184,795,Penyembuh maag kronis gerd asam lambung
+2185,796,Pereda sakit gigi berkepanjangan saraf
+2186,796,Obat gusi bengkak radang abses
+2187,797,Penurun demam malaria plasmodium lisis
+2188,797,Meredakan batuk dahak paru bronkitis
+2189,798,Obat asma perokok berat paru kotor
+2190,798,Awas keracunan mirip nikotin dosis tinggi
+2191,799,Menurunkan tensi darah tinggi pembuluh rileks
+2192,799,Pereda kram betis otot kaki pegal
+2193,800,Penyegar napas bau mulut sariawan
+2194,800,Penurun demam panas tubuh asidosis
+2195,801,Menyembuhkan hepatitis penyakit kuning
+2196,801,Meningkatkan fungsi liver hati rusak
+2197,802,Obat kuat stamina pria dewasa (Afrodisiak)
+2198,802,Meredakan pegal linu tulang belakang
+2199,803,Meningkatkan vitalitas energi tubuh
+2200,803,Penghangat tubuh sirkulasi darah
+2201,804,Menurunkan kadar gula darah instan (Diabetes)
+2202,804,AWAS HIPOGLIKEMIA (Gula drop pingsan)
+2203,805,Meredakan radang amandel tenggorokan (Tonsil)
+2204,805,Pelega napas asma bronkitis lendir
+2205,806,Obat malaria parasit plasmodium
+2206,806,Pembunuh cacing usus anak (Pahit)
+2207,807,Melancarkan darah nifas panggul rahim
+2208,807,BAHAYA IBU HAMIL (Memicu keguguran)
+2209,808,Menyembuhkan sariawan borok mulut
+2210,808,Meredakan mulas kram lambung usus
+2211,809,Menghentikan pendarahan rahim miometrium
+2212,809,Penyembuh luka luar berdarah
+2213,810,Obat kencing nanah gonore (Tradisional)
+2214,810,BERACUN JIKA DIMINUM RUTIN LAMA (Liver)
+2215,811,Penangkal racun gigitan serangga ular
+2216,811,Penurun panas demam tinggi asidosis
+2217,812,Memecah batu ginjal kalsium oksalat
+2218,812,Penyembuh luka potong berdarah henti
+2219,813,Penambah darah hemoglobin anemia
+2220,813,Sumber protein gizi otot rangka
+2221,814,Mengobati keputihan bau gatal vagina
+2222,814,Meredakan radang tenggorokan akut
+2223,815,Obat luar luka memar lebam bengkak parah
+2224,815,UMBI SANGAT BERACUN JIKA DITELAN MATI
+2225,816,Kompres patah tulang keseleo sendi (Luar)
+2226,816,SANGAT BERACUN MUNTAH DIARE KRAM ORAL
+2227,817,Menyembuhkan asma kronis pernapasan
+2228,817,Pereda alergi paru paru gatal
+2229,818,Obat kencing manis glukosa darah turun
+2230,818,Memperbaiki sensitivitas insulin pankreas
+2231,819,Peluruh gas perut kembung kolik kram
+2232,819,Pengharum jamu seduhan pewangi
+2233,820,Obat demam malaria menggigil pedalaman
+2234,820,Meredakan tekanan darah tinggi tensi
+2235,821,Antiseptik alami mandi ruqyah jenazah
+2236,821,Meredakan gangguan kecemasan ringan
+2237,822,Pelindung jantung koroner antioksidan super
+2238,822,Menghancurkan plak kolesterol jahat ldl
+2239,823,Obat cacingan cacing usus lumpuh
+2240,823,Diare mampet disentri berlendir
+2241,824,Pengobatan sifilis raja singa saluran kemih
+2242,824,Menurunkan gula darah kencing manis
+2243,825,Penawar racun gigitan ular berbisa (Luar)
+2244,825,Meredakan radang sendi bengkak linu
+2245,826,Obat pencuci perut cacingan anak
+2246,826,Menambah selera makan nafsu enzim
+2247,827,Pewangi tubuh dan jamu penghangat
+2248,827,Meredakan nyeri perut bengkak memar luar
+2249,828,Aromaterapi depresi stres cemas panik uap
+2250,828,Menenangkan pikiran saraf otak tidur
+2251,829,Penurun panas demam tinggi kompres
+2252,829,Pereda linu sendi otot pegal
+2253,830,Adaptogen anti stres kortisol ketahanan fisik
+2254,830,Meningkatkan imun tubuh paru asma
+2255,831,Obat tetes mata bengkak merah debu iritasi
+2256,831,Peluruh keringat panas dalam asidosis
+2257,832,Penenang saraf cemas bau ketiak wangi badan
+2258,832,Obat keputihan rahim vagina bersih
+2259,833,Penurun demam panas tinggi (Bunga)
+2260,833,GETAH BERACUN OBAT KUTIL MATA BUTA
+2261,834,Pelega batuk berdahak paru lendir kental
+2262,834,Meredakan radang tenggorokan amandel tonsil
+2263,835,Penurun panas anak antipiretik dahi kompres
+2264,835,Peluruh dahak bronkus asma pernapasan
+2265,836,Penyerap logam berat air racun (Bioakumulator)
+2266,836,JANGAN DIMAKAN JIKA TUMBUH DI AIR LIMBAH
+2267,837,Pereda kencing nanah gonore uretra radang
+2268,837,Obat batuk kering tenggorokan serak
+2269,838,Penutup luka berdarah pisau potong (Luar)
+2270,838,Pereda sakit kepala pusing pegal linu
+2271,839,Obat asma bronkitis sesak dada lendir paru
+2272,839,Meredakan disentri amuba mencret usus
+2273,840,Penyembuh luka bakar melepuh air panas (Luar)
+2274,840,Penumbuh rambut rontok botak akar (Luar)
+2275,841,Getah pemusnah kutil jamur kulit (Luar)
+2276,841,BIJI SANGAT BERACUN MATI MUAL MUNTAH
+2277,842,Obat leukemia kanker ganas darah (Dosis Medis)
+2278,842,BERACUN JIKA DOSIS BERLEBIH (VINCRISTINE)
+2279,843,Pereda perut kembung gas kolik kram usus
+2280,843,Penghilang bau mulut sariawan napas segar
+2281,844,Penyegar hidrasi masuk angin mual muntah
+2282,844,Pereda asam lambung sariawan gusi radang
+2283,845,Energi kalori glikogen otot lelah karbohidrat
+2284,845,Pembangun mood bahagia tanpa mabuk debar
+2285,846,Sumber karbohidrat pangan lokal hutan kalori
+2286,846,Penyegar tenggorokan hidrasi sel
+2287,847,Obat diare mencret usus mampet astringen
+2288,847,Penyembuh luka luar borok bernanah
+2289,848,Penyegar dahaga lelah letih lesu energi
+2290,848,Kesehatan pencernaan usus lambung kolon
+2291,849,Energi fisik kuli pekerja keras stunting gizi
+2292,849,Awas getah lengket bibir lepuh gatal
+2293,850,Obat sariawan stomatitis aftosa kumur
+2294,850,Pereda diare usus kram lilit
+2295,851,Penyembuh malaria plasmodium hutan pedalaman
+2296,851,Penurun panas demam tinggi menggigil
+2297,852,Aromaterapi penenang cemas dupa uap
+2298,852,Pengawet jaringan sel antiseptik (TOKSIK ORAL)
+2299,853,Pereda linu tulang sendi rematik urat
+2300,853,Obat kuat stamina pria (tradisional)
+2301,854,Aromaterapi dupa penenang spiritual meditasi
+2302,854,Pembersih udara ruangan asma bronkus
+2303,855,Permen karet alami pereda asam lambung gerd
+2304,855,Pelapis luka usus borok maag tukak
+2305,856,Aromaterapi anti nyamuk serangga uap
+2306,856,Pelega asma sesak napas dada (Asap)
+2307,857,Obat disentri berdarah mampet usus kolon
+2308,857,Penurun demam panas tinggi udem bengkak
+2309,858,Penyembuh gatal kulit kurap kudis (Luar)
+2310,858,Meredakan bisul bernanah radang abses (Luar)
+2311,859,Meredakan diare usus amuba disentri basiler
+2312,859,Obat asma bronkitis pernapasan lendir
+2313,860,Pereda radang gusi bengkak gigi goyah linu
+2314,860,Obat sariawan mulut kumur air rebusan
+2315,861,Peluruh keringat panas demam tinggi asidosis
+2316,861,Meredakan nyeri otot rangka pegal linu
+2317,862,Penumbuh rambut kepala botak rontok uban akar
+2318,862,Pengempes udem bengkak air kaki cairan sendi
+2319,863,Penyembuh luka borok bernanah abses luar
+2320,863,Pereda diare mencret kram lilit perut usus
+2321,864,Menurunkan gula darah diabetes kencing manis
+2322,864,Pereda disentri amuba radang usus kolon
+2323,865,Penenang jantung debar takikardi palpitasi cemas
+2324,865,Obat asma pernapasan bronkus mukolitik dahak
+2325,866,Penurun demam panas tinggi anak bayi keringat
+2326,866,Penyembuh luka memar lebam darah stasis (Luar)
+2327,867,Pencuci darah nifas ibu melahirkan rahim kotor
+2328,867,Obat disentri mampet usus diare mencret astringen
+2329,868,Aromaterapi uap pengusir depresi stres kortisol
+2330,868,Pelega asma sesak napas dahak kental bronkus
+2331,869,Pelembab bibir pecah garing kulit kering (Mentega)
+2332,869,Penyembuh luka sayat potong berdarah hemostatik
+2333,870,Menghentikan disentri usus amuba mampet darah
+2334,870,Pereda diare mencret kram perut lilit astringen
+2335,871,Obat batuk berdahak paru lendir kental mukolitik
+2336,871,Meredakan sariawan gusi radang mulut stomatitis
+2337,872,Plester luka bernanah borok kaki nanah abses (Getah)
+2338,872,Antiseptik antibakteri staph kulit gatal (Luar)
+2339,873,Pereda sakit perut kolik kram usus melilit angin
+2340,873,Menghentikan diare amuba mampet mencret cair
+2341,874,Obat kutil jamur kulit kadas kurap kutu air (Getah)
+2342,874,Penyembuh borok nanah luka infeksi basah (Luar)
+2343,875,Obat mencret diare parah usus kram lilit mampet
+2344,875,Pewarna merah kain alami tannin astringen usus
+2345,876,Pencuci ginjal batu urin kristal urat peluruh
+2346,876,Meredakan disentri berdarah lendir amuba mencret
+2347,877,Pereda diare mencret amuba disentri astringen kuat
+2348,877,Meredakan radang lambung maag gaster borok perih
+2349,878,Obat bisul bernanah radang abses tarik kotoran luar
+2350,878,Penyembuh luka berdarah robek potong hemostatik getah
+2351,879,Menurunkan gula darah diabetes kencing manis tajam
+2352,879,AWAS MERUSAK HATI LIVER JIKA DOSIS TINGGI RUTIN LAMA
+2353,880,Pelapis lambung gaster borok maag perih antasida alam
+2354,880,SANGAT AMAN UNTUK LAMBUNG (Rendah kumarin toksik)
+2355,881,Obat rematik linu sendi tulang pegal otot asam urat
+2356,881,Penghangat perut kembung masuk angin gas kolik usus
+2357,882,Pereda kolik perut kembung mual muntah anti emetik
+2358,882,Menghilangkan pusing pening sakit kepala sefalgi jamu
+2359,883,Pelindung jantung koroner darah kental trombus encer
+2360,883,Lemak nabati antioksidan sehat kolesterol hdl ldl
+2361,884,Menurunkan kolesterol jahat ldl plak pembuluh arteri
+2362,884,Kesehatan kulit wajah rambut folikel lemak sehat otak
+2363,885,Energi atp jantung pompa darah asma napas bronkodilator
+2364,885,AWAS ASAM LAMBUNG MAAG PERIH JANTUNG DEBAR KAFEIN
+2365,886,Penahan kantuk malam hari stimulan ssp fokus kerja
+2366,886,Meningkatkan metabolisme lipolisis bakar lemak kardio
+2367,887,Obat angin usus kembung kram lilit kolik pencernaan
+2368,887,Menambah enzim gastrik saliva ludah usus lambung hangat
+2369,888,Peluruh dahak asma bronkitis mukolitik paru sesak lendir
+2370,888,Penurun panas demam diuretik ginjal keringat pori asidosis
+2371,889,Penurun asam urat sendi lutut linu kristal luruh urin
+2372,889,Pereda nyeri tulang pegal linu rematik encok pinggang
+2373,890,Obat panu kurap kadas jamur kulit kutu air mati lisis (Luar)
+2374,890,Bumbu gulai wangi antibakteri masakan amis ikan hilang
+2375,891,Pembakar lemak perut visceral diet obesitas termogenesis gym
+2376,891,AWAS MAAG ULKUS BERDARAH PERIH LAMBUNG JIKA OVER PEDAS
+2377,892,Pengusir bau badan ketiak keringat apokrin wangi napas mulut
+2378,892,Penyembuh sariawan amandel radang usus lambung kolesterol
+2379,893,Menurunkan kolesterol ldl trigliserida darah tinggi hipertensi
+2380,893,Pelancar sirkulasi darah vena arteri jantung trombus encer
+2381,894,Pembersih keputihan rahim bau jamur candida leukore gatal
+2382,894,Peluruh darah nifas haid lancar kram perut panggul nyeri
+2383,895,Obat disentri parah amuba mencret diare mampet usus astringen
+2384,895,Meredakan panas dalam sariawan asidosis demam suhu turun
+2385,896,Penyembuh anemia darah kurang tajam hemoglobin zat besi tinggi
+2386,896,Penambah stamina fisik lelah letih lesu pucat pusing atp
+2387,897,Obat ginjal bengkak udem air kaki diuretik peluruh kencing kotor
+2388,897,Pembersih infeksi saluran kemih kandung kencing bakteri mati
+2389,898,Peluruh batu kencing ginjal urat kalsium kristal lisis uretra
+2390,898,Meredakan nyeri haid kram perut panggul darah buntu lancar
+2391,899,Obat asma bronkitis dahak paru lendir kental encer mukolitik
+2392,899,AWAS DURI RACUN SENGAT GATAL (Hewan rontok bulu mimosin)
+2393,900,Obat batuk darah tbc paru alveolus pecah hemostatik kapiler
+2394,900,Penyembuh luka memar lebam bengkak darah stasis (Luar daun)
+2395,901,Pengawet ikan
+2396,901,Penurun kolesterol
+2397,902,Penyembuh malaria
+2398,902,Booster imun
+2399,903,Pereda panas dalam
+2400,903,Demam tipes
+2401,904,Obat cacing usus
+2402,904,Nafsu makan
+2403,905,Mengempeskan bisul
+2404,905,BERACUN DIMAKAN
+2405,906,Obat panu luar
+2406,906,SANGAT BERACUN DIMINUM
+2407,907,Penyembuh luka luar
+2408,907,Ph air ikan
+2409,908,Demam malaria
+2410,908,Pereda diare
+2411,909,Pelega asma
+2412,909,Linu panggul
+2413,910,Asam urat turun
+2414,910,Darah tinggi turun
+2415,911,Penguat lambung maag
+2416,911,Energi sayur
+2417,912,Pencuci darah kotor
+2418,912,Batuk dahak
+2419,913,Pelapis lambung borok
+2420,913,Gula darah turun
+2421,914,Kesuburan wanita
+2422,914,Asam folat janin
+2423,915,Diare mampet
+2424,915,Sariawan gusi
+2425,916,Rematik linu
+2426,916,Cacingan usus
+2427,917,Luka bakar melepuh
+2428,917,Racun ikan pari
+2429,918,Luka robek berdarah
+2430,918,Diare mencret
+2431,919,Sariawan mulut
+2432,919,Bumbu segar
+2433,920,Perut mulas kram
+2434,920,Pewarna alam
+2435,921,Kolera disentri
+2436,921,Diare parah
+2437,922,Pencuci luka infeksi
+2438,922,Abses bengkak
+2439,923,Sakit perut melilit
+2440,923,Tensi tinggi turun
+2441,924,MATA BUTA SANGAT BERACUN
+2442,924,KULIT MELEPUH TOKSIK
+2443,925,Pendarahan luka potong
+2444,925,Infeksi borok kulit
+2445,926,Asma bronkus sesak
+2446,926,Wasir rektum bengkak
+2447,927,Masuk angin kembung
+2448,927,Rematik pegal
+2449,928,Pendarahan nifas rahim
+2450,928,Pemulihan bersalin
+2451,929,Demam panas tinggi
+2452,929,Pusing sakit kepala
+2453,930,Asma bronkitis kental
+2454,930,DILINDUNGI ALAM
+2455,931,Diabetes kencing manis
+2456,931,Asam urat sendi
+2457,932,Stres depresi cemas
+2458,932,Insomnia susah tidur
+2459,933,Kencing nanah gonore
+2460,933,Rematik urat encok
+2461,934,Racun makanan alergi
+2462,934,Dehidrasi elektrolit
+2463,935,Lambung panas gerd
+2464,935,Panas dalam sariawan
+2465,936,Panas dalam pencernaan
+2466,936,Pakan ternak susu
+2467,937,Ginjal batu urat
+2468,937,Kencing kotor anyang
+2469,938,Sampo alam anti ketombe
+2470,938,BERACUN JIKA DIMINUM
+2471,939,Malaria pedalaman
+2472,939,Demam tinggi
+2473,940,Penyejuk lambung maag
+2474,940,Perut perih kembung
+2475,941,Penyedot bisa ular luar
+2476,941,BERACUN NIKOTIN DITELAN
+2477,942,Panas dalam asidosis
+2478,942,Maag kronis lambung
+2479,943,Demam anak balita
+2480,943,Radang amandel tonsil
+2481,944,Luka berdarah lem luar
+2482,944,DILARANG MINUM LIVER MATI
+2483,945,Bengkak sendi kompres
+2484,945,BERACUN JIKA DITELAN
+2485,946,Keseleo urat parah
+2486,946,Memar biru lebam
+2487,947,Demam tinggi asidosis
+2488,947,Pusing tegang saraf
+2489,948,Encok pinggang lumbago luar
+2490,948,AWAS KULIT MELEPUH GOSONG
+2491,949,Tulang retak patah
+2492,949,Luka dalam usus
+2493,950,Bau keringat ketiak
+2494,950,Keputihan rahim bau
+2495,951,Luka operasi bedah sesar
+2496,951,Luka lambung maag
+2497,952,Diabetes kencing manis akut
+2498,952,Cacing parasit usus
+2499,953,Asma dahak paru
+2500,953,Darah kotor jerawat
+2501,954,Darah tinggi hipertensi
+2502,954,Panas dalam lambung
+2503,955,Radang amandel tonsil
+2504,955,Demam panas tinggi
+2505,956,Ginjal batu urat luruh
+2506,956,AWAS DIARE OVER DOSIS
+2507,957,Mata bengkak iritasi
+2508,957,Jerawat eksim kulit
+2509,958,Tipes salmonella usus
+2510,958,Paru perokok kotor
+2511,959,Diabetes pankreas insulin
+2512,959,Sembelit keras laksatif
+2513,960,Demam panas anak
+2514,960,Lambung gaster enzim
+2515,961,Malaria plasmodium lisis
+2516,961,DBD demam berdarah trombosit
+2517,962,Kolesterol jahat ldl
+2518,962,Adaptogen anti stres
+2519,963,Pendarahan dalam lambung otak
+2520,963,Luka luar berdarah
+2521,964,Energi paru asma
+2522,964,Pencernaan lambung tonik
+2523,965,Sistem imun telomer dna
+2524,965,Jantung koroner antioksidan
+2525,966,Hormon haid wanita estrogen
+2526,966,Kram panggul dismenore
+2527,967,Kram usus kolik lambung
+2528,967,Radang sendi hormon
+2529,968,Lambung gaster borok erosi
+2530,968,Prebiotik flora usus
+2531,969,Darah kotor sifilis raja singa
+2532,969,Jerawat nanah kista
+2533,970,Rematik sendi lutut bengkak
+2534,970,Asam urat kristal lisis
+2535,971,Psoriasis kulit eksim
+2536,971,Detoks liver empedu
+2537,972,Ginjal batu urat luruh
+2538,972,Urin bau belerang normal
+2539,973,Darah tinggi vasodilator
+2540,973,Kolesterol ldl jantung koroner
+2541,974,Paru masuk angin flu
+2542,974,Sirkulasi darah vena
+2543,975,Asma sesak napas dahak
+2544,975,Mual muntah perut lambung
+2545,976,Nafsu makan gastrik enzim
+2546,976,Memori otak fokus saraf
+2547,977,Kista ovarium rahim miom
+2548,977,Kanker tumor apoptosis
+2549,978,Viagra alam stamina pria
+2550,978,AWAS JANTUNG DEBAR HIPERTENSI
+2551,979,Nyeri sendi asam urat
+2552,979,Asma bronkus dahak
+2553,980,Kolesterol ldl visceral luntur
+2554,980,Kembung pencernaan usus
+2555,981,Napas bau sariawan gusi
+2556,981,Kembung mual muntah
+2557,982,Penenang ekstrim gaba alkohol
+2558,982,AWAS LIVER RUSAK RUTIN LAMA
+2559,983,Serapan jamu obat lambung
+2560,983,AWAS OVERDOSIS OBAT DOKTER
+2561,984,Diabetes gula manis
+2562,984,Bumbu gulai kembung
+2563,985,Rematik urat encok lumbago
+2564,985,Masuk angin mual perut
+2565,986,Asam urat gout kristal luruh
+2566,986,Kolesterol ldl darah tinggi
+2567,987,Diare mampet usus mencret
+2568,987,Sariawan radang mulut
+2569,988,Darah tinggi tensi turun
+2570,988,Kolesterol ldl jantung plak
+2571,989,Darah anemia hb pucat
+2572,989,Energi atp otot lelah
+2573,990,Disentri amuba darah usus
+2574,990,Bisul nanah abses kuman
+2575,991,Luka gores darah potong
+2576,991,Radang infeksi kulit luar
+2577,992,Sariawan amandel tonsil radang
+2578,992,Panas dalam asidosis hidrasi
+2579,993,Mata merah debu iritasi
+2580,993,AWAS INFEKSI JIKA KOTOR STERIL
+2581,994,Diare mencret kram usus
+2582,994,Pewarna biru alam astringen
+2583,995,Cacingan pita gelang ascaris
+2584,995,Pencuci perut parasit usus
+2585,996,Demam malaria rawa hutan
+2586,996,Panas tinggi asidosis keringat
+2587,997,Darah kotor alergi jerawat eksim
+2588,997,Limfatik kelenjar udem ginjal
+2589,998,Sakit gigi saraf mati karies
+2590,998,Sariawan usus lambung maag
+2591,999,Darah tinggi hipertensi jantung
+2592,999,Pewarna merah batik radang sendi
+2593,1000,Kembung gas perut usus kram
+2594,1000,Maag kronis gerd bau hilang

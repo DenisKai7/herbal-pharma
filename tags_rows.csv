@@ -1,0 +1,2111 @@
+id,herbal_id,tag_name
+1,1,hepatoprotektor
+2,1,antiinflamasi
+3,1,xanthorrhizol
+4,1,nafsu makan
+5,2,maag
+6,2,nyeri haid
+7,2,rematik
+8,2,curcumin
+9,3,antiemetik
+10,3,mual
+11,3,gingerol
+12,3,analgesik
+13,4,batuk
+14,4,sedatif
+15,4,epms
+16,4,rematik
+17,5,antifungi
+18,5,panu
+19,5,kanker
+20,5,bumbu
+21,6,imunomodulator
+22,6,flu
+23,6,diabetes
+24,6,pahit
+25,7,batu ginjal
+26,7,hepatitis
+27,7,imunostimulan
+28,7,diuretik
+29,8,diuretik
+30,8,isk
+31,8,ginjal
+32,8,hipertensi
+33,9,luka
+34,9,kolagen
+35,9,varises
+36,9,otak
+37,10,diare
+38,10,dbd
+39,10,trombosit
+40,10,antibakteri
+41,11,herbal
+42,11,indonesia
+43,11,mengkudu
+44,12,herbal
+45,12,indonesia
+46,12,mahkota dewa
+47,13,herbal
+48,13,indonesia
+49,13,sirih hijau
+50,14,herbal
+51,14,indonesia
+52,14,sirih merah
+53,15,herbal
+54,15,indonesia
+55,15,daun salam
+56,16,herbal
+57,16,indonesia
+58,16,seledri
+59,17,herbal
+60,17,indonesia
+61,17,bawang putih
+62,18,herbal
+63,18,indonesia
+64,18,kayu manis
+65,19,herbal
+66,19,indonesia
+67,19,lidah buaya
+68,20,herbal
+69,20,indonesia
+70,20,brotowali
+71,21,herbal
+72,21,indonesia
+73,21,pare
+74,22,herbal
+75,22,indonesia
+76,22,rosella
+77,23,herbal
+78,23,indonesia
+79,23,kelor
+80,24,herbal
+81,24,indonesia
+82,24,tempuyung
+83,25,herbal
+84,25,indonesia
+85,25,keji beling
+86,26,herbal
+87,26,indonesia
+88,26,daun ungu
+89,27,herbal
+90,27,indonesia
+91,27,jintan hitam
+92,28,herbal
+93,28,indonesia
+94,28,pasak bumi
+95,29,herbal
+96,29,indonesia
+97,29,purwoceng
+98,30,herbal
+99,30,indonesia
+100,30,kulit manggis
+101,31,herbal
+102,31,indonesia
+103,31,daun sirsak
+104,32,herbal
+105,32,indonesia
+106,32,keladi tikus
+107,33,herbal
+108,33,indonesia
+109,33,sarang semut
+110,34,herbal
+111,34,indonesia
+112,34,bawang dayak
+113,35,herbal
+114,35,indonesia
+115,35,ciplukan
+116,36,herbal
+117,36,indonesia
+118,36,secang
+119,37,herbal
+120,37,indonesia
+121,37,serai
+122,38,herbal
+123,38,indonesia
+124,38,cengkeh
+125,39,herbal
+126,39,indonesia
+127,39,pala
+128,40,herbal
+129,40,indonesia
+130,40,kapulaga
+131,41,herbal
+132,41,indonesia
+133,41,ketumbar
+134,42,herbal
+135,42,indonesia
+136,42,lada hitam
+137,43,herbal
+138,43,indonesia
+139,43,jeruk nipis
+140,44,herbal
+141,44,indonesia
+142,44,belimbing wuluh
+143,45,herbal
+144,45,indonesia
+145,45,asam jawa
+146,46,herbal
+147,46,indonesia
+148,46,jati belanda
+149,47,herbal
+150,47,indonesia
+151,47,kemuning
+152,48,herbal
+153,48,indonesia
+154,48,bangle
+155,49,herbal
+156,49,indonesia
+157,49,temu kunci
+158,50,herbal
+159,50,indonesia
+160,50,temu ireng
+161,51,herbal
+162,51,indonesia
+163,51,temu putih
+164,52,herbal
+165,52,indonesia
+166,52,daun dewa
+167,53,herbal
+168,53,indonesia
+169,53,sambung nyawa
+170,54,herbal
+171,54,indonesia
+172,54,beluntas
+173,55,herbal
+174,55,indonesia
+175,55,tapak liman
+176,56,herbal
+177,56,indonesia
+178,56,patikan kebo
+179,57,herbal
+180,57,indonesia
+181,57,anting-anting
+182,58,herbal
+183,58,indonesia
+184,58,songgolangit
+185,59,herbal
+186,59,indonesia
+187,59,sidaguri
+188,60,herbal
+189,60,indonesia
+190,60,rumput mutiara
+191,61,herbal
+192,61,indonesia
+193,61,sembung
+194,62,herbal
+195,62,indonesia
+196,62,miana
+197,63,herbal
+198,63,indonesia
+199,63,daun jinten
+200,64,herbal
+201,64,indonesia
+202,64,daun katuk
+203,65,herbal
+204,65,indonesia
+205,65,torbangun
+206,66,herbal
+207,66,indonesia
+208,66,saga rambat
+209,67,herbal
+210,67,indonesia
+211,67,pulosari
+212,68,herbal
+213,68,indonesia
+214,68,kayu rapet
+215,69,herbal
+216,69,indonesia
+217,69,majakani
+218,70,herbal
+219,70,indonesia
+220,70,pinang
+221,71,herbal
+222,71,indonesia
+223,71,gambir
+224,72,herbal
+225,72,indonesia
+226,72,bidara
+227,73,herbal
+228,73,indonesia
+229,73,bidara upas
+230,74,herbal
+231,74,indonesia
+232,74,pulai
+233,75,herbal
+234,75,indonesia
+235,75,alang-alang
+236,76,herbal
+237,76,indonesia
+238,76,akar wangi
+239,77,herbal
+240,77,indonesia
+241,77,kina
+242,78,herbal
+243,78,indonesia
+244,78,ginseng jawa
+245,79,herbal
+246,79,indonesia
+247,79,tabat barito
+248,80,herbal
+249,80,indonesia
+250,80,urang aring
+251,81,herbal
+252,81,indonesia
+253,81,bunga telang
+254,82,herbal
+255,82,indonesia
+256,82,bunga sepatu
+257,83,herbal
+258,83,indonesia
+259,83,turi
+260,84,herbal
+261,84,indonesia
+262,84,gandarusa
+263,85,herbal
+264,85,indonesia
+265,85,klembak
+266,86,herbal
+267,86,indonesia
+268,86,buah makasar
+269,87,herbal
+270,87,indonesia
+271,87,anyang-anyang
+272,88,herbal
+273,88,indonesia
+274,88,sembukan
+275,89,herbal
+276,89,indonesia
+277,89,jarak pagar
+278,90,herbal
+279,90,indonesia
+280,90,daun afrika
+281,91,herbal
+282,91,indonesia
+283,91,daun pepaya
+284,92,herbal
+285,92,indonesia
+286,92,alpukat
+287,93,herbal
+288,93,indonesia
+289,93,kedawung
+290,94,herbal
+291,94,indonesia
+292,94,klabet
+293,95,herbal
+294,95,indonesia
+295,95,binahong
+296,96,herbal
+297,96,indonesia
+298,96,cemara kipas
+299,97,herbal
+300,97,indonesia
+301,97,daun sendok
+302,98,herbal
+303,98,indonesia
+304,98,landep
+305,99,herbal
+306,99,indonesia
+307,99,jarak bali
+308,100,herbal
+309,100,indonesia
+310,100,wortel
+311,101,kembung
+312,101,pencernaan
+313,102,hipertensi
+314,102,penenang
+315,103,panas dalam
+316,103,serat
+317,104,bau badan
+318,104,lalapan
+319,105,pernapasan
+320,105,dingin
+321,106,demam bayi
+322,106,bumbu
+323,107,polusi
+324,107,hiasan
+325,108,memar
+326,108,bengkak
+327,109,aromaterapi
+328,109,wangi
+329,110,kulit
+330,110,antioksidan
+331,111,relaksasi
+332,111,teh
+333,112,disentri
+334,112,air
+335,113,kamboja
+336,113,radang
+337,114,vitamin e
+338,114,jantung
+339,115,pendarahan
+340,115,obat luar
+341,116,radang
+342,116,nyeri
+343,117,teh
+344,117,antioksidan
+345,118,diabetes
+346,118,asam urat
+347,119,panas dalam
+348,119,ginjal
+349,120,pencernaan
+350,120,air
+351,121,radang usus
+352,121,lalapan
+353,122,protein
+354,122,pertumbuhan
+355,123,hormon
+356,123,fitoestrogen
+357,124,tulang
+358,124,rambut
+359,125,rambut
+360,125,minyak
+361,126,isotonik
+362,126,hidrasi
+363,127,diabetes
+364,127,gula sehat
+365,128,sariawan
+366,128,nipah
+367,129,wangi
+368,129,hipertensi
+369,130,pewarna
+370,130,alami
+371,131,masuk angin
+372,131,minyak atsiri
+373,132,diare
+374,132,luka
+375,133,diabetes parah
+376,133,pahit
+377,134,kurap
+378,134,gigi
+379,135,pewarna
+380,135,diare
+381,136,asma
+382,136,bronkitis
+383,137,pelumas
+384,137,beracun
+385,138,energi
+386,138,kafein
+387,139,diet
+388,139,antioksidan
+389,140,jantung
+390,140,mood
+391,141,penenang
+392,141,wangi
+393,142,stamina pria
+394,142,pedas
+395,143,asma
+396,143,batuk
+397,144,aromaterapi
+398,144,relaksasi
+399,145,dupa
+400,145,saraf
+401,146,jantung
+402,146,omega 3
+403,147,antioksidan kuat
+404,147,vitalitas
+405,148,sembelit
+406,148,serat
+407,149,kolesterol
+408,149,lemak sehat
+409,150,energi
+410,150,gula
+411,151,antiaging
+412,151,mata
+413,152,pencernaan
+414,152,pektin
+415,153,bau amis
+416,153,masakan
+417,154,diet
+418,154,lambung
+419,155,imun
+420,155,vit c
+421,156,detoks
+422,156,liver
+423,157,radang tenggorokan
+424,157,pinggang
+425,158,kutil
+426,158,getah beracun
+427,159,diabetes
+428,159,rematik
+429,160,infeksi kemih
+430,160,peluruh ginjal
+431,161,ginjal
+432,161,liver
+433,162,amandel
+434,162,prostat
+435,163,prostat
+436,163,likopen
+437,164,kolesterol
+438,164,serat
+439,165,nyeri sendi
+440,165,capsaicin
+441,166,hidung mampet
+442,166,pedas
+443,167,antioksidan
+444,167,vit c
+445,168,alergi
+446,168,quercetin
+447,169,prebiotik
+448,169,sirkulasi
+449,170,flu
+450,170,imun
+451,171,stamina
+452,171,hormon
+453,172,testosteron
+454,172,olahraga
+455,173,kecemasan
+456,173,penenang
+457,174,kafein
+458,174,energi
+459,175,pemanis
+460,175,nol kalori
+461,176,sembelit parah
+462,176,minyak pencahar
+463,177,asam urat berat
+464,177,sangat beracun
+465,178,batuk
+466,178,demam
+467,179,stamina tubuh
+468,179,adaptogen
+469,180,stres
+470,180,kortisol
+471,181,imun
+472,181,flu
+473,182,insomnia
+474,182,teh penenang
+475,183,aromaterapi
+476,183,stres
+477,184,mual
+478,184,pusing
+479,185,memori
+480,185,otak
+481,186,batuk kering
+482,186,bronkitis
+483,187,antibiotik alami
+484,187,infeksi
+485,188,radang tenggorokan
+486,188,gigi
+487,189,kembung
+488,189,penyegar
+489,190,detoks logam
+490,190,ginjal
+491,191,merkuri
+492,191,detoks
+493,192,kolik bayi
+494,192,kembung
+495,193,nafsu makan
+496,193,pencernaan
+497,194,darah tinggi
+498,194,penenang
+499,195,insomnia kuat
+500,195,tidur
+501,196,darah otak
+502,196,pikun
+503,197,antidepresan
+504,197,mahal
+505,198,antivirus
+506,198,flu burung
+507,199,pelancar asi
+508,199,diabetes
+509,200,rematik
+510,200,kompres sendi
+511,201,sayur
+512,201,radang
+513,202,panas dalam
+514,202,daun
+515,203,agar-agar
+516,203,sariawan
+517,204,pantai
+518,204,racun ubur ubur
+519,205,omega 3
+520,205,jantung
+521,206,tulang
+522,206,kalsium
+523,207,lalapan
+524,207,darah tinggi
+525,208,bumbu padang
+526,208,wangi
+527,209,batuk
+528,209,ekspektoran
+529,210,rempah
+530,210,tenggorokan
+531,211,kembung bayi
+532,211,manis
+533,212,kolesterol
+534,212,bumbu kari
+535,213,kedelai
+536,213,kecap
+537,214,cacingan
+538,214,jamu
+539,215,kram perut
+540,215,haid
+541,216,lulur
+542,216,kulit
+543,217,maag
+544,217,mangga
+545,218,memar
+546,218,bengkak
+547,219,relaksasi
+548,219,wangi manis
+549,220,masuk angin
+550,220,rematik
+551,221,penghangat
+552,221,lada wangi
+553,222,bumbu
+554,222,lambung
+555,223,kebas
+556,223,batak
+557,224,bunga wangi
+558,224,bau amis
+559,225,kantil
+560,225,saluran kemih
+561,226,bibir pecah
+562,226,mentega
+563,227,diabetes
+564,227,ulat sutra
+565,228,rambut
+566,228,kari
+567,229,diet
+568,229,lemak
+569,230,pengawet alami
+570,230,asam
+571,231,batuk
+572,231,vit c
+573,232,wangi
+574,232,mual
+575,233,papua
+576,233,kanker paru
+577,234,buah
+578,234,kulit kenyal
+579,235,diare
+580,235,kulit
+581,236,malaria
+582,236,pahit
+583,237,energi
+584,237,biji
+585,238,ginjal
+586,238,kreatinin
+587,239,diare
+588,239,kalium
+589,240,dbd
+590,240,trombosit
+591,241,sariawan
+592,241,kumur
+593,242,sembelit
+594,242,kulit ari
+595,243,tensi turun
+596,243,bab lancar
+597,244,tetes mata
+598,244,katarak ringan
+599,245,lambung
+600,245,lendir
+601,246,ngantuk
+602,246,sayur
+603,247,darah rendah
+604,247,zat besi
+605,248,tulang
+606,248,vit k
+607,249,kanker
+608,249,brokoli
+609,250,diet karbo
+610,250,kembang kol
+611,251,cacing pita
+612,251,pare
+613,252,cacingan
+614,252,biji labu
+615,253,tensi darah
+616,253,instan
+617,254,hidrasi
+618,254,mata bengkak
+619,255,kolesterol jahat
+620,255,buncis
+621,256,sendi
+622,256,tulang
+623,257,lemak sehat
+624,257,alergi
+625,258,otot
+626,258,racun mentah
+627,259,ibu hamil
+628,259,asam folat
+629,260,omega 3
+630,260,kolesterol
+631,261,diet kenyang
+632,261,superfood
+633,262,protein
+634,262,pengganti nasi
+635,263,empedu
+636,263,jantung
+637,264,karbohidrat
+638,264,gandum
+639,265,gluten free
+640,265,sorgum
+641,266,batu ginjal
+642,266,rambut jagung
+643,267,diabetes
+644,267,beras merah
+645,268,antioksidan
+646,268,beras hitam
+647,269,singkong
+648,269,pati resisten
+649,270,maag
+650,270,ubi
+651,271,maag akut
+652,271,jus kentang
+653,272,talas
+654,272,gatal mentah
+655,273,bubur bayi
+656,273,ganyong
+657,274,borok usus
+658,274,garut
+659,275,shirataki
+660,275,diet super
+661,276,diabetes
+662,276,suweg
+663,277,jahe merah
+664,277,tenggorokan
+665,278,bumbu dapur
+666,278,jahe
+667,279,kista
+668,279,kunyit langka
+669,280,bawang hitam
+670,280,kanker paru
+671,281,bawang lanang
+672,281,kolesterol rontok
+673,282,yin mendinginkan
+674,282,ginseng amerika
+675,283,adaptogen
+676,283,ginseng siberia
+677,284,hormon wanita
+678,284,dong quai
+679,285,telomer dna
+680,285,imun
+681,286,paru paru
+682,286,cordyceps
+683,287,kanker aktif
+684,287,reishi
+685,288,kolesterol instan
+686,288,shiitake
+687,289,tumor
+688,289,maitake
+689,290,protein sempurna
+690,290,spirulina
+691,291,detoks logam
+692,291,chlorella
+693,292,jantung
+694,292,macadamia
+695,293,otak saraf
+696,293,almond
+697,294,omega 3 otak
+698,294,walnut
+699,295,elastisitas jantung
+700,295,hazelnut
+701,296,mata makula
+702,296,pistachio
+703,297,infeksi kandung kemih
+704,297,cranberry
+705,298,penglihatan malam
+706,298,blueberry
+707,299,gusi berdarah
+708,299,blackberry
+709,300,kram haid
+710,300,raspberry
+711,301,mata
+712,301,antioksidan
+713,302,anti aging
+714,302,superfood
+715,303,flu
+716,303,radang tenggorokan
+717,304,lambung
+718,304,kulit
+719,305,vit c pekat
+720,305,kulit cerah
+721,306,prebiotik
+722,306,elektrolit
+723,307,kanker
+724,307,tumor
+725,308,liver
+726,308,penyakit kuning
+727,309,afrodisiak
+728,309,penenang
+729,310,insomnia
+730,310,asma
+731,311,haid
+732,311,memar
+733,312,pasca melahirkan
+734,312,hormon wanita
+735,313,batu ginjal
+736,313,demam
+737,314,sariawan
+738,314,dbd
+739,315,disentri
+740,315,kram betis
+741,316,gula darah
+742,316,kulit
+743,317,kanker parah
+744,317,SANGAT BERACUN
+745,318,rambut rontok
+746,318,luka
+747,319,tiroid
+748,319,diet
+749,320,lemak visceral
+750,320,kolesterol
+751,321,umami alami
+752,321,tulang
+753,322,lambung luka
+754,322,agar kenyal
+755,323,kolesterol jahat
+756,323,protein otot
+757,324,darah kental
+758,324,paru kotor
+759,325,kanker prostat
+760,325,jantung
+761,326,imun usus
+762,326,wajib matang
+763,327,anemia tembaga
+764,327,tensi tinggi
+765,328,aromaterapi
+766,328,luka
+767,329,nyamuk
+768,329,gatal
+769,330,pengawet
+770,330,disinfektan
+771,331,plester luka
+772,331,nyeri sendi
+773,332,radang sendi
+774,332,asma
+775,333,kumur kuman
+776,333,antiseptik usus
+777,334,depresi berat
+778,334,INTERAKSI OBAT EKSTRIM
+779,335,detoks liver parah
+780,335,regenerasi hati
+781,336,prostat bengkak
+782,336,botak
+783,337,hot flashes
+784,337,menopause
+785,338,nyeri pms
+786,338,eksim
+787,339,sembelit kronis
+788,339,bahaya usus malas
+789,340,lebam biru
+790,340,BERACUN DITELAN
+791,341,ruam popok bayi
+792,341,eksim
+793,342,ambeien luar
+794,342,pori wajah
+795,343,gagal jantung
+796,343,jantung koroner
+797,344,penglihatan malam
+798,344,retina
+799,345,lelah mental
+800,345,stres kerja
+801,346,fokus otak
+802,346,liver
+803,347,alergi debu
+804,347,rematik
+805,348,cuci ginjal
+806,348,detoks liver
+807,349,darah kotor
+808,349,jerawat parah
+809,350,luka berdarah
+810,350,demam
+811,351,dahak asma
+812,351,paru paru
+813,352,tulang retak
+814,352,LIVER TOKSIK ORAL
+815,353,kram haid
+816,353,darah panggul
+817,354,parasit lambung
+818,354,empedu
+819,355,kejang
+820,355,racun
+821,356,cemas panik
+822,356,herpes
+823,357,darah tinggi
+824,357,penenang
+825,358,alergi sistemik
+826,358,saraf aktif
+827,359,insomnia natural
+828,359,otot perut
+829,360,kolik lambung
+830,360,penenang anak
+831,361,rematik rheumatoid
+832,361,gla
+833,362,migrain kambuh
+834,362,sakit kepala
+835,363,aspirin alami
+836,363,sakit punggung
+837,364,psoriasis
+838,364,detoks darah
+839,365,borok lambung
+840,365,serak
+841,366,radang usus
+842,366,batuk kering
+843,367,fitoestrogen
+844,367,osteoporosis
+845,368,cuci darah
+846,368,kalsium nabati
+847,369,dahak paru kental
+848,369,panas dalam
+849,370,stamina atlet
+850,370,darah merah
+851,371,stamina lambung
+852,371,sirkulasi darah
+853,372,pemutih wajah
+854,372,BIJI BERACUN
+855,373,gas pencernaan
+856,373,parfum
+857,374,depresi
+858,374,saraf tegang
+859,375,jantung berdebar
+860,375,panas dalam
+861,376,balsem sendi parah
+862,376,KEMATIAN FATAL ORAL
+863,377,haid buntu
+864,377,rematik luar
+865,378,pewangi teh
+866,378,kembung
+867,379,kutu air kuku
+868,379,jamur
+869,380,disentri
+870,380,batik coklat
+871,381,cacing kremi
+872,381,protein
+873,382,cuci ginjal
+874,382,BAHAYA BATU GINJAL
+875,383,cuci darah
+876,383,vena
+877,384,lemak perut luntur
+878,384,sembelit
+879,385,asam urat ampuh
+880,385,diabetes ringan
+881,386,diabetes parah
+882,386,diare
+883,387,mabuk alkohol
+884,387,warna ungu
+885,388,sariawan
+886,388,panas dalam
+887,389,gigi kuat
+888,389,batuk
+889,390,darah tinggi instan
+890,390,NEUROTOKSIN GAGAL GINJAL
+891,391,sariawan raksasa
+892,391,bau mulut
+893,392,diare mampet
+894,392,cuci usus
+895,393,anemia
+896,393,darah tinggi
+897,394,cacing gelang
+898,394,BAHAYA BIJI USUS ROBEK
+899,395,kencing batu
+900,395,darah tinggi
+901,396,lambung iritasi
+902,396,jantung
+903,397,malaria
+904,397,energi
+905,398,mata radang
+906,398,diare
+907,399,disentri darah
+908,399,malaria
+909,400,stunting balita
+910,400,karbohidrat lokal
+911,401,vitamin c
+912,401,antioksidan
+913,402,kulit
+914,402,gatal alergi
+915,403,fokus otak
+916,403,memori
+917,404,pencernaan
+918,404,detoks
+919,405,dahak
+920,405,paru paru
+921,406,hormon wanita
+922,406,kesuburan
+923,407,imun
+924,407,demam
+925,408,diabetes
+926,408,gula darah
+927,409,stamina pria
+928,409,vasodilator
+929,410,libido
+930,410,nyeri sendi
+931,411,parkinson
+932,411,dopamin
+933,412,nyeri kronis
+934,412,ADIKTIF BAHAYA
+935,413,trauma psikologis
+936,413,ILEGAL HALUSINOGEN
+937,414,energi
+938,414,kafein
+939,415,antioksidan
+940,415,tanpa kafein
+941,416,fokus mental
+942,416,stamina
+943,417,disfungsi ereksi
+944,417,penenang
+945,418,gairah seksual
+946,418,lelah kronis
+947,419,bakar lemak
+948,419,BAHAYA JANTUNG
+949,420,diet kuat
+950,420,penahan lapar
+951,421,stimulan
+952,421,peredaran darah
+953,422,bronkitis
+954,422,batuk pilek
+955,423,radang sendi
+956,423,nyeri punggung
+957,424,depresi
+958,424,kecemasan
+959,425,pemanis aman
+960,425,diabetes
+961,426,mabuk alkohol
+962,426,pencernaan
+963,427,saraf otak
+964,427,jantung
+965,428,karbohidrat
+966,428,bebas gluten
+967,429,diet kenyang
+968,429,kulit cerah
+969,430,selenium kanker
+970,430,BAHAYA KERACUNAN OVER
+971,431,adaptogen
+972,431,oksigen sel
+973,432,uban hitam
+974,432,TOKSIK MENTAH
+975,433,maag radang
+976,433,kurang darah
+977,434,darah tinggi
+978,434,antioksidan raja
+979,435,mata kering
+980,435,anti penuaan
+981,436,vit c super
+982,436,imun
+983,437,sendi lutut
+984,437,kolagen kulit
+985,438,anti aging
+986,438,kulit kering
+987,439,omega 3 tinggi
+988,439,trigliserida
+989,440,pemanis diabetes
+990,440,karamel alami
+991,441,prebiotik
+992,441,sembelit parah
+993,442,tepung diet
+994,442,gula darah lambat
+995,443,kalsium nabati
+996,443,zat besi
+997,444,asam lambung
+998,444,basa pencernaan
+999,445,pembuluh pecah
+1000,445,vena varises
+1001,446,pencernaan alergi
+1002,446,gandum kuno
+1003,447,atlet energi
+1004,447,protein gandum
+1005,448,coklat aman maag
+1006,448,penenang lambung
+1007,449,kopi liver
+1008,449,empedu cairan
+1009,450,jerawat darah kotor
+1010,450,bab lancar
+1011,451,gas kembung
+1012,451,kram usus
+1013,452,batu urat ginjal
+1014,452,kaldu wangi
+1015,453,cacingan
+1016,453,gas perut
+1017,454,panik histeria
+1018,454,plester luka getah
+1019,455,maag bakteri
+1020,455,sariawan gigi
+1021,456,tenggorokan serak
+1022,456,usus radang
+1023,457,dupa penenang
+1024,457,disinfektan
+1025,458,lem luka darah
+1026,458,luka perih
+1027,459,depresi stres
+1028,459,relaksasi uap
+1029,460,rambut botak oles
+1030,460,cemas inhalasi
+1031,461,varises vena
+1032,461,ambeien bengkak
+1033,462,kencing kotor
+1034,462,infeksi kemih
+1035,463,balsem sendi
+1036,463,sesak dada
+1037,464,stres kortisol
+1038,464,aromaterapi bumi
+1039,465,bakteri virus udara
+1040,465,dahak uap
+1041,466,hidung mampet flu
+1042,466,SANGAT TOKSIK MINUM
+1043,467,jerawat batu jamur
+1044,467,SANGAT TOKSIK MINUM
+1045,468,radang tenggorokan
+1046,468,flu cepat
+1047,469,madu bakteri kebal
+1048,469,luka gangren bakar
+1049,470,lebam otot memar
+1050,470,kaku urut
+1051,471,batuk bronkitis teh
+1052,471,antiseptik kemih
+1053,472,gula darah turun
+1054,472,bumbu wangi
+1055,473,kembung cerna
+1056,473,penghangat usus
+1057,474,bakar lemak perut
+1058,474,metabolisme gym
+1059,475,gas perut floral
+1060,475,antioksidan
+1061,476,nyeri kebas
+1062,476,parasit usus
+1063,477,lambung perut hangat
+1064,477,nafsu makan
+1065,478,kolesterol total ldl
+1066,478,pembuluh jantung
+1067,479,tonik memori otak
+1068,479,fokus anak dewasa
+1069,480,stres tanpa lemas
+1070,480,akar rambut wangi
+1071,481,liver hati cuci
+1072,481,regenerasi sel
+1073,482,cairan bengkak udem
+1074,482,batu ginjal peluruh
+1075,483,limfatik kelenjar kotor
+1076,483,darah kotor jerawat
+1077,484,jantung koroner pompa
+1078,484,darah tinggi turun
+1079,485,haid siklus wanita
+1080,485,nyeri rahim kram
+1081,486,radang sendi lutut
+1082,486,asma radang napas
+1083,487,mani pria sperma
+1084,487,stamina otot gym
+1085,488,massa otot pembesar
+1086,488,saluran cerna sehat
+1087,489,dahak asma bronkitis
+1088,489,INTERAKSI OBAT DOKTER SUPER
+1089,490,lucid dream relaks
+1090,490,cemas panik anxiolytic
+1091,491,penyakit kuning liver
+1092,491,dehidrasi haus energi
+1093,492,SANGAT BERACUN MATI
+1094,492,RACUN TIKUS HAMA
+1095,493,disentri darah langka
+1096,493,stamina linu
+1097,494,radang lambung bengkak
+1098,494,pencernaan usus wangi
+1099,495,nafsu makan zat besi
+1100,495,AWAS AIR TERCEMAR LOGAM
+1101,496,asi pelancar ibu
+1102,496,kolesterol jantung sayur
+1103,497,malaria selera makan
+1104,497,AWAS HAMIL MUDA GUGUR
+1105,498,kopi daun gerd aman
+1106,498,antioksidan jantung aman
+1107,499,ambeien wasir duduk
+1108,499,anyang kencing peluruh
+1109,500,luka berdarah beku
+1110,500,TOKSIK MINUM LIVER HANCUR
+1111,501,saraf cemas jamu
+1112,501,kembung perut
+1113,502,stamina pria
+1114,502,antioksidan
+1115,503,obat kuat pria
+1116,503,lemah syahwat
+1117,504,gurah hidung
+1118,504,lendir asma
+1119,505,disentri amuba
+1120,505,asma sesak
+1121,506,batu ginjal kristal
+1122,506,batu empedu
+1123,507,keropos tulang
+1124,507,hormon menopause
+1125,508,panas demam
+1126,508,AWAS BATU GINJAL
+1127,509,asam urat gout
+1128,509,nyeri sendi
+1129,510,kurang darah
+1130,510,borok lambung
+1131,511,asi ibu menyusui
+1132,511,peluruh kencing
+1133,512,racun ubur ubur
+1134,512,luka luar
+1135,513,SANGAT BERACUN MATI
+1136,513,MATA BUTA GIGI LUBANG
+1137,514,malaria diabetes
+1138,514,LIVER GAGAL HATI
+1139,515,nafsu makan
+1140,515,BIJI BERACUN MATI
+1141,516,cuci darah kotor
+1142,516,sakit kepala
+1143,517,lemak perut luntur
+1144,517,sariawan
+1145,518,keringat wangi
+1146,518,bau mulut bau badan
+1147,519,mata minus katarak
+1148,519,retina
+1149,520,GILA HALUSINASI MATI
+1150,520,asma rokok hisap
+1151,521,persalinan lambat
+1152,521,demam anak
+1153,522,asma paru bronkus
+1154,522,demam tinggi
+1155,523,kompres anak panas
+1156,523,radang bengkak
+1157,524,batuk dahak ginjal
+1158,524,rematik linu
+1159,525,cacar air mandi
+1160,525,gatal kulit
+1161,526,rambut rontok botak
+1162,526,batuk darah
+1163,527,panas dalam ginjal
+1164,527,isotonik segar
+1165,528,darah nifas kotor
+1166,528,rahim jamu
+1167,529,epilepsi kejang
+1168,529,pewarna biru
+1169,530,nyamuk usir telon
+1170,530,hangat bayi
+1171,531,kutu rambut mati
+1172,531,AWAS MATA BUTA RACUN
+1173,532,cacing usus parasit
+1174,532,diare berdarah
+1175,533,batuk parah asma
+1176,533,dahak kental encer
+1177,534,asam urat luruh
+1178,534,AWAS GUGUR KANDUNGAN
+1179,535,sembelit kram perut
+1180,535,lambung maag asam
+1181,536,awet muda vitamin e
+1182,536,kulit kolagen
+1183,537,cuci darah racun
+1184,537,panas dalam lambung
+1185,538,haid lancar asma
+1186,538,spons mandi
+1187,539,SANGAT BERACUN MENTAH
+1188,539,diet shirataki pabrik
+1189,540,liver hepatitis kuning
+1190,540,empedu
+1191,541,masuk angin kembung
+1192,541,jantung debar jantung
+1193,542,kembung kolik anak
+1194,542,jamu perut kram
+1195,543,sariawan infeksi usus
+1196,543,masuk angin jamu
+1197,544,disentri jamu pegal
+1198,544,tulang linu sendi
+1199,545,pusing sakit kepala
+1200,545,mual muntah jamu
+1201,546,nafsu makan ekstrem
+1202,546,lambung cerna kuat
+1203,547,asam urat turun (daun)
+1204,547,energi (biji awas urat)
+1205,548,bopeng keloid jerawat
+1206,548,TOKSIK MINUM LUAR AMAN
+1207,549,panu kurap kadas
+1208,549,jamur kulit mati
+1209,550,panas demam anak
+1210,550,peluruh kencing ringan
+1211,551,tbc paru berdarah
+1212,551,paru paru infeksi kotor
+1213,552,luka berdarah nanah
+1214,552,borok luka luar
+1215,553,wasir berdarah
+1216,553,disentri darah amuba
+1217,554,asma sesak napas
+1218,554,dahak bronkus kental
+1219,555,diabetes gula darah tajam
+1220,555,AWAS GULA DROP PINGSAN
+1221,556,kejang panas anak
+1222,556,diare bunga daun
+1223,557,pendarahan rahim berlebih
+1224,557,wasir darah mimisan
+1225,558,lambung pelindung uv
+1226,558,pewarna makanan aman
+1227,559,darah tinggi turun
+1228,559,vitamin c ginjal
+1229,560,pencahar usus manis
+1230,560,energi karbohidrat gula
+1231,561,darah tinggi tensi
+1232,561,wangi keringat badan
+1233,562,radang tenggorokan amandel
+1234,562,selaput lendir lambung
+1235,563,kolesterol jahat usus
+1236,563,pencernaan lancar serat
+1237,564,stamina lambung asam
+1238,564,vitamin c demam
+1239,565,pencahar cuci perut
+1240,565,GETAH GATAL LEPUH TOKSIK
+1241,566,darah tinggi kalium
+1242,566,jantung stroke cegah
+1243,567,ginjal pembersih hidrasi
+1244,567,sariawan kulit putih
+1245,568,ginjal cairan hidrasi
+1246,568,panas dalam tenggorokan
+1247,569,tulang lansia keropos
+1248,569,sendi lutut linu
+1249,570,cacingan parasit usus
+1250,570,MENTAH SANGAT BERACUN MATI
+1251,571,diare mampet buah
+1252,571,bisul nanah daun
+1253,572,kurang darah anemia hb
+1254,572,energi tubuh atp
+1255,573,prebiotik lambung usus
+1256,573,diet rendah kalori
+1257,574,maag kronis lambung borok
+1258,574,TOKSIK MENTAH MATANG AMAN
+1259,575,gula darah diabetes lambat
+1260,575,pewarna ungu alam jantung
+1261,576,MATI KERACUNAN SIANIDA
+1262,576,rematik lepra ahli
+1263,577,kelenjar tiroid gondok bengkak
+1264,577,radang sendi linu
+1265,578,rematik sendi linu
+1266,578,pegal otot asma
+1267,579,nyeri pinggang bawah encok
+1268,579,tulang retak sambung
+1269,580,batu ginjal kristal hancur
+1270,580,infeksi saluran kemih
+1271,581,darah tinggi kolesterol usus
+1272,581,panas anak asidosis
+1273,582,saraf penenang rileks tidur
+1274,582,darah tinggi turun cepat
+1275,583,paru paru kotor perokok
+1276,583,cuci darah sirkulasi
+1277,584,asam urat gout ginjal
+1278,584,sendi linu tulang rawan
+1279,585,borok maag tukak lambung
+1280,585,sel pencernaan epitel regenerasi
+1281,586,energi otot kuli atlet
+1282,586,protein nabati letih lesu
+1283,587,tulang osteoporosis menopause
+1284,587,MENTAH BERACUN SIANIDA MATI
+1285,588,kanker serviks miom rahim
+1286,588,AWAS IBU HAMIL KEGUGURAN
+1287,589,lambung panas gerd netral
+1288,589,asam lambung basa sereal
+1289,590,awet muda rambut kulit uban
+1290,590,jantung pembuluh plak lisis
+1291,591,gerd maag ulu hati perih
+1292,591,pencernaan gula darah stabil
+1293,592,mata makula retina tajam
+1294,592,katarak malam minyak merah
+1295,593,sel kanker tumor mutasi dna
+1296,593,antioksidan diet lambung gerd
+1297,594,darah anemia hemoglobin
+1298,594,SANGAT BERACUN MENTAH SIANIDA
+1299,595,disentri berdarah paling ampuh
+1300,595,usus besar lilit kram
+1301,596,mual sirup panas dalam
+1302,596,lambung asam pencernaan
+1303,597,jantung debar takikardi panik
+1304,597,susah tidur insomnia lelap
+1305,598,nyeri buah zakar testis hernia
+1306,598,BUAH MENTAH KOSONG PERUT MATI
+1307,599,lambung maag gaster pelapis
+1308,599,usus prebiotik diare mampet
+1309,600,diare cair amuba disentri
+1310,600,usus karbohidrat energi sagu
+1311,601,nyamuk demam berdarah
+1312,601,gatal serangga
+1313,602,malaria parah
+1314,602,SANGAT TOKSIK KEJANG
+1315,603,demam tinggi
+1316,603,radang sendi linu
+1317,604,rambut botak
+1318,604,eksim basah
+1319,605,luka nanah
+1320,605,otot keseleo
+1321,606,rematik bengkak
+1322,606,borok usus
+1323,607,maag kronis
+1324,607,diare kram usus
+1325,608,batuk dahak
+1326,608,sariawan gusi
+1327,609,luka robek berdarah
+1328,609,BIJI SANGAT BERACUN
+1329,610,hipertensi darah tinggi
+1330,610,stroke ringan
+1331,611,bisul nanah
+1332,611,herpes gatal
+1333,612,kanker ganas
+1334,612,batuk paru asma
+1335,613,zat besi anemia
+1336,613,nafsu makan
+1337,614,radang sendi (luar)
+1338,614,SANGAT BERACUN ORAL
+1339,615,ibu hamil darah merah
+1340,615,mata retina
+1341,616,demam bayi
+1342,616,pelancar asi
+1343,617,migrain sakit kepala
+1344,617,pegal linu
+1345,618,sembelit ekstrim
+1346,618,getah beracun muntah
+1347,619,batuk rejan
+1348,619,mimisan hidung
+1349,620,ginjal bengkak air
+1350,620,infeksi kemih
+1351,621,darah tinggi
+1352,621,jantung koroner
+1353,622,imun tubuh
+1354,622,pencernaan usus
+1355,623,panas dalam lambung
+1356,623,vitamin c energi
+1357,624,pelangsing diet
+1358,624,keputihan gatal wanita
+1359,625,panu kadas jamur
+1360,625,memar otot bengkak
+1361,626,diabetes parah
+1362,626,kanker payudara
+1363,627,polusi udara formaldehida
+1364,627,BERACUN HEWAN ANAK
+1365,628,sembelit parah usus
+1366,628,kopi lambung aman
+1367,629,rambut rontok ketombe
+1368,629,sariawan mulut
+1369,630,kurap gatal luar
+1370,630,BIJI SANGAT BERACUN
+1371,631,diare cair
+1372,631,disentri amuba
+1373,632,tensi darah tinggi
+1374,632,cacing usus anak
+1375,633,diet diabetes serat
+1376,633,MENTAH GATAL OKSALAT
+1377,634,mata merah iritasi
+1378,634,batuk kering
+1379,635,tumor payudara
+1380,635,jerawat darah kotor
+1381,636,cacing pita parasit
+1382,636,asma paru bronkus
+1383,637,bau amis ikan
+1384,637,bau badan keringat
+1385,638,darah luka potong
+1386,638,borok kulit infeksi
+1387,639,sirkulasi dingin
+1388,639,kaki tangan kebas
+1389,640,cacing usus
+1390,640,tensi darah turun
+1391,641,sariawan gusi berdarah
+1392,641,vitamin c mata
+1393,642,pegal linu sendi
+1394,642,asam lambung segar
+1395,643,keputihan berlebih rahim
+1396,643,disentri mampet
+1397,644,jantung debar takikardi
+1398,644,panas dalam demam
+1399,645,tensi darah turun
+1400,645,MENTAH BERACUN DIARE
+1401,646,bisul nanah abses
+1402,646,borok kulit luar
+1403,647,diabetes kencing manis
+1404,647,energi pencernaan
+1405,648,demam tinggi anak
+1406,648,sariawan usus mulut
+1407,649,darah kotor jerawat
+1408,649,sakit kepala pusing
+1409,650,antioksidan teh
+1410,650,imun sel darah putih
+1411,651,jantung sirkulasi energi
+1412,651,AWAS MAAG DEBAR
+1413,652,malaria hutan
+1414,652,demam berdarah dbd
+1415,653,liver penyakit kuning
+1416,653,batu empedu ginjal
+1417,654,batuk rejan asma
+1418,654,paru kotor perokok
+1419,655,asam urat instan
+1420,655,cuci ginjal ureum
+1421,656,kusta lepra saraf
+1422,656,SANGAT BERACUN KANKER MATI
+1423,657,energi karbohidrat
+1424,657,AWAS ASAM URAT GOUT
+1425,658,wasir ambeien darah
+1426,658,panas dalam tenggorokan
+1427,659,batuk dahak anak
+1428,659,wasir bengkak kempes
+1429,660,racun polusi udara
+1430,660,BERACUN BENGKAK TERCEKIK
+1431,661,karbon monoksida udara
+1432,661,BERACUN GATAL ALERGI MULUT
+1433,662,oksigenasi ruangan
+1434,662,BERACUN KRISTAL OKSALAT
+1435,663,sirup batuk eropa
+1436,663,demam panas flu
+1437,664,ginjal batu kencing
+1438,664,udem air bengkak kaki
+1439,665,demam kompres dahi
+1440,665,rambut botak rontok
+1441,666,haid buntu rahim
+1442,666,BERACUN GETAH IRITASI MATA
+1443,667,racun panah mematikan
+1444,667,SANGAT BERACUN MATI JANTUNG
+1445,668,imun makrofag sel
+1446,668,protein otot gizi
+1447,669,BERACUN MUAL MUNTAH DIARE
+1448,669,DILARANG MAKAN BERBAHAYA
+1449,670,energi protein selular
+1450,670,stamina otot tulang
+1451,671,masker jerawat radang
+1452,671,kulit wajah cerah
+1453,672,diabetes gula darah
+1454,672,pembuluh darah vena
+1455,673,rambut uban hitam
+1456,673,rambut rontok botak
+1457,674,darah kotor limfatik
+1458,674,alergi eksim kulit
+1459,675,panas dalam suhu
+1460,675,pakan hewan susu
+1461,676,tulang keropos lansia
+1462,676,pencernaan serat energi
+1463,677,persalinan rahim lancar
+1464,677,rambut lebat bayi
+1465,678,radang tenggorokan nelan
+1466,678,sariawan panas dalam
+1467,679,tipes salmonella usus
+1468,679,diabetes pahit ekstrem
+1469,680,kanker nasofaring paru
+1470,680,asma radang sesak
+1471,681,pendarahan usus dalam
+1472,681,radang usus buntu kolitis
+1473,682,nyeri sendi pegal (luar)
+1474,682,sirkulasi kaku otot
+1475,683,luka bakar melepuh
+1476,683,bisul nanah darah
+1477,684,rematik sendi lutut (luar)
+1478,684,sirkulasi dingin stasis
+1479,685,encok pinggang bawah (luar)
+1480,685,pegal otot leher
+1481,686,gigi berlubang nyeri
+1482,686,gusi goyah berdarah
+1483,687,diare mencret air
+1484,687,disentri darah mampet
+1485,688,asam urat kristal linu
+1486,688,empedu liver sehat
+1487,689,ginjal hidrasi kemih
+1488,689,vitamin c panas dalam
+1489,690,malaria demam menggigil
+1490,690,darah tinggi tensi turun
+1491,691,haid rahim lancar
+1492,691,wangi tubuh keringat
+1493,692,mata rabun kotor debu
+1494,692,tetes mata merah iritasi
+1495,693,sendi lutut osteoarthritis
+1496,693,kolagen kulit vitamin c
+1497,694,jantung debar takikardi panik
+1498,694,insomnia cemas tidur
+1499,695,SANGAT BERACUN HALUSINASI FATAL
+1500,695,asma hisap rokok luar
+1501,696,SANGAT BERACUN MATI KOMA
+1502,696,bius tradisional dilarang
+1503,697,demam panas tinggi anak
+1504,697,nyamuk serangga usir uap
+1505,698,keputihan wanita bersih rahim
+1506,698,reproduksi siklus haid
+1507,699,tulang retak patah silika
+1508,699,batu ginjal kristal peluruh
+1509,700,batu ginjal ureter parah
+1510,700,haid nyeri kram panggul
+1511,701,gula darah turun akut
+1512,701,luka borok kencing manis
+1513,702,bius sakit gigi lokal
+1514,702,nyeri saraf mulut lidah
+1515,703,SANGAT TOKSIK MINUM LIVER
+1516,703,luka berdarah robek luar
+1517,704,demam malaria panas
+1518,704,luka memar luar
+1519,705,SANGAT BERACUN LIVER HATI MATI
+1520,705,rematik sendi linu (luar)
+1521,706,mata minus rabun katarak
+1522,706,pengusir nyamuk serangga uap
+1523,707,asma bronkitis sesak dada
+1524,707,lendir dahak kental
+1525,708,demam panas tinggi
+1526,708,keputihan jamur wanita rahim
+1527,709,jantung debar takikardi panik
+1528,709,insomnia cemas stres saraf
+1529,710,RACUN JANTUNG KOMA MATI FATAL
+1530,710,DILARANG KERAS SENTUH GETAH MEDIS
+1531,711,tekanan darah tinggi tensi
+1532,711,sariawan usus panas dalam
+1533,712,haid siklus buntu lancar
+1534,712,bengkak kelenjar udem air
+1535,713,SANGAT GATAL OKSALAT RACUN MENTAH
+1536,713,rematik sendi lutut (luar)
+1537,714,DILARANG EKSPLOITASI PUNAH KONSERVASI
+1538,714,rahim nifas melahirkan darah
+1539,715,diare disentri anak usus
+1540,715,panas demam bayi hipotalamus
+1541,716,wasir rektum pendarahan henti
+1542,716,luka usus berdarah borok
+1543,717,diabetes gula darah ampuh pankreas
+1544,717,darah kotor alergi bersih
+1545,718,rematik linu parah (luar)
+1546,718,sakit pinggang pegal (luar)
+1547,719,imun darah putih sel fagosit
+1548,719,paru paru kotor perokok bersih
+1549,720,SANGAT BERACUN MATI ORAL SARAF
+1550,720,ambeien wasir bengkak kompres (luar)
+1551,721,SANGAT BERACUN GILA HALUSINASI MATI
+1552,721,asma hisap asap rokok (luar)
+1553,722,ginjal peluruh fungsi urin
+1554,722,batuk berdarah tbc paru
+1555,723,tekanan darah stabil pembuluh
+1556,723,kolesterol jahat ldl turun ikat
+1557,724,panas dalam tenggorokan asidosis alkali
+1558,724,radang pita suara sariawan amandel
+1559,725,jantung pembuluh darah koroner
+1560,725,kulit awet muda antioksidan ros
+1561,726,batuk dahak parah kental
+1562,726,sariawan gusi berdarah mukosa
+1563,727,kencing batu ginjal kristal urat
+1564,727,sifilis raja singa uretra gonore
+1565,728,lem luka darah potong robek hutan
+1566,728,borok infeksi luar bakteri
+1567,729,SANGAT BERACUN SARAF MINUM MATI
+1568,729,kutu rambut kepala mati (luar)
+1569,730,nafsu makan pencernaan lambung enzim
+1570,730,sakit perut melilit kram kolik
+1571,731,batuk berdahak asma lendir
+1572,731,kembung masuk angin usus gas
+1573,732,kram haid nyeri panggul rahim
+1574,732,cuci darah kotor limfatik bengkak
+1575,733,demam panas keringat pori asidosis
+1576,733,cacing pita usus lumpuh ascaris
+1577,734,tidur lelap insomnia ringan gaba
+1578,734,saraf cemas tegang rileks
+1579,735,stamina pria wanita fisik letih
+1580,735,lelah otot lesu atp energi
+1581,736,katarak mata retina malam senja
+1582,736,karbohidrat energi gula glikogen
+1583,737,kb kontrasepsi pria sperma mandul
+1584,737,memar tulang bengkak linu (luar)
+1585,738,panas demam tinggi asidosis alkali
+1586,738,panas dalam lambung sariawan
+1587,739,buang air besar sembelit laksatif
+1588,739,sariawan usus borok radang
+1589,740,energi karbohidrat hutan survival
+1590,740,usus kolon prebiotik flora
+1591,741,diare amuba disentri darah mampet
+1592,741,luka robek luar hemostatik darah
+1593,742,tensi darah tinggi turun hipertensi
+1594,742,cemas stres panik ptsd gaba tidur
+1595,743,lambung panas gerd asam hcl netral
+1596,743,maag perih ulu hati antasida
+1597,744,usus buntu kolitis radang cecum
+1598,744,sembelit parah laksatif feses keras
+1599,745,sembelit keras enzim papain daging
+1600,745,AWAS GETAH MENTAH TOKSIK GATAL
+1601,746,kandung kemih ginjal hidrasi kotor
+1602,746,asidosis panas dalam cairan basa
+1603,747,lambung perih borok maag pelapis
+1604,747,tenggorokan kering puasa sariawan hidrasi
+1605,748,hidrasi sel tubuh dehidrasi air
+1606,748,tenggorokan serak radang faring
+1607,749,BERACUN MENTAH GATAL OKSALAT MATI
+1608,749,pengganti nasi bebas gluten celiac diet
+1609,750,BERACUN MENTAH GATAL OKSALAT REBUS
+1610,750,lendir kotor usus besar cuci prebiotik
+1611,751,darah tinggi tensi arteri turun
+1612,751,stroke pecah pembuluh otak darah cegah
+1613,752,makula retina katarak rabun senja mata
+1614,752,awet muda pro vitamin a tinggi kulit
+1615,753,vitamin c kolagen kulit kencang keriput
+1616,753,jaringan ikat persendian tulang rawan
+1617,754,batuk bronkitis paru alam lendir
+1618,754,asma sesak napas dada dada ekspektoran
+1619,755,SANGAT BERACUN JIKA DIMAKAN MATI HEMOLISIS
+1620,755,sampo ketombe jamur kutu rambut (luar)
+1621,756,SANGAT BERACUN FATAL KEMATIAN KOMA JANTUNG
+1622,756,RACUN HAMA TIKUS BABI HEWAN MATI
+1623,757,panu kurap kadas jamur kulit (luar)
+1624,757,kutu air kudis scabies gatal (luar)
+1625,758,panas dalam suhu tinggi asidosis
+1626,758,sariawan gusi amandel radang mulut
+1627,759,kolesterol jahat ldl darah plak arteri
+1628,759,imun vitamin c instan flu ispa
+1629,760,lemak darah pembuluh nadi arteri bersih
+1630,760,jantung koroner stroke iskemik plak lisis
+1631,761,sakit gigi karies gusi bengkak saraf
+1632,761,luka borok luar hemostatik beku darah
+1633,762,pewarna kain batik alam tannin
+1634,762,disentri berdarah lendir amuba usus kram
+1635,763,racun darah kotor limfatik jerawat nanah
+1636,763,ginjal filter cuci diuretik urin udem kaki
+1637,764,demam panas tinggi anak antipiretik hipotalamus
+1638,764,batuk dahak bronkus asma paru sesak
+1639,765,AWAS BIJI KAYU BERACUN ALKALOID TOKSIK
+1640,765,saraf cemas panik ringan gaba tidur lelap
+1641,766,ambeien wasir bengkak luar vena rektum
+1642,766,radang anus kempes astringen pengerut
+1643,767,panas demam kompres dahi evaporasi suhu
+1644,767,rambut botak akar folikel uban rontok
+1645,768,sariawan gusi berdarah parah stomatitis
+1646,768,panas dalam lambung vitamin c imun radikal
+1647,769,asam urat sendi lutut bengkak kristal lisis
+1648,769,nyeri linu asam urat ginjal urin luruh
+1649,770,diare mencret mampet usus cair amuba disentri
+1650,770,kram lilit pencernaan astringen kolon
+1651,771,lambung maag gaster borok antasida alam gerd
+1652,771,sariawan stomatitis aftosa radang hidrasi sel
+1653,772,kencing batu ginjal kristal urat kalsium luruh
+1654,772,saluran kemih infeksi anyang kotor urin
+1655,773,diare berdarah disentri amuba mampet astringen
+1656,773,pendarahan usus kolon hemostatik sariawan
+1657,774,masuk angin kembung mual perut sendawa
+1658,774,sakit perut kolik lambung gas kram usus
+1659,775,AWAS INFEKSI KEBUTAAN MATA JIKA AIR KOTOR
+1660,775,katarak rabun tetes mata merah debu (perih)
+1661,776,kencing nanah gonore sifilis tradisional uretra
+1662,776,infeksi kemih ginjal pelvis urin bilas bakteri
+1663,777,jantung debar takikardi cemas palpitasi ssp
+1664,777,darah tinggi tensi rileks tidur gaba insomnia
+1665,778,udem kaki bengkak air cairan interstitium (luar)
+1666,778,radang sendi panas memar lebam darah stasis (luar)
+1667,779,MENTAH SANGAT BERACUN GATAL MATI (Oksalat raphide)
+1668,779,pelangsing obesitas lemak perut diet (Pabrik)
+1669,780,disentri amuba darah mampet usus radang borok
+1670,780,batuk darah tbc paru hemostatik pecah kapiler
+1671,781,darah mengucur luka robek potong (Bulu emas luar)
+1672,781,lem luka instan beku fibrin trombosit (Bulu luar)
+1673,782,encok pinggang bawah lumbago sendi matriks kalsium
+1674,782,batu ginjal urat kencing kotor pasir luruh pelvis
+1675,783,bedak bayi ruam popok kulit merah (Spora inert luar)
+1676,783,biang keringat anak gatal gesekan paha (Spora luar)
+1677,784,luka memar lebam darah biru sirkulasi stasis lancar
+1678,784,panas demam dahi anak kompres antipiretik suhu turun
+1679,785,asma batuk rejan pertusis paru bronkus pelebar mukosa
+1680,785,dahak kental encer mukolitik ekspektoran demulsen
+1681,786,DILARANG KUNYAH HEWAN ANAK MULUT BENGKAK ASFIKSIA
+1682,786,racun formaldehida udara ruangan asap rokok indoor
+1683,787,penyakit kuning liver hepatitis sirosis hepatosit regenerasi
+1684,787,bilirubin empedu luruh batu kolestasis radikal bebas
+1685,788,AWAS INFEKSI MATA JIKA AIR PERASAN LUMUT KOTOR DEBU
+1686,788,tetes mata merah bengkak iritasi radang katarak awal
+1687,789,AWAS BATU GINJAL OKSALAT JIKA DOSIS TINGGI LAMA
+1688,789,asma sesak napas jalan bronkus diabetes gula darah insulin
+1689,790,batu ginjal kalsium oksalat fosfat urat lisis hancur kuat
+1690,790,asam urat sendi asam urikolitik hepatoprotektor hepatitis b
+1691,791,panas dalam radang amandel tonsil asidosis cairan basa
+1692,791,sariawan gusi berdarah vitamin c hidrasi sel omega 3
+1693,792,luka bakar melepuh air panas epitel regenerasi (luar)
+1694,792,radang kulit eksim alergi gatal jamur panu (luar)
+1695,793,jerawat batu bernanah cystic acne komedo (luar tempel)
+1696,793,bisul matang tarik kotoran bakteri amandel radang (luar)
+1697,794,DILARANG DIMINUM LIVER GAGAL HATI SIROSIS (PA Hepatotoksik)
+1698,794,luka berdarah robek instan beku lem alam infeksi (Luar)
+1699,795,perut kembung gas kolik usus antispasmodik saraf vagus
+1700,795,maag kronis gerd asam lambung borok herpes zoster cacar
+1701,796,sakit gigi saraf berlubang karies analgesik lokal ngilu
+1702,796,gusi bengkak radang abses sariawan batu ginjal luruh
+1703,797,demam malaria plasmodium lisis panas tinggi antipiretik
+1704,797,batuk dahak paru bronkitis asma nyamuk repelen uap
+1705,798,AWAS TOKSIK DOSIS TINGGI KEJANG DEBAR JANTUNG MUAL MATI
+1706,798,asma perokok berat paru kotor bronkodilator ssp refleks
+1707,799,tensi darah tinggi pembuluh rileks kapiler vasodilator
+1708,799,kram betis otot linu disentri amuba keputihan vagina
+1709,800,napas bau mulut bakteri mati sariawan radang gusi penyegar
+1710,800,demam panas tubuh asidosis diuretik urin batu ginjal luruh
+1711,801,liver hati cuci
+1712,801,penyakit kuning hepatitis
+1713,802,stamina pria dewasa
+1714,802,afrodisiak kuat dayak
+1715,803,energi fisik atp
+1716,803,penghangat sirkulasi tubuh
+1717,804,diabetes gula darah drop
+1718,804,AWAS HIPOGLIKEMIA PINGSAN
+1719,805,amandel radang tonsil
+1720,805,asma bronkitis lendir
+1721,806,malaria hutan parasit
+1722,806,pahit ekstrem cacingan
+1723,807,darah nifas panggul rahim
+1724,807,BAHAYA IBU HAMIL GUGUR
+1725,808,sariawan borok lambung
+1726,808,mulas kram usus maag
+1727,809,pendarahan rahim hemostatik
+1728,809,luka robek berdarah beku
+1729,810,kencing nanah gonore
+1730,810,SANGAT TOKSIK LIVER MINUM
+1731,811,racun gigitan serangga ular
+1732,811,panas demam asidosis suhu
+1733,812,batu ginjal kristal oksalat
+1734,812,luka potong berdarah henti
+1735,813,kurang darah anemia zat besi
+1736,813,AWAS MENTAH RACUN SAYUR
+1737,814,keputihan jamur gatal wanita
+1738,814,radang tenggorokan amandel
+1739,815,luka memar lebam bengkak (luar)
+1740,815,UMBI SANGAT BERACUN MATI ORAL
+1741,816,patah tulang keseleo sendi (luar)
+1742,816,SANGAT BERACUN JANTUNG ORAL
+1743,817,asma sesak napas berat
+1744,817,imun paru paru radang
+1745,818,kencing manis diabetes gula
+1746,818,insulin pankreas regenerasi
+1747,819,kembung perut gas usus kolik
+1748,819,pewangi jamu seduhan harum
+1749,820,malaria pedalaman demam
+1750,820,darah tinggi tensi hipertensi
+1751,821,antiseptik mandi ruqyah jenazah
+1752,821,cemas panik tidur lelap
+1753,822,jantung koroner plak lisis antioksidan
+1754,822,kolesterol jahat ldl hancur
+1755,823,cacingan usus anak lumpuh
+1756,823,diare mampet disentri lendir
+1757,824,sifilis raja singa kencing nanah
+1758,824,gula darah kencing manis turun
+1759,825,penawar racun bisa ular (luar)
+1760,825,radang sendi bengkak linu (luar)
+1761,826,cacingan pencuci perut anak
+1762,826,nafsu makan pencernaan enzim
+1763,827,pewangi tubuh jamu hangat
+1764,827,nyeri perut bengkak memar (luar)
+1765,828,aromaterapi depresi stres cemas
+1766,828,tidur lelap otak saraf gaba
+1767,829,panas demam tinggi kompres
+1768,829,linu sendi otot pegal
+1769,830,adaptogen stres kortisol fisik
+1770,830,imun asma paru bronkus
+1771,831,tetes mata bengkak merah (luar)
+1772,831,panas dalam keringat pori asidosis
+1773,832,saraf cemas bau ketiak wangi
+1774,832,keputihan rahim vagina bersih
+1775,833,panas demam tinggi (bunga)
+1776,833,GETAH BERACUN KUTIL MATA BUTA
+1777,834,batuk dahak paru lendir kental
+1778,834,radang tenggorokan amandel sariawan
+1779,835,panas demam anak kompres dahi
+1780,835,asma pernapasan bronkus mukolitik
+1781,836,penyerap logam berat polusi air
+1782,836,DILARANG MAKAN BERACUN LIMBAH
+1783,837,kencing nanah gonore uretra
+1784,837,batuk kering tenggorokan serak
+1785,838,luka berdarah potong lem (luar)
+1786,838,sakit kepala pusing pegal linu
+1787,839,asma bronkitis dada sesak lendir
+1788,839,disentri amuba mencret usus
+1789,840,luka bakar melepuh air panas (luar)
+1790,840,rambut rontok botak uban akar (luar)
+1791,841,getah kutil jamur kulit (luar)
+1792,841,BIJI SANGAT BERACUN FATAL MATI MUNTUH
+1793,842,kanker darah leukemia kemoterapi
+1794,842,SANGAT BERACUN DOSIS OVER MATI
+1795,843,kembung gas perut usus kolik
+1796,843,bau mulut sariawan napas segar
+1797,844,masuk angin mual muntah perut
+1798,844,sariawan gusi radang asam lambung
+1799,845,energi kalori atp glikogen otot
+1800,845,mood bahagia triptofan serotoninergik
+1801,846,karbohidrat energi hutan kalori
+1802,846,tenggorokan hidrasi sel penyegar
+1803,847,diare mencret usus mampet amuba
+1804,847,luka borok bernanah abses luar
+1805,848,dahaga lelah letih lesu energi
+1806,848,pencernaan usus kolon prebiotik
+1807,849,energi kuli stunting gizi fisik
+1808,849,AWAS GETAH LENGKET BIBIR GATAL
+1809,850,sariawan stomatitis aftosa kumur
+1810,850,diare usus kram lilit borok
+1811,851,malaria hutan pedalaman plasmodium
+1812,851,panas demam tinggi menggigil
+1813,852,dupa cemas penenang aromaterapi
+1814,852,pengawet mayat antiseptik (TOKSIK ORAL)
+1815,853,linu tulang sendi rematik urat
+1816,853,stamina pria obat kuat lumbago
+1817,854,dupa spiritual meditasi penenang
+1818,854,asma bronkus paru udara bersih
+1819,855,permen karet alam maag gerd lambung
+1820,855,pelapis borok usus asam hcl netral
+1821,856,anti nyamuk serangga uap dupa
+1822,856,asma sesak dada pelega (asap)
+1823,857,disentri darah amuba mencret mampet
+1824,857,demam panas tinggi udem bengkak air
+1825,858,gatal kulit kurap kudis eksim (luar)
+1826,858,bisul nanah radang abses (luar)
+1827,859,diare usus amuba disentri basiler
+1828,859,asma bronkitis paru dahak lendir
+1829,860,radang gusi bengkak gigi goyah linu
+1830,860,sariawan mulut kumur air rebus
+1831,861,keringat panas demam tinggi asidosis
+1832,861,nyeri otot rangka pegal linu
+1833,862,rambut botak rontok uban akar folikel (luar)
+1834,862,udem bengkak air kaki sendi (luar)
+1835,863,luka borok bernanah abses luar
+1836,863,diare mencret kram perut usus lilit
+1837,864,diabetes kencing manis gula darah turun
+1838,864,disentri amuba radang kolon usus
+1839,865,jantung debar takikardi cemas panik ssp
+1840,865,asma pernapasan bronkus mukolitik dahak
+1841,866,demam panas tinggi anak keringat pori
+1842,866,luka memar lebam darah stasis (luar)
+1843,867,darah nifas rahim kotor ibu melahirkan
+1844,867,disentri mampet usus diare mencret
+1845,868,depresi stres kortisol uap aromaterapi
+1846,868,asma sesak napas bronkus dahak kental
+1847,869,bibir pecah kering kulit melembabkan luar
+1848,869,luka potong berdarah hemostatik beku lem
+1849,870,disentri usus amuba darah mampet
+1850,870,diare mencret kram perut usus lilit
+1851,871,batuk dahak paru lendir kental mukolitik
+1852,871,sariawan gusi radang mulut stomatitis
+1853,872,plester luka nanah borok kaki abses (getah)
+1854,872,antiseptik antibakteri kulit gatal (luar)
+1855,873,sakit perut kolik kram usus melilit angin
+1856,873,diare amuba mampet mencret cair
+1857,874,kutil jamur kulit kadas kurap (getah luar)
+1858,874,borok nanah luka infeksi basah (luar)
+1859,875,mencret diare parah usus kram lilit
+1860,875,pewarna merah kain alam tannin astringen
+1861,876,ginjal cuci urin batu kristal urat peluruh
+1862,876,disentri berdarah lendir amuba mencret
+1863,877,diare mencret amuba disentri astringen kuat
+1864,877,radang lambung maag gaster borok perih
+1865,878,bisul nanah radang abses tarik kotoran (luar)
+1866,878,luka berdarah robek potong hemostatik (luar)
+1867,879,diabetes kencing manis gula darah turun tajam
+1868,879,AWAS LIVER HATI RUSAK DOSIS TINGGI LAMA
+1869,880,lambung gaster borok maag perih antasida alam
+1870,880,SANGAT AMAN LIVER KUMARIN RENDAH DIABETES
+1871,881,rematik linu sendi tulang pegal otot asam urat
+1872,881,perut kembung gas kolik masuk angin usus hangat
+1873,882,kolik perut kembung mual muntah anti emetik
+1874,882,pusing pening sakit kepala sefalgi jamu
+1875,883,jantung koroner darah kental trombus encer
+1876,883,lemak nabati antioksidan hdl ldl kolesterol
+1877,884,kolesterol jahat ldl plak pembuluh arteri turun
+1878,884,kulit rambut folikel awet muda lemak sehat otak
+1879,885,energi atp jantung asma napas bronkodilator gym
+1880,885,AWAS ASAM LAMBUNG MAAG JANTUNG DEBAR KAFEIN TINGGI
+1881,886,kantuk malam hari stimulan ssp fokus kerja kerja
+1882,886,metabolisme lipolisis bakar lemak kardio gym olahraga
+1883,887,angin usus kembung kram lilit enzim saliva lambung
+1884,887,AWAS MAAG PERIH LAMBUNG INTERAKSI OBAT DOKTER OVERDOSIS
+1885,888,dahak asma bronkitis paru lendir kental mukolitik sesak
+1886,888,panas demam diuretik ginjal keringat asidosis
+1887,889,asam urat sendi lutut linu kristal luruh urin
+1888,889,nyeri tulang pegal linu rematik encok pinggang bawah
+1889,890,panu kurap kadas jamur kulit kutu air (luar)
+1890,890,bumbu gulai antibakteri sendi memar balsem
+1891,891,bakar lemak perut visceral diet obesitas gym termogenesis
+1892,891,AWAS MAAG ULKUS BERDARAH LAMBUNG JIKA OVER PEDAS PANAS
+1893,892,bau badan ketiak keringat apokrin wangi napas mulut
+1894,892,sariawan amandel radang lambung kolesterol usus
+1895,893,kolesterol ldl trigliserida darah tinggi hipertensi turun
+1896,893,sirkulasi darah vena arteri jantung trombus encer
+1897,894,keputihan rahim bau jamur candida leukore gatal bersih
+1898,894,darah nifas haid lancar kram perut panggul nyeri dilarang hamil
+1899,895,disentri parah amuba mencret diare mampet usus panas
+1900,895,panas dalam sariawan asidosis demam suhu turun
+1901,896,anemia darah kurang tajam hemoglobin zat besi tinggi
+1902,896,stamina fisik lelah letih lesu pucat pusing atp
+1903,897,ginjal bengkak udem air kaki diuretik peluruh kencing kotor
+1904,897,infeksi saluran kemih kandung kencing bakteri mati
+1905,898,batu kencing ginjal urat kalsium kristal lisis uretra peluruh
+1906,898,nyeri haid kram perut panggul darah buntu lancar
+1907,899,asma bronkitis dahak paru lendir kental encer mukolitik
+1908,899,AWAS DURI SENGAT GATAL HEWAN RONTOK BULU MIMOSIN
+1909,900,batuk darah tbc paru alveolus pecah hemostatik kapiler
+1910,900,luka memar lebam bengkak darah stasis biru (luar)
+1911,901,bumbu
+1912,901,beracun mentah
+1913,902,imun
+1914,902,demam
+1915,903,panas dalam
+1916,903,tipes
+1917,904,cacing usus
+1918,904,nafsu makan
+1919,905,bisul luar
+1920,905,beracun oral
+1921,906,panu luar
+1922,906,beracun oral
+1923,907,luka luar
+1924,907,ph air
+1925,908,malaria
+1926,908,diare
+1927,909,asma
+1928,909,linu
+1929,910,asam urat
+1930,910,diuretik
+1931,911,maag
+1932,911,energi
+1933,912,darah kotor
+1934,912,batuk
+1935,913,lambung
+1936,913,diabetes
+1937,914,kesuburan
+1938,914,ibu hamil
+1939,915,diare
+1940,915,sariawan
+1941,916,rematik
+1942,916,cacingan
+1943,917,luka bakar
+1944,917,bisa laut
+1945,918,luka robek
+1946,918,diare
+1947,919,sariawan
+1948,919,bumbu
+1949,920,mulas
+1950,920,pewarna
+1951,921,kolera
+1952,921,disentri
+1953,922,luka infeksi
+1954,922,abses
+1955,923,sakit perut
+1956,923,tensi turun
+1957,924,beracun fatal
+1958,924,mata buta
+1959,925,pendarahan
+1960,925,luka
+1961,926,asma
+1962,926,wasir
+1963,927,masuk angin
+1964,927,rematik
+1965,928,nifas
+1966,928,pendarahan
+1967,929,demam anak
+1968,929,sariawan
+1969,930,asma
+1970,930,dilindungi
+1971,931,diabetes
+1972,931,asam urat
+1973,932,cemas
+1974,932,stres
+1975,933,kencing nanah
+1976,933,rematik
+1977,934,racun alergi
+1978,934,dehidrasi
+1979,935,lambung gerd
+1980,935,panas dalam
+1981,936,panas dalam
+1982,936,pakan sapi
+1983,937,batu ginjal
+1984,937,kencing kotor
+1985,938,sampo alam
+1986,938,beracun minum
+1987,939,malaria
+1988,939,demam
+1989,940,maag
+1990,940,lambung
+1991,941,bisa ular
+1992,941,beracun oral
+1993,942,panas dalam
+1994,942,maag
+1995,943,demam
+1996,943,amandel
+1997,944,luka robek
+1998,944,beracun liver
+1999,945,bengkak sendi
+2000,945,beracun oral
+2001,946,keseleo parah
+2002,946,beracun oral
+2003,947,demam
+2004,947,pusing
+2005,948,encok pinggang
+2006,948,awas melepuh
+2007,949,tulang retak
+2008,949,luka dalam
+2009,950,bau badan
+2010,950,keputihan
+2011,951,luka operasi
+2012,951,maag borok
+2013,952,diabetes akut
+2014,952,cacing usus
+2015,953,asma paru
+2016,953,cuci darah
+2017,954,tensi turun instan
+2018,954,lambung panas
+2019,955,amandel
+2020,955,panas dalam
+2021,956,batu urat
+2022,956,awas diare
+2023,957,mata bengkak
+2024,957,eksim
+2025,958,tipes
+2026,958,paru perokok
+2027,959,gula darah
+2028,959,pencernaan
+2029,960,demam
+2030,960,lambung
+2031,961,malaria
+2032,961,dbd
+2033,962,adaptogen
+2034,962,kolesterol
+2035,963,pendarahan dalam
+2036,963,luka
+2037,964,energi paru
+2038,964,pencernaan
+2039,965,imun telomer
+2040,965,jantung
+2041,966,hormon haid
+2042,966,kram panggul
+2043,967,kram usus
+2044,967,radang sendi
+2045,968,maag gerd
+2046,968,prebiotik
+2047,969,sifilis
+2048,969,jerawat darah kotor
+2049,970,rematik sendi
+2050,970,asam urat
+2051,971,psoriasis
+2052,971,eksim
+2053,972,ginjal
+2054,972,bau urin normal
+2055,973,darah tinggi
+2056,973,kolesterol
+2057,974,flu asma
+2058,974,sirkulasi
+2059,975,asma
+2060,975,jantung
+2061,976,memori otak
+2062,976,nafsu makan
+2063,977,kista miom
+2064,977,kanker
+2065,978,stamina pria
+2066,978,awas debar
+2067,979,nyeri sendi
+2068,979,asma
+2069,980,kolesterol perut
+2070,980,kembung
+2071,981,bau mulut
+2072,981,kembung
+2073,982,penenang gaba
+2074,982,berbahaya liver
+2075,983,bioenhancer
+2076,983,awas overdosis
+2077,984,gula darah
+2078,984,bumbu wangi
+2079,985,rematik
+2080,985,masuk angin
+2081,986,asam urat
+2082,986,kolesterol ldl
+2083,987,diare mampet
+2084,987,sariawan
+2085,988,tensi turun
+2086,988,kolesterol
+2087,989,anemia hb
+2088,989,energi
+2089,990,disentri
+2090,990,bisul
+2091,991,luka darah
+2092,991,infeksi kulit
+2093,992,sariawan
+2094,992,panas dalam
+2095,993,radang mata
+2096,993,awas air kotor
+2097,994,diare mampet
+2098,994,pewarna biru
+2099,995,cacingan
+2100,995,malaria
+2101,996,demam rawa
+2102,996,wangi ssp
+2103,997,darah kotor
+2104,997,jerawat
+2105,998,sakit gigi
+2106,998,sariawan
+2107,999,hipertensi
+2108,999,asam urat
+2109,1000,kembung
+2110,1000,maag gerd
